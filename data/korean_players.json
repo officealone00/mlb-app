@@ -5,144 +5,104 @@
     "krName": "이정후",
     "type": "korean",
     "position": "OF",
-    "teamId": 137,
     "teamAbbr": "SF",
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 23,
-        "atBats": 81,
-        "hits": 21,
-        "homeRuns": 1,
-        "rbi": 9,
-        "stolenBases": 2,
-        "avg": ".259",
-        "obp": ".322",
-        "slg": ".370",
-        "ops": ".692"
+        "games": 28,
+        "atBats": 99,
+        "hits": 31,
+        "homeRuns": 2,
+        "rbi": 10,
+        "stolenBases": 0,
+        "avg": ".313",
+        "obp": ".358",
+        "slg": ".475",
+        "ops": ".833"
       },
       "pitching": null
     }
   },
   {
-    "playerId": 808967,
+    "playerId": 808975,
     "enName": "Hyeseong Kim",
     "krName": "김혜성",
     "type": "korean",
     "position": "IF",
-    "teamId": 119,
     "teamAbbr": "LAD",
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 12,
-        "atBats": 27,
-        "hits": 9,
+        "games": 18,
+        "atBats": 45,
+        "hits": 15,
         "homeRuns": 1,
-        "rbi": 3,
-        "stolenBases": 3,
+        "rbi": 7,
+        "stolenBases": 5,
         "avg": ".333",
-        "obp": ".400",
-        "slg": ".556",
-        "ops": ".956"
+        "obp": ".404",
+        "slg": ".444",
+        "ops": ".848"
       },
       "pitching": null
     }
   },
   {
-    "playerId": 543135,
+    "playerId": 641540,
     "enName": "Dane Dunning",
     "krName": "데인 더닝",
     "type": "korean_heritage",
     "position": "P",
-    "teamId": 136,
     "teamAbbr": "SEA",
     "teamKrName": "시애틀",
     "stats": {
       "hitting": null,
-      "pitching": {
-        "wins": 2,
-        "losses": 1,
-        "era": "3.45",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "inningsPitched": "28.2",
-        "strikeouts": 24,
-        "whip": "1.21",
-        "saves": 0
-      }
+      "pitching": null
     }
   },
   {
-    "playerId": 663878,
+    "playerId": 676617,
     "enName": "Riley O'Brien",
     "krName": "라일리 오브라이언",
     "type": "korean_heritage",
     "position": "P",
-    "teamId": 138,
     "teamAbbr": "STL",
     "teamKrName": "세인트루이스",
     "stats": {
       "hitting": null,
       "pitching": {
-        "wins": 1,
-        "losses": 0,
-        "era": "2.84",
-        "gamesPlayed": 12,
+        "wins": 3,
+        "losses": 1,
+        "era": "1.26",
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "inningsPitched": "12.2",
-        "strikeouts": 14,
-        "whip": "1.05",
-        "saves": 1
+        "inningsPitched": "14.1",
+        "strikeouts": 16,
+        "whip": "0.77",
+        "saves": 7
       }
     }
   },
   {
-    "playerId": 663656,
-    "enName": "Jamai Jones",
-    "krName": "저마이 존스",
-    "type": "korean_heritage",
-    "position": "OF",
-    "teamId": 116,
-    "teamAbbr": "DET",
-    "teamKrName": "디트로이트",
-    "stats": {
-      "hitting": {
-        "games": 18,
-        "atBats": 52,
-        "hits": 14,
-        "homeRuns": 3,
-        "rbi": 11,
-        "stolenBases": 1,
-        "avg": ".269",
-        "obp": ".339",
-        "slg": ".481",
-        "ops": ".820"
-      },
-      "pitching": null
-    }
-  },
-  {
-    "playerId": 700022,
+    "playerId": 694376,
     "enName": "Shay Whitcomb",
     "krName": "셰이 위트컴",
     "type": "korean_heritage",
     "position": "IF",
-    "teamId": 117,
     "teamAbbr": "HOU",
     "teamKrName": "휴스턴",
     "stats": {
       "hitting": {
-        "games": 15,
-        "atBats": 42,
-        "hits": 10,
-        "homeRuns": 2,
-        "rbi": 7,
-        "stolenBases": 1,
-        "avg": ".238",
-        "obp": ".302",
-        "slg": ".429",
-        "ops": ".731"
+        "games": 7,
+        "atBats": 10,
+        "hits": 1,
+        "homeRuns": 1,
+        "rbi": 3,
+        "stolenBases": 0,
+        "avg": ".100",
+        "obp": ".182",
+        "slg": ".400",
+        "ops": ".582"
       },
       "pitching": null
     }
