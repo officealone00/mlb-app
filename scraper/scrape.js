@@ -1,5 +1,9 @@
 /**
- * MLB 스크래퍼 v1.0
+ * MLB 스크래퍼 v1.1
+ *
+ * v1.1 변경사항:
+ *   - 'Jamai Jones' → 'Jahmai Jones' (실제 영문명 수정)
+ *   - teamId fallback 처리 (undefined로 JSON에서 빠지는 문제 수정)
  *
  * MLB Stats API (statsapi.mlb.com) 사용
  * - 공식 API, 인증 불필요
@@ -75,7 +79,7 @@ const KOREAN_PLAYERS_QUERY = [
   { searchName: 'Hyeseong Kim',     krName: '김혜성',      type: 'korean',        teamHint: 119, position: 'IF' },
   { searchName: 'Dane Dunning',     krName: '데인 더닝',   type: 'korean_heritage', teamHint: 136, position: 'P' },
   { searchName: "Riley O'Brien",    krName: '라일리 오브라이언', type: 'korean_heritage', teamHint: 138, position: 'P' },
-  { searchName: 'Jamai Jones',      krName: '저마이 존스', type: 'korean_heritage', teamHint: 116, position: 'OF' },
+  { searchName: 'Jahmai Jones',     krName: '저마이 존스', type: 'korean_heritage', teamHint: 116, position: 'OF' },
   { searchName: 'Shay Whitcomb',    krName: '셰이 위트컴', type: 'korean_heritage', teamHint: 117, position: 'IF' },
 ];
 
@@ -283,7 +287,9 @@ async function fetchKoreanPlayers() {
 
     const stats = await fetchPlayerStats(found.id);
     const currentTeam = found.currentTeam?.id;
-    const teamMeta = TEAM_BY_ID[currentTeam] || TEAM_BY_ID[player.teamHint];
+    // teamId 폴백: 현재 팀 → teamHint → 기본값 0
+    const playerTeamId = currentTeam ?? player.teamHint ?? 0;
+    const teamMeta = TEAM_BY_ID[playerTeamId];
 
     result.push({
       playerId: found.id,
@@ -291,7 +297,7 @@ async function fetchKoreanPlayers() {
       krName: player.krName,
       type: player.type, // korean | korean_heritage
       position: player.position,
-      teamId: currentTeam,
+      teamId: playerTeamId,
       teamAbbr: teamMeta?.abbr || '?',
       teamKrName: teamMeta?.kr || '?',
       stats: stats || { hitting: null, pitching: null },
