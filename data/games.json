@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824446,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-27T22:10:00Z",
       "home": {
         "teamId": 114,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823395,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-27T22:40:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 0,
+        "score": 1,
         "wins": 16,
         "losses": 12
       },
@@ -50,8 +50,8 @@
     },
     {
       "gameId": 822825,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-04-27T23:07:00Z",
       "home": {
         "teamId": 141,
@@ -144,14 +144,14 @@
     },
     {
       "gameId": 823311,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-28T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 18,
         "losses": 9
       },
@@ -159,7 +159,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 11
       },
@@ -167,8 +167,8 @@
     },
     {
       "gameId": 823961,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-28T02:10:00Z",
       "home": {
         "teamId": 119,
