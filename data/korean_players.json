@@ -5,6 +5,7 @@
     "krName": "이정후",
     "type": "korean",
     "position": "OF",
+    "teamId": 137,
     "teamAbbr": "SF",
     "teamKrName": "샌프란시스코",
     "stats": {
@@ -29,6 +30,7 @@
     "krName": "김혜성",
     "type": "korean",
     "position": "IF",
+    "teamId": 119,
     "teamAbbr": "LAD",
     "teamKrName": "LA 다저스",
     "stats": {
@@ -53,6 +55,7 @@
     "krName": "데인 더닝",
     "type": "korean_heritage",
     "position": "P",
+    "teamId": 136,
     "teamAbbr": "SEA",
     "teamKrName": "시애틀",
     "stats": {
@@ -66,6 +69,7 @@
     "krName": "라일리 오브라이언",
     "type": "korean_heritage",
     "position": "P",
+    "teamId": 138,
     "teamAbbr": "STL",
     "teamKrName": "세인트루이스",
     "stats": {
@@ -84,11 +88,37 @@
     }
   },
   {
+    "playerId": 663330,
+    "enName": "Jahmai Jones",
+    "krName": "저마이 존스",
+    "type": "korean_heritage",
+    "position": "OF",
+    "teamId": 116,
+    "teamAbbr": "DET",
+    "teamKrName": "디트로이트",
+    "stats": {
+      "hitting": {
+        "games": 17,
+        "atBats": 30,
+        "hits": 7,
+        "homeRuns": 2,
+        "rbi": 5,
+        "stolenBases": 0,
+        "avg": ".233",
+        "obp": ".258",
+        "slg": ".467",
+        "ops": ".725"
+      },
+      "pitching": null
+    }
+  },
+  {
     "playerId": 694376,
     "enName": "Shay Whitcomb",
     "krName": "셰이 위트컴",
     "type": "korean_heritage",
     "position": "IF",
+    "teamId": 117,
     "teamAbbr": "HOU",
     "teamKrName": "휴스턴",
     "stats": {

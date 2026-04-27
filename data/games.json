@@ -44,7 +44,9 @@
         "wins": 14,
         "losses": 13
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        138
+      ]
     },
     {
       "gameId": 822825,
@@ -90,7 +92,9 @@
         "wins": 14,
         "losses": 15
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        136
+      ]
     },
     {
       "gameId": 824609,
@@ -182,7 +186,9 @@
         "wins": 13,
         "losses": 15
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        119
+      ]
     }
   ],
   "yesterday": [
@@ -276,7 +282,9 @@
         "wins": 15,
         "losses": 14
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        116
+      ]
     },
     {
       "gameId": 823635,
@@ -391,7 +399,9 @@
         "wins": 18,
         "losses": 10
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        117
+      ]
     },
     {
       "gameId": 823797,
@@ -437,7 +447,10 @@
         "wins": 14,
         "losses": 15
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        138,
+        136
+      ]
     },
     {
       "gameId": 822911,
@@ -506,7 +519,9 @@
         "wins": 13,
         "losses": 15
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        137
+      ]
     },
     {
       "gameId": 824122,
@@ -552,7 +567,9 @@
         "wins": 17,
         "losses": 11
       },
-      "koreanPlayerTeams": []
+      "koreanPlayerTeams": [
+        119
+      ]
     }
   ]
 }
