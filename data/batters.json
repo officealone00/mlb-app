@@ -1,0 +1,22 @@
+{
+  "avg": [
+    { "rank": 1, "playerId": 660271, "playerName": "Aaron Judge", "teamId": 147, "teamAbbr": "NYY", "value": ".362" },
+    { "rank": 2, "playerId": 808967, "playerName": "Hyeseong Kim", "teamId": 119, "teamAbbr": "LAD", "value": ".333" },
+    { "rank": 3, "playerId": 660670, "playerName": "Ronald Acuña Jr.", "teamId": 144, "teamAbbr": "ATL", "value": ".325" },
+    { "rank": 4, "playerId": 665742, "playerName": "Juan Soto", "teamId": 121, "teamAbbr": "NYM", "value": ".318" },
+    { "rank": 5, "playerId": 660670, "playerName": "Mookie Betts", "teamId": 119, "teamAbbr": "LAD", "value": ".310" }
+  ],
+  "hr": [
+    { "rank": 1, "playerId": 660271, "playerName": "Aaron Judge", "teamId": 147, "teamAbbr": "NYY", "value": "12" },
+    { "rank": 2, "playerId": 660670, "playerName": "Shohei Ohtani", "teamId": 119, "teamAbbr": "LAD", "value": "11" },
+    { "rank": 3, "playerId": 665742, "playerName": "Juan Soto", "teamId": 121, "teamAbbr": "NYM", "value": "10" }
+  ],
+  "rbi": [
+    { "rank": 1, "playerId": 660271, "playerName": "Aaron Judge", "teamId": 147, "teamAbbr": "NYY", "value": "30" },
+    { "rank": 2, "playerId": 660670, "playerName": "Shohei Ohtani", "teamId": 119, "teamAbbr": "LAD", "value": "28" }
+  ],
+  "sb": [
+    { "rank": 1, "playerId": 660670, "playerName": "Elly De La Cruz", "teamId": 113, "teamAbbr": "CIN", "value": "12" },
+    { "rank": 2, "playerId": 808967, "playerName": "Hyeseong Kim", "teamId": 119, "teamAbbr": "LAD", "value": "3" }
+  ]
+}

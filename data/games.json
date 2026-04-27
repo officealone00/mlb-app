@@ -1,0 +1,10 @@
+{
+  "today": [
+    { "gameId": 779001, "status": "Scheduled", "statusCode": "S", "startTime": "2026-04-27T17:05:00Z", "home": { "teamId": 137, "abbr": "SF", "kr": "샌프란시스코", "score": null, "wins": 10, "losses": 13 }, "away": { "teamId": 119, "abbr": "LAD", "kr": "LA 다저스", "score": null, "wins": 16, "losses": 7 }, "koreanPlayerTeams": [137, 119] },
+    { "gameId": 779002, "status": "Scheduled", "statusCode": "S", "startTime": "2026-04-27T18:00:00Z", "home": { "teamId": 147, "abbr": "NYY", "kr": "뉴욕 양키스", "score": null, "wins": 15, "losses": 8 }, "away": { "teamId": 139, "abbr": "TB", "kr": "탬파베이", "score": null, "wins": 13, "losses": 10 }, "koreanPlayerTeams": [] }
+  ],
+  "yesterday": [
+    { "gameId": 778901, "status": "Final", "statusCode": "F", "startTime": "2026-04-26T17:05:00Z", "home": { "teamId": 137, "abbr": "SF", "kr": "샌프란시스코", "score": 3, "wins": 10, "losses": 13 }, "away": { "teamId": 119, "abbr": "LAD", "kr": "LA 다저스", "score": 1, "wins": 16, "losses": 7 }, "koreanPlayerTeams": [137, 119] },
+    { "gameId": 778902, "status": "Final", "statusCode": "F", "startTime": "2026-04-26T18:00:00Z", "home": { "teamId": 116, "abbr": "DET", "kr": "디트로이트", "score": 5, "wins": 14, "losses": 9 }, "away": { "teamId": 145, "abbr": "CWS", "kr": "시카고 화이트삭스", "score": 2, "wins": 7, "losses": 16 }, "koreanPlayerTeams": [116] }
+  ]
+}

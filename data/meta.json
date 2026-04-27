@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-04-27T00:00:00.000Z",
+  "season": 2026,
+  "durationMs": 0,
+  "errors": [],
+  "counts": {
+    "standings": 30,
+    "koreanPlayers": 6,
+    "gamesToday": 2,
+    "gamesYesterday": 2
+  },
+  "note": "씨드 데이터입니다. GitHub Actions 첫 실행 후 실제 데이터로 자동 갱신됩니다."
+}

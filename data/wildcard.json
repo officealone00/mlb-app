@@ -1,0 +1,15 @@
+{
+  "AL": [
+    { "teamId": 139, "abbr": "TB", "name": "Tampa Bay Rays", "krName": "탬파베이", "league": "AL", "division": "East", "wins": 13, "losses": 10, "winningPct": 0.565, "wildCardRank": 1, "inWildCard": true },
+    { "teamId": 114, "abbr": "CLE", "name": "Cleveland Guardians", "krName": "클리블랜드", "league": "AL", "division": "Central", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 2, "inWildCard": true },
+    { "teamId": 142, "abbr": "MIN", "name": "Minnesota Twins", "krName": "미네소타", "league": "AL", "division": "Central", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 3, "inWildCard": true },
+    { "teamId": 111, "abbr": "BOS", "name": "Boston Red Sox", "krName": "보스턴", "league": "AL", "division": "East", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 4, "inWildCard": false },
+    { "teamId": 140, "abbr": "TEX", "name": "Texas Rangers", "krName": "텍사스", "league": "AL", "division": "West", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 5, "inWildCard": false }
+  ],
+  "NL": [
+    { "teamId": 135, "abbr": "SD", "name": "San Diego Padres", "krName": "샌디에이고", "league": "NL", "division": "West", "wins": 16, "losses": 7, "winningPct": 0.696, "wildCardRank": 1, "inWildCard": true },
+    { "teamId": 121, "abbr": "NYM", "name": "New York Mets", "krName": "뉴욕 메츠", "league": "NL", "division": "East", "wins": 13, "losses": 10, "winningPct": 0.565, "wildCardRank": 2, "inWildCard": true },
+    { "teamId": 158, "abbr": "MIL", "name": "Milwaukee Brewers", "krName": "밀워키", "league": "NL", "division": "Central", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 3, "inWildCard": true },
+    { "teamId": 143, "abbr": "PHI", "name": "Philadelphia Phillies", "krName": "필라델피아", "league": "NL", "division": "East", "wins": 12, "losses": 11, "winningPct": 0.522, "wildCardRank": 4, "inWildCard": false }
+  ]
+}
