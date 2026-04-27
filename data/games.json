@@ -80,7 +80,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 12,
         "losses": 16
       },
@@ -88,7 +88,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 15
       },
@@ -105,7 +105,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 11,
         "losses": 17
       },
@@ -113,7 +113,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 12,
         "losses": 17
       },
@@ -121,14 +121,14 @@
     },
     {
       "gameId": 822906,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-28T00:05:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 14
       },
@@ -136,7 +136,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 18,
         "losses": 10
       },
