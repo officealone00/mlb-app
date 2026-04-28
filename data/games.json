@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824447,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-28T22:10:00Z",
       "home": {
         "teamId": 114,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824849,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-28T22:35:00Z",
       "home": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 2,
         "wins": 13,
         "losses": 15
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 824526,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-28T22:40:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": 0,
+        "score": 3,
         "wins": 18,
         "losses": 10
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823390,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-28T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -88,7 +88,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 13
       },
@@ -98,8 +98,8 @@
     },
     {
       "gameId": 823473,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-28T22:40:00Z",
       "home": {
         "teamId": 143,
@@ -123,8 +123,8 @@
     },
     {
       "gameId": 822823,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-04-28T23:07:00Z",
       "home": {
         "teamId": 141,
@@ -146,8 +146,8 @@
     },
     {
       "gameId": 823636,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-04-28T23:10:00Z",
       "home": {
         "teamId": 121,
@@ -169,8 +169,8 @@
     },
     {
       "gameId": 824931,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-04-28T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -288,14 +288,14 @@
     },
     {
       "gameId": 825017,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-29T01:40:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 13
       },
@@ -303,7 +303,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 11,
         "losses": 17
       },
@@ -311,14 +311,14 @@
     },
     {
       "gameId": 823310,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-29T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 19,
         "losses": 9
       },
@@ -326,7 +326,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 12
       },
@@ -334,8 +334,8 @@
     },
     {
       "gameId": 823956,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-04-29T02:10:00Z",
       "home": {
         "teamId": 119,
