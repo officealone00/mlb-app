@@ -227,7 +227,7 @@
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
         "score": null,
-        "wins": 11,
+        "wins": 12,
         "losses": 17
       },
       "away": {
@@ -236,7 +236,7 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 12,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": []
     },
@@ -319,7 +319,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 18,
+        "wins": 19,
         "losses": 9
       },
       "away": {
@@ -328,7 +328,7 @@
         "kr": "시카고 컵스",
         "score": null,
         "wins": 17,
-        "losses": 11
+        "losses": 12
       },
       "koreanPlayerTeams": []
     },
@@ -342,7 +342,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 19,
+        "wins": 20,
         "losses": 9
       },
       "away": {
@@ -351,7 +351,7 @@
         "kr": "마이애미",
         "score": null,
         "wins": 13,
-        "losses": 15
+        "losses": 16
       },
       "koreanPlayerTeams": [
         119
@@ -457,24 +457,24 @@
     },
     {
       "gameId": 824609,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-04-27T23:40:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 1,
-        "wins": 11,
+        "score": 8,
+        "wins": 12,
         "losses": 17
       },
       "away": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 5,
+        "score": 7,
         "wins": 12,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": []
     },
@@ -503,38 +503,38 @@
     },
     {
       "gameId": 823311,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-04-28T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": 9,
-        "wins": 18,
+        "wins": 19,
         "losses": 9
       },
       "away": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 5,
+        "score": 7,
         "wins": 17,
-        "losses": 11
+        "losses": 12
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823961,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-04-28T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 2,
-        "wins": 19,
+        "score": 5,
+        "wins": 20,
         "losses": 9
       },
       "away": {
@@ -543,7 +543,7 @@
         "kr": "마이애미",
         "score": 4,
         "wins": 13,
-        "losses": 15
+        "losses": 16
       },
       "koreanPlayerTeams": [
         119
