@@ -5,7 +5,7 @@ export default defineConfig({
   brand: {
     displayName: "MLB 순위",
     primaryColor: "#002D72", // MLB 공식 네이비
-    icon: "", // 콘솔에서 업로드한 아이콘 URL
+    icon: "https://static.toss.im/appsintoss/24163/a80defc2-ac75-4838-9a3d-49b5232f2748.png", // 콘솔에서 업로드한 아이콘 URL
   },
   web: {
     host: "localhost",
