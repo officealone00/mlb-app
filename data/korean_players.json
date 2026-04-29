@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 29,
-        "atBats": 100,
+        "atBats": 103,
         "hits": 31,
         "homeRuns": 2,
         "rbi": 10,
         "stolenBases": 0,
-        "avg": ".310",
-        "obp": ".355",
-        "slg": ".470",
-        "ops": ".825"
+        "avg": ".301",
+        "obp": ".345",
+        "slg": ".456",
+        "ops": ".801"
       },
       "pitching": null
     }
@@ -35,16 +35,16 @@
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 19,
-        "atBats": 47,
+        "games": 20,
+        "atBats": 49,
         "hits": 15,
         "homeRuns": 1,
         "rbi": 7,
         "stolenBases": 5,
-        "avg": ".319",
-        "obp": ".389",
-        "slg": ".426",
-        "ops": ".815"
+        "avg": ".306",
+        "obp": ".375",
+        "slg": ".408",
+        "ops": ".783"
       },
       "pitching": null
     }
@@ -98,16 +98,16 @@
     "teamKrName": "디트로이트",
     "stats": {
       "hitting": {
-        "games": 17,
-        "atBats": 30,
+        "games": 18,
+        "atBats": 33,
         "hits": 7,
         "homeRuns": 2,
         "rbi": 5,
         "stolenBases": 0,
-        "avg": ".233",
-        "obp": ".258",
-        "slg": ".467",
-        "ops": ".725"
+        "avg": ".212",
+        "obp": ".235",
+        "slg": ".424",
+        "ops": ".659"
       },
       "pitching": null
     }
