@@ -1,40 +1,111 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from 'react';
 
-// ⚠️ 출시 전 반드시 변경:
-// IS_AD_PRODUCTION=true 로 변경
-// PROD_BANNER_ID에 콘솔에서 발급받은 실제 광고 ID 입력
-const IS_AD_PRODUCTION = true;
-const PROD_BANNER_ID = "ait.v2.live.dc318ab8d467422a";
-const TEST_BANNER_ID = "ait.v2.dev.test_banner";
+// ─── 광고 ID 설정 ──────────────────────
+// 앱인토스 콘솔에서 발급받은 실제 배너 광고 ID (MLB 순위)
+const IS_AD_PRODUCTION = true; // 실제 광고 노출 (출시 모드)
+const TEST_BANNER_ID = 'ait-ad-test-banner-id';
+const PROD_BANNER_ID = 'ait.v2.live.dc318ab8d467422a';
+const BANNER_AD_ID = IS_AD_PRODUCTION ? PROD_BANNER_ID : TEST_BANNER_ID;
 
-const BANNER_ID = IS_AD_PRODUCTION ? PROD_BANNER_ID : TEST_BANNER_ID;
+// ─── TossAds 초기화 (1회만) ──────────────
+let _tossAdsReady: Promise<boolean> | null = null;
+function initTossAds(): Promise<boolean> {
+  if (_tossAdsReady) return _tossAdsReady;
+  _tossAdsReady = new Promise(async (resolve) => {
+    try {
+      const { TossAds } = await import('@apps-in-toss/web-framework');
+      if (
+        !TossAds?.initialize?.isSupported?.() ||
+        !TossAds?.attachBanner?.isSupported?.()
+      ) {
+        resolve(false);
+        return;
+      }
+      TossAds.initialize({
+        callbacks: {
+          onInitialized: () => resolve(true),
+          onInitializationFailed: () => resolve(false),
+        },
+      });
+      setTimeout(() => resolve(false), 5000);
+    } catch {
+      resolve(false);
+    }
+  });
+  return _tossAdsReady;
+}
 
-export function BannerAd() {
-  const ref = useRef<HTMLDivElement>(null);
+interface BannerAdProps {
+  style?: React.CSSProperties;
+  className?: string;
+}
+
+/**
+ * 배너 광고 (앱인토스 TossAds API)
+ * - SDK 초기화 후 attachBanner로 DOM에 부착
+ * - 광고 노출 실패 시 자동으로 영역 숨김 (return null)
+ */
+export function BannerAd({ style, className = '' }: BannerAdProps) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [adLoaded, setAdLoaded] = useState(false);
+  const [adFailed, setAdFailed] = useState(false);
 
   useEffect(() => {
-    if (!ref.current) return;
-    try {
-      // 앱인토스 광고 SDK는 빌드 시 주입됨
-      // @ts-ignore
-      if (typeof window !== "undefined" && window.AppsInToss?.showBannerAd) {
-        // @ts-ignore
-        window.AppsInToss.showBannerAd({
-          adUnitId: BANNER_ID,
-          element: ref.current,
-        });
+    if (!containerRef.current) return;
+    let cancelled = false;
+    const el = containerRef.current;
+
+    (async () => {
+      const ok = await initTossAds();
+      if (cancelled || !el) return;
+      if (!ok) {
+        setAdFailed(true);
+        return;
       }
-    } catch (err) {
-      console.warn("[BannerAd] 광고 표시 실패:", err);
-    }
+
+      try {
+        const { TossAds } = await import('@apps-in-toss/web-framework');
+        TossAds.attachBanner(BANNER_AD_ID, el, {
+          theme: 'auto',
+          tone: 'grey',
+          variant: 'card',
+          callbacks: {
+            onAdRendered: () => {
+              if (!cancelled) setAdLoaded(true);
+            },
+            onNoFill: () => {
+              if (!cancelled) setAdFailed(true);
+            },
+            onAdFailedToRender: () => {
+              if (!cancelled) setAdFailed(true);
+            },
+          },
+        });
+        if (!cancelled) setAdLoaded(true);
+      } catch (e) {
+        console.warn('[BannerAd] attach 실패:', e);
+        if (!cancelled) setAdFailed(true);
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
+
+  if (adFailed) return null;
 
   return (
     <div
-      ref={ref}
-      className="my-3 w-full min-h-[60px] flex items-center justify-center bg-gray-100 rounded-lg text-xs text-gray-400"
-    >
-      {!IS_AD_PRODUCTION && "광고 영역 (개발 모드)"}
-    </div>
+      ref={containerRef}
+      className={className}
+      style={{
+        width: '100%',
+        minHeight: adLoaded ? 96 : 0,
+        overflow: 'hidden',
+        borderRadius: 14,
+        ...style,
+      }}
+    />
   );
 }

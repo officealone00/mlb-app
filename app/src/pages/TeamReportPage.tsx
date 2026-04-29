@@ -5,7 +5,7 @@ import { TEAM_BY_ID } from "../data/teams";
 import { TeamBadge } from "../components/TeamBadge";
 import { LoadingSkeleton } from "../components/LoadingSkeleton";
 import { ErrorState } from "../components/ErrorState";
-import { showRewardedAd } from "../components/RewardedAd";
+import RewardedAd from "../components/RewardedAd";
 import { generateTeamReport, TeamReport } from "../utils/teamAnalytics";
 import { getFavoriteTeam } from "../utils/storage";
 import { ChevronLeft, Lock, Sparkles } from "lucide-react";
@@ -14,6 +14,7 @@ export function TeamReportPage() {
   const navigate = useNavigate();
   const [standings, setStandings] = useState<Standing[] | null>(null);
   const [unlocked, setUnlocked] = useState(false);
+  const [showAd, setShowAd] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
@@ -48,13 +49,18 @@ export function TeamReportPage() {
     return <ErrorState message="리포트를 만들 수 없어요" />;
   }
 
-  const handleUnlock = async () => {
+  const handleUnlock = () => {
     setLoading(true);
-    const rewarded = await showRewardedAd();
+    setShowAd(true);
+  };
+
+  const handleReward = () => {
+    setUnlocked(true);
+  };
+
+  const handleAdClose = () => {
+    setShowAd(false);
     setLoading(false);
-    if (rewarded) {
-      setUnlocked(true);
-    }
   };
 
   return (
@@ -82,6 +88,10 @@ export function TeamReportPage() {
         <ReportLockScreen team={team} loading={loading} onUnlock={handleUnlock} />
       ) : (
         <ReportContent report={report} />
+      )}
+
+      {showAd && (
+        <RewardedAd onReward={handleReward} onClose={handleAdClose} />
       )}
     </div>
   );

@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { MemoryRouter, Routes, Route, useLocation } from "react-router-dom";
 import { Toaster } from "sonner";
 import { BottomNav } from "./components/BottomNav";
@@ -8,19 +8,27 @@ import { KoreanPlayersPage } from "./pages/KoreanPlayersPage";
 import { BattersPage } from "./pages/BattersPage";
 import { GamesPage } from "./pages/GamesPage";
 import { TeamReportPage } from "./pages/TeamReportPage";
-import { showInterstitial } from "./components/InterstitialAd";
+import InterstitialAd from "./components/InterstitialAd";
 import { shouldShowInterstitial } from "./utils/storage";
 
 function InterstitialTracker() {
   const location = useLocation();
+  const [showAd, setShowAd] = useState(false);
 
   useEffect(() => {
     if (shouldShowInterstitial()) {
-      showInterstitial();
+      setShowAd(true);
     }
   }, [location.pathname]);
 
-  return null;
+  if (!showAd) return null;
+
+  return (
+    <InterstitialAd
+      onClose={() => setShowAd(false)}
+      onComplete={() => setShowAd(false)}
+    />
+  );
 }
 
 export default function App() {

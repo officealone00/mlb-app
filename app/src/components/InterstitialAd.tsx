@@ -1,27 +1,110 @@
-// ⚠️ 출시 전 IS_AD_PRODUCTION=true, PROD_INTERSTITIAL_ID 실제 광고 ID로 변경
-const IS_AD_PRODUCTION = true;
-const PROD_INTERSTITIAL_ID = "ait.v2.live.e1414d01c2064ea6";
-const TEST_INTERSTITIAL_ID = "ait.v2.dev.test_interstitial";
+import { useEffect, useState } from 'react';
 
-const INTERSTITIAL_ID = IS_AD_PRODUCTION ? PROD_INTERSTITIAL_ID : TEST_INTERSTITIAL_ID;
+// ─── 광고 ID 설정 ──────────────────────
+// 앱인토스 콘솔에서 발급받은 실제 전면 광고 ID (MLB 순위)
+const IS_AD_PRODUCTION = true; // 실제 광고 노출 (출시 모드)
+const TEST_INTERSTITIAL_ID = 'ait-ad-test-interstitial-id';
+const PROD_INTERSTITIAL_ID = 'ait.v2.live.e1414d01c2064ea6';
+const AD_ID = IS_AD_PRODUCTION ? PROD_INTERSTITIAL_ID : TEST_INTERSTITIAL_ID;
 
-export function showInterstitial(): Promise<void> {
-  return new Promise((resolve) => {
-    try {
-      // @ts-ignore
-      if (typeof window !== "undefined" && window.AppsInToss?.showInterstitialAd) {
-        // @ts-ignore
-        window.AppsInToss.showInterstitialAd({
-          adUnitId: INTERSTITIAL_ID,
-          onClose: () => resolve(),
-          onError: () => resolve(),
+interface Props {
+  onClose: () => void;
+  onComplete: () => void;
+}
+
+/**
+ * 전면 광고 (앱인토스 IntegratedAd v2)
+ * loadFullScreenAd → 'loaded' → showFullScreenAd → 'dismissed' → onComplete
+ * 8초 타임아웃 안전장치 포함 (SDK 응답 없을 때 자동 스킵)
+ */
+export default function InterstitialAd({ onClose, onComplete }: Props) {
+  const [sdkMode, setSdkMode] = useState<string | null>(null);
+
+  useEffect(() => {
+    const cleanups: Array<() => void> = [];
+
+    (async () => {
+      try {
+        const { loadFullScreenAd, showFullScreenAd } = await import(
+          '@apps-in-toss/web-framework'
+        );
+        if (!loadFullScreenAd || !showFullScreenAd) {
+          onComplete();
+          onClose();
+          setSdkMode('skip');
+          return;
+        }
+
+        const rm1 = loadFullScreenAd({
+          options: { adGroupId: AD_ID },
+          onEvent: (event: any) => {
+            if (event?.type !== 'loaded') return;
+            const rm2 = showFullScreenAd({
+              options: { adGroupId: AD_ID },
+              onEvent: (ev: any) => {
+                if (ev?.type === 'dismissed' || ev?.type === 'completed') {
+                  onComplete();
+                  onClose();
+                  setSdkMode('sdk');
+                }
+              },
+              onError: () => {
+                onComplete();
+                onClose();
+                setSdkMode('skip');
+              },
+            });
+            if (rm2) cleanups.push(rm2);
+          },
+          onError: () => {
+            onComplete();
+            onClose();
+            setSdkMode('skip');
+          },
         });
-      } else {
-        resolve();
+        if (rm1) cleanups.push(rm1);
+      } catch {
+        onComplete();
+        onClose();
+        setSdkMode('skip');
       }
-    } catch (err) {
-      console.warn("[InterstitialAd] 광고 표시 실패:", err);
-      resolve();
-    }
-  });
+    })();
+
+    // 8초 안전 타임아웃
+    const t = setTimeout(() => {
+      if (sdkMode === null) {
+        onComplete();
+        onClose();
+        setSdkMode('skip');
+      }
+    }, 8000);
+    cleanups.push(() => clearTimeout(t));
+
+    return () => {
+      cleanups.forEach((fn) => {
+        try {
+          fn();
+        } catch {}
+      });
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  if (sdkMode === 'sdk' || sdkMode === 'skip') return null;
+
+  return (
+    <div
+      style={{
+        position: 'fixed',
+        inset: 0,
+        zIndex: 9999,
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+      }}
+    >
+      <p style={{ color: '#fff', fontSize: 14 }}>잠시만 기다려주세요...</p>
+    </div>
+  );
 }
