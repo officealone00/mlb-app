@@ -214,7 +214,7 @@
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": ".297"
+      "value": ".295"
     },
     {
       "rank": 28,
@@ -284,6 +284,14 @@
     },
     {
       "rank": 6,
+      "playerId": 545361,
+      "playerName": "Mike Trout",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "10"
+    },
+    {
+      "rank": 7,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
@@ -291,7 +299,7 @@
       "value": "10"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 665833,
       "playerName": "Oneil Cruz",
       "teamId": 134,
@@ -299,7 +307,7 @@
       "value": "9"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 683002,
       "playerName": "Gunnar Henderson",
       "teamId": 110,
@@ -307,7 +315,7 @@
       "value": "9"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 571970,
       "playerName": "Max Muncy",
       "teamId": 119,
@@ -315,7 +323,7 @@
       "value": "9"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 656941,
       "playerName": "Kyle Schwarber",
       "teamId": 143,
@@ -323,19 +331,11 @@
       "value": "9"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "9"
-    },
-    {
-      "rank": 12,
-      "playerId": 545361,
-      "playerName": "Mike Trout",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "9"
     },
     {
@@ -614,6 +614,14 @@
     },
     {
       "rank": 17,
+      "playerId": 545361,
+      "playerName": "Mike Trout",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "21"
+    },
+    {
+      "rank": 18,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
@@ -621,7 +629,7 @@
       "value": "21"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -629,7 +637,7 @@
       "value": "20"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -637,7 +645,7 @@
       "value": "20"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -645,7 +653,7 @@
       "value": "20"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 592450,
       "playerName": "Aaron Judge",
       "teamId": 147,
@@ -653,7 +661,7 @@
       "value": "20"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 669003,
       "playerName": "Garrett Mitchell",
       "teamId": 158,
@@ -661,7 +669,7 @@
       "value": "20"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
@@ -669,19 +677,11 @@
       "value": "20"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "20"
-    },
-    {
-      "rank": 25,
-      "playerId": 545361,
-      "playerName": "Mike Trout",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "20"
     },
     {
