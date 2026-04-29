@@ -3,8 +3,8 @@ import { useEffect, useRef } from "react";
 // ⚠️ 출시 전 반드시 변경:
 // IS_AD_PRODUCTION=true 로 변경
 // PROD_BANNER_ID에 콘솔에서 발급받은 실제 광고 ID 입력
-const IS_AD_PRODUCTION = false;
-const PROD_BANNER_ID = "ait.v2.live.PASTE_REAL_BANNER_ID_HERE";
+const IS_AD_PRODUCTION = true;
+const PROD_BANNER_ID = "ait.v2.live.dc318ab8d467422a";
 const TEST_BANNER_ID = "ait.v2.dev.test_banner";
 
 const BANNER_ID = IS_AD_PRODUCTION ? PROD_BANNER_ID : TEST_BANNER_ID;

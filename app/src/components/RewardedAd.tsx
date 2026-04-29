@@ -1,6 +1,6 @@
 // ⚠️ 출시 전 IS_AD_PRODUCTION=true, PROD_REWARDED_ID 실제 광고 ID로 변경
-const IS_AD_PRODUCTION = false;
-const PROD_REWARDED_ID = "ait.v2.live.PASTE_REAL_REWARDED_ID_HERE";
+const IS_AD_PRODUCTION = true;
+const PROD_REWARDED_ID = "ait.v2.live.61ca6b03f81d42d3";
 const TEST_REWARDED_ID = "ait.v2.dev.test_rewarded";
 
 const REWARDED_ID = IS_AD_PRODUCTION ? PROD_REWARDED_ID : TEST_REWARDED_ID;
