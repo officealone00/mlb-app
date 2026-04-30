@@ -22,7 +22,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".353"
+      "value": ".356"
     },
     {
       "rank": 4,
@@ -42,6 +42,14 @@
     },
     {
       "rank": 6,
+      "playerId": 669127,
+      "playerName": "Shea Langeliers",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": ".328"
+    },
+    {
+      "rank": 7,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
@@ -49,7 +57,7 @@
       "value": ".328"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -57,19 +65,11 @@
       "value": ".327"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 645277,
       "playerName": "Ozzie Albies",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".323"
-    },
-    {
-      "rank": 9,
-      "playerId": 669127,
-      "playerName": "Shea Langeliers",
-      "teamId": 133,
-      "teamAbbr": "ATH",
       "value": ".323"
     },
     {
@@ -146,6 +146,14 @@
     },
     {
       "rank": 19,
+      "playerId": 669477,
+      "playerName": "Casey Schmitt",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".308"
+    },
+    {
+      "rank": 20,
       "playerId": 677800,
       "playerName": "Wilyer Abreu",
       "teamId": 111,
@@ -153,20 +161,12 @@
       "value": ".307"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".306"
-    },
-    {
-      "rank": 21,
-      "playerId": 621493,
-      "playerName": "Taylor Ward",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": ".304"
     },
     {
       "rank": 22,
@@ -178,6 +178,14 @@
     },
     {
       "rank": 23,
+      "playerId": 621493,
+      "playerName": "Taylor Ward",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": ".304"
+    },
+    {
+      "rank": 24,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -185,7 +193,7 @@
       "value": ".301"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -193,7 +201,7 @@
       "value": ".296"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
@@ -201,7 +209,7 @@
       "value": ".296"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 682998,
       "playerName": "Corbin Carroll",
       "teamId": 109,
@@ -209,7 +217,7 @@
       "value": ".296"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
@@ -217,28 +225,20 @@
       "value": ".296"
     },
     {
-      "rank": 28,
-      "playerId": 669477,
-      "playerName": "Casey Schmitt",
+      "rank": 29,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".295"
-    },
-    {
-      "rank": 29,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".292"
+      "value": ".294"
     },
     {
       "rank": 30,
-      "playerId": 663538,
-      "playerName": "Nico Hoerner",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".291"
+      "playerId": 572233,
+      "playerName": "Christian Walker",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": ".293"
     }
   ],
   "hr": [
@@ -268,6 +268,14 @@
     },
     {
       "rank": 4,
+      "playerId": 656941,
+      "playerName": "Kyle Schwarber",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "11"
+    },
+    {
+      "rank": 5,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -275,19 +283,11 @@
       "value": "10"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "10"
-    },
-    {
-      "rank": 6,
-      "playerId": 656941,
-      "playerName": "Kyle Schwarber",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "10"
     },
     {

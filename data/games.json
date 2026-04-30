@@ -52,23 +52,23 @@
     },
     {
       "gameId": 824850,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-04-30T16:40:00Z",
       "home": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 3,
+        "score": 5,
         "wins": 15,
-        "losses": 15
+        "losses": 16
       },
       "away": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 10,
-        "wins": 11,
+        "score": 11,
+        "wins": 12,
         "losses": 20
       },
       "koreanPlayerTeams": [
@@ -127,14 +127,14 @@
     },
     {
       "gameId": 823471,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-04-30T21:35:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 2,
         "wins": 11,
         "losses": 19
       },
@@ -142,7 +142,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 2,
         "wins": 13,
         "losses": 17
       },
@@ -221,24 +221,24 @@
     },
     {
       "gameId": 825016,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-04-30T19:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 5,
-        "wins": 16,
+        "score": 6,
+        "wins": 17,
         "losses": 14
       },
       "away": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 2,
+        "score": 3,
         "wins": 12,
-        "losses": 18
+        "losses": 19
       },
       "koreanPlayerTeams": []
     },
