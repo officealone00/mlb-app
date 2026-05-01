@@ -50,14 +50,6 @@
     },
     {
       "rank": 7,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".328"
-    },
-    {
-      "rank": 8,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -65,7 +57,23 @@
       "value": ".327"
     },
     {
+      "rank": 8,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".325"
+    },
+    {
       "rank": 9,
+      "playerId": 673962,
+      "playerName": "Josh Jung",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".324"
+    },
+    {
+      "rank": 10,
       "playerId": 645277,
       "playerName": "Ozzie Albies",
       "teamId": 144,
@@ -73,7 +81,7 @@
       "value": ".323"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
@@ -81,7 +89,7 @@
       "value": ".322"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
@@ -89,7 +97,7 @@
       "value": ".321"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
@@ -97,19 +105,11 @@
       "value": ".317"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".317"
-    },
-    {
-      "rank": 14,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
       "value": ".317"
     },
     {
@@ -226,19 +226,19 @@
     },
     {
       "rank": 29,
+      "playerId": 607043,
+      "playerName": "Brandon Nimmo",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".296"
+    },
+    {
+      "rank": 30,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": ".296"
-    },
-    {
-      "rank": 30,
-      "playerId": 572233,
-      "playerName": "Christian Walker",
-      "teamId": 117,
-      "teamAbbr": "HOU",
-      "value": ".293"
     }
   ],
   "hr": [
