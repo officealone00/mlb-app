@@ -40,7 +40,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 1,
+        "score": 4,
         "wins": 15,
         "losses": 16
       },
@@ -88,7 +88,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 1,
+        "score": 2,
         "wins": 16,
         "losses": 14
       },
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 823557,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-01T23:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 5,
         "wins": 20,
         "losses": 11
       },
@@ -111,7 +111,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 16
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824772,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-01T23:10:00Z",
       "home": {
         "teamId": 111,
@@ -134,7 +134,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 1,
         "wins": 12,
         "losses": 20
       },
@@ -144,14 +144,14 @@
     },
     {
       "gameId": 822990,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-01T23:10:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 1,
         "wins": 18,
         "losses": 12
       },
@@ -169,14 +169,14 @@
     },
     {
       "gameId": 823877,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-01T23:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 16
       },
@@ -192,8 +192,8 @@
     },
     {
       "gameId": 823713,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-02T00:10:00Z",
       "home": {
         "teamId": 142,
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 823066,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-02T00:15:00Z",
       "home": {
         "teamId": 138,
