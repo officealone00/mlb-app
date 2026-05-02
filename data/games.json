@@ -9,7 +9,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 11
       },
@@ -17,7 +17,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 17
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 825014,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-02T20:05:00Z",
       "home": {
         "teamId": 133,
@@ -94,14 +94,14 @@
     },
     {
       "gameId": 823388,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-02T20:05:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 16
       },
@@ -109,7 +109,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 20,
         "losses": 12
       },
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823876,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-02T20:10:00Z",
       "home": {
         "teamId": 146,
