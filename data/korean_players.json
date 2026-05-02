@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 32,
-        "atBats": 112,
-        "hits": 33,
+        "atBats": 114,
+        "hits": 34,
         "homeRuns": 2,
         "rbi": 11,
         "stolenBases": 0,
-        "avg": ".295",
-        "obp": ".341",
-        "slg": ".438",
-        "ops": ".779"
+        "avg": ".298",
+        "obp": ".344",
+        "slg": ".439",
+        "ops": ".783"
       },
       "pitching": null
     }
@@ -35,16 +35,16 @@
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 21,
-        "atBats": 54,
-        "hits": 16,
+        "games": 22,
+        "atBats": 56,
+        "hits": 17,
         "homeRuns": 1,
         "rbi": 7,
         "stolenBases": 5,
-        "avg": ".296",
-        "obp": ".371",
-        "slg": ".389",
-        "ops": ".760"
+        "avg": ".304",
+        "obp": ".375",
+        "slg": ".411",
+        "ops": ".786"
       },
       "pitching": null
     }
@@ -99,15 +99,15 @@
     "stats": {
       "hitting": {
         "games": 21,
-        "atBats": 37,
-        "hits": 7,
+        "atBats": 38,
+        "hits": 8,
         "homeRuns": 2,
         "rbi": 5,
         "stolenBases": 0,
-        "avg": ".189",
-        "obp": ".211",
-        "slg": ".378",
-        "ops": ".589"
+        "avg": ".211",
+        "obp": ".231",
+        "slg": ".421",
+        "ops": ".652"
       },
       "pitching": null
     }
@@ -123,16 +123,16 @@
     "teamKrName": "휴스턴",
     "stats": {
       "hitting": {
-        "games": 8,
-        "atBats": 11,
+        "games": 9,
+        "atBats": 12,
         "hits": 1,
         "homeRuns": 1,
         "rbi": 3,
         "stolenBases": 0,
-        "avg": ".091",
-        "obp": ".167",
-        "slg": ".364",
-        "ops": ".531"
+        "avg": ".083",
+        "obp": ".154",
+        "slg": ".333",
+        "ops": ".487"
       },
       "pitching": null
     }
