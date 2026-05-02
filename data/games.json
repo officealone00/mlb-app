@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823715,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-02T18:10:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 19
       },
@@ -40,7 +40,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 17
       },
@@ -55,7 +55,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 20,
         "losses": 12
       },
@@ -63,7 +63,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 16,
         "losses": 15
       },
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 824771,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-02T20:10:00Z",
       "home": {
         "teamId": 111,
