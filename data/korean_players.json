@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 34,
-        "atBats": 119,
+        "atBats": 121,
         "hits": 34,
         "homeRuns": 2,
         "rbi": 11,
         "stolenBases": 0,
-        "avg": ".286",
-        "obp": ".336",
-        "slg": ".420",
-        "ops": ".756"
+        "avg": ".281",
+        "obp": ".331",
+        "slg": ".413",
+        "ops": ".744"
       },
       "pitching": null
     }
@@ -36,15 +36,15 @@
     "stats": {
       "hitting": {
         "games": 24,
-        "atBats": 59,
-        "hits": 18,
+        "atBats": 60,
+        "hits": 19,
         "homeRuns": 1,
         "rbi": 8,
         "stolenBases": 5,
-        "avg": ".305",
-        "obp": ".373",
-        "slg": ".407",
-        "ops": ".780"
+        "avg": ".317",
+        "obp": ".382",
+        "slg": ".417",
+        "ops": ".799"
       },
       "pitching": null
     }
@@ -123,16 +123,16 @@
     "teamKrName": "휴스턴",
     "stats": {
       "hitting": {
-        "games": 9,
-        "atBats": 12,
+        "games": 10,
+        "atBats": 13,
         "hits": 1,
         "homeRuns": 1,
         "rbi": 3,
         "stolenBases": 0,
-        "avg": ".083",
-        "obp": ".154",
-        "slg": ".333",
-        "ops": ".487"
+        "avg": ".077",
+        "obp": ".143",
+        "slg": ".308",
+        "ops": ".451"
       },
       "pitching": null
     }
