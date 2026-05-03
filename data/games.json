@@ -310,8 +310,8 @@
     },
     {
       "gameId": 823307,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-03T20:10:00Z",
       "home": {
         "teamId": 135,
@@ -333,8 +333,8 @@
     },
     {
       "gameId": 824285,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-03T23:20:00Z",
       "home": {
         "teamId": 116,

@@ -66,19 +66,19 @@
     },
     {
       "rank": 9,
+      "playerId": 673962,
+      "playerName": "Josh Jung",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".333"
+    },
+    {
+      "rank": 10,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".328"
-    },
-    {
-      "rank": 10,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".327"
     },
     {
       "rank": 11,
@@ -146,14 +146,6 @@
     },
     {
       "rank": 19,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".310"
-    },
-    {
-      "rank": 20,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -161,7 +153,7 @@
       "value": ".309"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -169,7 +161,7 @@
       "value": ".308"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
@@ -177,7 +169,7 @@
       "value": ".308"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
@@ -185,7 +177,23 @@
       "value": ".308"
     },
     {
+      "rank": 23,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".307"
+    },
+    {
       "rank": 24,
+      "playerId": 607043,
+      "playerName": "Brandon Nimmo",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".307"
+    },
+    {
+      "rank": 25,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -193,20 +201,12 @@
       "value": ".307"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": ".304"
-    },
-    {
-      "rank": 26,
-      "playerId": 607043,
-      "playerName": "Brandon Nimmo",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".302"
     },
     {
       "rank": 27,
