@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824363,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T21:40:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 21
       },
@@ -17,7 +17,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 12,
         "losses": 22
       },
@@ -27,7 +27,7 @@
       "gameId": 824283,
       "status": "Scheduled",
       "statusCode": "S",
-      "startTime": "2026-05-04T22:40:00Z",
+      "startTime": "2026-05-04T22:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
@@ -121,7 +121,7 @@
       "gameId": 824684,
       "status": "Scheduled",
       "statusCode": "S",
-      "startTime": "2026-05-04T23:40:00Z",
+      "startTime": "2026-05-04T23:10:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
