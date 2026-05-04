@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824283,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T22:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 18,
         "losses": 17
       },
@@ -40,7 +40,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 13,
         "losses": 21
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 822984,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T22:40:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 12
       },
@@ -65,7 +65,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 16,
         "losses": 18
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823874,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T22:40:00Z",
       "home": {
         "teamId": 146,
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 823552,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T23:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 23,
         "losses": 11
       },
@@ -111,7 +111,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 19
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824684,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T23:10:00Z",
       "home": {
         "teamId": 112,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823064,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-04T23:45:00Z",
       "home": {
         "teamId": 138,
