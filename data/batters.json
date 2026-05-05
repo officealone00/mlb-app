@@ -34,14 +34,6 @@
     },
     {
       "rank": 5,
-      "playerId": 645277,
-      "playerName": "Ozzie Albies",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".333"
-    },
-    {
-      "rank": 6,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
@@ -49,12 +41,20 @@
       "value": ".333"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": ".333"
+    },
+    {
+      "rank": 7,
+      "playerId": 645277,
+      "playerName": "Ozzie Albies",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".331"
     },
     {
       "rank": 8,
@@ -94,18 +94,10 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".321"
-    },
-    {
-      "rank": 13,
-      "playerId": 650333,
-      "playerName": "Luis Arraez",
-      "teamId": 137,
-      "teamAbbr": "SF",
       "value": ".318"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 687859,
       "playerName": "Troy Johnston",
       "teamId": 115,
@@ -113,15 +105,15 @@
       "value": ".318"
     },
     {
-      "rank": 15,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".317"
+      "rank": 14,
+      "playerId": 650333,
+      "playerName": "Luis Arraez",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".316"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
@@ -129,12 +121,20 @@
       "value": ".315"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 643446,
       "playerName": "Jeff McNeil",
       "teamId": 133,
       "teamAbbr": "ATH",
       "value": ".314"
+    },
+    {
+      "rank": 17,
+      "playerId": 686948,
+      "playerName": "Drake Baldwin",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".313"
     },
     {
       "rank": 18,
@@ -146,19 +146,19 @@
     },
     {
       "rank": 19,
-      "playerId": 669477,
-      "playerName": "Casey Schmitt",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".311"
-    },
-    {
-      "rank": 20,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": ".309"
+    },
+    {
+      "rank": 20,
+      "playerId": 669477,
+      "playerName": "Casey Schmitt",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".308"
     },
     {
       "rank": 21,
@@ -202,18 +202,18 @@
     },
     {
       "rank": 26,
-      "playerId": 621566,
-      "playerName": "Matt Olson",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".302"
-    },
-    {
-      "rank": 27,
       "playerId": 607043,
       "playerName": "Brandon Nimmo",
       "teamId": 140,
       "teamAbbr": "TEX",
+      "value": ".300"
+    },
+    {
+      "rank": 27,
+      "playerId": 621566,
+      "playerName": "Matt Olson",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": ".300"
     },
     {
@@ -694,18 +694,18 @@
     },
     {
       "rank": 27,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "22"
-    },
-    {
-      "rank": 28,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
       "teamAbbr": "CWS",
+      "value": "23"
+    },
+    {
+      "rank": 28,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": "22"
     },
     {
