@@ -238,29 +238,6 @@
       ]
     },
     {
-      "gameId": 824362,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-05-06T00:40:00Z",
-      "home": {
-        "teamId": 115,
-        "abbr": "COL",
-        "kr": "콜로라도",
-        "score": null,
-        "wins": 14,
-        "losses": 22
-      },
-      "away": {
-        "teamId": 121,
-        "abbr": "NYM",
-        "kr": "뉴욕 메츠",
-        "score": null,
-        "wins": 13,
-        "losses": 22
-      },
-      "koreanPlayerTeams": []
-    },
-    {
       "gameId": 824040,
       "status": "Scheduled",
       "statusCode": "S",
@@ -355,6 +332,29 @@
       "koreanPlayerTeams": [
         137
       ]
+    },
+    {
+      "gameId": 824362,
+      "status": "Postponed",
+      "statusCode": "DI",
+      "startTime": "2026-05-06T00:40:00Z",
+      "home": {
+        "teamId": 115,
+        "abbr": "COL",
+        "kr": "콜로라도",
+        "score": null,
+        "wins": 14,
+        "losses": 22
+      },
+      "away": {
+        "teamId": 121,
+        "abbr": "NYM",
+        "kr": "뉴욕 메츠",
+        "score": null,
+        "wins": 13,
+        "losses": 22
+      },
+      "koreanPlayerTeams": []
     }
   ],
   "yesterday": [
