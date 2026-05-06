@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822985,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-06T17:10:00Z",
       "home": {
         "teamId": 139,
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 824198,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-06T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 22
       },
@@ -65,7 +65,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 22,
         "losses": 14
       },
@@ -76,8 +76,8 @@
     },
     {
       "gameId": 823226,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-06T19:45:00Z",
       "home": {
         "teamId": 137,
@@ -101,8 +101,8 @@
     },
     {
       "gameId": 824036,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-06T20:07:00Z",
       "home": {
         "teamId": 108,
