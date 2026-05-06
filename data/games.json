@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 822985,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-06T17:10:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 2,
         "wins": 23,
         "losses": 12
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823063,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-06T17:15:00Z",
       "home": {
         "teamId": 138,
@@ -40,7 +40,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
+        "score": 4,
         "wins": 18,
         "losses": 16
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 824198,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-06T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 22
       },
@@ -83,7 +83,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 22
       },
@@ -91,7 +91,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 14
       },
@@ -108,7 +108,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 14,
         "losses": 23
       },
@@ -116,7 +116,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 19
       },
@@ -124,14 +124,14 @@
     },
     {
       "gameId": 823141,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-06T20:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 20
       },
@@ -139,7 +139,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 26,
         "losses": 11
       },
