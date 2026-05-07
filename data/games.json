@@ -48,61 +48,61 @@
     },
     {
       "gameId": 824117,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-07T18:10:00Z",
       "home": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 2,
+        "score": 5,
         "wins": 17,
-        "losses": 20
+        "losses": 21
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
         "score": 8,
-        "wins": 19,
+        "wins": 20,
         "losses": 19
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824681,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-07T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": 8,
-        "wins": 25,
+        "wins": 26,
         "losses": 12
       },
       "away": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": 1,
+        "score": 3,
         "wins": 20,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824362,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-05-07T19:10:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 1,
-        "wins": 14,
+        "score": 6,
+        "wins": 15,
         "losses": 23
       },
       "away": {
@@ -111,7 +111,7 @@
         "kr": "뉴욕 메츠",
         "score": 2,
         "wins": 14,
-        "losses": 22
+        "losses": 23
       },
       "koreanPlayerTeams": []
     },
@@ -124,7 +124,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
+        "score": 2,
         "wins": 17,
         "losses": 18
       },
@@ -132,7 +132,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 1,
+        "score": 4,
         "wins": 20,
         "losses": 17
       },
@@ -209,8 +209,8 @@
     },
     {
       "gameId": 823306,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-08T02:10:00Z",
       "home": {
         "teamId": 135,
