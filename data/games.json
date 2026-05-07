@@ -103,14 +103,14 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 14,
-        "losses": 22
+        "losses": 23
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
         "score": null,
-        "wins": 13,
+        "wins": 14,
         "losses": 22
       },
       "koreanPlayerTeams": []
@@ -546,31 +546,31 @@
     },
     {
       "gameId": 824361,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-07T01:20:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 4,
+        "score": 5,
         "wins": 14,
-        "losses": 22
+        "losses": 23
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 8,
-        "wins": 13,
+        "score": 10,
+        "wins": 14,
         "losses": 22
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 825091,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-07T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -578,14 +578,14 @@
         "kr": "애리조나",
         "score": 0,
         "wins": 17,
-        "losses": 17
+        "losses": 18
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
         "score": 1,
-        "wins": 19,
+        "wins": 20,
         "losses": 17
       },
       "koreanPlayerTeams": []
