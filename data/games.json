@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823551,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-07T16:35:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 25,
         "losses": 12
       },
@@ -17,7 +17,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 19
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 822741,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-07T17:05:00Z",
       "home": {
         "teamId": 120,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824117,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-07T18:10:00Z",
       "home": {
         "teamId": 118,
