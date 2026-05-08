@@ -293,14 +293,14 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 22,
-        "losses": 14
+        "losses": 15
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
         "score": null,
-        "wins": 21,
+        "wins": 22,
         "losses": 15
       },
       "koreanPlayerTeams": [
@@ -568,8 +568,8 @@
     },
     {
       "gameId": 823306,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-08T02:10:00Z",
       "home": {
         "teamId": 135,
@@ -577,14 +577,14 @@
         "kr": "샌디에이고",
         "score": 1,
         "wins": 22,
-        "losses": 14
+        "losses": 15
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
         "score": 2,
-        "wins": 21,
+        "wins": 22,
         "losses": 15
       },
       "koreanPlayerTeams": [
