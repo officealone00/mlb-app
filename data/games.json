@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824847,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T20:05:00Z",
       "home": {
         "teamId": 110,
@@ -34,14 +34,14 @@
         "kr": "볼티모어",
         "score": 2,
         "wins": 17,
-        "losses": 22
+        "losses": 23
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": 6,
-        "wins": 20,
+        "wins": 21,
         "losses": 18
       },
       "koreanPlayerTeams": []
@@ -73,24 +73,24 @@
     },
     {
       "gameId": 823869,
-      "status": "Manager challenge",
-      "statusCode": "MX",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
         "score": 8,
-        "wins": 17,
+        "wins": 18,
         "losses": 22
       },
       "away": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 4,
+        "score": 7,
         "wins": 19,
-        "losses": 20
+        "losses": 21
       },
       "koreanPlayerTeams": []
     },
@@ -103,7 +103,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 6,
         "wins": 17,
         "losses": 22
       },
@@ -111,7 +111,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 1,
+        "score": 3,
         "wins": 16,
         "losses": 23
       },
@@ -142,14 +142,14 @@
     },
     {
       "gameId": 822905,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:05:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 0,
+        "score": 2,
         "wins": 17,
         "losses": 21
       },
@@ -165,14 +165,14 @@
     },
     {
       "gameId": 824115,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 0,
+        "score": 2,
         "wins": 18,
         "losses": 21
       },
@@ -190,14 +190,14 @@
     },
     {
       "gameId": 824606,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 2,
         "wins": 17,
         "losses": 21
       },
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 823792,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 158,
@@ -230,7 +230,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 1,
         "wins": 26,
         "losses": 13
       },
@@ -238,8 +238,8 @@
     },
     {
       "gameId": 825089,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:15:00Z",
       "home": {
         "teamId": 109,
@@ -253,7 +253,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 23
       },
@@ -261,8 +261,8 @@
     },
     {
       "gameId": 823304,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T23:15:00Z",
       "home": {
         "teamId": 135,
@@ -293,7 +293,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 23
       },
@@ -301,7 +301,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 18
       },
