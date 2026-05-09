@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 822820,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-09T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 21
       },
@@ -17,7 +17,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 15,
         "losses": 24
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824847,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-09T20:05:00Z",
       "home": {
         "teamId": 110,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824523,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 113,
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 824766,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 111,
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 823869,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 22
       },
@@ -111,7 +111,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 19,
         "losses": 20
       },
