@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 822820,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
         "score": 14,
-        "wins": 17,
+        "wins": 18,
         "losses": 21
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "LA 에인절스",
         "score": 1,
         "wins": 15,
-        "losses": 24
+        "losses": 25
       },
       "koreanPlayerTeams": []
     },
@@ -32,7 +32,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 2,
         "wins": 17,
         "losses": 22
       },
@@ -40,7 +40,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 5,
+        "score": 6,
         "wins": 20,
         "losses": 18
       },
@@ -48,15 +48,15 @@
     },
     {
       "gameId": 824523,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
         "score": 3,
-        "wins": 20,
+        "wins": 21,
         "losses": 19
       },
       "away": {
@@ -65,7 +65,7 @@
         "kr": "휴스턴",
         "score": 1,
         "wins": 16,
-        "losses": 23
+        "losses": 24
       },
       "koreanPlayerTeams": [
         117
@@ -73,14 +73,14 @@
     },
     {
       "gameId": 823869,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Manager challenge",
+      "statusCode": "MX",
       "startTime": "2026-05-09T20:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 2,
+        "score": 8,
         "wins": 17,
         "losses": 22
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823468,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-09T22:05:00Z",
       "home": {
         "teamId": 143,
@@ -111,7 +111,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 0,
+        "score": 1,
         "wins": 16,
         "losses": 23
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 822905,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:05:00Z",
       "home": {
         "teamId": 140,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 824115,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 118,
@@ -190,8 +190,8 @@
     },
     {
       "gameId": 824606,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 145,
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 823792,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:10:00Z",
       "home": {
         "teamId": 158,
@@ -238,8 +238,8 @@
     },
     {
       "gameId": 825089,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:15:00Z",
       "home": {
         "teamId": 109,
@@ -261,8 +261,8 @@
     },
     {
       "gameId": 823304,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-09T23:15:00Z",
       "home": {
         "teamId": 135,
@@ -318,7 +318,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 24,
         "losses": 14
       },
@@ -326,7 +326,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 26,
         "losses": 13
       },
