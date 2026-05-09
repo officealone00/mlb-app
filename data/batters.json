@@ -126,7 +126,7 @@
       "playerName": "Ozzie Albies",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".313"
+      "value": ".311"
     },
     {
       "rank": 17,
@@ -202,14 +202,6 @@
     },
     {
       "rank": 26,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".299"
-    },
-    {
-      "rank": 27,
       "playerId": 805779,
       "playerName": "Jacob Wilson",
       "teamId": 133,
@@ -217,12 +209,20 @@
       "value": ".299"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": ".299"
+    },
+    {
+      "rank": 28,
+      "playerId": 686948,
+      "playerName": "Drake Baldwin",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".297"
     },
     {
       "rank": 29,

@@ -317,7 +317,7 @@
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 14,
+        "wins": 15,
         "losses": 23
       },
       "away": {
@@ -326,7 +326,7 @@
         "kr": "피츠버그",
         "score": null,
         "wins": 21,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": [
         137
@@ -342,7 +342,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 23,
+        "wins": 24,
         "losses": 14
       },
       "away": {
@@ -351,7 +351,7 @@
         "kr": "애틀랜타",
         "score": null,
         "wins": 26,
-        "losses": 12
+        "losses": 13
       },
       "koreanPlayerTeams": [
         119
@@ -620,8 +620,8 @@
     },
     {
       "gameId": 825088,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -643,8 +643,8 @@
     },
     {
       "gameId": 823303,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T01:45:00Z",
       "home": {
         "teamId": 135,
@@ -668,15 +668,15 @@
     },
     {
       "gameId": 823957,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 3,
-        "wins": 23,
+        "wins": 24,
         "losses": 14
       },
       "away": {
@@ -685,7 +685,7 @@
         "kr": "애틀랜타",
         "score": 1,
         "wins": 26,
-        "losses": 12
+        "losses": 13
       },
       "koreanPlayerTeams": [
         119
@@ -693,24 +693,24 @@
     },
     {
       "gameId": 823225,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-09T02:15:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": 5,
-        "wins": 14,
+        "wins": 15,
         "losses": 23
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 1,
+        "score": 2,
         "wins": 21,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": [
         137
