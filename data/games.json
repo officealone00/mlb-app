@@ -9,7 +9,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 8,
+        "score": 14,
         "wins": 17,
         "losses": 21
       },
@@ -17,7 +17,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 24
       },
@@ -40,7 +40,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 1,
+        "score": 5,
         "wins": 20,
         "losses": 18
       },
@@ -55,7 +55,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": 0,
+        "score": 3,
         "wins": 20,
         "losses": 19
       },
@@ -63,7 +63,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 1,
         "wins": 16,
         "losses": 23
       },
@@ -80,7 +80,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 2,
         "wins": 17,
         "losses": 22
       },
@@ -88,7 +88,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 3,
+        "score": 4,
         "wins": 19,
         "losses": 20
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824444,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PR",
       "startTime": "2026-05-09T22:10:00Z",
       "home": {
         "teamId": 114,
