@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".353"
+      "value": ".350"
     },
     {
       "rank": 2,
@@ -62,7 +62,7 @@
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".324"
+      "value": ".327"
     },
     {
       "rank": 9,
@@ -138,19 +138,19 @@
     },
     {
       "rank": 18,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".308"
-    },
-    {
-      "rank": 19,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".306"
+    },
+    {
+      "rank": 19,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".305"
     },
     {
       "rank": 20,
@@ -210,14 +210,6 @@
     },
     {
       "rank": 27,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": ".295"
-    },
-    {
-      "rank": 28,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -225,7 +217,7 @@
       "value": ".295"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -233,11 +225,19 @@
       "value": ".294"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
       "teamAbbr": "SF",
+      "value": ".294"
+    },
+    {
+      "rank": 30,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".294"
     }
   ],
@@ -732,7 +732,7 @@
       "playerName": "Nasim Nuñez",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "16"
+      "value": "17"
     },
     {
       "rank": 2,
