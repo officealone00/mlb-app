@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 40,
-        "atBats": 145,
+        "atBats": 147,
         "hits": 40,
         "homeRuns": 2,
         "rbi": 12,
         "stolenBases": 0,
-        "avg": ".276",
-        "obp": ".318",
-        "slg": ".393",
-        "ops": ".711"
+        "avg": ".272",
+        "obp": ".314",
+        "slg": ".388",
+        "ops": ".702"
       },
       "pitching": null
     }
@@ -36,15 +36,15 @@
     "stats": {
       "hitting": {
         "games": 29,
-        "atBats": 75,
+        "atBats": 76,
         "hits": 22,
         "homeRuns": 1,
         "rbi": 8,
         "stolenBases": 5,
-        "avg": ".293",
-        "obp": ".357",
-        "slg": ".400",
-        "ops": ".757"
+        "avg": ".289",
+        "obp": ".353",
+        "slg": ".395",
+        "ops": ".748"
       },
       "pitching": null
     }
@@ -77,12 +77,12 @@
       "pitching": {
         "wins": 3,
         "losses": 1,
-        "era": "2.00",
-        "gamesPlayed": 18,
+        "era": "2.84",
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "inningsPitched": "18.0",
-        "strikeouts": 20,
-        "whip": "0.89",
+        "inningsPitched": "19.0",
+        "strikeouts": 23,
+        "whip": "0.95",
         "saves": 11
       }
     }
