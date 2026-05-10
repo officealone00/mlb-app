@@ -190,15 +190,15 @@
     },
     {
       "gameId": 823793,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-10T18:10:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 3,
-        "wins": 21,
+        "score": 4,
+        "wins": 22,
         "losses": 16
       },
       "away": {
@@ -207,14 +207,14 @@
         "kr": "뉴욕 양키스",
         "score": 3,
         "wins": 26,
-        "losses": 14
+        "losses": 15
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 822902,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-10T18:35:00Z",
       "home": {
         "teamId": 140,
@@ -243,7 +243,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 1,
+        "score": 4,
         "wins": 15,
         "losses": 24
       },
@@ -251,7 +251,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 2,
+        "score": 4,
         "wins": 22,
         "losses": 18
       },
@@ -268,7 +268,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 2,
+        "score": 5,
         "wins": 18,
         "losses": 20
       },
@@ -276,7 +276,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 1,
         "wins": 15,
         "losses": 24
       },
@@ -299,7 +299,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 2,
         "wins": 23,
         "losses": 16
       },
@@ -324,7 +324,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 4,
+        "score": 5,
         "wins": 27,
         "losses": 13
       },
