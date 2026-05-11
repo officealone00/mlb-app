@@ -106,6 +106,14 @@
     },
     {
       "rank": 14,
+      "playerId": 700250,
+      "playerName": "Ben Rice",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": ".311"
+    },
+    {
+      "rank": 15,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
@@ -113,7 +121,7 @@
       "value": ".310"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -121,7 +129,7 @@
       "value": ".308"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 665489,
       "playerName": "Vladimir Guerrero Jr.",
       "teamId": 141,
@@ -129,19 +137,11 @@
       "value": ".308"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 645277,
       "playerName": "Ozzie Albies",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".306"
-    },
-    {
-      "rank": 18,
-      "playerId": 700250,
-      "playerName": "Ben Rice",
-      "teamId": 147,
-      "teamAbbr": "NYY",
       "value": ".306"
     },
     {
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 800050,
-      "playerName": "Chase DeLauter",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": ".299"
-    },
-    {
-      "rank": 24,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -193,7 +185,7 @@
       "value": ".298"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -201,12 +193,20 @@
       "value": ".297"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": ".297"
+    },
+    {
+      "rank": 26,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".296"
     },
     {
       "rank": 27,
@@ -952,18 +952,18 @@
     },
     {
       "rank": 29,
-      "playerId": 665923,
-      "playerName": "Esteury Ruiz",
-      "teamId": 146,
-      "teamAbbr": "MIA",
+      "playerId": 677587,
+      "playerName": "Brayan Rocchio",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": "7"
     },
     {
       "rank": 30,
-      "playerId": 681082,
-      "playerName": "Bryson Stott",
-      "teamId": 143,
-      "teamAbbr": "PHI",
+      "playerId": 665923,
+      "playerName": "Esteury Ruiz",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "7"
     }
   ]
