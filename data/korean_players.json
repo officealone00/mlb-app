@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 40,
-        "atBats": 147,
+        "atBats": 148,
         "hits": 40,
         "homeRuns": 2,
         "rbi": 12,
         "stolenBases": 0,
-        "avg": ".272",
-        "obp": ".314",
-        "slg": ".388",
-        "ops": ".702"
+        "avg": ".270",
+        "obp": ".313",
+        "slg": ".385",
+        "ops": ".698"
       },
       "pitching": null
     }
@@ -98,16 +98,16 @@
     "teamKrName": "디트로이트",
     "stats": {
       "hitting": {
-        "games": 25,
-        "atBats": 45,
-        "hits": 9,
+        "games": 26,
+        "atBats": 47,
+        "hits": 10,
         "homeRuns": 2,
         "rbi": 5,
         "stolenBases": 0,
-        "avg": ".200",
-        "obp": ".250",
-        "slg": ".378",
-        "ops": ".628"
+        "avg": ".213",
+        "obp": ".260",
+        "slg": ".383",
+        "ops": ".643"
       },
       "pitching": null
     }

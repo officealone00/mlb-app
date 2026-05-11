@@ -66,14 +66,6 @@
     },
     {
       "rank": 9,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".319"
-    },
-    {
-      "rank": 10,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
@@ -81,7 +73,23 @@
       "value": ".318"
     },
     {
+      "rank": 10,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".317"
+    },
+    {
       "rank": 11,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".316"
+    },
+    {
+      "rank": 12,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -89,7 +97,7 @@
       "value": ".314"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -97,19 +105,11 @@
       "value": ".313"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".310"
-    },
-    {
-      "rank": 14,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
       "value": ".310"
     },
     {
@@ -162,6 +162,14 @@
     },
     {
       "rank": 21,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": ".302"
+    },
+    {
+      "rank": 22,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -169,7 +177,7 @@
       "value": ".299"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -177,7 +185,7 @@
       "value": ".299"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -185,19 +193,11 @@
       "value": ".298"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".297"
-    },
-    {
-      "rank": 25,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
       "value": ".297"
     },
     {
@@ -238,7 +238,7 @@
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
-      "value": ".294"
+      "value": ".293"
     }
   ],
   "hr": [
