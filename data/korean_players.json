@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 40,
-        "atBats": 148,
+        "games": 41,
+        "atBats": 151,
         "hits": 40,
         "homeRuns": 2,
         "rbi": 12,
         "stolenBases": 0,
-        "avg": ".270",
-        "obp": ".313",
-        "slg": ".385",
-        "ops": ".698"
+        "avg": ".265",
+        "obp": ".307",
+        "slg": ".377",
+        "ops": ".684"
       },
       "pitching": null
     }
@@ -35,16 +35,16 @@
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 29,
-        "atBats": 76,
+        "games": 30,
+        "atBats": 78,
         "hits": 22,
         "homeRuns": 1,
         "rbi": 8,
         "stolenBases": 5,
-        "avg": ".289",
-        "obp": ".353",
-        "slg": ".395",
-        "ops": ".748"
+        "avg": ".282",
+        "obp": ".345",
+        "slg": ".385",
+        "ops": ".730"
       },
       "pitching": null
     }
