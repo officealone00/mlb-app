@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824442,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-12T22:10:00Z",
       "home": {
         "teamId": 114,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 823385,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-12T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -211,8 +211,8 @@
     },
     {
       "gameId": 823712,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-12T23:40:00Z",
       "home": {
         "teamId": 142,
