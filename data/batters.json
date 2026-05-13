@@ -114,14 +114,6 @@
     },
     {
       "rank": 15,
-      "playerId": 700250,
-      "playerName": "Ben Rice",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": ".305"
-    },
-    {
-      "rank": 16,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -129,7 +121,7 @@
       "value": ".304"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 666160,
       "playerName": "Mickey Moniak",
       "teamId": 115,
@@ -137,7 +129,7 @@
       "value": ".303"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -145,11 +137,19 @@
       "value": ".303"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
+      "value": ".303"
+    },
+    {
+      "rank": 19,
+      "playerId": 700250,
+      "playerName": "Ben Rice",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".303"
     },
     {
@@ -218,6 +218,14 @@
     },
     {
       "rank": 28,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".294"
+    },
+    {
+      "rank": 29,
       "playerId": 677800,
       "playerName": "Wilyer Abreu",
       "teamId": 111,
@@ -225,19 +233,11 @@
       "value": ".293"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".293"
-    },
-    {
-      "rank": 30,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": ".293"
     }
   ],
