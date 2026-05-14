@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 42,
-        "atBats": 158,
+        "games": 43,
+        "atBats": 161,
         "hits": 43,
         "homeRuns": 2,
         "rbi": 14,
         "stolenBases": 0,
-        "avg": ".272",
-        "obp": ".316",
-        "slg": ".386",
-        "ops": ".702"
+        "avg": ".267",
+        "obp": ".310",
+        "slg": ".379",
+        "ops": ".689"
       },
       "pitching": null
     }
@@ -98,16 +98,16 @@
     "teamKrName": "디트로이트",
     "stats": {
       "hitting": {
-        "games": 27,
-        "atBats": 49,
+        "games": 28,
+        "atBats": 50,
         "hits": 9,
         "homeRuns": 2,
         "rbi": 5,
         "stolenBases": 0,
-        "avg": ".184",
-        "obp": ".231",
-        "slg": ".347",
-        "ops": ".578"
+        "avg": ".180",
+        "obp": ".226",
+        "slg": ".340",
+        "ops": ".566"
       },
       "pitching": null
     }
