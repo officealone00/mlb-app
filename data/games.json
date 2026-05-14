@@ -96,31 +96,31 @@
     },
     {
       "gameId": 823789,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-14T17:40:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
         "score": 7,
-        "wins": 23,
+        "wins": 24,
         "losses": 17
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 25,
-        "losses": 17
+        "losses": 18
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824196,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-14T18:10:00Z",
       "home": {
         "teamId": 117,
@@ -128,14 +128,14 @@
         "kr": "휴스턴",
         "score": 3,
         "wins": 17,
-        "losses": 27
+        "losses": 28
       },
       "away": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
         "score": 8,
-        "wins": 21,
+        "wins": 22,
         "losses": 23
       },
       "koreanPlayerTeams": [
@@ -145,23 +145,23 @@
     },
     {
       "gameId": 825008,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-14T19:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 1,
+        "score": 4,
         "wins": 22,
-        "losses": 20
+        "losses": 21
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 3,
-        "wins": 24,
+        "score": 5,
+        "wins": 25,
         "losses": 18
       },
       "koreanPlayerTeams": [
@@ -170,8 +170,8 @@
     },
     {
       "gameId": 824762,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PR",
       "startTime": "2026-05-14T22:45:00Z",
       "home": {
         "teamId": 111,
@@ -239,14 +239,14 @@
     },
     {
       "gameId": 823950,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-15T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 25,
         "losses": 18
       },
@@ -254,7 +254,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 18,
         "losses": 25
       },

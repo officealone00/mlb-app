@@ -10,19 +10,19 @@
     },
     {
       "rank": 2,
+      "playerId": 669127,
+      "playerName": "Shea Langeliers",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": ".340"
+    },
+    {
+      "rank": 3,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": ".339"
-    },
-    {
-      "rank": 3,
-      "playerId": 669127,
-      "playerName": "Shea Langeliers",
-      "teamId": 133,
-      "teamAbbr": "ATH",
-      "value": ".333"
     },
     {
       "rank": 4,
@@ -62,7 +62,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".317"
+      "value": ".321"
     },
     {
       "rank": 9,
@@ -226,19 +226,19 @@
     },
     {
       "rank": 29,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".294"
+    },
+    {
+      "rank": 30,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": ".294"
-    },
-    {
-      "rank": 30,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".293"
     }
   ],
   "hr": [
@@ -538,7 +538,7 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "31"
+      "value": "32"
     },
     {
       "rank": 8,
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 669127,
+      "playerName": "Shea Langeliers",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": "27"
+    },
+    {
+      "rank": 29,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -709,19 +717,11 @@
       "value": "27"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 670042,
       "playerName": "Luke Raley",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "27"
-    },
-    {
-      "rank": 30,
-      "playerId": 668930,
-      "playerName": "Brice Turang",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "27"
     }
   ],
