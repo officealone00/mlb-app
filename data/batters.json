@@ -154,6 +154,14 @@
     },
     {
       "rank": 20,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".300"
+    },
+    {
+      "rank": 21,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -161,7 +169,7 @@
       "value": ".299"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -169,7 +177,7 @@
       "value": ".299"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -177,7 +185,7 @@
       "value": ".298"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -185,7 +193,7 @@
       "value": ".297"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -193,7 +201,15 @@
       "value": ".295"
     },
     {
-      "rank": 25,
+      "rank": 26,
+      "playerId": 665489,
+      "playerName": "Vladimir Guerrero Jr.",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": ".295"
+    },
+    {
+      "rank": 27,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -201,7 +217,7 @@
       "value": ".294"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
@@ -209,7 +225,7 @@
       "value": ".294"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
@@ -217,28 +233,12 @@
       "value": ".294"
     },
     {
-      "rank": 28,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".294"
-    },
-    {
-      "rank": 29,
+      "rank": 30,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": ".294"
-    },
-    {
-      "rank": 30,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".293"
     }
   ],
   "hr": [
