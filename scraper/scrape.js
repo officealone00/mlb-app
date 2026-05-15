@@ -14,6 +14,7 @@
  *   data/standings.json     - 30개 팀 순위 (지구별)
  *   data/wildcard.json      - AL/NL 와일드카드
  *   data/batters.json       - 타자 Top 30 (AVG/HR/RBI/SB)
+ *   data/pitchers.json      - 투수 Top 30 (W/ERA/K/SV/WHIP)
  *   data/korean_players.json - 한국 선수 시즌 성적 (치트키!)
  *   data/games.json         - 오늘/어제 경기 (한국 선수 출전 여부 표시)
  *   data/meta.json          - 마지막 업데이트 시각
@@ -211,6 +212,42 @@ async function fetchBatters() {
 }
 
 // ============================================================================
+// 3-2. 투수 Top 30 (W/ERA/K/SV/WHIP)
+// ============================================================================
+
+async function fetchPitchers() {
+  console.log('🥎 투수 Top 30 가져오는 중...');
+  const url = `${API_BASE}/stats/leaders?leaderCategories=wins,earnedRunAverage,strikeouts,saves,walksAndHitsPerInningPitched&season=${SEASON}&limit=30&statGroup=pitching&sportId=1`;
+  const data = await fetchJson(url);
+
+  const result = { w: [], era: [], k: [], sv: [], whip: [] };
+  const categoryMap = {
+    wins: 'w',
+    earnedRunAverage: 'era',
+    strikeouts: 'k',
+    saves: 'sv',
+    walksAndHitsPerInningPitched: 'whip',
+  };
+
+  for (const cat of data.leagueLeaders || []) {
+    const key = categoryMap[cat.leaderCategory];
+    if (!key) continue;
+
+    result[key] = (cat.leaders || []).slice(0, 30).map((p, idx) => ({
+      rank: idx + 1,
+      playerId: p.person?.id,
+      playerName: p.person?.fullName,
+      teamId: p.team?.id,
+      teamAbbr: TEAM_BY_ID[p.team?.id]?.abbr || '',
+      value: p.value,
+    }));
+  }
+
+  console.log(`  ✓ W/ERA/K/SV/WHIP 각 ${result.w.length}명 수집`);
+  return result;
+}
+
+// ============================================================================
 // 4. 한국 선수 (치트키 탭!)
 // ============================================================================
 
@@ -400,7 +437,7 @@ async function main() {
   const startTime = Date.now();
   const errors = [];
 
-  let standings = [], wildcard = {}, batters = {}, koreanPlayers = [], games = {};
+  let standings = [], wildcard = {}, batters = {}, pitchers = {}, koreanPlayers = [], games = {};
 
   try {
     standings = await fetchStandings();
@@ -416,6 +453,11 @@ async function main() {
     batters = await fetchBatters();
     await writeJson('batters.json', batters);
   } catch (err) { errors.push(`batters: ${err.message}`); console.error('❌ 타자 실패:', err.message); }
+
+  try {
+    pitchers = await fetchPitchers();
+    await writeJson('pitchers.json', pitchers);
+  } catch (err) { errors.push(`pitchers: ${err.message}`); console.error('❌ 투수 실패:', err.message); }
 
   try {
     koreanPlayers = await fetchKoreanPlayers();
@@ -436,6 +478,7 @@ async function main() {
     errors,
     counts: {
       standings: standings.length,
+      pitchers: pitchers.w?.length || 0,
       koreanPlayers: koreanPlayers.length,
       gamesToday: games.today?.length || 0,
       gamesYesterday: games.yesterday?.length || 0,

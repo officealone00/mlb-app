@@ -5,7 +5,7 @@ const TABS = [
   { path: "/", label: "순위", icon: Trophy },
   { path: "/wildcard", label: "와일드", icon: Star },
   { path: "/korean", label: "한국선수", icon: Flag, highlight: true },
-  { path: "/batters", label: "타자", icon: BarChart3 },
+  { path: "/batters", label: "기록", icon: BarChart3 },
   { path: "/games", label: "경기", icon: Calendar },
 ];
 

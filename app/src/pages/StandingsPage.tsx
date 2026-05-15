@@ -45,18 +45,21 @@ export function StandingsPage() {
 
       {/* 응원팀 빠른 진입 / 안내 */}
       {favorite && TEAM_BY_ID[favorite] ? (
-        <div className="bg-yellow-50 border-y border-yellow-200 px-4 py-3 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <Star size={16} className="text-yellow-500 fill-yellow-500" />
-            <span className="text-sm font-medium">내 응원팀</span>
-            <TeamBadge teamId={favorite} size="sm" showName />
+        <div className="bg-yellow-50 border-y border-yellow-200 px-4 py-3">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <Star size={16} className="text-yellow-500 fill-yellow-500" />
+              <span className="text-sm font-medium">내 응원팀</span>
+              <TeamBadge teamId={favorite} size="sm" showName />
+            </div>
+            <button
+              onClick={() => navigate("/report")}
+              className="text-xs px-3 py-1 bg-mlbRed text-white rounded-full font-medium"
+            >
+              상세 리포트
+            </button>
           </div>
-          <button
-            onClick={() => navigate("/report")}
-            className="text-xs px-3 py-1 bg-mlbRed text-white rounded-full font-medium"
-          >
-            상세 리포트
-          </button>
+          <p className="text-[11px] text-gray-500 mt-1.5 ml-7">팀을 탭하면 응원팀을 변경할 수 있어요</p>
         </div>
       ) : (
         <div className="bg-blue-50 border-y border-blue-100 px-4 py-3 flex items-center gap-3">

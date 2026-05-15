@@ -19,6 +19,7 @@ const BASE_URL = `https://cdn.jsdelivr.net/gh/${CONFIG.githubUser}/${CONFIG.repo
 import FALLBACK_STANDINGS from "../../../data/standings.json";
 import FALLBACK_WILDCARD from "../../../data/wildcard.json";
 import FALLBACK_BATTERS from "../../../data/batters.json";
+import FALLBACK_PITCHERS from "../../../data/pitchers.json";
 import FALLBACK_KOREAN_PLAYERS from "../../../data/korean_players.json";
 import FALLBACK_GAMES from "../../../data/games.json";
 import FALLBACK_META from "../../../data/meta.json";
@@ -78,6 +79,9 @@ export interface BatterLeader {
   teamAbbr: string;
   value: string;
 }
+
+// 투수 리더보드도 동일 모양 (W/ERA/K/SV/WHIP 카테고리별)
+export type PitcherLeader = BatterLeader;
 
 export interface KoreanPlayer {
   playerId: number;
@@ -151,6 +155,12 @@ export const fetchBatters = () =>
   fetchWithRetry<{ avg: BatterLeader[]; hr: BatterLeader[]; rbi: BatterLeader[]; sb: BatterLeader[] }>(
     `${BASE_URL}/batters.json`,
     FALLBACK_BATTERS as { avg: BatterLeader[]; hr: BatterLeader[]; rbi: BatterLeader[]; sb: BatterLeader[] }
+  );
+
+export const fetchPitchers = () =>
+  fetchWithRetry<{ w: PitcherLeader[]; era: PitcherLeader[]; k: PitcherLeader[]; sv: PitcherLeader[]; whip: PitcherLeader[] }>(
+    `${BASE_URL}/pitchers.json`,
+    FALLBACK_PITCHERS as { w: PitcherLeader[]; era: PitcherLeader[]; k: PitcherLeader[]; sv: PitcherLeader[]; whip: PitcherLeader[] }
   );
 
 export const fetchKoreanPlayers = () =>
