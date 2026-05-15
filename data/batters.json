@@ -6,7 +6,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".343"
+      "value": ".340"
     },
     {
       "rank": 2,
@@ -66,6 +66,14 @@
     },
     {
       "rank": 9,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".316"
+    },
+    {
+      "rank": 10,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
@@ -73,7 +81,7 @@
       "value": ".315"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -81,20 +89,12 @@
       "value": ".313"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": ".312"
-    },
-    {
-      "rank": 12,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".311"
     },
     {
       "rank": 13,
@@ -106,6 +106,22 @@
     },
     {
       "rank": 14,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": ".310"
+    },
+    {
+      "rank": 15,
+      "playerId": 677800,
+      "playerName": "Wilyer Abreu",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".308"
+    },
+    {
+      "rank": 16,
       "playerId": 666160,
       "playerName": "Mickey Moniak",
       "teamId": 115,
@@ -113,28 +129,12 @@
       "value": ".308"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".306"
-    },
-    {
-      "rank": 16,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".306"
-    },
-    {
-      "rank": 17,
-      "playerId": 677800,
-      "playerName": "Wilyer Abreu",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".305"
     },
     {
       "rank": 18,
@@ -194,30 +194,6 @@
     },
     {
       "rank": 25,
-      "playerId": 645277,
-      "playerName": "Ozzie Albies",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".295"
-    },
-    {
-      "rank": 26,
-      "playerId": 621566,
-      "playerName": "Matt Olson",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".295"
-    },
-    {
-      "rank": 27,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".295"
-    },
-    {
-      "rank": 28,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -225,7 +201,7 @@
       "value": ".294"
     },
     {
-      "rank": 29,
+      "rank": 26,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -233,12 +209,36 @@
       "value": ".294"
     },
     {
-      "rank": 30,
+      "rank": 27,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": ".294"
+    },
+    {
+      "rank": 28,
+      "playerId": 645277,
+      "playerName": "Ozzie Albies",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".293"
+    },
+    {
+      "rank": 29,
+      "playerId": 621566,
+      "playerName": "Matt Olson",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".293"
+    },
+    {
+      "rank": 30,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".293"
     }
   ],
   "hr": [
@@ -768,18 +768,18 @@
     },
     {
       "rank": 6,
-      "playerId": 805300,
-      "playerName": "Jakob Marsee",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "12"
-    },
-    {
-      "rank": 7,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
+      "value": "13"
+    },
+    {
+      "rank": 7,
+      "playerId": 805300,
+      "playerName": "Jakob Marsee",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "12"
     },
     {
