@@ -32,7 +32,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 23
       },
@@ -40,7 +40,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 20,
         "losses": 24
       },
@@ -172,7 +172,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 18,
         "losses": 25
       },
@@ -180,7 +180,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 17
       },
@@ -195,7 +195,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 22,
         "losses": 21
       },
@@ -203,7 +203,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 28,
         "losses": 16
       },
@@ -218,7 +218,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 28
       },
@@ -226,7 +226,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 21,
         "losses": 22
       },
@@ -280,8 +280,8 @@
     },
     {
       "gameId": 824037,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-16T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -305,8 +305,8 @@
     },
     {
       "gameId": 823140,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-16T01:40:00Z",
       "home": {
         "teamId": 136,
@@ -330,8 +330,8 @@
     },
     {
       "gameId": 825009,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-16T01:40:00Z",
       "home": {
         "teamId": 133,
