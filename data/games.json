@@ -300,7 +300,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 25,
+        "wins": 26,
         "losses": 18
       },
       "koreanPlayerTeams": [
@@ -351,7 +351,7 @@
         "kr": "샌프란시스코",
         "score": null,
         "wins": 18,
-        "losses": 25
+        "losses": 26
       },
       "koreanPlayerTeams": [
         137
@@ -598,15 +598,15 @@
     },
     {
       "gameId": 823950,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-15T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 5,
-        "wins": 25,
+        "wins": 26,
         "losses": 18
       },
       "away": {
@@ -615,7 +615,7 @@
         "kr": "샌프란시스코",
         "score": 2,
         "wins": 18,
-        "losses": 25
+        "losses": 26
       },
       "koreanPlayerTeams": [
         119,
