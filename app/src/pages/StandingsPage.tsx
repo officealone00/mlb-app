@@ -43,8 +43,8 @@ export function StandingsPage() {
         </p>
       </div>
 
-      {/* 응원팀 빠른 진입 */}
-      {favorite && TEAM_BY_ID[favorite] && (
+      {/* 응원팀 빠른 진입 / 안내 */}
+      {favorite && TEAM_BY_ID[favorite] ? (
         <div className="bg-yellow-50 border-y border-yellow-200 px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <Star size={16} className="text-yellow-500 fill-yellow-500" />
@@ -57,6 +57,16 @@ export function StandingsPage() {
           >
             상세 리포트
           </button>
+        </div>
+      ) : (
+        <div className="bg-blue-50 border-y border-blue-100 px-4 py-3 flex items-center gap-3">
+          <div className="w-8 h-8 rounded-full bg-mlbBlue/10 flex items-center justify-center shrink-0">
+            <Star size={16} className="text-mlbBlue" />
+          </div>
+          <div className="flex-1">
+            <p className="text-xs font-bold text-gray-800">팀을 탭하면 응원팀으로 설정돼요</p>
+            <p className="text-[11px] text-gray-500 mt-0.5">설정 후 세이버메트릭스 기반 상세 리포트를 무료로 받아볼 수 있어요</p>
+          </div>
         </div>
       )}
 
@@ -102,10 +112,6 @@ export function StandingsPage() {
 
       <div className="px-4 mt-4">
         <BannerAd />
-      </div>
-
-      <div className="px-4 py-4 text-center text-xs text-gray-400">
-        팀을 탭하면 응원팀으로 설정돼요
       </div>
     </div>
   );
