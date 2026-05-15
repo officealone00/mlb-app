@@ -6,7 +6,7 @@ import { TeamBadge } from "../components/TeamBadge";
 import { LoadingSkeleton } from "../components/LoadingSkeleton";
 import { ErrorState } from "../components/ErrorState";
 import RewardedAd from "../components/RewardedAd";
-import { generateTeamReport, TeamReport } from "../utils/teamAnalytics";
+import { generateTeamReport, TeamReport, MatchupItem } from "../utils/teamAnalytics";
 import { getFavoriteTeam } from "../utils/storage";
 import { ChevronLeft, Lock, Sparkles } from "lucide-react";
 
@@ -104,20 +104,20 @@ function ReportLockScreen({ team, loading, onUnlock }: any) {
         <Lock size={32} className="mx-auto text-gray-400 mb-3" />
         <h2 className="font-bold text-lg mb-2">상세 분석 리포트</h2>
         <p className="text-sm text-gray-600 mb-4">
-          {team.shortName}의 시즌 분석, 인사이트, 와일드카드 경쟁 상황을 확인하세요
+          {team.shortName}의 세이버메트릭스 기반 시즌 분석을 확인하세요
         </p>
         <ul className="text-xs text-gray-500 space-y-1 text-left mb-5">
           <li className="flex items-start gap-2">
             <Sparkles size={14} className="text-mlbRed mt-0.5 shrink-0" />
-            <span>지구 라이벌과의 게임차 분석</span>
+            <span>피타고리안 승률 · 162경기 페이스 환산</span>
           </li>
           <li className="flex items-start gap-2">
             <Sparkles size={14} className="text-mlbRed mt-0.5 shrink-0" />
-            <span>최근 폼과 모멘텀 진단</span>
+            <span>공수 균형 · 클러치 능력 진단</span>
           </li>
           <li className="flex items-start gap-2">
             <Sparkles size={14} className="text-mlbRed mt-0.5 shrink-0" />
-            <span>포스트시즌 진출 전망</span>
+            <span>지구·와일드카드 경쟁 구도 + 트레이드 시나리오</span>
           </li>
         </ul>
         <button
@@ -134,11 +134,54 @@ function ReportLockScreen({ team, loading, onUnlock }: any) {
 }
 
 function ReportContent({ report }: { report: TeamReport }) {
+  const sm = report.sabermetrics;
+
   return (
     <div className="px-4 py-4 space-y-4">
       <Card title="📊 현재 위치">
-        <p className="text-sm text-gray-700">{report.divisionStanding}</p>
+        <p className="text-sm text-gray-800 font-medium">{report.divisionStanding}</p>
         <p className="text-xs text-gray-500 mt-1">{report.recentForm}</p>
+      </Card>
+
+      <Card title="🧮 세이버메트릭스">
+        <div className="space-y-3">
+          {/* 피타고리안 */}
+          <div>
+            <div className="flex items-baseline justify-between">
+              <span className="text-xs text-gray-600">피타고리안 예상 승률</span>
+              <span className="text-sm font-bold text-gray-900">
+                {sm.pythagoreanPct}{" "}
+                <span className="text-[11px] text-gray-500 font-normal">
+                  ({sm.expectedWins}-{sm.expectedLosses} 예상)
+                </span>
+              </span>
+            </div>
+            <p className="text-[11px] text-gray-500 italic mt-0.5">{sm.luckLabel}</p>
+          </div>
+
+          {/* 162경기 페이스 */}
+          <div className="pt-2 border-t border-gray-100">
+            <div className="flex items-baseline justify-between">
+              <span className="text-xs text-gray-600">162경기 페이스</span>
+              <span className="text-sm font-bold text-gray-900">
+                {sm.paceWins}-{sm.paceLosses}
+              </span>
+            </div>
+            <p className="text-[11px] text-gray-500 italic mt-0.5">{sm.paceLabel}</p>
+          </div>
+
+          {/* 경기당 득실 */}
+          <div className="pt-2 border-t border-gray-100">
+            <div className="grid grid-cols-3 gap-2">
+              <StatBlock label="경기당 득점" value={sm.runsPerGame} color="text-blue-600" />
+              <StatBlock label="경기당 실점" value={sm.runsAllowedPerGame} color="text-red-600" />
+              <StatBlock label="차이" value={sm.runDiffPerGame} color="text-gray-900" />
+            </div>
+            <p className="text-[11px] text-gray-500 italic text-center mt-2">
+              {sm.runDiffPerGameLabel}
+            </p>
+          </div>
+        </div>
       </Card>
 
       <Card title="💡 인사이트">
@@ -153,10 +196,7 @@ function ReportContent({ report }: { report: TeamReport }) {
 
       <Card title="🎯 경쟁 구도">
         {report.matchups.map((m, i) => (
-          <div key={i} className="flex justify-between py-1.5 border-b last:border-0 border-gray-100">
-            <span className="text-sm text-gray-600">{m.vs}</span>
-            <span className="text-sm font-medium">{m.record}</span>
-          </div>
+          <MatchupRow key={i} matchup={m} isLast={i === report.matchups.length - 1} />
         ))}
       </Card>
 
@@ -165,8 +205,32 @@ function ReportContent({ report }: { report: TeamReport }) {
       </Card>
 
       <p className="text-[10px] text-center text-gray-400 mt-2">
-        ⓘ 자동 생성된 분석이며, 실제 결과와 다를 수 있어요
+        ⓘ Bill James 피타고리안(보정 지수 1.83) · 162경기 페이스 기반 자동 분석. 실제 결과와 다를 수 있어요.
       </p>
+    </div>
+  );
+}
+
+function StatBlock({ label, value, color }: { label: string; value: string; color: string }) {
+  return (
+    <div className="text-center">
+      <div className={`text-base font-bold ${color}`}>{value}</div>
+      <div className="text-[10px] text-gray-500">{label}</div>
+    </div>
+  );
+}
+
+function MatchupRow({ matchup, isLast }: { matchup: MatchupItem; isLast: boolean }) {
+  const toneColor =
+    matchup.tone === "good" ? "text-green-600" : matchup.tone === "bad" ? "text-red-600" : "text-gray-900";
+  return (
+    <div
+      className={`flex justify-between py-2 ${
+        isLast ? "" : "border-b border-gray-100"
+      }`}
+    >
+      <span className="text-sm text-gray-600">{matchup.vs}</span>
+      <span className={`text-sm font-medium ${toneColor}`}>{matchup.record}</span>
     </div>
   );
 }

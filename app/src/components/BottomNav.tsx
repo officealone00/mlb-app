@@ -32,7 +32,7 @@ export function BottomNav() {
               }`}
             >
               <Icon size={18} />
-              <span className="text-[10px] mt-0.5 font-medium">{tab.label}</span>
+              <span className="text-[10px] mt-0.5 font-medium whitespace-nowrap">{tab.label}</span>
             </button>
           );
         })}
