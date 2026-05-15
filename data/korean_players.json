@@ -10,8 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 41, "atBats": 165, "hits": 44, "homeRuns": 3, "rbi": 16,
-        "stolenBases": 1, "avg": ".267", "obp": ".321", "slg": ".386", "ops": ".707"
+        "games": 44,
+        "atBats": 165,
+        "hits": 44,
+        "homeRuns": 3,
+        "rbi": 16,
+        "stolenBases": 0,
+        "avg": ".267",
+        "obp": ".313",
+        "slg": ".394",
+        "ops": ".707"
       },
       "pitching": null
     }
@@ -27,8 +35,16 @@
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 35, "atBats": 84, "hits": 23, "homeRuns": 1, "rbi": 9,
-        "stolenBases": 5, "avg": ".274", "obp": ".333", "slg": ".369", "ops": ".702"
+        "games": 32,
+        "atBats": 84,
+        "hits": 23,
+        "homeRuns": 1,
+        "rbi": 9,
+        "stolenBases": 5,
+        "avg": ".274",
+        "obp": ".333",
+        "slg": ".369",
+        "ops": ".702"
       },
       "pitching": null
     }
@@ -44,8 +60,16 @@
     "teamKrName": "애틀랜타",
     "stats": {
       "hitting": {
-        "games": 1, "atBats": 9, "hits": 1, "homeRuns": 0, "rbi": 0,
-        "stolenBases": 0, "avg": ".111", "obp": ".111", "slg": ".111", "ops": ".222"
+        "games": 3,
+        "atBats": 9,
+        "hits": 1,
+        "homeRuns": 0,
+        "rbi": 0,
+        "stolenBases": 0,
+        "avg": ".111",
+        "obp": ".200",
+        "slg": ".111",
+        "ops": ".311"
       },
       "pitching": null
     }
@@ -61,8 +85,16 @@
     "teamKrName": "샌디에이고",
     "stats": {
       "hitting": {
-        "games": 5, "atBats": 13, "hits": 2, "homeRuns": 0, "rbi": 2,
-        "stolenBases": 1, "avg": ".154", "obp": ".214", "slg": ".154", "ops": ".368"
+        "games": 8,
+        "atBats": 13,
+        "hits": 2,
+        "homeRuns": 0,
+        "rbi": 3,
+        "stolenBases": 2,
+        "avg": ".154",
+        "obp": ".313",
+        "slg": ".231",
+        "ops": ".544"
       },
       "pitching": null
     }
