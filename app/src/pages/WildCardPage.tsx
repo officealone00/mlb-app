@@ -42,8 +42,6 @@ export function WildCardPage() {
         ))}
       </div>
 
-      <BannerAd />
-
       <div className="bg-white">
         {teams.map((t) => (
           <div
@@ -81,7 +79,9 @@ export function WildCardPage() {
         ))}
       </div>
 
-      <BannerAd />
+      <div className="px-4 mt-4">
+        <BannerAd />
+      </div>
 
       <div className="px-4 py-3 text-xs text-gray-500">
         💡 초록색은 현재 와일드카드 진출권 (3팀)이에요. 정규시즌 종료 시점 기준으로 결정돼요.

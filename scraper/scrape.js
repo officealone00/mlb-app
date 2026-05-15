@@ -14,7 +14,7 @@
  *   data/standings.json     - 30개 팀 순위 (지구별)
  *   data/wildcard.json      - AL/NL 와일드카드
  *   data/batters.json       - 타자 Top 30 (AVG/HR/RBI/SB)
- *   data/korean_players.json - 한국/한국계 선수 시즌 성적 (치트키!)
+ *   data/korean_players.json - 한국 선수 시즌 성적 (치트키!)
  *   data/games.json         - 오늘/어제 경기 (한국 선수 출전 여부 표시)
  *   data/meta.json          - 마지막 업데이트 시각
  */
@@ -72,15 +72,14 @@ const MLB_TEAMS = [
 
 const TEAM_BY_ID = Object.fromEntries(MLB_TEAMS.map(t => [t.id, t]));
 
-// 한국/한국계 선수 (이름으로 검색해서 ID 얻음)
+// 한국 선수 (정통 한국인만)
 // fullName은 MLB Stats API에서 사용하는 영문 정식 이름
+// 한국계(Korean-heritage) 선수는 빠짐 — Rody 요청 (2026.05.15)
 const KOREAN_PLAYERS_QUERY = [
-  { searchName: 'Jung Hoo Lee',     krName: '이정후',      type: 'korean',        teamHint: 137, position: 'OF' },
-  { searchName: 'Hyeseong Kim',     krName: '김혜성',      type: 'korean',        teamHint: 119, position: 'IF' },
-  { searchName: 'Dane Dunning',     krName: '데인 더닝',   type: 'korean_heritage', teamHint: 136, position: 'P' },
-  { searchName: "Riley O'Brien",    krName: '라일리 오브라이언', type: 'korean_heritage', teamHint: 138, position: 'P' },
-  { searchName: 'Jahmai Jones',     krName: '저마이 존스', type: 'korean_heritage', teamHint: 116, position: 'OF' },
-  { searchName: 'Shay Whitcomb',    krName: '셰이 위트컴', type: 'korean_heritage', teamHint: 117, position: 'IF' },
+  { searchName: 'Jung Hoo Lee',  krName: '이정후', type: 'korean', teamHint: 137, position: 'OF' }, // SF
+  { searchName: 'Hyeseong Kim',  krName: '김혜성', type: 'korean', teamHint: 119, position: 'IF' }, // LAD
+  { searchName: 'Ha-Seong Kim',  krName: '김하성', type: 'korean', teamHint: 144, position: 'IF' }, // ATL (2026.05.13 복귀)
+  { searchName: 'Sung-Mun Song', krName: '송성문', type: 'korean', teamHint: 135, position: 'IF' }, // SD (2026.04.26 데뷔)
 ];
 
 // ============================================================================
@@ -295,7 +294,7 @@ async function fetchKoreanPlayers() {
       playerId: found.id,
       enName: found.fullName,
       krName: player.krName,
-      type: player.type, // korean | korean_heritage
+      type: player.type, // korean (정통 한국인만)
       position: player.position,
       teamId: playerTeamId,
       teamAbbr: teamMeta?.abbr || '?',
@@ -307,7 +306,7 @@ async function fetchKoreanPlayers() {
     await new Promise(r => setTimeout(r, 200));
   }
 
-  console.log(`  ✓ 한국/한국계 선수 ${result.length}명 수집`);
+  console.log(`  ✓ 한국 선수 ${result.length}명 수집`);
   return result;
 }
 

@@ -44,8 +44,6 @@ export function BattersPage() {
         ))}
       </div>
 
-      <BannerAd />
-
       <div className="bg-white">
         {list.map((p, idx) => (
           <div key={`${p.playerId}-${idx}`} className="px-4 py-3 flex items-center gap-3 border-b border-gray-100">
@@ -66,7 +64,9 @@ export function BattersPage() {
         <div className="text-center py-16 text-gray-500 text-sm">데이터가 없어요</div>
       )}
 
-      <BannerAd />
+      <div className="px-4 mt-4">
+        <BannerAd />
+      </div>
     </div>
   );
 }

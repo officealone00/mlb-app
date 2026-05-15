@@ -9,7 +9,6 @@ import { ErrorState } from "../components/ErrorState";
 export function KoreanPlayersPage() {
   const [players, setPlayers] = useState<KoreanPlayer[] | null>(null);
   const [error, setError] = useState(false);
-  const [tab, setTab] = useState<"all" | "korean" | "heritage">("all");
 
   useEffect(() => {
     fetchKoreanPlayers().then(setPlayers).catch(() => setError(true));
@@ -17,12 +16,6 @@ export function KoreanPlayersPage() {
 
   if (error) return <ErrorState onRetry={() => window.location.reload()} />;
   if (!players) return <LoadingSkeleton rows={6} />;
-
-  const filtered = players.filter((p) => {
-    if (tab === "all") return true;
-    if (tab === "korean") return p.type === "korean";
-    return p.type === "korean_heritage";
-  });
 
   return (
     <div className="pb-28">
@@ -39,40 +32,21 @@ export function KoreanPlayersPage() {
         </p>
       </div>
 
-      {/* 필터 토글 */}
-      <div className="flex gap-2 px-4 py-3 bg-white border-b overflow-x-auto">
-        {[
-          { key: "all", label: "전체" },
-          { key: "korean", label: "한국 선수" },
-          { key: "heritage", label: "한국계" },
-        ].map((t) => (
-          <button
-            key={t.key}
-            onClick={() => setTab(t.key as any)}
-            className={`px-4 py-1.5 rounded-full text-xs font-medium whitespace-nowrap ${
-              tab === t.key ? "bg-mlbRed text-white" : "bg-gray-100 text-gray-600"
-            }`}
-          >
-            {t.label}
-          </button>
-        ))}
-      </div>
-
-      <BannerAd />
-
-      <div className="space-y-3 px-4 pt-2">
-        {filtered.map((player) => (
+      <div className="space-y-3 px-4 pt-4">
+        {players.map((player) => (
           <PlayerCard key={player.playerId} player={player} />
         ))}
       </div>
 
-      {filtered.length === 0 && (
+      {players.length === 0 && (
         <div className="text-center py-16 text-gray-500 text-sm">
-          해당 카테고리에 선수가 없어요
+          현재 MLB에서 뛰는 한국 선수가 없어요
         </div>
       )}
 
-      <BannerAd />
+      <div className="px-4 mt-4">
+        <BannerAd />
+      </div>
     </div>
   );
 }
@@ -89,14 +63,7 @@ function PlayerCard({ player }: { player: KoreanPlayer }) {
       <div className="flex items-center gap-3 mb-3">
         <TeamBadge teamId={player.teamId} size="md" />
         <div className="flex-1">
-          <div className="flex items-center gap-2">
-            <h3 className="font-bold text-base">{player.krName}</h3>
-            {player.type === "korean_heritage" && (
-              <span className="text-[10px] px-2 py-0.5 bg-yellow-100 text-yellow-700 rounded-full font-medium">
-                한국계
-              </span>
-            )}
-          </div>
+          <h3 className="font-bold text-base">{player.krName}</h3>
           <p className="text-xs text-gray-500">
             {player.enName} · {team?.shortName} · {positionLabel(player.position)}
           </p>

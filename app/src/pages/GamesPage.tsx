@@ -43,8 +43,6 @@ export function GamesPage() {
         ))}
       </div>
 
-      <BannerAd />
-
       <div className="space-y-3 px-4 pt-2">
         {sorted.map((game) => (
           <GameCard key={game.gameId} game={game} />
@@ -54,7 +52,9 @@ export function GamesPage() {
         )}
       </div>
 
-      <BannerAd />
+      <div className="px-4 mt-4">
+        <BannerAd />
+      </div>
     </div>
   );
 }

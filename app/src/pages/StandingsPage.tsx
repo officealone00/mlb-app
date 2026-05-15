@@ -60,8 +60,6 @@ export function StandingsPage() {
         </div>
       )}
 
-      <BannerAd />
-
       {/* 지구별 순위 */}
       {DIVISIONS.map(({ league, division, label }) => {
         const teams = standings
@@ -102,7 +100,9 @@ export function StandingsPage() {
         );
       })}
 
-      <BannerAd />
+      <div className="px-4 mt-4">
+        <BannerAd />
+      </div>
 
       <div className="px-4 py-4 text-center text-xs text-gray-400">
         팀을 탭하면 응원팀으로 설정돼요
