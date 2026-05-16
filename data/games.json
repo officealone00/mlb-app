@@ -25,24 +25,24 @@
     },
     {
       "gameId": 823060,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-16T18:15:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 3,
-        "wins": 26,
+        "score": 4,
+        "wins": 27,
         "losses": 18
       },
       "away": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 1,
+        "score": 2,
         "wins": 19,
-        "losses": 26
+        "losses": 27
       },
       "koreanPlayerTeams": []
     },
@@ -55,7 +55,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 3,
+        "score": 4,
         "wins": 17,
         "losses": 28
       },
@@ -86,7 +86,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 2,
         "wins": 20,
         "losses": 25
       },
@@ -132,7 +132,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 1,
         "wins": 20,
         "losses": 25
       },
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 824435,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-16T22:10:00Z",
       "home": {
         "teamId": 114,
@@ -193,7 +193,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 22,
         "losses": 22
       },
@@ -201,7 +201,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 16
       },
@@ -305,14 +305,14 @@
     },
     {
       "gameId": 824038,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-17T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 16,
         "losses": 29
       },
@@ -320,7 +320,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 18
       },
