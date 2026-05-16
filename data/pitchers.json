@@ -252,6 +252,14 @@
     },
     {
       "rank": 2,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "1.60"
+    },
+    {
+      "rank": 3,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -259,20 +267,12 @@
       "value": "1.62"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "1.66"
-    },
-    {
-      "rank": 4,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.70"
     },
     {
       "rank": 5,
@@ -308,19 +308,19 @@
     },
     {
       "rank": 9,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "2.01"
+    },
+    {
+      "rank": 10,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "2.10"
-    },
-    {
-      "rank": 10,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "2.11"
     },
     {
       "rank": 11,
@@ -332,14 +332,6 @@
     },
     {
       "rank": 12,
-      "playerId": 593958,
-      "playerName": "Eduardo Rodriguez",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": "2.25"
-    },
-    {
-      "rank": 13,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -347,7 +339,7 @@
       "value": "2.32"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -355,7 +347,7 @@
       "value": "2.35"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 605280,
       "playerName": "Clay Holmes",
       "teamId": 121,
@@ -363,7 +355,7 @@
       "value": "2.39"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
@@ -371,12 +363,20 @@
       "value": "2.41"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 624133,
       "playerName": "Ranger Suarez",
       "teamId": 111,
       "teamAbbr": "BOS",
       "value": "2.44"
+    },
+    {
+      "rank": 17,
+      "playerId": 593958,
+      "playerName": "Eduardo Rodriguez",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": "2.55"
     },
     {
       "rank": 18,
@@ -502,19 +502,19 @@
     },
     {
       "rank": 3,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "72"
+    },
+    {
+      "rank": 4,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "68"
-    },
-    {
-      "rank": 4,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "67"
     },
     {
       "rank": 5,
@@ -1138,19 +1138,19 @@
     },
     {
       "rank": 22,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.05"
-    },
-    {
-      "rank": 23,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "1.05"
+    },
+    {
+      "rank": 23,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "1.07"
     },
     {
       "rank": 24,
