@@ -38,7 +38,7 @@
       "playerName": "Riley Greene",
       "teamId": 116,
       "teamAbbr": "DET",
-      "value": ".329"
+      "value": ".323"
     },
     {
       "rank": 6,
@@ -90,19 +90,19 @@
     },
     {
       "rank": 12,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".313"
+    },
+    {
+      "rank": 13,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".313"
-    },
-    {
-      "rank": 13,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".309"
     },
     {
       "rank": 14,
@@ -194,6 +194,14 @@
     },
     {
       "rank": 25,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".293"
+    },
+    {
+      "rank": 26,
       "playerId": 805779,
       "playerName": "Jacob Wilson",
       "teamId": 133,
@@ -201,7 +209,7 @@
       "value": ".292"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -209,7 +217,7 @@
       "value": ".291"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -217,7 +225,7 @@
       "value": ".291"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -225,20 +233,12 @@
       "value": ".291"
     },
     {
-      "rank": 29,
-      "playerId": 665489,
-      "playerName": "Vladimir Guerrero Jr.",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": ".288"
-    },
-    {
       "rank": 30,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".288"
+      "playerId": 621566,
+      "playerName": "Matt Olson",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".287"
     }
   ],
   "hr": [
@@ -550,19 +550,19 @@
     },
     {
       "rank": 9,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "32"
+    },
+    {
+      "rank": 10,
       "playerId": 665833,
       "playerName": "Oneil Cruz",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "32"
-    },
-    {
-      "rank": 10,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": "31"
     },
     {
       "rank": 11,
