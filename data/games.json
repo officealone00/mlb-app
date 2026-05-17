@@ -289,14 +289,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 23,
-        "losses": 21
+        "losses": 22
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 18,
+        "wins": 19,
         "losses": 27
       },
       "koreanPlayerTeams": [
@@ -314,14 +314,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 16,
-        "losses": 29
+        "losses": 30
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 27,
+        "wins": 28,
         "losses": 18
       },
       "koreanPlayerTeams": [
@@ -660,8 +660,8 @@
     },
     {
       "gameId": 824038,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-17T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -669,14 +669,14 @@
         "kr": "LA 에인절스",
         "score": 2,
         "wins": 16,
-        "losses": 29
+        "losses": 30
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 10,
-        "wins": 27,
+        "score": 15,
+        "wins": 28,
         "losses": 18
       },
       "koreanPlayerTeams": [
@@ -685,8 +685,8 @@
     },
     {
       "gameId": 825007,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-17T01:40:00Z",
       "home": {
         "teamId": 133,
@@ -694,14 +694,14 @@
         "kr": "애슬레틱스",
         "score": 4,
         "wins": 23,
-        "losses": 21
+        "losses": 22
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": 6,
-        "wins": 18,
+        "wins": 19,
         "losses": 27
       },
       "koreanPlayerTeams": [
