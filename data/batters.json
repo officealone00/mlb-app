@@ -82,14 +82,6 @@
     },
     {
       "rank": 11,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": ".304"
-    },
-    {
-      "rank": 12,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -97,7 +89,7 @@
       "value": ".303"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -105,7 +97,7 @@
       "value": ".302"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -113,7 +105,7 @@
       "value": ".301"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
@@ -121,11 +113,19 @@
       "value": ".301"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 673962,
       "playerName": "Josh Jung",
       "teamId": 140,
       "teamAbbr": "TEX",
+      "value": ".301"
+    },
+    {
+      "rank": 16,
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": ".301"
     },
     {
@@ -808,6 +808,14 @@
     },
     {
       "rank": 11,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "11"
+    },
+    {
+      "rank": 12,
       "playerId": 804606,
       "playerName": "Konnor Griffin",
       "teamId": 134,
@@ -815,7 +823,7 @@
       "value": "10"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 807712,
       "playerName": "Luke Keaschall",
       "teamId": 142,
@@ -823,7 +831,7 @@
       "value": "10"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 656775,
       "playerName": "Cedric Mullins",
       "teamId": 139,
@@ -831,7 +839,15 @@
       "value": "10"
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "playerId": 647304,
+      "playerName": "Josh Naylor",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "10"
+    },
+    {
+      "rank": 16,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
@@ -839,15 +855,7 @@
       "value": "10"
     },
     {
-      "rank": 15,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "10"
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -855,7 +863,7 @@
       "value": "9"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 680776,
       "playerName": "Jarren Duran",
       "teamId": 111,
@@ -863,19 +871,11 @@
       "value": "9"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 663538,
       "playerName": "Nico Hoerner",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "9"
-    },
-    {
-      "rank": 19,
-      "playerId": 647304,
-      "playerName": "Josh Naylor",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "9"
     },
     {

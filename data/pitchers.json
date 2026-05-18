@@ -412,14 +412,6 @@
     },
     {
       "rank": 22,
-      "playerId": 669923,
-      "playerName": "George Kirby",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "2.85"
-    },
-    {
-      "rank": 23,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -427,7 +419,7 @@
       "value": "2.87"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -435,7 +427,7 @@
       "value": "2.92"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -443,7 +435,7 @@
       "value": "3.02"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -451,7 +443,7 @@
       "value": "3.02"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
@@ -459,7 +451,7 @@
       "value": "3.04"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -467,7 +459,7 @@
       "value": "3.09"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
@@ -475,12 +467,20 @@
       "value": "3.19"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.20"
+    },
+    {
+      "rank": 30,
+      "playerId": 813349,
+      "playerName": "Connelly Early",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "3.21"
     }
   ],
   "k": [
@@ -1202,11 +1202,11 @@
     },
     {
       "rank": 30,
-      "playerId": 669923,
-      "playerName": "George Kirby",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "1.12"
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "1.14"
     }
   ]
 }

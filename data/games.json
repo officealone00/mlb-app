@@ -265,7 +265,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 27,
+        "wins": 28,
         "losses": 18
       },
       "away": {
@@ -317,7 +317,7 @@
         "kr": "시애틀",
         "score": null,
         "wins": 22,
-        "losses": 25
+        "losses": 26
       },
       "away": {
         "teamId": 145,
@@ -588,8 +588,8 @@
     },
     {
       "gameId": 824358,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-17T19:10:00Z",
       "home": {
         "teamId": 115,
@@ -661,23 +661,23 @@
     },
     {
       "gameId": 823138,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-17T23:20:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 0,
+        "score": 3,
         "wins": 22,
-        "losses": 25
+        "losses": 26
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 1,
-        "wins": 27,
+        "score": 8,
+        "wins": 28,
         "losses": 18
       },
       "koreanPlayerTeams": [
