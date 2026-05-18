@@ -50,6 +50,14 @@
     },
     {
       "rank": 7,
+      "playerId": 647336,
+      "playerName": "Michael Soroka",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": "6"
+    },
+    {
+      "rank": 8,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -57,7 +65,7 @@
       "value": "6"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -65,7 +73,7 @@
       "value": "6"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 681293,
       "playerName": "Spencer Arrighetti",
       "teamId": 117,
@@ -73,7 +81,7 @@
       "value": "5"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -81,7 +89,7 @@
       "value": "5"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 650644,
       "playerName": "Aaron Civale",
       "teamId": 133,
@@ -89,7 +97,7 @@
       "value": "5"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -97,7 +105,7 @@
       "value": "5"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 669923,
       "playerName": "George Kirby",
       "teamId": 136,
@@ -105,7 +113,7 @@
       "value": "5"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 681517,
       "playerName": "Kyle Leahy",
       "teamId": 138,
@@ -113,7 +121,7 @@
       "value": "5"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -121,7 +129,7 @@
       "value": "5"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 641927,
       "playerName": "Bailey Ober",
       "teamId": 142,
@@ -129,19 +137,11 @@
       "value": "5"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "5"
-    },
-    {
-      "rank": 18,
-      "playerId": 647336,
-      "playerName": "Michael Soroka",
-      "teamId": 109,
-      "teamAbbr": "ARI",
       "value": "5"
     },
     {
@@ -416,7 +416,7 @@
       "playerName": "George Kirby",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "2.84"
+      "value": "2.85"
     },
     {
       "rank": 23,
@@ -796,7 +796,7 @@
       "playerName": "Paul Sewald",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": "9"
+      "value": "10"
     },
     {
       "rank": 10,
@@ -1202,11 +1202,11 @@
     },
     {
       "rank": 30,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "1.14"
+      "playerId": 669923,
+      "playerName": "George Kirby",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "1.12"
     }
   ]
 }
