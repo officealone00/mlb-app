@@ -460,6 +460,14 @@
     },
     {
       "rank": 28,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "3.10"
+    },
+    {
+      "rank": 29,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
@@ -467,20 +475,12 @@
       "value": "3.19"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.20"
-    },
-    {
-      "rank": 30,
-      "playerId": 813349,
-      "playerName": "Connelly Early",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "3.21"
     }
   ],
   "k": [
@@ -678,19 +678,19 @@
     },
     {
       "rank": 25,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "55"
+    },
+    {
+      "rank": 26,
       "playerId": 647336,
       "playerName": "Michael Soroka",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "55"
-    },
-    {
-      "rank": 26,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "54"
     },
     {
       "rank": 27,
@@ -1202,10 +1202,10 @@
     },
     {
       "rank": 30,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 120,
-      "teamAbbr": "WSH",
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "1.14"
     }
   ]
