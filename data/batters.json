@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".337"
+      "value": ".340"
     },
     {
       "rank": 2,
@@ -42,19 +42,19 @@
     },
     {
       "rank": 6,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".324"
+    },
+    {
+      "rank": 7,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": ".324"
-    },
-    {
-      "rank": 7,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".322"
     },
     {
       "rank": 8,
@@ -210,6 +210,14 @@
     },
     {
       "rank": 27,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".290"
+    },
+    {
+      "rank": 28,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -217,7 +225,7 @@
       "value": ".289"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -225,19 +233,11 @@
       "value": ".289"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 641343,
       "playerName": "Jake Bauers",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": ".288"
-    },
-    {
-      "rank": 30,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
       "value": ".288"
     }
   ],
