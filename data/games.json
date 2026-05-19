@@ -173,7 +173,7 @@
         "abbr": "MIN",
         "kr": "미네소타",
         "score": null,
-        "wins": 21,
+        "wins": 22,
         "losses": 26
       },
       "away": {
@@ -182,7 +182,7 @@
         "kr": "휴스턴",
         "score": null,
         "wins": 19,
-        "losses": 29
+        "losses": 30
       },
       "koreanPlayerTeams": []
     },
@@ -339,7 +339,7 @@
         "abbr": "SEA",
         "kr": "시애틀",
         "score": null,
-        "wins": 22,
+        "wins": 23,
         "losses": 26
       },
       "away": {
@@ -348,7 +348,7 @@
         "kr": "시카고 화이트삭스",
         "score": null,
         "wins": 24,
-        "losses": 22
+        "losses": 23
       },
       "koreanPlayerTeams": []
     }
@@ -519,15 +519,15 @@
     },
     {
       "gameId": 823705,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-18T23:40:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
         "score": 6,
-        "wins": 21,
+        "wins": 22,
         "losses": 26
       },
       "away": {
@@ -536,7 +536,7 @@
         "kr": "휴스턴",
         "score": 3,
         "wins": 19,
-        "losses": 29
+        "losses": 30
       },
       "koreanPlayerTeams": []
     },
@@ -637,8 +637,8 @@
     },
     {
       "gameId": 825087,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-19T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -662,15 +662,15 @@
     },
     {
       "gameId": 823137,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-19T01:40:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 3,
-        "wins": 22,
+        "score": 6,
+        "wins": 23,
         "losses": 26
       },
       "away": {
@@ -679,7 +679,7 @@
         "kr": "시카고 화이트삭스",
         "score": 1,
         "wins": 24,
-        "losses": 22
+        "losses": 23
       },
       "koreanPlayerTeams": []
     }
