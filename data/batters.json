@@ -46,7 +46,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".321"
+      "value": ".323"
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".309"
+      "value": ".306"
     },
     {
       "rank": 12,
@@ -130,14 +130,6 @@
     },
     {
       "rank": 17,
-      "playerId": 682829,
-      "playerName": "Elly De La Cruz",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": ".297"
-    },
-    {
-      "rank": 18,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -145,7 +137,7 @@
       "value": ".297"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -153,7 +145,7 @@
       "value": ".295"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 677800,
       "playerName": "Wilyer Abreu",
       "teamId": 111,
@@ -161,7 +153,7 @@
       "value": ".294"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
@@ -169,15 +161,7 @@
       "value": ".294"
     },
     {
-      "rank": 22,
-      "playerId": 802415,
-      "playerName": "Chandler Simpson",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".294"
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
@@ -185,7 +169,7 @@
       "value": ".294"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -193,7 +177,15 @@
       "value": ".293"
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "playerId": 682829,
+      "playerName": "Elly De La Cruz",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": ".293"
+    },
+    {
+      "rank": 24,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -201,7 +193,7 @@
       "value": ".292"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 805779,
       "playerName": "Jacob Wilson",
       "teamId": 133,
@@ -209,12 +201,20 @@
       "value": ".292"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 641343,
       "playerName": "Jake Bauers",
       "teamId": 158,
       "teamAbbr": "MIL",
       "value": ".292"
+    },
+    {
+      "rank": 27,
+      "playerId": 802415,
+      "playerName": "Chandler Simpson",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".291"
     },
     {
       "rank": 28,
@@ -646,6 +646,14 @@
     },
     {
       "rank": 21,
+      "playerId": 547180,
+      "playerName": "Bryce Harper",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "31"
+    },
+    {
+      "rank": 22,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -653,7 +661,7 @@
       "value": "31"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
@@ -661,7 +669,7 @@
       "value": "31"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 545121,
       "playerName": "Ildemaro Vargas",
       "teamId": 109,
@@ -669,7 +677,7 @@
       "value": "31"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 572233,
       "playerName": "Christian Walker",
       "teamId": 117,
@@ -677,7 +685,7 @@
       "value": "31"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -685,19 +693,11 @@
       "value": "30"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "30"
-    },
-    {
-      "rank": 27,
-      "playerId": 547180,
-      "playerName": "Bryce Harper",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "30"
     },
     {
