@@ -128,14 +128,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 17,
-        "losses": 32
+        "losses": 33
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 24,
+        "wins": 25,
         "losses": 24
       },
       "koreanPlayerTeams": []
@@ -496,8 +496,8 @@
     },
     {
       "gameId": 824032,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-21T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -505,14 +505,14 @@
         "kr": "LA 에인절스",
         "score": 5,
         "wins": 17,
-        "losses": 32
+        "losses": 33
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": 6,
-        "wins": 24,
+        "wins": 25,
         "losses": 24
       },
       "koreanPlayerTeams": []
