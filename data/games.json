@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822733,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-21T20:05:00Z",
       "home": {
         "teamId": 120,
@@ -57,22 +57,22 @@
         "kr": "워싱턴",
         "score": 1,
         "wins": 25,
-        "losses": 25
+        "losses": 26
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
         "score": 2,
-        "wins": 21,
+        "wins": 22,
         "losses": 28
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823864,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-21T22:40:00Z",
       "home": {
         "teamId": 146,
@@ -86,7 +86,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 0,
+        "score": 3,
         "wins": 34,
         "losses": 16
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823545,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-05-21T23:05:00Z",
       "home": {
         "teamId": 147,
@@ -119,14 +119,14 @@
     },
     {
       "gameId": 824031,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-22T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 17,
         "losses": 33
       },
@@ -134,7 +134,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 25,
         "losses": 24
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 825083,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-22T01:40:00Z",
       "home": {
         "teamId": 109,

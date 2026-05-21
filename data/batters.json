@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".349"
+      "value": ".347"
     },
     {
       "rank": 2,
@@ -50,6 +50,14 @@
     },
     {
       "rank": 7,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".321"
+    },
+    {
+      "rank": 8,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
@@ -57,20 +65,12 @@
       "value": ".319"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".319"
-    },
-    {
-      "rank": 9,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".317"
     },
     {
       "rank": 10,
@@ -122,6 +122,14 @@
     },
     {
       "rank": 16,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".299"
+    },
+    {
+      "rank": 17,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -129,20 +137,12 @@
       "value": ".297"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": ".295"
-    },
-    {
-      "rank": 18,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".294"
     },
     {
       "rank": 19,
@@ -460,6 +460,14 @@
     },
     {
       "rank": 28,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "10"
+    },
+    {
+      "rank": 29,
       "playerId": 683002,
       "playerName": "Gunnar Henderson",
       "teamId": 110,
@@ -467,19 +475,11 @@
       "value": "10"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "10"
-    },
-    {
-      "rank": 30,
-      "playerId": 681624,
-      "playerName": "Andy Pages",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "10"
     }
   ],
