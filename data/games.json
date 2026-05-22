@@ -268,7 +268,7 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 17,
-        "losses": 33
+        "losses": 34
       },
       "away": {
         "teamId": 140,
@@ -290,7 +290,7 @@
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 25,
+        "wins": 26,
         "losses": 23
       },
       "away": {
@@ -299,7 +299,7 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 19,
-        "losses": 31
+        "losses": 32
       },
       "koreanPlayerTeams": []
     },
@@ -321,7 +321,7 @@
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 25,
+        "wins": 26,
         "losses": 24
       },
       "koreanPlayerTeams": [
@@ -474,8 +474,8 @@
     },
     {
       "gameId": 824031,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-22T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -483,29 +483,29 @@
         "kr": "LA 에인절스",
         "score": 2,
         "wins": 17,
-        "losses": 33
+        "losses": 34
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 2,
-        "wins": 25,
+        "score": 3,
+        "wins": 26,
         "losses": 24
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 825083,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-22T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
-        "wins": 25,
+        "score": 2,
+        "wins": 26,
         "losses": 23
       },
       "away": {
@@ -514,7 +514,7 @@
         "kr": "콜로라도",
         "score": 1,
         "wins": 19,
-        "losses": 31
+        "losses": 32
       },
       "koreanPlayerTeams": []
     }
