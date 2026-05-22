@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824679,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-22T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 21
       },
@@ -17,7 +17,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 20,
         "losses": 31
       },
