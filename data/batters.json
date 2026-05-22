@@ -26,19 +26,19 @@
     },
     {
       "rank": 4,
-      "playerId": 669016,
-      "playerName": "Brandon Marsh",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": ".325"
-    },
-    {
-      "rank": 5,
       "playerId": 687859,
       "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".324"
+    },
+    {
+      "rank": 5,
+      "playerId": 669016,
+      "playerName": "Brandon Marsh",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": ".323"
     },
     {
       "rank": 6,
@@ -186,6 +186,14 @@
     },
     {
       "rank": 24,
+      "playerId": 802415,
+      "playerName": "Chandler Simpson",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".292"
+    },
+    {
+      "rank": 25,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -193,7 +201,7 @@
       "value": ".291"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 641343,
       "playerName": "Jake Bauers",
       "teamId": 158,
@@ -201,19 +209,11 @@
       "value": ".291"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".290"
-    },
-    {
-      "rank": 27,
-      "playerId": 677587,
-      "playerName": "Brayan Rocchio",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": ".290"
     },
     {

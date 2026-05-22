@@ -272,7 +272,7 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "1.82"
+      "value": "1.76"
     },
     {
       "rank": 5,
@@ -452,14 +452,6 @@
     },
     {
       "rank": 27,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "3.19"
-    },
-    {
-      "rank": 28,
       "playerId": 608331,
       "playerName": "Max Fried",
       "teamId": 147,
@@ -467,7 +459,7 @@
       "value": "3.21"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
@@ -475,11 +467,19 @@
       "value": "3.27"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 650644,
       "playerName": "Aaron Civale",
       "teamId": 133,
       "teamAbbr": "ATH",
+      "value": "3.31"
+    },
+    {
+      "rank": 30,
+      "playerId": 642547,
+      "playerName": "Freddy Peralta",
+      "teamId": 121,
+      "teamAbbr": "NYM",
       "value": "3.31"
     }
   ],
@@ -506,10 +506,18 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "80"
+      "value": "83"
     },
     {
       "rank": 4,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "76"
+    },
+    {
+      "rank": 5,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
@@ -517,20 +525,12 @@
       "value": "75"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "74"
-    },
-    {
-      "rank": 6,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "73"
     },
     {
       "rank": 7,
@@ -1066,14 +1066,6 @@
     },
     {
       "rank": 13,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.00"
-    },
-    {
-      "rank": 14,
       "playerId": 608331,
       "playerName": "Max Fried",
       "teamId": 147,
@@ -1081,7 +1073,7 @@
       "value": "1.01"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -1089,7 +1081,7 @@
       "value": "1.02"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
@@ -1097,7 +1089,7 @@
       "value": "1.03"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -1105,7 +1097,7 @@
       "value": "1.03"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -1113,7 +1105,7 @@
       "value": "1.03"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -1121,7 +1113,7 @@
       "value": "1.03"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1129,7 +1121,7 @@
       "value": "1.04"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -1137,15 +1129,7 @@
       "value": "1.04"
     },
     {
-      "rank": 22,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "1.05"
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -1153,7 +1137,15 @@
       "value": "1.06"
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "1.06"
+    },
+    {
+      "rank": 23,
       "playerId": 656605,
       "playerName": "Mitch Keller",
       "teamId": 134,
@@ -1161,7 +1153,7 @@
       "value": "1.06"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -1169,7 +1161,7 @@
       "value": "1.06"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 641927,
       "playerName": "Bailey Ober",
       "teamId": 142,
@@ -1177,7 +1169,7 @@
       "value": "1.07"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -1185,7 +1177,7 @@
       "value": "1.07"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 669372,
       "playerName": "J.T. Ginn",
       "teamId": 133,
@@ -1193,7 +1185,7 @@
       "value": "1.07"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 605280,
       "playerName": "Clay Holmes",
       "teamId": 121,
@@ -1201,12 +1193,20 @@
       "value": "1.10"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": "1.12"
+    },
+    {
+      "rank": 30,
+      "playerId": 694738,
+      "playerName": "Landen Roupp",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "1.15"
     }
   ]
 }
