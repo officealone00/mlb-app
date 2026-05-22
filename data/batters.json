@@ -90,18 +90,18 @@
     },
     {
       "rank": 12,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".303"
-    },
-    {
-      "rank": 13,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
+      "value": ".303"
+    },
+    {
+      "rank": 13,
+      "playerId": 686948,
+      "playerName": "Drake Baldwin",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": ".303"
     },
     {
@@ -848,6 +848,14 @@
     },
     {
       "rank": 16,
+      "playerId": 663538,
+      "playerName": "Nico Hoerner",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "10"
+    },
+    {
+      "rank": 17,
       "playerId": 807712,
       "playerName": "Luke Keaschall",
       "teamId": 142,
@@ -855,7 +863,7 @@
       "value": "10"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 656775,
       "playerName": "Cedric Mullins",
       "teamId": 139,
@@ -863,7 +871,7 @@
       "value": "10"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
@@ -871,7 +879,7 @@
       "value": "10"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -879,19 +887,11 @@
       "value": "9"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 686668,
       "playerName": "Brenton Doyle",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": "9"
-    },
-    {
-      "rank": 21,
-      "playerId": 663538,
-      "playerName": "Nico Hoerner",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "9"
     },
     {
