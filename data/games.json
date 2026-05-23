@@ -47,29 +47,6 @@
       "koreanPlayerTeams": []
     },
     {
-      "gameId": 823543,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-05-23T17:35:00Z",
-      "home": {
-        "teamId": 147,
-        "abbr": "NYY",
-        "kr": "뉴욕 양키스",
-        "score": null,
-        "wins": 30,
-        "losses": 22
-      },
-      "away": {
-        "teamId": 139,
-        "abbr": "TB",
-        "kr": "탬파베이",
-        "score": null,
-        "wins": 34,
-        "losses": 15
-      },
-      "koreanPlayerTeams": []
-    },
-    {
       "gameId": 824674,
       "status": "Scheduled",
       "statusCode": "S",
@@ -373,6 +350,29 @@
         "score": null,
         "wins": 20,
         "losses": 32
+      },
+      "koreanPlayerTeams": []
+    },
+    {
+      "gameId": 823543,
+      "status": "Postponed",
+      "statusCode": "DR",
+      "startTime": "2026-05-23T17:35:00Z",
+      "home": {
+        "teamId": 147,
+        "abbr": "NYY",
+        "kr": "뉴욕 양키스",
+        "score": null,
+        "wins": 30,
+        "losses": 22
+      },
+      "away": {
+        "teamId": 139,
+        "abbr": "TB",
+        "kr": "탬파베이",
+        "score": null,
+        "wins": 34,
+        "losses": 15
       },
       "koreanPlayerTeams": []
     }
