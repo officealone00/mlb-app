@@ -98,6 +98,14 @@
     },
     {
       "rank": 13,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "5"
+    },
+    {
+      "rank": 14,
       "playerId": 650644,
       "playerName": "Aaron Civale",
       "teamId": 133,
@@ -105,7 +113,7 @@
       "value": "5"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -113,7 +121,7 @@
       "value": "5"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -121,7 +129,7 @@
       "value": "5"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
@@ -129,7 +137,7 @@
       "value": "5"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 690986,
       "playerName": "Kyle Harrison",
       "teamId": 158,
@@ -137,7 +145,7 @@
       "value": "5"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 669923,
       "playerName": "George Kirby",
       "teamId": 136,
@@ -145,7 +153,7 @@
       "value": "5"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 681517,
       "playerName": "Kyle Leahy",
       "teamId": 138,
@@ -153,7 +161,7 @@
       "value": "5"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
@@ -161,7 +169,7 @@
       "value": "5"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -169,7 +177,7 @@
       "value": "5"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -177,7 +185,7 @@
       "value": "5"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 641927,
       "playerName": "Bailey Ober",
       "teamId": 142,
@@ -185,7 +193,7 @@
       "value": "5"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
@@ -193,7 +201,7 @@
       "value": "5"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
@@ -201,7 +209,7 @@
       "value": "5"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 669947,
       "playerName": "Jesse Scholtens",
       "teamId": 139,
@@ -209,7 +217,7 @@
       "value": "5"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
@@ -217,7 +225,7 @@
       "value": "5"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 681190,
       "playerName": "Randy Vásquez",
       "teamId": 135,
@@ -225,19 +233,11 @@
       "value": "5"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 671096,
       "playerName": "Andrew Abbott",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "4"
-    },
-    {
-      "rank": 30,
-      "playerId": 605135,
-      "playerName": "Chris Bassitt",
-      "teamId": 110,
-      "teamAbbr": "BAL",
       "value": "4"
     }
   ],
@@ -944,6 +944,14 @@
     },
     {
       "rank": 28,
+      "playerId": 663992,
+      "playerName": "Richard Lovelady",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "4"
+    },
+    {
+      "rank": 29,
       "playerId": 605447,
       "playerName": "Jordan Romano",
       "teamId": 108,
@@ -951,19 +959,11 @@
       "value": "4"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 656945,
       "playerName": "Tanner Scott",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "4"
-    },
-    {
-      "rank": 30,
-      "playerId": 642397,
-      "playerName": "Gregory Soto",
-      "teamId": 134,
-      "teamAbbr": "PIT",
       "value": "4"
     }
   ],
