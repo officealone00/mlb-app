@@ -276,18 +276,18 @@
     },
     {
       "rank": 5,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "1.89"
-    },
-    {
-      "rank": 6,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
+      "value": "1.86"
+    },
+    {
+      "rank": 6,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": "1.89"
     },
     {
@@ -352,7 +352,7 @@
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "2.70"
+      "value": "2.66"
     },
     {
       "rank": 15,
@@ -486,19 +486,19 @@
   "k": [
     {
       "rank": 1,
+      "playerId": 694819,
+      "playerName": "Jacob Misiorowski",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "98"
+    },
+    {
+      "rank": 2,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "92"
-    },
-    {
-      "rank": 2,
-      "playerId": 694819,
-      "playerName": "Jacob Misiorowski",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "88"
     },
     {
       "rank": 3,
@@ -678,6 +678,14 @@
     },
     {
       "rank": 25,
+      "playerId": 701542,
+      "playerName": "Will Warren",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "63"
+    },
+    {
+      "rank": 26,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -685,15 +693,15 @@
       "value": "62"
     },
     {
-      "rank": 26,
-      "playerId": 701542,
-      "playerName": "Will Warren",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "62"
+      "rank": 27,
+      "playerId": 680694,
+      "playerName": "Kyle Bradish",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": "61"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -701,7 +709,7 @@
       "value": "61"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -709,19 +717,11 @@
       "value": "61"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "61"
-    },
-    {
-      "rank": 30,
-      "playerId": 694738,
-      "playerName": "Landen Roupp",
-      "teamId": 137,
-      "teamAbbr": "SF",
       "value": "61"
     }
   ],
@@ -978,6 +978,14 @@
     },
     {
       "rank": 2,
+      "playerId": 694819,
+      "playerName": "Jacob Misiorowski",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "0.84"
+    },
+    {
+      "rank": 3,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
@@ -985,20 +993,12 @@
       "value": "0.86"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": "0.87"
-    },
-    {
-      "rank": 4,
-      "playerId": 694819,
-      "playerName": "Jacob Misiorowski",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "0.88"
     },
     {
       "rank": 5,
@@ -1058,6 +1058,14 @@
     },
     {
       "rank": 12,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "1.01"
+    },
+    {
+      "rank": 13,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -1065,20 +1073,12 @@
       "value": "1.02"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "1.02"
-    },
-    {
-      "rank": 14,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "1.03"
     },
     {
       "rank": 15,
