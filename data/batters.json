@@ -202,14 +202,6 @@
     },
     {
       "rank": 26,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".291"
-    },
-    {
-      "rank": 27,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -217,11 +209,19 @@
       "value": ".290"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".289"
+    },
+    {
+      "rank": 28,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": ".289"
     },
     {
