@@ -376,7 +376,7 @@
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "2.89"
+      "value": "2.94"
     },
     {
       "rank": 18,
@@ -412,14 +412,6 @@
     },
     {
       "rank": 22,
-      "playerId": 676282,
-      "playerName": "Joey Cantillo",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "3.05"
-    },
-    {
-      "rank": 23,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -427,7 +419,7 @@
       "value": "3.07"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -435,7 +427,7 @@
       "value": "3.07"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -443,7 +435,7 @@
       "value": "3.09"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
@@ -451,7 +443,7 @@
       "value": "3.14"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 608331,
       "playerName": "Max Fried",
       "teamId": 147,
@@ -459,7 +451,7 @@
       "value": "3.21"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -467,7 +459,7 @@
       "value": "3.23"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -475,12 +467,20 @@
       "value": "3.25"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 647336,
       "playerName": "Michael Soroka",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "3.27"
+    },
+    {
+      "rank": 30,
+      "playerId": 694738,
+      "playerName": "Landen Roupp",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "3.30"
     }
   ],
   "k": [
@@ -598,19 +598,19 @@
     },
     {
       "rank": 15,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "66"
+    },
+    {
+      "rank": 16,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "66"
-    },
-    {
-      "rank": 16,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "65"
     },
     {
       "rank": 17,
@@ -646,6 +646,14 @@
     },
     {
       "rank": 21,
+      "playerId": 676917,
+      "playerName": "Cade Cavalli",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "64"
+    },
+    {
+      "rank": 22,
       "playerId": 622663,
       "playerName": "Luis Severino",
       "teamId": 133,
@@ -653,7 +661,7 @@
       "value": "64"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -661,7 +669,7 @@
       "value": "64"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -669,7 +677,7 @@
       "value": "63"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -677,7 +685,7 @@
       "value": "63"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 642547,
       "playerName": "Freddy Peralta",
       "teamId": 121,
@@ -685,7 +693,7 @@
       "value": "63"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 691587,
       "playerName": "Eury Pérez",
       "teamId": 146,
@@ -693,7 +701,7 @@
       "value": "63"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -701,19 +709,11 @@
       "value": "62"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 680694,
       "playerName": "Kyle Bradish",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "61"
-    },
-    {
-      "rank": 29,
-      "playerId": 676917,
-      "playerName": "Cade Cavalli",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": "61"
     },
     {
