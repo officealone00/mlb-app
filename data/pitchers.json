@@ -1186,14 +1186,6 @@
     },
     {
       "rank": 28,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.11"
-    },
-    {
-      "rank": 29,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -1201,12 +1193,20 @@
       "value": "1.11"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "1.12"
+    },
+    {
+      "rank": 30,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "1.13"
     }
   ]
 }
