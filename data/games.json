@@ -338,7 +338,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 34,
+        "wins": 35,
         "losses": 20
       },
       "away": {
@@ -347,7 +347,7 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 20,
-        "losses": 35
+        "losses": 36
       },
       "koreanPlayerTeams": [
         119
@@ -685,24 +685,24 @@
     },
     {
       "gameId": 823949,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-27T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 15,
-        "wins": 34,
+        "wins": 35,
         "losses": 20
       },
       "away": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 2,
+        "score": 6,
         "wins": 20,
-        "losses": 35
+        "losses": 36
       },
       "koreanPlayerTeams": [
         119
