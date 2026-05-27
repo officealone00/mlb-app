@@ -35,16 +35,16 @@
     "teamKrName": "LA 다저스",
     "stats": {
       "hitting": {
-        "games": 41,
-        "atBats": 113,
+        "games": 42,
+        "atBats": 114,
         "hits": 29,
         "homeRuns": 1,
-        "rbi": 10,
+        "rbi": 11,
         "stolenBases": 5,
-        "avg": ".257",
-        "obp": ".325",
-        "slg": ".327",
-        "ops": ".652"
+        "avg": ".254",
+        "obp": ".320",
+        "slg": ".325",
+        "ops": ".645"
       },
       "pitching": null
     }
@@ -61,15 +61,15 @@
     "stats": {
       "hitting": {
         "games": 11,
-        "atBats": 35,
+        "atBats": 38,
         "hits": 4,
         "homeRuns": 0,
         "rbi": 2,
         "stolenBases": 1,
-        "avg": ".114",
-        "obp": ".225",
-        "slg": ".114",
-        "ops": ".339"
+        "avg": ".105",
+        "obp": ".209",
+        "slg": ".105",
+        "ops": ".314"
       },
       "pitching": null
     }
