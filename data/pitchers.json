@@ -18,6 +18,14 @@
     },
     {
       "rank": 3,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "8"
+    },
+    {
+      "rank": 4,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -25,19 +33,11 @@
       "value": "8"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "7"
-    },
-    {
-      "rank": 5,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
       "value": "7"
     },
     {
@@ -268,14 +268,6 @@
     },
     {
       "rank": 4,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "1.80"
-    },
-    {
-      "rank": 5,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
@@ -283,7 +275,7 @@
       "value": "1.83"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -291,12 +283,20 @@
       "value": "1.96"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "2.00"
+    },
+    {
+      "rank": 7,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "2.01"
     },
     {
       "rank": 8,
@@ -380,6 +380,14 @@
     },
     {
       "rank": 18,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "2.86"
+    },
+    {
+      "rank": 19,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -387,7 +395,7 @@
       "value": "2.94"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 813349,
       "playerName": "Connelly Early",
       "teamId": 111,
@@ -395,20 +403,12 @@
       "value": "2.95"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "2.98"
-    },
-    {
-      "rank": 21,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "3.00"
     },
     {
       "rank": 22,
@@ -526,19 +526,19 @@
     },
     {
       "rank": 6,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "80"
+    },
+    {
+      "rank": 7,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "78"
-    },
-    {
-      "rank": 7,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "76"
     },
     {
       "rank": 8,
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "72"
+    },
+    {
+      "rank": 14,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -589,7 +597,7 @@
       "value": "71"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -597,7 +605,7 @@
       "value": "70"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -605,7 +613,7 @@
       "value": "70"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -613,7 +621,7 @@
       "value": "70"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -621,7 +629,7 @@
       "value": "70"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -629,7 +637,7 @@
       "value": "69"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -637,7 +645,7 @@
       "value": "68"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -645,7 +653,7 @@
       "value": "68"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
@@ -653,7 +661,7 @@
       "value": "68"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -661,20 +669,12 @@
       "value": "67"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "66"
-    },
-    {
-      "rank": 24,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "65"
     },
     {
       "rank": 25,
@@ -974,7 +974,7 @@
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "0.82"
+      "value": "0.81"
     },
     {
       "rank": 2,
@@ -994,19 +994,19 @@
     },
     {
       "rank": 4,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "0.91"
-    },
-    {
-      "rank": 5,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "0.93"
+    },
+    {
+      "rank": 5,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "0.94"
     },
     {
       "rank": 6,
