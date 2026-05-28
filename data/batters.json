@@ -62,7 +62,7 @@
       "playerName": "Riley Greene",
       "teamId": 116,
       "teamAbbr": "DET",
-      "value": ".305"
+      "value": ".307"
     },
     {
       "rank": 9,
@@ -146,14 +146,6 @@
     },
     {
       "rank": 19,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".297"
-    },
-    {
-      "rank": 20,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -161,7 +153,7 @@
       "value": ".295"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
@@ -169,11 +161,19 @@
       "value": ".295"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
+      "value": ".294"
+    },
+    {
+      "rank": 22,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".294"
     },
     {

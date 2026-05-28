@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824272,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-28T17:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 1,
         "wins": 22,
         "losses": 34
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824595,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-05-28T18:10:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 28,
         "losses": 27
       },
@@ -40,7 +40,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 29
       },
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 824757,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-05-28T20:10:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 23,
         "losses": 31
       },
@@ -63,7 +63,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 19
       },

@@ -296,7 +296,7 @@
       "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "2.04"
+      "value": "2.01"
     },
     {
       "rank": 8,
@@ -654,18 +654,18 @@
     },
     {
       "rank": 22,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "66"
-    },
-    {
-      "rank": 23,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
+      "value": "67"
+    },
+    {
+      "rank": 23,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 141,
+      "teamAbbr": "TOR",
       "value": "66"
     },
     {
@@ -1042,6 +1042,14 @@
     },
     {
       "rank": 10,
+      "playerId": 663436,
+      "playerName": "Davis Martin",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "1.01"
+    },
+    {
+      "rank": 11,
       "playerId": 608331,
       "playerName": "Max Fried",
       "teamId": 147,
@@ -1049,20 +1057,12 @@
       "value": "1.01"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "1.01"
-    },
-    {
-      "rank": 12,
-      "playerId": 663436,
-      "playerName": "Davis Martin",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "1.02"
     },
     {
       "rank": 13,
