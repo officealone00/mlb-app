@@ -252,19 +252,19 @@
     },
     {
       "rank": 2,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "1.48"
+    },
+    {
+      "rank": 3,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "1.50"
-    },
-    {
-      "rank": 3,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.51"
     },
     {
       "rank": 4,
@@ -328,7 +328,7 @@
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "2.52"
+      "value": "2.51"
     },
     {
       "rank": 12,
@@ -718,10 +718,10 @@
     },
     {
       "rank": 30,
-      "playerId": 622663,
-      "playerName": "Luis Severino",
-      "teamId": 133,
-      "teamAbbr": "ATH",
+      "playerId": 642547,
+      "playerName": "Freddy Peralta",
+      "teamId": 121,
+      "teamAbbr": "NYM",
       "value": "64"
     }
   ],
@@ -1098,14 +1098,6 @@
     },
     {
       "rank": 17,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "1.05"
-    },
-    {
-      "rank": 18,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1113,12 +1105,20 @@
       "value": "1.07"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 656605,
       "playerName": "Mitch Keller",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "1.07"
+    },
+    {
+      "rank": 19,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "1.08"
     },
     {
       "rank": 20,
@@ -1146,6 +1146,14 @@
     },
     {
       "rank": 23,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "1.09"
+    },
+    {
+      "rank": 24,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -1153,7 +1161,7 @@
       "value": "1.09"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -1161,20 +1169,12 @@
       "value": "1.09"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 641927,
       "playerName": "Bailey Ober",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "1.10"
-    },
-    {
-      "rank": 26,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.11"
     },
     {
       "rank": 27,
