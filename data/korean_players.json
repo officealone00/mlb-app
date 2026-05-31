@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 50,
-        "atBats": 188,
-        "hits": 54,
+        "games": 51,
+        "atBats": 190,
+        "hits": 55,
         "homeRuns": 3,
-        "rbi": 17,
+        "rbi": 18,
         "stolenBases": 0,
-        "avg": ".287",
-        "obp": ".327",
-        "slg": ".415",
-        "ops": ".742"
+        "avg": ".289",
+        "obp": ".328",
+        "slg": ".416",
+        "ops": ".744"
       },
       "pitching": null
     }
@@ -61,15 +61,15 @@
     "stats": {
       "hitting": {
         "games": 13,
-        "atBats": 43,
+        "atBats": 45,
         "hits": 4,
         "homeRuns": 0,
         "rbi": 2,
         "stolenBases": 1,
-        "avg": ".093",
-        "obp": ".188",
-        "slg": ".093",
-        "ops": ".281"
+        "avg": ".089",
+        "obp": ".180",
+        "slg": ".089",
+        "ops": ".269"
       },
       "pitching": null
     }
@@ -86,15 +86,15 @@
     "stats": {
       "hitting": {
         "games": 17,
-        "atBats": 22,
+        "atBats": 23,
         "hits": 4,
         "homeRuns": 0,
         "rbi": 4,
         "stolenBases": 2,
-        "avg": ".182",
-        "obp": ".308",
-        "slg": ".227",
-        "ops": ".535"
+        "avg": ".174",
+        "obp": ".321",
+        "slg": ".217",
+        "ops": ".538"
       },
       "pitching": null
     }
