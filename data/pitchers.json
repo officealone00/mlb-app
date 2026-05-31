@@ -412,14 +412,6 @@
     },
     {
       "rank": 22,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "3.04"
-    },
-    {
-      "rank": 23,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
@@ -427,7 +419,7 @@
       "value": "3.05"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -435,7 +427,7 @@
       "value": "3.07"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -443,12 +435,20 @@
       "value": "3.09"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "3.13"
+    },
+    {
+      "rank": 26,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "3.18"
     },
     {
       "rank": 27,
