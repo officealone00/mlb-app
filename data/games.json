@@ -25,8 +25,8 @@
     },
     {
       "gameId": 822730,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-01T22:45:00Z",
       "home": {
         "teamId": 120,
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 824510,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-01T23:10:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 30,
         "losses": 28
       },
@@ -63,7 +63,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 22,
         "losses": 37
       },
