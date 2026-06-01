@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".294"
-    },
-    {
-      "rank": 24,
       "playerId": 669127,
       "playerName": "Shea Langeliers",
       "teamId": 133,
@@ -193,7 +185,7 @@
       "value": ".293"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 677587,
       "playerName": "Brayan Rocchio",
       "teamId": 114,
@@ -201,11 +193,19 @@
       "value": ".293"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".290"
+    },
+    {
+      "rank": 26,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".290"
     },
     {
@@ -614,6 +614,14 @@
     },
     {
       "rank": 17,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "38"
+    },
+    {
+      "rank": 18,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -621,7 +629,7 @@
       "value": "38"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 592450,
       "playerName": "Aaron Judge",
       "teamId": 147,
@@ -629,7 +637,7 @@
       "value": "38"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 668804,
       "playerName": "Bryan Reynolds",
       "teamId": 134,
@@ -637,19 +645,11 @@
       "value": "38"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 669394,
       "playerName": "Jake Burger",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "37"
-    },
-    {
-      "rank": 21,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": "37"
     },
     {

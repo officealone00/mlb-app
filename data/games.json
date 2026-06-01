@@ -127,7 +127,7 @@
         "abbr": "STL",
         "kr": "세인트루이스",
         "score": null,
-        "wins": 30,
+        "wins": 31,
         "losses": 26
       },
       "away": {
@@ -545,24 +545,24 @@
     },
     {
       "gameId": 823053,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-05-31T23:20:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 2,
-        "wins": 30,
+        "score": 5,
+        "wins": 31,
         "losses": 26
       },
       "away": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 0,
+        "score": 1,
         "wins": 32,
-        "losses": 27
+        "losses": 28
       },
       "koreanPlayerTeams": []
     }
