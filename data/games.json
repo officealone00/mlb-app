@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822971,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T22:40:00Z",
       "home": {
         "teamId": 139,
@@ -17,7 +17,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 5,
         "wins": 23,
         "losses": 38
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823460,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T22:40:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 2,
         "wins": 30,
         "losses": 29
       },
@@ -40,7 +40,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 2,
         "wins": 32,
         "losses": 26
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 824754,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T22:45:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
+        "score": 1,
         "wins": 25,
         "losses": 33
       },
@@ -65,7 +65,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 4,
         "wins": 28,
         "losses": 32
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 822728,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T22:45:00Z",
       "home": {
         "teamId": 120,
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 823541,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 2,
         "wins": 36,
         "losses": 23
       },
@@ -111,7 +111,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 1,
         "wins": 34,
         "losses": 27
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824511,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:10:00Z",
       "home": {
         "teamId": 113,
@@ -142,14 +142,14 @@
     },
     {
       "gameId": 824918,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 0,
+        "score": 2,
         "wins": 40,
         "losses": 20
       },
@@ -157,7 +157,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 2,
         "wins": 29,
         "losses": 31
       },
@@ -167,8 +167,8 @@
     },
     {
       "gameId": 823700,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:40:00Z",
       "home": {
         "teamId": 142,
@@ -190,8 +190,8 @@
     },
     {
       "gameId": 823782,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:40:00Z",
       "home": {
         "teamId": 158,
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 823052,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-02T23:45:00Z",
       "home": {
         "teamId": 138,
@@ -238,8 +238,8 @@
     },
     {
       "gameId": 824675,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-03T00:05:00Z",
       "home": {
         "teamId": 112,
@@ -261,8 +261,8 @@
     },
     {
       "gameId": 824189,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-03T00:10:00Z",
       "home": {
         "teamId": 117,
@@ -284,14 +284,14 @@
     },
     {
       "gameId": 824026,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-03T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 23,
         "losses": 38
       },
@@ -299,7 +299,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 23,
         "losses": 38
       },
@@ -314,7 +314,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 27
       },
@@ -322,7 +322,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 22
       },
@@ -332,14 +332,14 @@
     },
     {
       "gameId": 823129,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-03T01:40:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 29
       },
@@ -347,7 +347,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 26,
         "losses": 34
       },
