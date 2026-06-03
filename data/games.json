@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822727,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-03T17:05:00Z",
       "home": {
         "teamId": 120,
@@ -11,14 +11,14 @@
         "kr": "워싱턴",
         "score": 1,
         "wins": 31,
-        "losses": 31
+        "losses": 32
       },
       "away": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
         "score": 4,
-        "wins": 28,
+        "wins": 29,
         "losses": 34
       },
       "koreanPlayerTeams": []
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823701,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-03T17:40:00Z",
       "home": {
         "teamId": 142,
@@ -57,45 +57,45 @@
         "kr": "미네소타",
         "score": 0,
         "wins": 29,
-        "losses": 33
+        "losses": 34
       },
       "away": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
         "score": 8,
-        "wins": 32,
+        "wins": 33,
         "losses": 29
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823130,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-03T19:40:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 0,
+        "score": 1,
         "wins": 33,
-        "losses": 29
+        "losses": 30
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 1,
-        "wins": 26,
+        "score": 7,
+        "wins": 27,
         "losses": 35
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823456,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-03T22:40:00Z",
       "home": {
         "teamId": 143,
@@ -119,14 +119,14 @@
     },
     {
       "gameId": 824755,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-03T22:45:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 25,
         "losses": 34
       },
@@ -134,7 +134,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 32
       },
@@ -213,14 +213,14 @@
     },
     {
       "gameId": 823780,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-03T23:40:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 21
       },
@@ -228,7 +228,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 23,
         "losses": 38
       },
@@ -238,14 +238,14 @@
     },
     {
       "gameId": 823051,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-03T23:45:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 31,
         "losses": 28
       },
@@ -253,7 +253,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 30,
         "losses": 31
       },
@@ -261,14 +261,14 @@
     },
     {
       "gameId": 824671,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-04T00:05:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 29
       },
@@ -276,7 +276,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 31
       },
@@ -284,14 +284,14 @@
     },
     {
       "gameId": 824188,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-04T00:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 35
       },
@@ -299,7 +299,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 33,
         "losses": 28
       },
@@ -330,14 +330,14 @@
     },
     {
       "gameId": 825077,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-04T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 28
       },
@@ -345,7 +345,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 22
       },
