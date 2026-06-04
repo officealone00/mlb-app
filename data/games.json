@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823457,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-04T17:05:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 29
       },
@@ -17,7 +17,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 28
       },
@@ -27,14 +27,14 @@
     },
     {
       "gameId": 824753,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-04T17:35:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 26,
         "losses": 34
       },
@@ -42,7 +42,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 2,
         "wins": 29,
         "losses": 33
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 823542,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-04T17:35:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 36,
         "losses": 25
       },
@@ -65,7 +65,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 36,
         "losses": 27
       },
@@ -73,14 +73,14 @@
     },
     {
       "gameId": 823779,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-04T18:10:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 22
       },
@@ -88,7 +88,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 24,
         "losses": 38
       },
