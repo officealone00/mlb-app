@@ -26,6 +26,14 @@
     },
     {
       "rank": 4,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".322"
+    },
+    {
+      "rank": 5,
       "playerId": 687859,
       "playerName": "Troy Johnston",
       "teamId": 115,
@@ -33,19 +41,11 @@
       "value": ".320"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".316"
-    },
-    {
-      "rank": 6,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
       "value": ".316"
     },
     {
@@ -130,6 +130,14 @@
     },
     {
       "rank": 17,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".295"
+    },
+    {
+      "rank": 18,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -137,20 +145,12 @@
       "value": ".293"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 665489,
       "playerName": "Vladimir Guerrero Jr.",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": ".293"
-    },
-    {
-      "rank": 19,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".291"
     },
     {
       "rank": 20,
