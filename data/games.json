@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824673,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-05T18:20:00Z",
       "home": {
         "teamId": 112,
@@ -27,14 +27,14 @@
     },
     {
       "gameId": 824271,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-05T22:40:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 25,
         "losses": 38
       },
@@ -42,7 +42,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 33,
         "losses": 30
       },
@@ -50,8 +50,8 @@
     },
     {
       "gameId": 823455,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-05T22:40:00Z",
       "home": {
         "teamId": 143,
