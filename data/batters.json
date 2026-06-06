@@ -138,18 +138,18 @@
     },
     {
       "rank": 18,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".297"
-    },
-    {
-      "rank": 19,
       "playerId": 665489,
       "playerName": "Vladimir Guerrero Jr.",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": ".296"
+    },
+    {
+      "rank": 19,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".296"
     },
     {
@@ -170,6 +170,14 @@
     },
     {
       "rank": 22,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": ".291"
+    },
+    {
+      "rank": 23,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -177,19 +185,11 @@
       "value": ".291"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 682998,
       "playerName": "Corbin Carroll",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": ".288"
-    },
-    {
-      "rank": 24,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": ".288"
     },
     {
@@ -222,7 +222,7 @@
       "playerName": "Andy Pages",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".286"
+      "value": ".285"
     },
     {
       "rank": 29,
