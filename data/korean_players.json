@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 56,
-        "atBats": 212,
-        "hits": 68,
+        "games": 57,
+        "atBats": 215,
+        "hits": 69,
         "homeRuns": 3,
         "rbi": 21,
-        "stolenBases": 0,
+        "stolenBases": 1,
         "avg": ".321",
         "obp": ".357",
-        "slg": ".448",
-        "ops": ".805"
+        "slg": ".447",
+        "ops": ".804"
       },
       "pitching": null
     }
