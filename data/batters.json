@@ -6,7 +6,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".335"
+      "value": ".333"
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".333"
+      "value": ".332"
     },
     {
       "rank": 3,
@@ -22,7 +22,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".326"
+      "value": ".324"
     },
     {
       "rank": 4,
@@ -54,7 +54,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".315"
+      "value": ".314"
     },
     {
       "rank": 8,
@@ -74,19 +74,19 @@
     },
     {
       "rank": 10,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".309"
-    },
-    {
-      "rank": 11,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".306"
+      "value": ".309"
+    },
+    {
+      "rank": 11,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".308"
     },
     {
       "rank": 12,
@@ -94,7 +94,7 @@
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".306"
+      "value": ".305"
     },
     {
       "rank": 13,
@@ -102,7 +102,7 @@
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": ".305"
+      "value": ".303"
     },
     {
       "rank": 14,
@@ -142,26 +142,10 @@
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".299"
+      "value": ".297"
     },
     {
       "rank": 19,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".292"
-    },
-    {
-      "rank": 20,
-      "playerId": 665489,
-      "playerName": "Vladimir Guerrero Jr.",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": ".292"
-    },
-    {
-      "rank": 21,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -169,7 +153,15 @@
       "value": ".291"
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "playerId": 665489,
+      "playerName": "Vladimir Guerrero Jr.",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": ".291"
+    },
+    {
+      "rank": 21,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
@@ -177,15 +169,7 @@
       "value": ".288"
     },
     {
-      "rank": 23,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".288"
-    },
-    {
-      "rank": 24,
+      "rank": 22,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -193,15 +177,23 @@
       "value": ".286"
     },
     {
-      "rank": 25,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": ".285"
+      "rank": 23,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".286"
     },
     {
-      "rank": 26,
+      "rank": 24,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".286"
+    },
+    {
+      "rank": 25,
       "playerId": 682998,
       "playerName": "Corbin Carroll",
       "teamId": 109,
@@ -209,11 +201,19 @@
       "value": ".284"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
+      "value": ".284"
+    },
+    {
+      "rank": 27,
+      "playerId": 687462,
+      "playerName": "Spencer Horwitz",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".284"
     },
     {
@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
-      "playerId": 677587,
-      "playerName": "Brayan Rocchio",
-      "teamId": 114,
-      "teamAbbr": "CLE",
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": ".283"
     },
     {
       "rank": 30,
-      "playerId": 677800,
-      "playerName": "Wilyer Abreu",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 677587,
+      "playerName": "Brayan Rocchio",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": ".283"
     }
   ],
