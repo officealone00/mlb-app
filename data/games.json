@@ -27,14 +27,14 @@
     },
     {
       "gameId": 823453,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-07T17:35:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 34,
         "losses": 30
       },
@@ -42,7 +42,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 34,
         "losses": 30
       },
@@ -50,8 +50,8 @@
     },
     {
       "gameId": 823537,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-07T17:35:00Z",
       "home": {
         "teamId": 147,
