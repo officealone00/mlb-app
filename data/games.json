@@ -150,7 +150,7 @@
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 26,
+        "wins": 27,
         "losses": 39
       },
       "away": {
@@ -520,23 +520,23 @@
     },
     {
       "gameId": 824670,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-08T00:30:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 0,
+        "score": 1,
         "wins": 34,
-        "losses": 31
+        "losses": 32
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
-        "wins": 26,
+        "score": 2,
+        "wins": 27,
         "losses": 39
       },
       "koreanPlayerTeams": [

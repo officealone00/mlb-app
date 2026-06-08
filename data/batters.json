@@ -30,7 +30,7 @@
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".324"
+      "value": ".323"
     },
     {
       "rank": 5,
@@ -38,7 +38,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".324"
+      "value": ".323"
     },
     {
       "rank": 6,
@@ -170,14 +170,6 @@
     },
     {
       "rank": 22,
-      "playerId": 669477,
-      "playerName": "Casey Schmitt",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".288"
-    },
-    {
-      "rank": 23,
       "playerId": 665489,
       "playerName": "Vladimir Guerrero Jr.",
       "teamId": 141,
@@ -185,7 +177,7 @@
       "value": ".287"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -193,7 +185,7 @@
       "value": ".286"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -201,7 +193,7 @@
       "value": ".286"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 687462,
       "playerName": "Spencer Horwitz",
       "teamId": 134,
@@ -209,7 +201,7 @@
       "value": ".286"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -217,7 +209,7 @@
       "value": ".286"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -225,7 +217,7 @@
       "value": ".285"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 661388,
       "playerName": "William Contreras",
       "teamId": 158,
@@ -233,12 +225,20 @@
       "value": ".285"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 682998,
       "playerName": "Corbin Carroll",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": ".285"
+    },
+    {
+      "rank": 30,
+      "playerId": 681624,
+      "playerName": "Andy Pages",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": ".283"
     }
   ],
   "hr": [
@@ -808,6 +808,14 @@
     },
     {
       "rank": 11,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "14"
+    },
+    {
+      "rank": 12,
       "playerId": 804606,
       "playerName": "Konnor Griffin",
       "teamId": 134,
@@ -815,7 +823,7 @@
       "value": "14"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 666152,
       "playerName": "David Hamilton",
       "teamId": 158,
@@ -823,20 +831,12 @@
       "value": "14"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "14"
-    },
-    {
-      "rank": 14,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "13"
     },
     {
       "rank": 15,
