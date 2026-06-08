@@ -6,7 +6,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".338"
+      "value": ".336"
     },
     {
       "rank": 2,
@@ -22,7 +22,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".325"
+      "value": ".328"
     },
     {
       "rank": 4,
@@ -142,7 +142,7 @@
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".298"
+      "value": ".296"
     },
     {
       "rank": 19,
@@ -170,19 +170,19 @@
     },
     {
       "rank": 22,
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": ".288"
+    },
+    {
+      "rank": 23,
       "playerId": 665489,
       "playerName": "Vladimir Guerrero Jr.",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": ".287"
-    },
-    {
-      "rank": 23,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".286"
     },
     {
       "rank": 24,
@@ -210,14 +210,6 @@
     },
     {
       "rank": 27,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": ".285"
-    },
-    {
-      "rank": 28,
       "playerId": 661388,
       "playerName": "William Contreras",
       "teamId": 158,
@@ -225,11 +217,19 @@
       "value": ".285"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 682998,
       "playerName": "Corbin Carroll",
       "teamId": 109,
       "teamAbbr": "ARI",
+      "value": ".285"
+    },
+    {
+      "rank": 29,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".285"
     },
     {
@@ -594,7 +594,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "42"
+      "value": "43"
     },
     {
       "rank": 15,
