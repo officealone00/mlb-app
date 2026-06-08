@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824829,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-08T22:35:00Z",
       "home": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 31,
         "losses": 35
       },
@@ -17,7 +17,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 34,
         "losses": 32
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 822972,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-08T22:40:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 25
       },
@@ -40,7 +40,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 36
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824427,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-08T22:40:00Z",
       "home": {
         "teamId": 114,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 822806,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-08T23:07:00Z",
       "home": {
         "teamId": 141,
