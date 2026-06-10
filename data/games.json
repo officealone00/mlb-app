@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 822970,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-10T17:10:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 25
       },
@@ -17,7 +17,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 27,
         "losses": 38
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824428,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-10T17:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 32
       },
@@ -40,7 +40,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 40,
         "losses": 26
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823287,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-10T20:10:00Z",
       "home": {
         "teamId": 135,
