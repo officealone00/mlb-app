@@ -38,7 +38,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".326"
+      "value": ".324"
     },
     {
       "rank": 6,
@@ -300,6 +300,14 @@
     },
     {
       "rank": 8,
+      "playerId": 695578,
+      "playerName": "James Wood",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "18"
+    },
+    {
+      "rank": 9,
       "playerId": 592450,
       "playerName": "Aaron Judge",
       "teamId": 147,
@@ -307,19 +315,11 @@
       "value": "17"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 669127,
       "playerName": "Shea Langeliers",
       "teamId": 133,
       "teamAbbr": "ATH",
-      "value": "17"
-    },
-    {
-      "rank": 10,
-      "playerId": 695578,
-      "playerName": "James Wood",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": "17"
     },
     {
@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 695578,
+      "playerName": "James Wood",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "43"
+    },
+    {
+      "rank": 19,
       "playerId": 661388,
       "playerName": "William Contreras",
       "teamId": 158,
@@ -629,7 +637,7 @@
       "value": "42"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
@@ -637,7 +645,7 @@
       "value": "42"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -645,7 +653,7 @@
       "value": "42"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 624413,
       "playerName": "Pete Alonso",
       "teamId": 110,
@@ -653,7 +661,15 @@
       "value": "41"
     },
     {
-      "rank": 22,
+      "rank": 23,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "41"
+    },
+    {
+      "rank": 24,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -661,28 +677,12 @@
       "value": "41"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "playerId": 808959,
       "playerName": "Munetaka Murakami",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "41"
-    },
-    {
-      "rank": 24,
-      "playerId": 695578,
-      "playerName": "James Wood",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "41"
-    },
-    {
-      "rank": 25,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "40"
     },
     {
       "rank": 26,
@@ -732,7 +732,7 @@
       "playerName": "Nasim Nuñez",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "24"
+      "value": "25"
     },
     {
       "rank": 2,
