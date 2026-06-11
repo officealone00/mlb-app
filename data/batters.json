@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".342"
+      "value": ".343"
     },
     {
       "rank": 2,
@@ -66,6 +66,14 @@
     },
     {
       "rank": 9,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".307"
+    },
+    {
+      "rank": 10,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -73,19 +81,11 @@
       "value": ".306"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".304"
-    },
-    {
-      "rank": 11,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": ".304"
     },
     {
@@ -102,22 +102,22 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".303"
+      "value": ".300"
     },
     {
       "rank": 14,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".301"
-    },
-    {
-      "rank": 15,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".300"
+    },
+    {
+      "rank": 15,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".300"
     },
     {
@@ -146,19 +146,19 @@
     },
     {
       "rank": 19,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".292"
+    },
+    {
+      "rank": 20,
       "playerId": 677649,
       "playerName": "Ezequiel Duran",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": ".292"
-    },
-    {
-      "rank": 20,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".291"
     },
     {
       "rank": 21,
@@ -178,6 +178,14 @@
     },
     {
       "rank": 23,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".286"
+    },
+    {
+      "rank": 24,
       "playerId": 661388,
       "playerName": "William Contreras",
       "teamId": 158,
@@ -185,7 +193,7 @@
       "value": ".285"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -193,23 +201,7 @@
       "value": ".284"
     },
     {
-      "rank": 25,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".284"
-    },
-    {
       "rank": 26,
-      "playerId": 682998,
-      "playerName": "Corbin Carroll",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": ".284"
-    },
-    {
-      "rank": 27,
       "playerId": 518692,
       "playerName": "Freddie Freeman",
       "teamId": 119,
@@ -217,7 +209,7 @@
       "value": ".283"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -225,7 +217,7 @@
       "value": ".283"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 669127,
       "playerName": "Shea Langeliers",
       "teamId": 133,
@@ -233,12 +225,20 @@
       "value": ".283"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".283"
+    },
+    {
+      "rank": 30,
+      "playerId": 665489,
+      "playerName": "Vladimir Guerrero Jr.",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": ".282"
     }
   ],
   "hr": [
@@ -542,6 +542,14 @@
     },
     {
       "rank": 8,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "48"
+    },
+    {
+      "rank": 9,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -549,20 +557,12 @@
       "value": "48"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 572233,
       "playerName": "Christian Walker",
       "teamId": 117,
       "teamAbbr": "HOU",
       "value": "48"
-    },
-    {
-      "rank": 10,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": "47"
     },
     {
       "rank": 11,
@@ -780,7 +780,7 @@
       "playerName": "Jakob Marsee",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "16"
+      "value": "17"
     },
     {
       "rank": 8,
@@ -872,6 +872,14 @@
     },
     {
       "rank": 19,
+      "playerId": 672640,
+      "playerName": "Otto Lopez",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "12"
+    },
+    {
+      "rank": 20,
       "playerId": 681082,
       "playerName": "Bryson Stott",
       "teamId": 143,
@@ -879,7 +887,7 @@
       "value": "12"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
@@ -887,7 +895,7 @@
       "value": "12"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 680776,
       "playerName": "Jarren Duran",
       "teamId": 111,
@@ -895,17 +903,9 @@
       "value": "11"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "11"
-    },
-    {
-      "rank": 23,
-      "playerId": 672640,
-      "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": "11"
