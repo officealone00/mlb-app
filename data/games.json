@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 823619,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-11T17:10:00Z",
       "home": {
         "teamId": 121,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824265,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-11T17:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 28,
         "losses": 40
       },
@@ -40,7 +40,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 31,
         "losses": 38
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823855,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-11T17:10:00Z",
       "home": {
         "teamId": 146,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 824101,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-11T18:10:00Z",
       "home": {
         "teamId": 118,
