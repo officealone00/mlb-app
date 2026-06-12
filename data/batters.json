@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".344"
+      "value": ".342"
     },
     {
       "rank": 2,
@@ -62,7 +62,7 @@
       "playerName": "Josh Jung",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": ".309"
+      "value": ".311"
     },
     {
       "rank": 9,
@@ -74,19 +74,19 @@
     },
     {
       "rank": 10,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".306"
+    },
+    {
+      "rank": 11,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": ".305"
-    },
-    {
-      "rank": 11,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".304"
     },
     {
       "rank": 12,
@@ -106,14 +106,6 @@
     },
     {
       "rank": 14,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".302"
-    },
-    {
-      "rank": 15,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -121,7 +113,7 @@
       "value": ".302"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 682985,
       "playerName": "Riley Greene",
       "teamId": 116,
@@ -129,15 +121,15 @@
       "value": ".301"
     },
     {
-      "rank": 17,
-      "playerId": 677649,
-      "playerName": "Ezequiel Duran",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".296"
+      "rank": 16,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".301"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -145,19 +137,27 @@
       "value": ".295"
     },
     {
-      "rank": 19,
-      "playerId": 687462,
-      "playerName": "Spencer Horwitz",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".291"
+      "rank": 18,
+      "playerId": 677649,
+      "playerName": "Ezequiel Duran",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".294"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
+      "value": ".290"
+    },
+    {
+      "rank": 20,
+      "playerId": 687462,
+      "playerName": "Spencer Horwitz",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".290"
     },
     {
@@ -202,22 +202,14 @@
     },
     {
       "rank": 26,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".284"
-    },
-    {
-      "rank": 27,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
+      "playerId": 682998,
+      "playerName": "Corbin Carroll",
+      "teamId": 109,
+      "teamAbbr": "ARI",
       "value": ".283"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -225,7 +217,7 @@
       "value": ".283"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 669127,
       "playerName": "Shea Langeliers",
       "teamId": 133,
@@ -233,11 +225,19 @@
       "value": ".283"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
       "teamAbbr": "LAD",
+      "value": ".282"
+    },
+    {
+      "rank": 30,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".282"
     }
   ],
@@ -784,6 +784,14 @@
     },
     {
       "rank": 8,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "16"
+    },
+    {
+      "rank": 9,
       "playerId": 660670,
       "playerName": "Ronald Acuña Jr.",
       "teamId": 144,
@@ -791,7 +799,7 @@
       "value": "15"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 676609,
       "playerName": "José Caballero",
       "teamId": 147,
@@ -799,19 +807,11 @@
       "value": "15"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "15"
-    },
-    {
-      "rank": 11,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": "15"
     },
     {
