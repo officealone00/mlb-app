@@ -420,14 +420,6 @@
     },
     {
       "rank": 23,
-      "playerId": 701542,
-      "playerName": "Will Warren",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "3.28"
-    },
-    {
-      "rank": 24,
       "playerId": 647336,
       "playerName": "Michael Soroka",
       "teamId": 109,
@@ -435,7 +427,7 @@
       "value": "3.28"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 813349,
       "playerName": "Connelly Early",
       "teamId": 111,
@@ -443,12 +435,20 @@
       "value": "3.30"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "3.32"
+    },
+    {
+      "rank": 26,
+      "playerId": 701542,
+      "playerName": "Will Warren",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "3.41"
     },
     {
       "rank": 27,
