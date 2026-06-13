@@ -292,7 +292,7 @@
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 33,
+        "wins": 34,
         "losses": 35
       },
       "away": {
@@ -301,7 +301,7 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 26,
-        "losses": 43
+        "losses": 44
       },
       "koreanPlayerTeams": []
     },
@@ -316,14 +316,14 @@
         "kr": "샌프란시스코",
         "score": null,
         "wins": 28,
-        "losses": 41
+        "losses": 42
       },
       "away": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": null,
-        "wins": 35,
+        "wins": 36,
         "losses": 34
       },
       "koreanPlayerTeams": [
@@ -662,15 +662,15 @@
     },
     {
       "gameId": 824997,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-13T02:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 5,
-        "wins": 33,
+        "score": 6,
+        "wins": 34,
         "losses": 35
       },
       "away": {
@@ -679,29 +679,29 @@
         "kr": "콜로라도",
         "score": 4,
         "wins": 26,
-        "losses": 43
+        "losses": 44
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823211,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-13T02:15:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 1,
         "wins": 28,
-        "losses": 41
+        "losses": 42
       },
       "away": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": 5,
-        "wins": 35,
+        "wins": 36,
         "losses": 34
       },
       "koreanPlayerTeams": [
