@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823694,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T18:10:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 39
       },
@@ -17,7 +17,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 30
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 822802,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 34,
         "losses": 36
       },
@@ -40,7 +40,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 27
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823369,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T20:05:00Z",
       "home": {
         "teamId": 134,
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824508,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T20:10:00Z",
       "home": {
         "teamId": 113,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 824749,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T20:10:00Z",
       "home": {
         "teamId": 111,
@@ -213,8 +213,8 @@
     },
     {
       "gameId": 824587,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-13T20:10:00Z",
       "home": {
         "teamId": 145,
