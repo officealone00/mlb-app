@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".345"
+      "value": ".343"
     },
     {
       "rank": 2,
@@ -90,14 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".300"
-    },
-    {
-      "rank": 13,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -105,20 +97,28 @@
       "value": ".298"
     },
     {
+      "rank": 13,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".298"
+    },
+    {
       "rank": 14,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".298"
+    },
+    {
+      "rank": 15,
       "playerId": 682985,
       "playerName": "Riley Greene",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": ".297"
-    },
-    {
-      "rank": 15,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".296"
     },
     {
       "rank": 16,
@@ -194,18 +194,18 @@
     },
     {
       "rank": 25,
-      "playerId": 687462,
-      "playerName": "Spencer Horwitz",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".286"
-    },
-    {
-      "rank": 26,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
       "teamAbbr": "ATH",
+      "value": ".285"
+    },
+    {
+      "rank": 26,
+      "playerId": 687462,
+      "playerName": "Spencer Horwitz",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".285"
     },
     {
@@ -234,11 +234,11 @@
     },
     {
       "rank": 30,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".282"
+      "playerId": 669127,
+      "playerName": "Shea Langeliers",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": ".281"
     }
   ],
   "hr": [

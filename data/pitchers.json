@@ -348,6 +348,14 @@
     },
     {
       "rank": 14,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "2.74"
+    },
+    {
+      "rank": 15,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -355,20 +363,12 @@
       "value": "2.79"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "2.84"
-    },
-    {
-      "rank": 16,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "2.85"
+      "value": "2.93"
     },
     {
       "rank": 17,
@@ -534,6 +534,14 @@
     },
     {
       "rank": 7,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "95"
+    },
+    {
+      "rank": 8,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -541,7 +549,7 @@
       "value": "92"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -549,7 +557,7 @@
       "value": "92"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -557,7 +565,15 @@
       "value": "92"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "91"
+    },
+    {
+      "rank": 12,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -565,15 +581,7 @@
       "value": "90"
     },
     {
-      "rank": 11,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "89"
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -581,7 +589,7 @@
       "value": "89"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -589,7 +597,7 @@
       "value": "88"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -597,7 +605,7 @@
       "value": "88"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -605,19 +613,11 @@
       "value": "88"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "86"
-    },
-    {
-      "rank": 17,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": "86"
     },
     {
@@ -1006,7 +1006,7 @@
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "0.93"
+      "value": "0.94"
     },
     {
       "rank": 6,
@@ -1138,14 +1138,6 @@
     },
     {
       "rank": 22,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "1.09"
-    },
-    {
-      "rank": 23,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
@@ -1153,7 +1145,7 @@
       "value": "1.09"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -1161,7 +1153,7 @@
       "value": "1.09"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -1169,7 +1161,7 @@
       "value": "1.10"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -1177,12 +1169,20 @@
       "value": "1.10"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "1.10"
+    },
+    {
+      "rank": 27,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "1.13"
     },
     {
       "rank": 28,
