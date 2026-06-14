@@ -14,7 +14,7 @@
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".332"
+      "value": ".331"
     },
     {
       "rank": 3,
@@ -38,23 +38,23 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".321"
-    },
-    {
-      "rank": 6,
-      "playerId": 687859,
-      "playerName": "Troy Johnston",
-      "teamId": 115,
-      "teamAbbr": "COL",
       "value": ".320"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "playerId": 650333,
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".320"
+      "value": ".319"
+    },
+    {
+      "rank": 7,
+      "playerId": 687859,
+      "playerName": "Troy Johnston",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".317"
     },
     {
       "rank": 8,
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "15"
+    },
+    {
+      "rank": 22,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -411,7 +419,7 @@
       "value": "15"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -419,7 +427,7 @@
       "value": "15"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
@@ -427,7 +435,7 @@
       "value": "15"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
@@ -435,7 +443,7 @@
       "value": "15"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -443,7 +451,7 @@
       "value": "15"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 545361,
       "playerName": "Mike Trout",
       "teamId": 108,
@@ -451,19 +459,11 @@
       "value": "15"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "14"
-    },
-    {
-      "rank": 28,
-      "playerId": 691406,
-      "playerName": "Junior Caminero",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": "14"
     },
     {
@@ -896,6 +896,14 @@
     },
     {
       "rank": 22,
+      "playerId": 656775,
+      "playerName": "Cedric Mullins",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "12"
+    },
+    {
+      "rank": 23,
       "playerId": 677587,
       "playerName": "Brayan Rocchio",
       "teamId": 114,
@@ -903,7 +911,7 @@
       "value": "12"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 665923,
       "playerName": "Esteury Ruiz",
       "teamId": 146,
@@ -911,7 +919,7 @@
       "value": "12"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 681082,
       "playerName": "Bryson Stott",
       "teamId": 143,
@@ -919,7 +927,7 @@
       "value": "12"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -927,7 +935,7 @@
       "value": "12"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 683953,
       "playerName": "Travis Bazzana",
       "teamId": 114,
@@ -935,7 +943,7 @@
       "value": "11"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 680776,
       "playerName": "Jarren Duran",
       "teamId": 111,
@@ -943,7 +951,7 @@
       "value": "11"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -951,19 +959,11 @@
       "value": "11"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 664983,
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": "11"
-    },
-    {
-      "rank": 30,
-      "playerId": 701538,
-      "playerName": "Jackson Merrill",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": "11"
     }
   ]
