@@ -272,7 +272,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.14"
+      "value": "2.09"
     },
     {
       "rank": 5,
@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "93"
+    },
+    {
+      "rank": 10,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -557,7 +565,7 @@
       "value": "92"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -565,7 +573,7 @@
       "value": "92"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -573,7 +581,7 @@
       "value": "92"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -581,20 +589,12 @@
       "value": "90"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "89"
-    },
-    {
-      "rank": 14,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "88"
     },
     {
       "rank": 15,
@@ -1014,7 +1014,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "0.99"
+      "value": "0.98"
     },
     {
       "rank": 7,
