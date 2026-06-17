@@ -154,14 +154,6 @@
     },
     {
       "rank": 20,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".290"
-    },
-    {
-      "rank": 21,
       "playerId": 661388,
       "playerName": "William Contreras",
       "teamId": 158,
@@ -169,19 +161,27 @@
       "value": ".290"
     },
     {
-      "rank": 22,
-      "playerId": 665742,
-      "playerName": "Juan Soto",
-      "teamId": 121,
-      "teamAbbr": "NYM",
+      "rank": 21,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": ".289"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": ".288"
+    },
+    {
+      "rank": 23,
+      "playerId": 665742,
+      "playerName": "Juan Soto",
+      "teamId": 121,
+      "teamAbbr": "NYM",
       "value": ".288"
     },
     {
@@ -234,10 +234,10 @@
     },
     {
       "rank": 30,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
+      "playerId": 668804,
+      "playerName": "Bryan Reynolds",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".280"
     }
   ],
