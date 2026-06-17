@@ -138,6 +138,14 @@
     },
     {
       "rank": 18,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "7"
+    },
+    {
+      "rank": 19,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
@@ -145,7 +153,7 @@
       "value": "7"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 608372,
       "playerName": "Tomoyuki Sugano",
       "teamId": 115,
@@ -153,7 +161,7 @@
       "value": "7"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 701542,
       "playerName": "Will Warren",
       "teamId": 147,
@@ -161,7 +169,7 @@
       "value": "7"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -169,7 +177,7 @@
       "value": "7"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -177,7 +185,7 @@
       "value": "6"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 641743,
       "playerName": "Anthony Kay",
       "teamId": 145,
@@ -185,7 +193,15 @@
       "value": "6"
     },
     {
-      "rank": 24,
+      "rank": 25,
+      "playerId": 663567,
+      "playerName": "Peter Lambert",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "6"
+    },
+    {
+      "rank": 26,
       "playerId": 641793,
       "playerName": "Zack Littell",
       "teamId": 120,
@@ -193,7 +209,7 @@
       "value": "6"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -201,7 +217,7 @@
       "value": "6"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -209,7 +225,7 @@
       "value": "6"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
@@ -217,27 +233,11 @@
       "value": "6"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "6"
-    },
-    {
-      "rank": 29,
-      "playerId": 641927,
-      "playerName": "Bailey Ober",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "6"
-    },
-    {
-      "rank": 30,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "6"
     }
   ],
@@ -284,6 +284,14 @@
     },
     {
       "rank": 6,
+      "playerId": 593958,
+      "playerName": "Eduardo Rodriguez",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": "2.45"
+    },
+    {
+      "rank": 7,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -291,19 +299,11 @@
       "value": "2.52"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "2.59"
-    },
-    {
-      "rank": 8,
-      "playerId": 593958,
-      "playerName": "Eduardo Rodriguez",
-      "teamId": 109,
-      "teamAbbr": "ARI",
       "value": "2.59"
     },
     {
