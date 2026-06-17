@@ -25,8 +25,8 @@
     },
     {
       "gameId": 822721,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-17T17:05:00Z",
       "home": {
         "teamId": 120,
@@ -73,7 +73,7 @@
       "gameId": 824912,
       "status": "Suspended",
       "statusCode": "UR",
-      "startTime": "2026-06-17T18:05:00Z",
+      "startTime": "2026-06-17T18:00:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
