@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824748,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-18T17:35:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 42
       },
@@ -17,7 +17,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 36,
         "losses": 38
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823772,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-18T18:10:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 26
       },
@@ -40,7 +40,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 35
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822889,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-18T18:35:00Z",
       "home": {
         "teamId": 140,
