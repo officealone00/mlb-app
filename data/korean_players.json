@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 66,
-        "atBats": 250,
+        "atBats": 252,
         "hits": 82,
         "homeRuns": 4,
         "rbi": 26,
         "stolenBases": 3,
-        "avg": ".328",
-        "obp": ".360",
-        "slg": ".452",
-        "ops": ".812"
+        "avg": ".325",
+        "obp": ".357",
+        "slg": ".448",
+        "ops": ".805"
       },
       "pitching": null
     }
@@ -60,7 +60,7 @@
     "teamKrName": "애틀랜타",
     "stats": {
       "hitting": {
-        "games": 18,
+        "games": 19,
         "atBats": 59,
         "hits": 5,
         "homeRuns": 0,
