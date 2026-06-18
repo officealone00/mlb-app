@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824748,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-18T17:35:00Z",
       "home": {
         "teamId": 111,
@@ -17,7 +17,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 2,
         "wins": 36,
         "losses": 38
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823772,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-18T18:10:00Z",
       "home": {
         "teamId": 158,
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 822889,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-18T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 35,
         "losses": 38
       },
@@ -63,7 +63,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 35,
         "losses": 40
       },
@@ -71,14 +71,14 @@
     },
     {
       "gameId": 823125,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-18T20:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 37
       },
@@ -86,7 +86,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 35,
         "losses": 40
       },
@@ -139,32 +139,6 @@
       "koreanPlayerTeams": []
     },
     {
-      "gameId": 824911,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-06-18T23:15:00Z",
-      "home": {
-        "teamId": 144,
-        "abbr": "ATL",
-        "kr": "애틀랜타",
-        "score": null,
-        "wins": 46,
-        "losses": 27
-      },
-      "away": {
-        "teamId": 137,
-        "abbr": "SF",
-        "kr": "샌프란시스코",
-        "score": null,
-        "wins": 31,
-        "losses": 43
-      },
-      "koreanPlayerTeams": [
-        144,
-        137
-      ]
-    },
-    {
       "gameId": 824098,
       "status": "Scheduled",
       "statusCode": "S",
@@ -209,6 +183,32 @@
         "losses": 45
       },
       "koreanPlayerTeams": []
+    },
+    {
+      "gameId": 824911,
+      "status": "Postponed",
+      "statusCode": "DR",
+      "startTime": "2026-06-18T23:15:00Z",
+      "home": {
+        "teamId": 144,
+        "abbr": "ATL",
+        "kr": "애틀랜타",
+        "score": null,
+        "wins": 46,
+        "losses": 27
+      },
+      "away": {
+        "teamId": 137,
+        "abbr": "SF",
+        "kr": "샌프란시스코",
+        "score": null,
+        "wins": 31,
+        "losses": 43
+      },
+      "koreanPlayerTeams": [
+        144,
+        137
+      ]
     }
   ],
   "yesterday": [
