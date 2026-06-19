@@ -98,14 +98,6 @@
     },
     {
       "rank": 13,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".295"
-    },
-    {
-      "rank": 14,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -113,11 +105,19 @@
       "value": ".294"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": ".294"
+    },
+    {
+      "rank": 15,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".294"
     },
     {

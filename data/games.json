@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824663,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-19T18:20:00Z",
       "home": {
         "teamId": 112,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824264,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-19T22:40:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 2,
         "wins": 30,
         "losses": 44
       },
@@ -40,7 +40,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 1,
         "wins": 39,
         "losses": 34
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823534,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-19T23:05:00Z",
       "home": {
         "teamId": 147,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 822966,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-19T23:10:00Z",
       "home": {
         "teamId": 139,
@@ -94,8 +94,8 @@
     },
     {
       "gameId": 823853,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-19T23:10:00Z",
       "home": {
         "teamId": 146,
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824910,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-06-19T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -222,7 +222,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 28,
         "losses": 47
       },
@@ -230,7 +230,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 37
       },
@@ -238,14 +238,14 @@
     },
     {
       "gameId": 824990,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-20T01:40:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 38
       },
@@ -253,7 +253,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 30,
         "losses": 46
       },
@@ -261,14 +261,14 @@
     },
     {
       "gameId": 825069,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-20T01:45:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 36
       },
@@ -276,7 +276,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 36,
         "losses": 40
       },
@@ -284,8 +284,8 @@
     },
     {
       "gameId": 823936,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-20T02:10:00Z",
       "home": {
         "teamId": 119,
@@ -309,14 +309,14 @@
     },
     {
       "gameId": 823124,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-20T02:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 37
       },
@@ -324,7 +324,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 29,
         "losses": 43
       },
