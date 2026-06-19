@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 677960,
+      "playerName": "Ryan Weathers",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "89"
+    },
+    {
+      "rank": 19,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -629,7 +637,7 @@
       "value": "89"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -637,7 +645,7 @@
       "value": "88"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -645,7 +653,7 @@
       "value": "86"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -653,19 +661,11 @@
       "value": "86"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 680694,
       "playerName": "Kyle Bradish",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "85"
-    },
-    {
-      "rank": 23,
-      "playerId": 677960,
-      "playerName": "Ryan Weathers",
-      "teamId": 147,
-      "teamAbbr": "NYY",
       "value": "85"
     },
     {
@@ -718,10 +718,10 @@
     },
     {
       "rank": 30,
-      "playerId": 676917,
-      "playerName": "Cade Cavalli",
-      "teamId": 120,
-      "teamAbbr": "WSH",
+      "playerId": 680732,
+      "playerName": "Sean Burke",
+      "teamId": 145,
+      "teamAbbr": "CWS",
       "value": "81"
     }
   ],
@@ -852,7 +852,7 @@
       "playerName": "Devin Williams",
       "teamId": 121,
       "teamAbbr": "NYM",
-      "value": "10"
+      "value": "11"
     },
     {
       "rank": 17,
@@ -1162,6 +1162,14 @@
     },
     {
       "rank": 25,
+      "playerId": 677960,
+      "playerName": "Ryan Weathers",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "1.13"
+    },
+    {
+      "rank": 26,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -1169,7 +1177,7 @@
       "value": "1.13"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 669160,
       "playerName": "Dustin May",
       "teamId": 138,
@@ -1177,20 +1185,12 @@
       "value": "1.14"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 693821,
       "playerName": "Bryce Elder",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": "1.14"
-    },
-    {
-      "rank": 28,
-      "playerId": 677960,
-      "playerName": "Ryan Weathers",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "1.15"
     },
     {
       "rank": 29,
