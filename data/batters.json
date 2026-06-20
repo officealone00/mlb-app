@@ -118,7 +118,7 @@
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": ".294"
+      "value": ".293"
     },
     {
       "rank": 16,
@@ -138,14 +138,6 @@
     },
     {
       "rank": 18,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".292"
-    },
-    {
-      "rank": 19,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -153,12 +145,20 @@
       "value": ".291"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": ".291"
+    },
+    {
+      "rank": 20,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".289"
     },
     {
       "rank": 21,
@@ -800,18 +800,18 @@
     },
     {
       "rank": 10,
-      "playerId": 660670,
-      "playerName": "Ronald Acuña Jr.",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "15"
-    },
-    {
-      "rank": 11,
       "playerId": 676609,
       "playerName": "José Caballero",
       "teamId": 147,
       "teamAbbr": "NYY",
+      "value": "16"
+    },
+    {
+      "rank": 11,
+      "playerId": 660670,
+      "playerName": "Ronald Acuña Jr.",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": "15"
     },
     {

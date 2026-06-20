@@ -428,6 +428,14 @@
     },
     {
       "rank": 24,
+      "playerId": 701542,
+      "playerName": "Will Warren",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "3.35"
+    },
+    {
+      "rank": 25,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -435,7 +443,7 @@
       "value": "3.35"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -443,7 +451,7 @@
       "value": "3.43"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -451,7 +459,7 @@
       "value": "3.46"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -459,7 +467,7 @@
       "value": "3.59"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -467,20 +475,12 @@
       "value": "3.60"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": "3.64"
-    },
-    {
-      "rank": 30,
-      "playerId": 690997,
-      "playerName": "Nolan McLean",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": "3.67"
     }
   ],
   "k": [
