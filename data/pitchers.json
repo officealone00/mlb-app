@@ -1018,14 +1018,6 @@
     },
     {
       "rank": 7,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "1.00"
-    },
-    {
-      "rank": 8,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -1033,11 +1025,19 @@
       "value": "1.00"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
       "teamAbbr": "LAD",
+      "value": "1.01"
+    },
+    {
+      "rank": 9,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
       "value": "1.01"
     },
     {
