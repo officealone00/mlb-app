@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 68,
+        "games": 69,
         "atBats": 260,
         "hits": 86,
         "homeRuns": 4,
         "rbi": 26,
         "stolenBases": 4,
         "avg": ".331",
-        "obp": ".361",
+        "obp": ".363",
         "slg": ".462",
-        "ops": ".823"
+        "ops": ".825"
       },
       "pitching": null
     }
@@ -60,16 +60,16 @@
     "teamKrName": "애틀랜타",
     "stats": {
       "hitting": {
-        "games": 20,
-        "atBats": 59,
+        "games": 21,
+        "atBats": 60,
         "hits": 5,
         "homeRuns": 0,
         "rbi": 3,
         "stolenBases": 1,
-        "avg": ".085",
-        "obp": ".182",
-        "slg": ".085",
-        "ops": ".267"
+        "avg": ".083",
+        "obp": ".179",
+        "slg": ".083",
+        "ops": ".262"
       },
       "pitching": null
     }
