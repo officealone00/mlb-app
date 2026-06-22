@@ -296,7 +296,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "2.59"
+      "value": "2.60"
     },
     {
       "rank": 8,
@@ -444,6 +444,14 @@
     },
     {
       "rank": 26,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "3.53"
+    },
+    {
+      "rank": 27,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -451,7 +459,7 @@
       "value": "3.59"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -459,7 +467,7 @@
       "value": "3.60"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -467,19 +475,11 @@
       "value": "3.60"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 813349,
       "playerName": "Connelly Early",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "3.64"
-    },
-    {
-      "rank": 30,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
       "value": "3.64"
     }
   ],
@@ -506,7 +506,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "110"
+      "value": "111"
     },
     {
       "rank": 4,
@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "86"
+    },
+    {
+      "rank": 28,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -701,7 +709,7 @@
       "value": "86"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 680694,
       "playerName": "Kyle Bradish",
       "teamId": 110,
@@ -709,19 +717,11 @@
       "value": "85"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "84"
-    },
-    {
-      "rank": 30,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "84"
     }
   ],
