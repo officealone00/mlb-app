@@ -46,7 +46,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".314"
+      "value": ".310"
     },
     {
       "rank": 7,
@@ -78,7 +78,7 @@
       "playerName": "Juan Soto",
       "teamId": 121,
       "teamAbbr": "NYM",
-      "value": ".300"
+      "value": ".301"
     },
     {
       "rank": 11,
@@ -380,6 +380,14 @@
     },
     {
       "rank": 18,
+      "playerId": 547180,
+      "playerName": "Bryce Harper",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "17"
+    },
+    {
+      "rank": 19,
       "playerId": 592450,
       "playerName": "Aaron Judge",
       "teamId": 147,
@@ -387,7 +395,7 @@
       "value": "17"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 687263,
       "playerName": "Zach Neto",
       "teamId": 108,
@@ -395,7 +403,7 @@
       "value": "17"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -403,7 +411,7 @@
       "value": "17"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 545361,
       "playerName": "Mike Trout",
       "teamId": 108,
@@ -411,7 +419,7 @@
       "value": "17"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -419,7 +427,7 @@
       "value": "16"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -427,19 +435,11 @@
       "value": "16"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 664023,
       "playerName": "Ian Happ",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "16"
-    },
-    {
-      "rank": 25,
-      "playerId": 547180,
-      "playerName": "Bryce Harper",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "16"
     },
     {
