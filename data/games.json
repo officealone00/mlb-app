@@ -289,14 +289,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 32,
-        "losses": 47
+        "losses": 48
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": null,
-        "wins": 37,
+        "wins": 38,
         "losses": 42
       },
       "koreanPlayerTeams": []
@@ -311,7 +311,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 39,
+        "wins": 40,
         "losses": 37
       },
       "away": {
@@ -320,7 +320,7 @@
         "kr": "애틀랜타",
         "score": null,
         "wins": 48,
-        "losses": 28
+        "losses": 29
       },
       "koreanPlayerTeams": [
         135,
@@ -588,38 +588,38 @@
     },
     {
       "gameId": 824016,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-23T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
+        "score": 1,
         "wins": 32,
-        "losses": 47
+        "losses": 48
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": 6,
-        "wins": 37,
+        "wins": 38,
         "losses": 42
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823288,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-23T02:10:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": 1,
-        "wins": 39,
+        "wins": 40,
         "losses": 37
       },
       "away": {
@@ -628,7 +628,7 @@
         "kr": "애틀랜타",
         "score": 0,
         "wins": 48,
-        "losses": 28
+        "losses": 29
       },
       "koreanPlayerTeams": [
         135,
