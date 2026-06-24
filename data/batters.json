@@ -50,19 +50,19 @@
     },
     {
       "rank": 7,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".312"
-    },
-    {
-      "rank": 8,
       "playerId": 687859,
       "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".311"
+    },
+    {
+      "rank": 8,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".310"
     },
     {
       "rank": 9,
@@ -170,14 +170,6 @@
     },
     {
       "rank": 22,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": ".287"
-    },
-    {
-      "rank": 23,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -185,7 +177,7 @@
       "value": ".287"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -193,11 +185,19 @@
       "value": ".287"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
       "teamAbbr": "ATH",
+      "value": ".286"
+    },
+    {
+      "rank": 25,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
       "value": ".286"
     },
     {
@@ -226,19 +226,19 @@
     },
     {
       "rank": 29,
-      "playerId": 645277,
-      "playerName": "Ozzie Albies",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".282"
-    },
-    {
-      "rank": 30,
       "playerId": 687462,
       "playerName": "Spencer Horwitz",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".282"
+    },
+    {
+      "rank": 30,
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".281"
     }
   ],
   "hr": [

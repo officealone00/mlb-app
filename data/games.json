@@ -334,7 +334,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 40,
+        "wins": 41,
         "losses": 37
       },
       "away": {
@@ -343,7 +343,7 @@
         "kr": "애틀랜타",
         "score": null,
         "wins": 48,
-        "losses": 29
+        "losses": 30
       },
       "koreanPlayerTeams": [
         135,
@@ -360,7 +360,7 @@
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 31,
+        "wins": 32,
         "losses": 46
       },
       "away": {
@@ -369,7 +369,7 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 38,
-        "losses": 40
+        "losses": 41
       },
       "koreanPlayerTeams": [
         137
@@ -657,8 +657,8 @@
     },
     {
       "gameId": 824017,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-24T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -680,15 +680,15 @@
     },
     {
       "gameId": 823286,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-24T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 6,
-        "wins": 40,
+        "score": 7,
+        "wins": 41,
         "losses": 37
       },
       "away": {
@@ -697,7 +697,7 @@
         "kr": "애틀랜타",
         "score": 6,
         "wins": 48,
-        "losses": 29
+        "losses": 30
       },
       "koreanPlayerTeams": [
         135,
@@ -706,15 +706,15 @@
     },
     {
       "gameId": 823210,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-24T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": 3,
-        "wins": 31,
+        "wins": 32,
         "losses": 46
       },
       "away": {
@@ -723,7 +723,7 @@
         "kr": "애슬레틱스",
         "score": 1,
         "wins": 38,
-        "losses": 40
+        "losses": 41
       },
       "koreanPlayerTeams": [
         137
