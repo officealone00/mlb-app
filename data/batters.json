@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".337"
+      "value": ".339"
     },
     {
       "rank": 2,
@@ -66,14 +66,6 @@
     },
     {
       "rank": 9,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".300"
-    },
-    {
-      "rank": 10,
       "playerId": 669477,
       "playerName": "Casey Schmitt",
       "teamId": 137,
@@ -81,12 +73,20 @@
       "value": ".299"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": ".299"
+    },
+    {
+      "rank": 11,
+      "playerId": 673962,
+      "playerName": "Josh Jung",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".298"
     },
     {
       "rank": 12,
@@ -114,14 +114,6 @@
     },
     {
       "rank": 15,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".293"
-    },
-    {
-      "rank": 16,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -129,12 +121,20 @@
       "value": ".293"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": ".293"
+    },
+    {
+      "rank": 17,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".291"
     },
     {
       "rank": 18,

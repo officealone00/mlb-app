@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 823850,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-24T16:10:00Z",
       "home": {
         "teamId": 146,
@@ -17,7 +17,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 0,
+        "score": 1,
         "wins": 38,
         "losses": 41
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823613,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-06-24T17:10:00Z",
       "home": {
         "teamId": 121,
@@ -78,7 +78,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 37
       },
@@ -86,7 +86,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 39
       },
@@ -94,14 +94,14 @@
     },
     {
       "gameId": 824341,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-24T19:10:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 31,
         "losses": 49
       },
@@ -109,7 +109,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 32,
         "losses": 45
       },
