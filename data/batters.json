@@ -54,7 +54,7 @@
       "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".311"
+      "value": ".314"
     },
     {
       "rank": 8,
@@ -178,6 +178,14 @@
     },
     {
       "rank": 23,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".287"
+    },
+    {
+      "rank": 24,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -185,7 +193,7 @@
       "value": ".286"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -193,7 +201,7 @@
       "value": ".286"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
@@ -201,20 +209,12 @@
       "value": ".286"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
       "value": ".286"
-    },
-    {
-      "rank": 27,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".285"
     },
     {
       "rank": 28,
@@ -234,11 +234,11 @@
     },
     {
       "rank": 30,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".283"
+      "playerId": 650489,
+      "playerName": "Willi Castro",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".282"
     }
   ],
   "hr": [
@@ -542,19 +542,19 @@
     },
     {
       "rank": 8,
+      "playerId": 624413,
+      "playerName": "Pete Alonso",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": "54"
+    },
+    {
+      "rank": 9,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
       "teamAbbr": "CIN",
       "value": "54"
-    },
-    {
-      "rank": 9,
-      "playerId": 624413,
-      "playerName": "Pete Alonso",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "53"
     },
     {
       "rank": 10,

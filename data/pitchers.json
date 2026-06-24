@@ -352,7 +352,7 @@
       "playerName": "Ranger Suarez",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "2.96"
+      "value": "2.94"
     },
     {
       "rank": 15,
@@ -364,14 +364,6 @@
     },
     {
       "rank": 16,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "3.03"
-    },
-    {
-      "rank": 17,
       "playerId": 647336,
       "playerName": "Michael Soroka",
       "teamId": 109,
@@ -379,7 +371,7 @@
       "value": "3.07"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
@@ -387,7 +379,7 @@
       "value": "3.15"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 669372,
       "playerName": "J.T. Ginn",
       "teamId": 133,
@@ -395,7 +387,7 @@
       "value": "3.16"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -403,7 +395,7 @@
       "value": "3.18"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -411,7 +403,7 @@
       "value": "3.18"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -419,7 +411,7 @@
       "value": "3.29"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -427,7 +419,7 @@
       "value": "3.33"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -435,12 +427,20 @@
       "value": "3.35"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": "3.35"
+    },
+    {
+      "rank": 25,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "3.41"
     },
     {
       "rank": 26,
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "102"
+    },
+    {
+      "rank": 14,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -589,7 +597,7 @@
       "value": "101"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -597,7 +605,7 @@
       "value": "100"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -605,20 +613,12 @@
       "value": "99"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": "99"
-    },
-    {
-      "rank": 17,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "98"
     },
     {
       "rank": 18,
@@ -1170,19 +1170,19 @@
     },
     {
       "rank": 26,
+      "playerId": 624133,
+      "playerName": "Ranger Suarez",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "1.14"
+    },
+    {
+      "rank": 27,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "1.14"
-    },
-    {
-      "rank": 27,
-      "playerId": 624133,
-      "playerName": "Ranger Suarez",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "1.15"
     },
     {
       "rank": 28,
