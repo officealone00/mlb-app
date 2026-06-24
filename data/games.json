@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823850,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-24T16:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 39
       },
@@ -17,7 +17,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 41
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823613,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-24T17:10:00Z",
       "home": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 34,
         "losses": 44
       },
@@ -40,7 +40,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 37
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 824583,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-06-24T18:10:00Z",
       "home": {
         "teamId": 145,
