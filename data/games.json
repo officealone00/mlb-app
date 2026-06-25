@@ -56,7 +56,7 @@
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 32,
+        "wins": 33,
         "losses": 46
       },
       "away": {
@@ -65,7 +65,7 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 38,
-        "losses": 41
+        "losses": 42
       },
       "koreanPlayerTeams": [
         137
@@ -563,15 +563,15 @@
     },
     {
       "gameId": 823208,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-25T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 1,
-        "wins": 32,
+        "score": 2,
+        "wins": 33,
         "losses": 46
       },
       "away": {
@@ -580,7 +580,7 @@
         "kr": "애슬레틱스",
         "score": 1,
         "wins": 38,
-        "losses": 41
+        "losses": 42
       },
       "koreanPlayerTeams": [
         137
