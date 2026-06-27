@@ -396,18 +396,18 @@
     },
     {
       "rank": 20,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "3.18"
-    },
-    {
-      "rank": 21,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
+      "value": "3.17"
+    },
+    {
+      "rank": 21,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
       "value": "3.18"
     },
     {
@@ -506,7 +506,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "118"
+      "value": "126"
     },
     {
       "rank": 4,
@@ -784,6 +784,14 @@
     },
     {
       "rank": 8,
+      "playerId": 547973,
+      "playerName": "Aroldis Chapman",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "16"
+    },
+    {
+      "rank": 9,
       "playerId": 628452,
       "playerName": "Raisel Iglesias",
       "teamId": 144,
@@ -791,7 +799,7 @@
       "value": "16"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 656641,
       "playerName": "Jacob Latz",
       "teamId": 140,
@@ -799,20 +807,12 @@
       "value": "16"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "16"
-    },
-    {
-      "rank": 11,
-      "playerId": 547973,
-      "playerName": "Aroldis Chapman",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "15"
     },
     {
       "rank": 12,
@@ -904,18 +904,18 @@
     },
     {
       "rank": 23,
-      "playerId": 690925,
-      "playerName": "Clayton Beeter",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "6"
-    },
-    {
-      "rank": 24,
       "playerId": 623352,
       "playerName": "Josh Hader",
       "teamId": 117,
       "teamAbbr": "HOU",
+      "value": "7"
+    },
+    {
+      "rank": 24,
+      "playerId": 690925,
+      "playerName": "Clayton Beeter",
+      "teamId": 120,
+      "teamAbbr": "WSH",
       "value": "6"
     },
     {
