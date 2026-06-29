@@ -30,7 +30,7 @@
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".323"
+      "value": ".322"
     },
     {
       "rank": 5,
@@ -110,7 +110,7 @@
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".296"
+      "value": ".295"
     },
     {
       "rank": 15,
@@ -210,27 +210,27 @@
     },
     {
       "rank": 27,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".283"
+    },
+    {
+      "rank": 28,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".284"
+      "value": ".283"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": ".283"
-    },
-    {
-      "rank": 29,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": ".282"
     },
     {
       "rank": 30,
@@ -824,18 +824,18 @@
     },
     {
       "rank": 13,
-      "playerId": 672640,
-      "playerName": "Otto Lopez",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "16"
-    },
-    {
-      "rank": 14,
       "playerId": 701538,
       "playerName": "Jackson Merrill",
       "teamId": 135,
       "teamAbbr": "SD",
+      "value": "17"
+    },
+    {
+      "rank": 14,
+      "playerId": 672640,
+      "playerName": "Otto Lopez",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "16"
     },
     {

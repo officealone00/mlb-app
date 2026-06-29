@@ -428,19 +428,19 @@
     },
     {
       "rank": 24,
+      "playerId": 592662,
+      "playerName": "Robbie Ray",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "3.39"
+    },
+    {
+      "rank": 25,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": "3.39"
-    },
-    {
-      "rank": 25,
-      "playerId": 592662,
-      "playerName": "Robbie Ray",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": "3.41"
     },
     {
       "rank": 26,
@@ -936,6 +936,14 @@
     },
     {
       "rank": 27,
+      "playerId": 668873,
+      "playerName": "Caleb Kilian",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "6"
+    },
+    {
+      "rank": 28,
       "playerId": 687911,
       "playerName": "Bryan King",
       "teamId": 117,
@@ -943,7 +951,7 @@
       "value": "6"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 669270,
       "playerName": "Joel Kuhnel",
       "teamId": 158,
@@ -951,19 +959,11 @@
       "value": "6"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 641941,
       "playerName": "Emilio Pagán",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "6"
-    },
-    {
-      "rank": 30,
-      "playerId": 681402,
-      "playerName": "Gus Varland",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": "6"
     }
   ],
