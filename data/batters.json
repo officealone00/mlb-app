@@ -218,14 +218,6 @@
     },
     {
       "rank": 28,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".283"
-    },
-    {
-      "rank": 29,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -233,11 +225,19 @@
       "value": ".283"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
+      "value": ".281"
+    },
+    {
+      "rank": 30,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".281"
     }
   ],
@@ -784,6 +784,14 @@
     },
     {
       "rank": 8,
+      "playerId": 676609,
+      "playerName": "José Caballero",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "19"
+    },
+    {
+      "rank": 9,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
@@ -791,20 +799,12 @@
       "value": "19"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "19"
-    },
-    {
-      "rank": 10,
-      "playerId": 676609,
-      "playerName": "José Caballero",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "18"
     },
     {
       "rank": 11,

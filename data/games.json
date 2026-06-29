@@ -57,7 +57,7 @@
         "kr": "뉴욕 양키스",
         "score": null,
         "wins": 48,
-        "losses": 34
+        "losses": 35
       },
       "away": {
         "teamId": 116,
@@ -102,7 +102,7 @@
         "abbr": "BOS",
         "kr": "보스턴",
         "score": null,
-        "wins": 35,
+        "wins": 36,
         "losses": 46
       },
       "away": {
@@ -637,24 +637,24 @@
     },
     {
       "gameId": 824744,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-28T23:20:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
-        "wins": 35,
+        "score": 5,
+        "wins": 36,
         "losses": 46
       },
       "away": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 4,
         "wins": 48,
-        "losses": 34
+        "losses": 35
       },
       "koreanPlayerTeams": []
     }
