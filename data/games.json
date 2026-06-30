@@ -291,14 +291,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 40,
-        "losses": 44
+        "losses": 45
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 54,
+        "wins": 55,
         "losses": 30
       },
       "koreanPlayerTeams": [
@@ -589,23 +589,23 @@
     },
     {
       "gameId": 824986,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-30T01:40:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 3,
+        "score": 4,
         "wins": 40,
-        "losses": 44
+        "losses": 45
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 9,
-        "wins": 54,
+        "wins": 55,
         "losses": 30
       },
       "koreanPlayerTeams": [
@@ -637,8 +637,8 @@
     },
     {
       "gameId": 825065,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-06-30T01:40:00Z",
       "home": {
         "teamId": 109,
