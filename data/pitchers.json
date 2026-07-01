@@ -630,6 +630,14 @@
     },
     {
       "rank": 19,
+      "playerId": 669022,
+      "playerName": "MacKenzie Gore",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "104"
+    },
+    {
+      "rank": 20,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -637,7 +645,7 @@
       "value": "102"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -645,7 +653,7 @@
       "value": "101"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -653,7 +661,7 @@
       "value": "100"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
@@ -661,7 +669,7 @@
       "value": "99"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
@@ -669,20 +677,12 @@
       "value": "98"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "98"
-    },
-    {
-      "rank": 25,
-      "playerId": 669022,
-      "playerName": "MacKenzie Gore",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "97"
     },
     {
       "rank": 26,
@@ -1010,19 +1010,19 @@
     },
     {
       "rank": 6,
-      "playerId": 672456,
-      "playerName": "Keider Montero",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": "0.99"
-    },
-    {
-      "rank": 7,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "0.99"
+    },
+    {
+      "rank": 7,
+      "playerId": 672456,
+      "playerName": "Keider Montero",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": "1.00"
     },
     {
       "rank": 8,

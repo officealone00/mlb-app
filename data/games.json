@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824818,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-01T16:35:00Z",
       "home": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 6,
         "wins": 39,
         "losses": 48
       },
@@ -17,7 +17,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 1,
         "wins": 45,
         "losses": 39
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824419,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-01T17:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 5,
         "wins": 44,
         "losses": 42
       },
@@ -40,7 +40,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 0,
+        "score": 3,
         "wins": 44,
         "losses": 42
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824740,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-01T17:35:00Z",
       "home": {
         "teamId": 111,
@@ -63,7 +63,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 7,
         "wins": 44,
         "losses": 43
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 823530,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-01T17:35:00Z",
       "home": {
         "teamId": 147,
@@ -86,7 +86,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 2,
         "wins": 37,
         "losses": 49
       },
@@ -94,14 +94,14 @@
     },
     {
       "gameId": 824660,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-01T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 0,
+        "score": 4,
         "wins": 48,
         "losses": 38
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 822791,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PY",
       "startTime": "2026-07-01T19:07:00Z",
       "home": {
         "teamId": 141,
@@ -213,8 +213,8 @@
     },
     {
       "gameId": 824174,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-02T00:10:00Z",
       "home": {
         "teamId": 117,
