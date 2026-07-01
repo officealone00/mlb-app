@@ -86,15 +86,15 @@
     "stats": {
       "hitting": {
         "games": 33,
-        "atBats": 57,
-        "hits": 13,
-        "homeRuns": 0,
-        "rbi": 8,
+        "atBats": 60,
+        "hits": 14,
+        "homeRuns": 1,
+        "rbi": 9,
         "stolenBases": 6,
-        "avg": ".228",
+        "avg": ".233",
         "obp": ".333",
-        "slg": ".281",
-        "ops": ".614"
+        "slg": ".333",
+        "ops": ".666"
       },
       "pitching": null
     }

@@ -202,6 +202,14 @@
     },
     {
       "rank": 26,
+      "playerId": 676282,
+      "playerName": "Joey Cantillo",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "7"
+    },
+    {
+      "rank": 27,
       "playerId": 813349,
       "playerName": "Connelly Early",
       "teamId": 111,
@@ -209,7 +217,7 @@
       "value": "7"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 669923,
       "playerName": "George Kirby",
       "teamId": 136,
@@ -217,7 +225,7 @@
       "value": "7"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 641793,
       "playerName": "Zack Littell",
       "teamId": 120,
@@ -225,19 +233,11 @@
       "value": "7"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "7"
-    },
-    {
-      "rank": 30,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "7"
     }
   ],
@@ -396,6 +396,14 @@
     },
     {
       "rank": 20,
+      "playerId": 672456,
+      "playerName": "Keider Montero",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": "3.31"
+    },
+    {
+      "rank": 21,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
@@ -403,7 +411,7 @@
       "value": "3.31"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -411,19 +419,11 @@
       "value": "3.33"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "3.39"
-    },
-    {
-      "rank": 23,
-      "playerId": 672456,
-      "playerName": "Keider Montero",
-      "teamId": 116,
-      "teamAbbr": "DET",
       "value": "3.39"
     },
     {
@@ -1010,19 +1010,19 @@
     },
     {
       "rank": 6,
+      "playerId": 672456,
+      "playerName": "Keider Montero",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": "0.99"
+    },
+    {
+      "rank": 7,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "0.99"
-    },
-    {
-      "rank": 7,
-      "playerId": 672456,
-      "playerName": "Keider Montero",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": "1.00"
     },
     {
       "rank": 8,
