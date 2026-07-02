@@ -66,18 +66,18 @@
     },
     {
       "rank": 9,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".300"
-    },
-    {
-      "rank": 10,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": ".299"
+    },
+    {
+      "rank": 10,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".299"
     },
     {
@@ -170,6 +170,14 @@
     },
     {
       "rank": 22,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".289"
+    },
+    {
+      "rank": 23,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -177,20 +185,12 @@
       "value": ".288"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
       "value": ".287"
-    },
-    {
-      "rank": 24,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".286"
     },
     {
       "rank": 25,
