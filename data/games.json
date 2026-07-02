@@ -521,23 +521,23 @@
     },
     {
       "gameId": 825064,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-02T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
+        "score": 4,
         "wins": 43,
-        "losses": 42
+        "losses": 43
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": 6,
-        "wins": 35,
+        "wins": 36,
         "losses": 50
       },
       "koreanPlayerTeams": [
