@@ -248,7 +248,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "1.45"
+      "value": "1.51"
     },
     {
       "rank": 2,
@@ -288,7 +288,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.36"
+      "value": "2.31"
     },
     {
       "rank": 7,
@@ -490,7 +490,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "146"
+      "value": "151"
     },
     {
       "rank": 2,
@@ -558,6 +558,14 @@
     },
     {
       "rank": 10,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "114"
+    },
+    {
+      "rank": 11,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -565,20 +573,12 @@
       "value": "113"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "113"
-    },
-    {
-      "rank": 12,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "112"
     },
     {
       "rank": 13,
@@ -974,7 +974,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "0.77"
+      "value": "0.76"
     },
     {
       "rank": 2,
@@ -1106,18 +1106,18 @@
     },
     {
       "rank": 18,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "1.08"
-    },
-    {
-      "rank": 19,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
+      "value": "1.08"
+    },
+    {
+      "rank": 19,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
       "value": "1.08"
     },
     {

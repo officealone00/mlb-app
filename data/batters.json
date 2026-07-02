@@ -34,19 +34,19 @@
     },
     {
       "rank": 5,
-      "playerId": 669016,
-      "playerName": "Brandon Marsh",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": ".319"
-    },
-    {
-      "rank": 6,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": ".319"
+    },
+    {
+      "rank": 6,
+      "playerId": 669016,
+      "playerName": "Brandon Marsh",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": ".316"
     },
     {
       "rank": 7,
@@ -66,18 +66,18 @@
     },
     {
       "rank": 9,
-      "playerId": 676391,
-      "playerName": "Ernie Clement",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": ".299"
-    },
-    {
-      "rank": 10,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".300"
+    },
+    {
+      "rank": 10,
+      "playerId": 676391,
+      "playerName": "Ernie Clement",
+      "teamId": 141,
+      "teamAbbr": "TOR",
       "value": ".299"
     },
     {
@@ -86,7 +86,7 @@
       "playerName": "William Contreras",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": ".296"
+      "value": ".295"
     },
     {
       "rank": 12,
@@ -170,19 +170,19 @@
     },
     {
       "rank": 22,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".289"
-    },
-    {
-      "rank": 23,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": ".288"
+    },
+    {
+      "rank": 23,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".287"
     },
     {
       "rank": 24,
@@ -518,6 +518,14 @@
     },
     {
       "rank": 5,
+      "playerId": 701398,
+      "playerName": "Sal Stewart",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "60"
+    },
+    {
+      "rank": 6,
       "playerId": 624413,
       "playerName": "Pete Alonso",
       "teamId": 110,
@@ -525,7 +533,7 @@
       "value": "59"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "playerId": 693307,
       "playerName": "Dillon Dingler",
       "teamId": 116,
@@ -533,19 +541,11 @@
       "value": "59"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "59"
-    },
-    {
-      "rank": 8,
-      "playerId": 701398,
-      "playerName": "Sal Stewart",
-      "teamId": 113,
-      "teamAbbr": "CIN",
       "value": "59"
     },
     {
@@ -574,6 +574,14 @@
     },
     {
       "rank": 12,
+      "playerId": 547180,
+      "playerName": "Bryce Harper",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "57"
+    },
+    {
+      "rank": 13,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -581,7 +589,7 @@
       "value": "57"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 621020,
       "playerName": "Dansby Swanson",
       "teamId": 112,
@@ -589,19 +597,11 @@
       "value": "57"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 605137,
       "playerName": "Josh Bell",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "56"
-    },
-    {
-      "rank": 15,
-      "playerId": 547180,
-      "playerName": "Bryce Harper",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "56"
     },
     {
