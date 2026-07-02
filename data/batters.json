@@ -6,7 +6,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".335"
+      "value": ".336"
     },
     {
       "rank": 2,
@@ -42,19 +42,19 @@
     },
     {
       "rank": 6,
+      "playerId": 687859,
+      "playerName": "Troy Johnston",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".315"
+    },
+    {
+      "rank": 7,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": ".315"
-    },
-    {
-      "rank": 7,
-      "playerId": 687859,
-      "playerName": "Troy Johnston",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".311"
     },
     {
       "rank": 8,
@@ -70,7 +70,7 @@
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".302"
+      "value": ".301"
     },
     {
       "rank": 10,
@@ -114,14 +114,6 @@
     },
     {
       "rank": 15,
-      "playerId": 661388,
-      "playerName": "William Contreras",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": ".294"
-    },
-    {
-      "rank": 16,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -129,7 +121,7 @@
       "value": ".293"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -137,7 +129,7 @@
       "value": ".293"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -145,7 +137,7 @@
       "value": ".293"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -153,19 +145,27 @@
       "value": ".293"
     },
     {
-      "rank": 20,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".291"
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
+      "value": ".293"
+    },
+    {
+      "rank": 20,
+      "playerId": 661388,
+      "playerName": "William Contreras",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".293"
+    },
+    {
+      "rank": 21,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".291"
     },
     {
@@ -202,14 +202,6 @@
     },
     {
       "rank": 26,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".284"
-    },
-    {
-      "rank": 27,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -217,12 +209,20 @@
       "value": ".283"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": ".283"
+    },
+    {
+      "rank": 28,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".282"
     },
     {
       "rank": 29,
