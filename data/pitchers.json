@@ -248,7 +248,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "1.51"
+      "value": "1.47"
     },
     {
       "rank": 2,
@@ -288,7 +288,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.31"
+      "value": "2.40"
     },
     {
       "rank": 7,
@@ -490,7 +490,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "151"
+      "value": "156"
     },
     {
       "rank": 2,
@@ -534,6 +534,14 @@
     },
     {
       "rank": 7,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "116"
+    },
+    {
+      "rank": 8,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -541,7 +549,7 @@
       "value": "116"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -549,20 +557,12 @@
       "value": "115"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "115"
-    },
-    {
-      "rank": 10,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "114"
     },
     {
       "rank": 11,
@@ -974,7 +974,7 @@
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "0.76"
+      "value": "0.78"
     },
     {
       "rank": 2,
@@ -1090,6 +1090,14 @@
     },
     {
       "rank": 16,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "1.08"
+    },
+    {
+      "rank": 17,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -1097,19 +1105,11 @@
       "value": "1.08"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "1.08"
-    },
-    {
-      "rank": 18,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
       "value": "1.08"
     },
     {
