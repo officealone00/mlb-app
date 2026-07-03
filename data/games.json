@@ -267,7 +267,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 56,
+        "wins": 57,
         "losses": 31
       },
       "away": {
@@ -276,7 +276,7 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 43,
-        "losses": 42
+        "losses": 43
       },
       "koreanPlayerTeams": [
         119,
@@ -496,24 +496,24 @@
     },
     {
       "gameId": 823935,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-03T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 11,
-        "wins": 56,
+        "score": 12,
+        "wins": 57,
         "losses": 31
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 6,
+        "score": 7,
         "wins": 43,
-        "losses": 42
+        "losses": 43
       },
       "koreanPlayerTeams": [
         119,
