@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822716,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-07-04T15:05:00Z",
       "home": {
         "teamId": 120,
@@ -11,22 +11,22 @@
         "kr": "워싱턴",
         "score": 1,
         "wins": 46,
-        "losses": 43
+        "losses": 44
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 5,
-        "wins": 44,
+        "score": 7,
+        "wins": 45,
         "losses": 45
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823526,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-04T17:35:00Z",
       "home": {
         "teamId": 147,
@@ -40,7 +40,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 0,
+        "score": 5,
         "wins": 42,
         "losses": 47
       },
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 822882,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-04T20:05:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 43
       },
@@ -63,7 +63,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 50
       },
@@ -71,14 +71,14 @@
     },
     {
       "gameId": 823118,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-04T20:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 44
       },
@@ -86,7 +86,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 42,
         "losses": 46
       },
