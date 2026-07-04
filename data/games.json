@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822716,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-04T15:05:00Z",
       "home": {
         "teamId": 120,
@@ -32,7 +32,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 4,
         "wins": 49,
         "losses": 38
       },
@@ -40,7 +40,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 5,
+        "score": 7,
         "wins": 42,
         "losses": 47
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822882,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-04T20:05:00Z",
       "home": {
         "teamId": 140,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 823118,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-04T20:10:00Z",
       "home": {
         "teamId": 136,
@@ -94,14 +94,14 @@
     },
     {
       "gameId": 824499,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-04T23:10:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 40,
         "losses": 47
       },
@@ -109,7 +109,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 48
       },
@@ -117,14 +117,14 @@
     },
     {
       "gameId": 824171,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-04T23:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 43,
         "losses": 47
       },
@@ -132,7 +132,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 33
       },
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 824415,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-04T23:10:00Z",
       "home": {
         "teamId": 114,
@@ -236,8 +236,8 @@
     },
     {
       "gameId": 824092,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-05T00:10:00Z",
       "home": {
         "teamId": 118,
