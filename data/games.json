@@ -291,14 +291,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 41,
-        "losses": 46
+        "losses": 47
       },
       "away": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
         "score": null,
-        "wins": 46,
+        "wins": 47,
         "losses": 42
       },
       "koreanPlayerTeams": []
@@ -314,14 +314,14 @@
         "kr": "애리조나",
         "score": null,
         "wins": 43,
-        "losses": 43
+        "losses": 44
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
         "score": null,
-        "wins": 53,
+        "wins": 54,
         "losses": 32
       },
       "koreanPlayerTeams": []
@@ -567,8 +567,8 @@
     },
     {
       "gameId": 824982,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-04T01:40:00Z",
       "home": {
         "teamId": 133,
@@ -576,45 +576,45 @@
         "kr": "애슬레틱스",
         "score": 5,
         "wins": 41,
-        "losses": 46
+        "losses": 47
       },
       "away": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
         "score": 12,
-        "wins": 46,
+        "wins": 47,
         "losses": 42
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 825062,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-04T01:45:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 3,
+        "score": 4,
         "wins": 43,
-        "losses": 43
+        "losses": 44
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 3,
-        "wins": 53,
+        "score": 7,
+        "wins": 54,
         "losses": 32
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823933,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-04T02:10:00Z",
       "home": {
         "teamId": 119,
@@ -639,8 +639,8 @@
     },
     {
       "gameId": 823120,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-04T02:10:00Z",
       "home": {
         "teamId": 136,
