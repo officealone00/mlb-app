@@ -2,23 +2,23 @@
   "today": [
     {
       "gameId": 824902,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T16:30:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 8,
+        "score": 9,
         "wins": 52,
-        "losses": 35
+        "losses": 36
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
         "score": 10,
-        "wins": 36,
+        "wins": 37,
         "losses": 53
       },
       "koreanPlayerTeams": [
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 824413,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T18:00:00Z",
       "home": {
         "teamId": 114,
@@ -105,29 +105,29 @@
         "kr": "클리블랜드",
         "score": 6,
         "wins": 47,
-        "losses": 43
+        "losses": 44
       },
       "away": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 6,
-        "wins": 46,
+        "score": 7,
+        "wins": 47,
         "losses": 42
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824656,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T18:30:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": 6,
-        "wins": 49,
+        "wins": 50,
         "losses": 40
       },
       "away": {
@@ -136,21 +136,21 @@
         "kr": "세인트루이스",
         "score": 4,
         "wins": 47,
-        "losses": 39
+        "losses": 40
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824091,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T19:00:00Z",
       "home": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 3,
-        "wins": 35,
+        "score": 5,
+        "wins": 36,
         "losses": 54
       },
       "away": {
@@ -159,21 +159,21 @@
         "kr": "필라델피아",
         "score": 2,
         "wins": 50,
-        "losses": 39
+        "losses": 40
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824172,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T19:30:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 1,
-        "wins": 44,
+        "score": 2,
+        "wins": 45,
         "losses": 47
       },
       "away": {
@@ -182,53 +182,53 @@
         "kr": "탬파베이",
         "score": 0,
         "wins": 52,
-        "losses": 34
+        "losses": 35
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 822879,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T19:30:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 1,
+        "score": 3,
         "wins": 45,
-        "losses": 44
+        "losses": 45
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": 6,
-        "wins": 39,
+        "wins": 40,
         "losses": 50
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824333,
-      "status": "Player challenge",
-      "statusCode": "MJ",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T20:00:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 4,
-        "wins": 36,
+        "score": 7,
+        "wins": 37,
         "losses": 54
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 3,
+        "score": 6,
         "wins": 37,
-        "losses": 51
+        "losses": 52
       },
       "koreanPlayerTeams": [
         137
@@ -236,23 +236,23 @@
     },
     {
       "gameId": 825061,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-05T20:00:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
+        "score": 2,
         "wins": 44,
-        "losses": 44
+        "losses": 45
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
-        "wins": 54,
+        "score": 3,
+        "wins": 55,
         "losses": 33
       },
       "koreanPlayerTeams": []
@@ -274,7 +274,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 3,
+        "score": 8,
         "wins": 48,
         "losses": 42
       },
@@ -289,7 +289,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 0,
+        "score": 4,
         "wins": 46,
         "losses": 44
       },
@@ -305,8 +305,8 @@
     },
     {
       "gameId": 823931,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-05T23:20:00Z",
       "home": {
         "teamId": 119,
@@ -331,14 +331,14 @@
     },
     {
       "gameId": 824010,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-06T01:30:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 36,
         "losses": 54
       },
@@ -346,7 +346,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 48
       },
