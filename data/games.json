@@ -525,23 +525,23 @@
     },
     {
       "gameId": 824010,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-06T01:30:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 4,
+        "score": 5,
         "wins": 36,
-        "losses": 54
+        "losses": 55
       },
       "away": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
         "score": 7,
-        "wins": 39,
+        "wins": 40,
         "losses": 48
       },
       "koreanPlayerTeams": []

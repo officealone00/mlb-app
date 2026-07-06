@@ -202,18 +202,18 @@
     },
     {
       "rank": 26,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".285"
-    },
-    {
-      "rank": 27,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
+      "value": ".284"
+    },
+    {
+      "rank": 27,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".284"
     },
     {
@@ -420,6 +420,14 @@
     },
     {
       "rank": 23,
+      "playerId": 687263,
+      "playerName": "Zach Neto",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "19"
+    },
+    {
+      "rank": 24,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -427,7 +435,7 @@
       "value": "19"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -435,7 +443,7 @@
       "value": "18"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 646240,
       "playerName": "Rafael Devers",
       "teamId": 137,
@@ -443,19 +451,11 @@
       "value": "18"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 592518,
       "playerName": "Manny Machado",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "18"
-    },
-    {
-      "rank": 27,
-      "playerId": 687263,
-      "playerName": "Zach Neto",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "18"
     },
     {
