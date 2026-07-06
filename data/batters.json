@@ -22,7 +22,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".321"
+      "value": ".320"
     },
     {
       "rank": 4,
@@ -30,7 +30,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".320"
+      "value": ".319"
     },
     {
       "rank": 5,
@@ -182,22 +182,22 @@
       "playerName": "Junior Caminero",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".288"
-    },
-    {
-      "rank": 24,
-      "playerId": 666018,
-      "playerName": "Jonathan Aranda",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": ".287"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
+      "value": ".286"
+    },
+    {
+      "rank": 25,
+      "playerId": 666018,
+      "playerName": "Jonathan Aranda",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".286"
     },
     {
@@ -598,6 +598,14 @@
     },
     {
       "rank": 15,
+      "playerId": 572233,
+      "playerName": "Christian Walker",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "58"
+    },
+    {
+      "rank": 16,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -605,19 +613,11 @@
       "value": "57"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 621020,
       "playerName": "Dansby Swanson",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "57"
-    },
-    {
-      "rank": 17,
-      "playerId": 572233,
-      "playerName": "Christian Walker",
-      "teamId": 117,
-      "teamAbbr": "HOU",
       "value": "57"
     },
     {

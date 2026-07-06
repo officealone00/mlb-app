@@ -25,8 +25,8 @@
     },
     {
       "gameId": 822958,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-06T22:40:00Z",
       "home": {
         "teamId": 139,
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 822712,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-06T22:45:00Z",
       "home": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 1,
         "wins": 46,
         "losses": 45
       },
@@ -63,7 +63,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 4,
         "wins": 45,
         "losses": 47
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 824900,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-06T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -119,14 +119,14 @@
     },
     {
       "gameId": 823282,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-07T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 44,
         "losses": 45
       },
@@ -134,7 +134,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 44,
         "losses": 45
       },
@@ -144,14 +144,14 @@
     },
     {
       "gameId": 823205,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-07T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 52
       },
@@ -159,7 +159,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 42,
         "losses": 48
       },
@@ -176,7 +176,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 32
       },
@@ -184,7 +184,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 54
       },
