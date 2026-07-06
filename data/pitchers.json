@@ -284,14 +284,6 @@
     },
     {
       "rank": 6,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "2.43"
-    },
-    {
-      "rank": 7,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -299,7 +291,7 @@
       "value": "2.49"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -307,7 +299,7 @@
       "value": "2.53"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -315,12 +307,20 @@
       "value": "2.61"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "2.61"
+    },
+    {
+      "rank": 10,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "2.62"
     },
     {
       "rank": 11,
@@ -1154,14 +1154,6 @@
     },
     {
       "rank": 24,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "1.13"
-    },
-    {
-      "rank": 25,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -1169,7 +1161,7 @@
       "value": "1.13"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 676440,
       "playerName": "Tanner Bibee",
       "teamId": 114,
@@ -1177,7 +1169,7 @@
       "value": "1.14"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
@@ -1185,7 +1177,7 @@
       "value": "1.16"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
@@ -1193,7 +1185,7 @@
       "value": "1.16"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 624133,
       "playerName": "Ranger Suarez",
       "teamId": 111,
@@ -1201,11 +1193,19 @@
       "value": "1.16"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
+      "value": "1.16"
+    },
+    {
+      "rank": 30,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
       "value": "1.16"
     }
   ]

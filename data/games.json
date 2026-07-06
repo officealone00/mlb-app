@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 824089,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-06T18:10:00Z",
       "home": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 6,
-        "wins": 36,
+        "score": 15,
+        "wins": 37,
         "losses": 54
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "필라델피아",
         "score": 1,
         "wins": 50,
-        "losses": 40
+        "losses": 41
       },
       "koreanPlayerTeams": []
     },
@@ -32,7 +32,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 35
       },
@@ -40,7 +40,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 40
       },
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 822712,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-06T22:45:00Z",
       "home": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 45
       },
@@ -63,7 +63,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 47
       },
@@ -71,14 +71,14 @@
     },
     {
       "gameId": 824900,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-06T23:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 36
       },
@@ -86,7 +86,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 53
       },
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 823036,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-06T23:45:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 40
       },
@@ -111,7 +111,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 33
       },
@@ -169,8 +169,8 @@
     },
     {
       "gameId": 823930,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-07T02:10:00Z",
       "home": {
         "teamId": 119,
