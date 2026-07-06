@@ -62,7 +62,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".309"
+      "value": ".308"
     },
     {
       "rank": 9,
@@ -162,14 +162,6 @@
     },
     {
       "rank": 21,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".290"
-    },
-    {
-      "rank": 22,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -177,11 +169,19 @@
       "value": ".288"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".288"
+    },
+    {
+      "rank": 23,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": ".288"
     },
     {
