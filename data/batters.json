@@ -90,14 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".298"
-    },
-    {
-      "rank": 13,
       "playerId": 673962,
       "playerName": "Josh Jung",
       "teamId": 140,
@@ -105,12 +97,20 @@
       "value": ".297"
     },
     {
+      "rank": 13,
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".297"
+    },
+    {
       "rank": 14,
-      "playerId": 518692,
-      "playerName": "Freddie Freeman",
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".293"
+      "value": ".294"
     },
     {
       "rank": 15,
@@ -138,18 +138,18 @@
     },
     {
       "rank": 18,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".292"
-    },
-    {
-      "rank": 19,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": ".292"
+    },
+    {
+      "rank": 19,
+      "playerId": 518692,
+      "playerName": "Freddie Freeman",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".292"
     },
     {

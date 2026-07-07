@@ -312,14 +312,14 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 44,
-        "losses": 45
+        "losses": 46
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 44,
+        "wins": 45,
         "losses": 45
       },
       "koreanPlayerTeams": [
@@ -361,7 +361,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 59,
+        "wins": 60,
         "losses": 32
       },
       "away": {
@@ -370,7 +370,7 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 37,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": [
         119
@@ -497,8 +497,8 @@
     },
     {
       "gameId": 823282,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-07T01:40:00Z",
       "home": {
         "teamId": 135,
@@ -506,14 +506,14 @@
         "kr": "샌디에이고",
         "score": 0,
         "wins": 44,
-        "losses": 45
+        "losses": 46
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": 8,
-        "wins": 44,
+        "wins": 45,
         "losses": 45
       },
       "koreanPlayerTeams": [
@@ -522,8 +522,8 @@
     },
     {
       "gameId": 823205,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-07T01:45:00Z",
       "home": {
         "teamId": 137,
@@ -547,24 +547,24 @@
     },
     {
       "gameId": 823930,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-07T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 6,
-        "wins": 59,
+        "score": 8,
+        "wins": 60,
         "losses": 32
       },
       "away": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 3,
+        "score": 7,
         "wins": 37,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": [
         119
