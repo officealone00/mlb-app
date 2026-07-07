@@ -348,6 +348,14 @@
     },
     {
       "rank": 14,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "2.85"
+    },
+    {
+      "rank": 15,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
@@ -355,7 +363,7 @@
       "value": "2.87"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 669372,
       "playerName": "J.T. Ginn",
       "teamId": 133,
@@ -363,7 +371,7 @@
       "value": "3.04"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -371,7 +379,7 @@
       "value": "3.08"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -379,7 +387,7 @@
       "value": "3.12"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 624133,
       "playerName": "Ranger Suarez",
       "teamId": 111,
@@ -387,7 +395,7 @@
       "value": "3.15"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -395,7 +403,7 @@
       "value": "3.19"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
@@ -403,7 +411,7 @@
       "value": "3.21"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -411,20 +419,12 @@
       "value": "3.23"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "3.24"
-    },
-    {
-      "rank": 23,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "3.36"
     },
     {
       "rank": 24,
@@ -1058,18 +1058,18 @@
     },
     {
       "rank": 12,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "1.04"
-    },
-    {
-      "rank": 13,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
+      "value": "1.04"
+    },
+    {
+      "rank": 13,
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 120,
+      "teamAbbr": "WSH",
       "value": "1.04"
     },
     {
