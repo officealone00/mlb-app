@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".327"
+      "value": ".326"
     },
     {
       "rank": 3,
@@ -42,19 +42,19 @@
     },
     {
       "rank": 6,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".311"
-    },
-    {
-      "rank": 7,
       "playerId": 687859,
       "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".310"
+    },
+    {
+      "rank": 7,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".309"
     },
     {
       "rank": 8,
@@ -324,6 +324,14 @@
     },
     {
       "rank": 11,
+      "playerId": 672960,
+      "playerName": "Kazuma Okamoto",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "21"
+    },
+    {
+      "rank": 12,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -331,7 +339,7 @@
       "value": "21"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -339,7 +347,7 @@
       "value": "20"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -347,7 +355,7 @@
       "value": "20"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -355,7 +363,7 @@
       "value": "20"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 669127,
       "playerName": "Shea Langeliers",
       "teamId": 133,
@@ -363,7 +371,7 @@
       "value": "20"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 808959,
       "playerName": "Munetaka Murakami",
       "teamId": 145,
@@ -371,19 +379,11 @@
       "value": "20"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "20"
-    },
-    {
-      "rank": 18,
-      "playerId": 672960,
-      "playerName": "Kazuma Okamoto",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": "20"
     },
     {
@@ -614,6 +614,14 @@
     },
     {
       "rank": 17,
+      "playerId": 672960,
+      "playerName": "Kazuma Okamoto",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "59"
+    },
+    {
+      "rank": 18,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -621,7 +629,7 @@
       "value": "58"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 621020,
       "playerName": "Dansby Swanson",
       "teamId": 112,
@@ -629,7 +637,7 @@
       "value": "58"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 572233,
       "playerName": "Christian Walker",
       "teamId": 117,
@@ -637,7 +645,7 @@
       "value": "58"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -645,7 +653,7 @@
       "value": "57"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
@@ -653,7 +661,7 @@
       "value": "57"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 656941,
       "playerName": "Kyle Schwarber",
       "teamId": 143,
@@ -661,7 +669,7 @@
       "value": "57"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -669,7 +677,7 @@
       "value": "56"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -677,7 +685,7 @@
       "value": "56"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -685,7 +693,7 @@
       "value": "56"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 668804,
       "playerName": "Bryan Reynolds",
       "teamId": 134,
@@ -693,7 +701,7 @@
       "value": "56"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 678246,
       "playerName": "Miguel Vargas",
       "teamId": 145,
@@ -701,19 +709,11 @@
       "value": "56"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "55"
-    },
-    {
-      "rank": 29,
-      "playerId": 672960,
-      "playerName": "Kazuma Okamoto",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": "55"
     },
     {
