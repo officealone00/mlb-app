@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823202,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-08T19:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 53
       },
@@ -17,7 +17,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 43,
         "losses": 49
       },
