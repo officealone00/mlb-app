@@ -114,14 +114,6 @@
     },
     {
       "rank": 15,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".295"
-    },
-    {
-      "rank": 16,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -129,7 +121,7 @@
       "value": ".294"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -137,7 +129,7 @@
       "value": ".293"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 518692,
       "playerName": "Freddie Freeman",
       "teamId": 119,
@@ -145,7 +137,7 @@
       "value": ".293"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
@@ -153,11 +145,19 @@
       "value": ".293"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
+      "value": ".292"
+    },
+    {
+      "rank": 20,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": ".292"
     },
     {
