@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824251,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-09T22:40:00Z",
       "home": {
         "teamId": 116,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823846,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-09T22:40:00Z",
       "home": {
         "teamId": 146,
@@ -241,7 +241,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 46
       },
@@ -249,7 +249,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 56
       },
@@ -257,14 +257,14 @@
     },
     {
       "gameId": 823277,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-10T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 46
       },
@@ -272,7 +272,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 47
       },
@@ -282,14 +282,14 @@
     },
     {
       "gameId": 823201,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-10T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 54
       },
@@ -297,7 +297,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 56
       },
