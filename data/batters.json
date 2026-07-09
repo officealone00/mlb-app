@@ -90,19 +90,19 @@
     },
     {
       "rank": 12,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".297"
-    },
-    {
-      "rank": 13,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": ".297"
+    },
+    {
+      "rank": 13,
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".296"
     },
     {
       "rank": 14,
@@ -114,6 +114,14 @@
     },
     {
       "rank": 15,
+      "playerId": 518692,
+      "playerName": "Freddie Freeman",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": ".296"
+    },
+    {
+      "rank": 16,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -121,19 +129,11 @@
       "value": ".295"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".294"
-    },
-    {
-      "rank": 17,
-      "playerId": 518692,
-      "playerName": "Freddie Freeman",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": ".294"
     },
     {
@@ -174,7 +174,7 @@
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".291"
+      "value": ".290"
     },
     {
       "rank": 23,
