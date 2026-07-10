@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824252,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-10T22:40:00Z",
       "home": {
         "teamId": 116,
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823357,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PR",
       "startTime": "2026-07-10T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822709,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PI",
       "startTime": "2026-07-10T22:45:00Z",
       "home": {
         "teamId": 120,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 824817,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-10T23:05:00Z",
       "home": {
         "teamId": 110,
@@ -94,8 +94,8 @@
     },
     {
       "gameId": 824493,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-10T23:10:00Z",
       "home": {
         "teamId": 113,
@@ -117,8 +117,8 @@
     },
     {
       "gameId": 822955,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-10T23:10:00Z",
       "home": {
         "teamId": 139,
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 823845,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-10T23:10:00Z",
       "home": {
         "teamId": 146,
@@ -163,14 +163,14 @@
     },
     {
       "gameId": 823604,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PO",
       "startTime": "2026-07-10T23:15:00Z",
       "home": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 40,
         "losses": 54
       },
@@ -178,7 +178,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 43,
         "losses": 48
       },
@@ -239,7 +239,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 48
       },
@@ -247,7 +247,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 37,
         "losses": 57
       },
@@ -280,14 +280,14 @@
     },
     {
       "gameId": 823278,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-11T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 47
       },
@@ -295,7 +295,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 44,
         "losses": 49
       },
@@ -312,7 +312,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 33
       },
@@ -320,7 +320,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 47
       },
@@ -330,14 +330,14 @@
     },
     {
       "gameId": 823200,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-11T02:15:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 39,
         "losses": 54
       },
@@ -345,7 +345,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 57
       },

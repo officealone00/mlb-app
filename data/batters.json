@@ -62,7 +62,7 @@
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".307"
+      "value": ".306"
     },
     {
       "rank": 9,
@@ -186,14 +186,6 @@
     },
     {
       "rank": 24,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".287"
-    },
-    {
-      "rank": 25,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -201,7 +193,7 @@
       "value": ".287"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -209,11 +201,19 @@
       "value": ".287"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".286"
+    },
+    {
+      "rank": 27,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".286"
     },
     {
