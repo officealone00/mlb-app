@@ -256,7 +256,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "2.13"
+      "value": "2.06"
     },
     {
       "rank": 3,
@@ -388,16 +388,16 @@
     },
     {
       "rank": 19,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
+      "playerId": 676106,
+      "playerName": "Emerson Hancock",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "3.16"
+      "value": "3.23"
     },
     {
       "rank": 20,
-      "playerId": 676106,
-      "playerName": "Emerson Hancock",
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "3.23"
@@ -518,19 +518,19 @@
     },
     {
       "rank": 5,
+      "playerId": 693645,
+      "playerName": "Cam Schlittler",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "135"
+    },
+    {
+      "rank": 6,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "134"
-    },
-    {
-      "rank": 6,
-      "playerId": 693645,
-      "playerName": "Cam Schlittler",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "132"
     },
     {
       "rank": 7,
@@ -598,6 +598,14 @@
     },
     {
       "rank": 15,
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "118"
+    },
+    {
+      "rank": 16,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -605,7 +613,7 @@
       "value": "117"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -613,19 +621,11 @@
       "value": "116"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "115"
-    },
-    {
-      "rank": 18,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "115"
     },
     {
@@ -880,19 +880,19 @@
     },
     {
       "rank": 20,
+      "playerId": 672782,
+      "playerName": "Yoendrys Gómez",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "11"
+    },
+    {
+      "rank": 21,
       "playerId": 445276,
       "playerName": "Kenley Jansen",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": "11"
-    },
-    {
-      "rank": 21,
-      "playerId": 672782,
-      "playerName": "Yoendrys Gómez",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "10"
     },
     {
       "rank": 22,
@@ -986,14 +986,6 @@
     },
     {
       "rank": 3,
-      "playerId": 693645,
-      "playerName": "Cam Schlittler",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "0.94"
-    },
-    {
-      "rank": 4,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
@@ -1001,19 +993,27 @@
       "value": "0.95"
     },
     {
-      "rank": 5,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
+      "rank": 4,
+      "playerId": 693645,
+      "playerName": "Cam Schlittler",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": "0.95"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
       "teamAbbr": "DET",
+      "value": "0.99"
+    },
+    {
+      "rank": 6,
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": "0.99"
     },
     {
@@ -1170,16 +1170,16 @@
     },
     {
       "rank": 26,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "1.14"
+      "value": "1.15"
     },
     {
       "rank": 27,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
+      "playerId": 676440,
+      "playerName": "Tanner Bibee",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "1.15"
