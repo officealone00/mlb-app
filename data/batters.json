@@ -38,7 +38,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".309"
+      "value": ".310"
     },
     {
       "rank": 6,
@@ -186,14 +186,6 @@
     },
     {
       "rank": 24,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".288"
-    },
-    {
-      "rank": 25,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 120,
@@ -201,7 +193,7 @@
       "value": ".287"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -209,11 +201,19 @@
       "value": ".286"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
+      "value": ".286"
+    },
+    {
+      "rank": 27,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".286"
     },
     {
@@ -234,10 +234,10 @@
     },
     {
       "rank": 30,
-      "playerId": 661388,
-      "playerName": "William Contreras",
-      "teamId": 158,
-      "teamAbbr": "MIL",
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".283"
     }
   ],

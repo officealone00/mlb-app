@@ -360,7 +360,7 @@
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "2.85"
+      "value": "2.79"
     },
     {
       "rank": 16,
@@ -412,14 +412,6 @@
     },
     {
       "rank": 22,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "3.31"
-    },
-    {
-      "rank": 23,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
@@ -427,7 +419,7 @@
       "value": "3.38"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -435,7 +427,7 @@
       "value": "3.40"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -443,7 +435,7 @@
       "value": "3.41"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -451,7 +443,7 @@
       "value": "3.41"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -459,11 +451,19 @@
       "value": "3.41"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
+      "value": "3.49"
+    },
+    {
+      "rank": 28,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": "3.49"
     },
     {
@@ -538,7 +538,7 @@
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "125"
+      "value": "128"
     },
     {
       "rank": 8,
@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "124"
+    },
+    {
+      "rank": 10,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -557,20 +565,12 @@
       "value": "123"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "123"
-    },
-    {
-      "rank": 11,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "122"
     },
     {
       "rank": 12,
@@ -872,18 +872,18 @@
     },
     {
       "rank": 19,
-      "playerId": 445276,
-      "playerName": "Kenley Jansen",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": "11"
-    },
-    {
-      "rank": 20,
       "playerId": 642397,
       "playerName": "Gregory Soto",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": "12"
+    },
+    {
+      "rank": 20,
+      "playerId": 445276,
+      "playerName": "Kenley Jansen",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": "11"
     },
     {
@@ -1050,18 +1050,18 @@
     },
     {
       "rank": 11,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "1.04"
-    },
-    {
-      "rank": 12,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": "1.04"
+    },
+    {
+      "rank": 12,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
       "value": "1.04"
     },
     {
@@ -1082,14 +1082,6 @@
     },
     {
       "rank": 15,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "1.09"
-    },
-    {
-      "rank": 16,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -1097,7 +1089,7 @@
       "value": "1.10"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -1105,7 +1097,7 @@
       "value": "1.10"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1113,11 +1105,19 @@
       "value": "1.11"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": "1.11"
+    },
+    {
+      "rank": 19,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": "1.11"
     },
     {
