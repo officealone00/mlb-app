@@ -256,7 +256,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "2.01"
+      "value": "2.13"
     },
     {
       "rank": 3,
@@ -360,7 +360,7 @@
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "2.79"
+      "value": "2.85"
     },
     {
       "rank": 16,
@@ -392,7 +392,7 @@
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "3.19"
+      "value": "3.16"
     },
     {
       "rank": 20,
@@ -530,7 +530,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "131"
+      "value": "132"
     },
     {
       "rank": 7,
@@ -542,19 +542,19 @@
     },
     {
       "rank": 8,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "128"
+    },
+    {
+      "rank": 9,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "125"
-    },
-    {
-      "rank": 9,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "124"
     },
     {
       "rank": 10,
@@ -622,19 +622,19 @@
     },
     {
       "rank": 18,
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "115"
+    },
+    {
+      "rank": 19,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "115"
-    },
-    {
-      "rank": 19,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "114"
     },
     {
       "rank": 20,
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 642547,
+      "playerName": "Freddy Peralta",
+      "teamId": 121,
+      "teamAbbr": "NYM",
+      "value": "104"
+    },
+    {
+      "rank": 29,
       "playerId": 694738,
       "playerName": "Landen Roupp",
       "teamId": 137,
@@ -709,19 +717,11 @@
       "value": "104"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "102"
-    },
-    {
-      "rank": 30,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "102"
     }
   ],
@@ -990,7 +990,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "0.93"
+      "value": "0.94"
     },
     {
       "rank": 4,
@@ -1062,7 +1062,7 @@
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "1.04"
+      "value": "1.05"
     },
     {
       "rank": 13,
@@ -1162,18 +1162,18 @@
     },
     {
       "rank": 25,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.14"
-    },
-    {
-      "rank": 26,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
       "teamAbbr": "LAA",
+      "value": "1.14"
+    },
+    {
+      "rank": 26,
+      "playerId": 676440,
+      "playerName": "Tanner Bibee",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": "1.14"
     },
     {
