@@ -130,6 +130,14 @@
     },
     {
       "rank": 17,
+      "playerId": 622608,
+      "playerName": "Antonio Senzatela",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": "9"
+    },
+    {
+      "rank": 18,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -137,7 +145,7 @@
       "value": "9"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -145,7 +153,7 @@
       "value": "9"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -153,7 +161,7 @@
       "value": "8"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 690986,
       "playerName": "Kyle Harrison",
       "teamId": 158,
@@ -161,7 +169,7 @@
       "value": "8"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -169,7 +177,7 @@
       "value": "8"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -177,7 +185,7 @@
       "value": "8"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
@@ -185,7 +193,7 @@
       "value": "8"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -193,7 +201,7 @@
       "value": "8"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -201,7 +209,7 @@
       "value": "8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
@@ -209,15 +217,15 @@
       "value": "8"
     },
     {
-      "rank": 27,
-      "playerId": 622608,
-      "playerName": "Antonio Senzatela",
-      "teamId": 115,
-      "teamAbbr": "COL",
+      "rank": 28,
+      "playerId": 593958,
+      "playerName": "Eduardo Rodriguez",
+      "teamId": 109,
+      "teamAbbr": "ARI",
       "value": "8"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -225,19 +233,11 @@
       "value": "8"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 647336,
       "playerName": "Michael Soroka",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": "8"
-    },
-    {
-      "rank": 30,
-      "playerId": 608372,
-      "playerName": "Tomoyuki Sugano",
-      "teamId": 115,
-      "teamAbbr": "COL",
       "value": "8"
     }
   ],
@@ -272,7 +272,7 @@
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": "2.33"
+      "value": "2.29"
     },
     {
       "rank": 5,
@@ -424,7 +424,7 @@
       "playerName": "Robbie Ray",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "3.32"
+      "value": "3.38"
     },
     {
       "rank": 24,
@@ -764,7 +764,7 @@
       "playerName": "Riley O'Brien",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "22"
+      "value": "23"
     },
     {
       "rank": 6,
@@ -784,6 +784,14 @@
     },
     {
       "rank": 8,
+      "playerId": 686973,
+      "playerName": "Louis Varland",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "19"
+    },
+    {
+      "rank": 9,
       "playerId": 628452,
       "playerName": "Raisel Iglesias",
       "teamId": 144,
@@ -791,19 +799,11 @@
       "value": "18"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 656641,
       "playerName": "Jacob Latz",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "18"
-    },
-    {
-      "rank": 10,
-      "playerId": 686973,
-      "playerName": "Louis Varland",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": "18"
     },
     {
@@ -1202,10 +1202,10 @@
     },
     {
       "rank": 30,
-      "playerId": 593958,
-      "playerName": "Eduardo Rodriguez",
-      "teamId": 109,
-      "teamAbbr": "ARI",
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
       "value": "1.16"
     }
   ]
