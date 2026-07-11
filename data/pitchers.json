@@ -404,19 +404,19 @@
     },
     {
       "rank": 21,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "3.24"
-    },
-    {
-      "rank": 22,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "3.26"
+    },
+    {
+      "rank": 22,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "3.31"
     },
     {
       "rank": 23,
@@ -534,6 +534,14 @@
     },
     {
       "rank": 7,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "125"
+    },
+    {
+      "rank": 8,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -541,7 +549,7 @@
       "value": "125"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -549,20 +557,12 @@
       "value": "123"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "123"
-    },
-    {
-      "rank": 10,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "122"
     },
     {
       "rank": 11,
@@ -1082,18 +1082,18 @@
     },
     {
       "rank": 15,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "1.10"
-    },
-    {
-      "rank": 16,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": "1.09"
+    },
+    {
+      "rank": 16,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": "1.10"
     },
     {

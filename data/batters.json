@@ -38,7 +38,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".310"
+      "value": ".309"
     },
     {
       "rank": 6,
@@ -170,14 +170,6 @@
     },
     {
       "rank": 22,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".289"
-    },
-    {
-      "rank": 23,
       "playerId": 803011,
       "playerName": "Sam Antonacci",
       "teamId": 145,
@@ -185,11 +177,19 @@
       "value": ".288"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
+      "value": ".288"
+    },
+    {
+      "rank": 24,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": ".288"
     },
     {
@@ -234,10 +234,10 @@
     },
     {
       "rank": 30,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 661388,
+      "playerName": "William Contreras",
+      "teamId": 158,
+      "teamAbbr": "MIL",
       "value": ".283"
     }
   ],
@@ -630,6 +630,14 @@
     },
     {
       "rank": 19,
+      "playerId": 641343,
+      "playerName": "Jake Bauers",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "59"
+    },
+    {
+      "rank": 20,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -637,7 +645,7 @@
       "value": "59"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 678246,
       "playerName": "Miguel Vargas",
       "teamId": 145,
@@ -645,7 +653,7 @@
       "value": "59"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 669394,
       "playerName": "Jake Burger",
       "teamId": 140,
@@ -653,7 +661,7 @@
       "value": "58"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
@@ -661,7 +669,7 @@
       "value": "58"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 656941,
       "playerName": "Kyle Schwarber",
       "teamId": 143,
@@ -669,7 +677,7 @@
       "value": "58"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 621020,
       "playerName": "Dansby Swanson",
       "teamId": 112,
@@ -677,20 +685,12 @@
       "value": "58"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 572233,
       "playerName": "Christian Walker",
       "teamId": 117,
       "teamAbbr": "HOU",
       "value": "58"
-    },
-    {
-      "rank": 26,
-      "playerId": 641343,
-      "playerName": "Jake Bauers",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "57"
     },
     {
       "rank": 27,
