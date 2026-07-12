@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".331"
+      "value": ".330"
     },
     {
       "rank": 3,
@@ -42,18 +42,18 @@
     },
     {
       "rank": 6,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".305"
-    },
-    {
-      "rank": 7,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".303"
+    },
+    {
+      "rank": 7,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
       "value": ".303"
     },
     {
@@ -62,18 +62,10 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".302"
+      "value": ".301"
     },
     {
       "rank": 9,
-      "playerId": 687859,
-      "playerName": "Troy Johnston",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".302"
-    },
-    {
-      "rank": 10,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
@@ -81,12 +73,20 @@
       "value": ".301"
     },
     {
-      "rank": 11,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
+      "rank": 10,
+      "playerId": 687859,
+      "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".297"
+      "value": ".301"
+    },
+    {
+      "rank": 11,
+      "playerId": 673962,
+      "playerName": "Josh Jung",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".298"
     },
     {
       "rank": 12,
@@ -98,6 +98,14 @@
     },
     {
       "rank": 13,
+      "playerId": 676391,
+      "playerName": "Ernie Clement",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": ".297"
+    },
+    {
+      "rank": 14,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -105,19 +113,11 @@
       "value": ".296"
     },
     {
-      "rank": 14,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".296"
-    },
-    {
       "rank": 15,
-      "playerId": 676391,
-      "playerName": "Ernie Clement",
-      "teamId": 141,
-      "teamAbbr": "TOR",
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
       "value": ".296"
     },
     {
@@ -130,19 +130,19 @@
     },
     {
       "rank": 17,
-      "playerId": 518692,
-      "playerName": "Freddie Freeman",
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": ".293"
     },
     {
       "rank": 18,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
+      "playerId": 518692,
+      "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".292"
+      "value": ".291"
     },
     {
       "rank": 19,
@@ -920,6 +920,14 @@
     },
     {
       "rank": 25,
+      "playerId": 664983,
+      "playerName": "Jake McCarthy",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": "15"
+    },
+    {
+      "rank": 26,
       "playerId": 672695,
       "playerName": "Geraldo Perdomo",
       "teamId": 109,
@@ -927,7 +935,7 @@
       "value": "15"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 677587,
       "playerName": "Brayan Rocchio",
       "teamId": 114,
@@ -935,7 +943,7 @@
       "value": "15"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -943,7 +951,7 @@
       "value": "15"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
@@ -951,19 +959,11 @@
       "value": "15"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "14"
-    },
-    {
-      "rank": 30,
-      "playerId": 680776,
-      "playerName": "Jarren Duran",
-      "teamId": 111,
-      "teamAbbr": "BOS",
       "value": "14"
     }
   ]
