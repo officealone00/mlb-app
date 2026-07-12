@@ -314,14 +314,14 @@
         "kr": "LA 다저스",
         "score": null,
         "wins": 61,
-        "losses": 34
+        "losses": 35
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 47,
+        "wins": 48,
         "losses": 47
       },
       "koreanPlayerTeams": [
@@ -338,7 +338,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 46,
+        "wins": 47,
         "losses": 48
       },
       "away": {
@@ -347,7 +347,7 @@
         "kr": "토론토",
         "score": null,
         "wins": 45,
-        "losses": 49
+        "losses": 50
       },
       "koreanPlayerTeams": [
         135
@@ -683,15 +683,15 @@
     },
     {
       "gameId": 823276,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-12T00:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": 8,
-        "wins": 46,
+        "wins": 47,
         "losses": 48
       },
       "away": {
@@ -700,7 +700,7 @@
         "kr": "토론토",
         "score": 7,
         "wins": 45,
-        "losses": 49
+        "losses": 50
       },
       "koreanPlayerTeams": [
         135
@@ -708,8 +708,8 @@
     },
     {
       "gameId": 823926,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-12T01:10:00Z",
       "home": {
         "teamId": 119,
@@ -717,14 +717,14 @@
         "kr": "LA 다저스",
         "score": 2,
         "wins": 61,
-        "losses": 34
+        "losses": 35
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": 9,
-        "wins": 47,
+        "wins": 48,
         "losses": 47
       },
       "koreanPlayerTeams": [
