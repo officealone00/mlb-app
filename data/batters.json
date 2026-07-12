@@ -34,19 +34,19 @@
     },
     {
       "rank": 5,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".306"
-    },
-    {
-      "rank": 6,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": ".306"
+    },
+    {
+      "rank": 6,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".304"
     },
     {
       "rank": 7,
@@ -218,6 +218,14 @@
     },
     {
       "rank": 28,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".285"
+    },
+    {
+      "rank": 29,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -225,20 +233,12 @@
       "value": ".285"
     },
     {
-      "rank": 29,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
+      "rank": 30,
+      "playerId": 668804,
+      "playerName": "Bryan Reynolds",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".283"
-    },
-    {
-      "rank": 30,
-      "playerId": 802415,
-      "playerName": "Chandler Simpson",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".282"
     }
   ],
   "hr": [
@@ -590,6 +590,14 @@
     },
     {
       "rank": 14,
+      "playerId": 656811,
+      "playerName": "Ryan O'Hearn",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "62"
+    },
+    {
+      "rank": 15,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -597,19 +605,11 @@
       "value": "62"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "61"
-    },
-    {
-      "rank": 16,
-      "playerId": 656811,
-      "playerName": "Ryan O'Hearn",
-      "teamId": 134,
-      "teamAbbr": "PIT",
       "value": "61"
     },
     {

@@ -444,6 +444,14 @@
     },
     {
       "rank": 26,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "3.48"
+    },
+    {
+      "rank": 27,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -451,7 +459,7 @@
       "value": "3.49"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -459,7 +467,7 @@
       "value": "3.49"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -467,20 +475,12 @@
       "value": "3.51"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "3.52"
-    },
-    {
-      "rank": 30,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "3.58"
     }
   ],
   "k": [
@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "126"
+    },
+    {
+      "rank": 10,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -557,19 +565,11 @@
       "value": "125"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
       "teamAbbr": "LAA",
-      "value": "123"
-    },
-    {
-      "rank": 11,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
       "value": "123"
     },
     {
@@ -1046,7 +1046,7 @@
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "1.04"
+      "value": "1.02"
     },
     {
       "rank": 11,

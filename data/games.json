@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823358,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-12T16:15:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 0,
+        "score": 4,
         "wins": 49,
         "losses": 47
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824814,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-12T17:35:00Z",
       "home": {
         "teamId": 110,
@@ -193,7 +193,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 49
       },
@@ -201,7 +201,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 58
       },
@@ -216,7 +216,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 45
       },
@@ -224,7 +224,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 54
       },
@@ -239,7 +239,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 44
       },
@@ -247,7 +247,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 54,
         "losses": 40
       },
@@ -257,14 +257,14 @@
     },
     {
       "gameId": 822876,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-12T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 47
       },
@@ -272,7 +272,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 50
       },
@@ -280,8 +280,8 @@
     },
     {
       "gameId": 823199,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-12T20:05:00Z",
       "home": {
         "teamId": 137,
@@ -330,8 +330,8 @@
     },
     {
       "gameId": 823274,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-12T20:10:00Z",
       "home": {
         "teamId": 135,
