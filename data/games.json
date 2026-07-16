@@ -1,4 +1,28 @@
 {
-  "today": [],
+  "today": [
+    {
+      "gameId": 823440,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-07-16T23:10:00Z",
+      "home": {
+        "teamId": 143,
+        "abbr": "PHI",
+        "kr": "필라델피아",
+        "score": null,
+        "wins": 54,
+        "losses": 43
+      },
+      "away": {
+        "teamId": 121,
+        "abbr": "NYM",
+        "kr": "뉴욕 메츠",
+        "score": null,
+        "wins": 40,
+        "losses": 57
+      },
+      "koreanPlayerTeams": []
+    }
+  ],
   "yesterday": []
 }
