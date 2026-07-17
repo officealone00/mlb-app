@@ -18,18 +18,18 @@
     },
     {
       "rank": 3,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".320"
-    },
-    {
-      "rank": 4,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
+      "value": ".318"
+    },
+    {
+      "rank": 4,
+      "playerId": 650490,
+      "playerName": "Yandy Díaz",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".318"
     },
     {
@@ -90,14 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 666018,
-      "playerName": "Jonathan Aranda",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".297"
-    },
-    {
-      "rank": 13,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -105,7 +97,7 @@
       "value": ".296"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -113,12 +105,20 @@
       "value": ".296"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".296"
+    },
+    {
+      "rank": 15,
+      "playerId": 666018,
+      "playerName": "Jonathan Aranda",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".294"
     },
     {
       "rank": 16,
