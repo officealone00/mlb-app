@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824737,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-17T23:10:00Z",
       "home": {
         "teamId": 111,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823524,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-17T23:05:00Z",
       "home": {
         "teamId": 147,
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 824901,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-17T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -98,8 +98,8 @@
     },
     {
       "gameId": 822789,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-17T23:15:00Z",
       "home": {
         "teamId": 141,
@@ -245,7 +245,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 38,
         "losses": 59
       },
@@ -253,7 +253,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 44,
         "losses": 52
       },
@@ -268,7 +268,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 41,
         "losses": 55
       },
@@ -276,7 +276,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 49
       },
@@ -291,7 +291,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 47
       },
@@ -299,7 +299,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 45
       },
