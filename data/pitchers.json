@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 605400,
+      "playerName": "Aaron Nola",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "108"
+    },
+    {
+      "rank": 28,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -701,7 +709,7 @@
       "value": "108"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 680694,
       "playerName": "Kyle Bradish",
       "teamId": 110,
@@ -709,20 +717,12 @@
       "value": "106"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "106"
-    },
-    {
-      "rank": 30,
-      "playerId": 676282,
-      "playerName": "Joey Cantillo",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "105"
     }
   ],
   "sv": [
