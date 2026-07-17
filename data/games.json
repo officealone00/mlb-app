@@ -357,23 +357,23 @@
   "yesterday": [
     {
       "gameId": 823440,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-16T22:10:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 1,
         "wins": 54,
-        "losses": 43
+        "losses": 44
       },
       "away": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 2,
-        "wins": 40,
+        "score": 4,
+        "wins": 41,
         "losses": 57
       },
       "koreanPlayerTeams": []
