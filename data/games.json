@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824766,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-17T17:35:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
+        "score": 2,
         "wins": 46,
         "losses": 48
       },
