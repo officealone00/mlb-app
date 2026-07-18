@@ -122,6 +122,14 @@
     },
     {
       "rank": 16,
+      "playerId": 666200,
+      "playerName": "Jesús Luzardo",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "9"
+    },
+    {
+      "rank": 17,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -129,7 +137,7 @@
       "value": "9"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -137,7 +145,7 @@
       "value": "9"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
@@ -145,7 +153,7 @@
       "value": "9"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 622608,
       "playerName": "Antonio Senzatela",
       "teamId": 115,
@@ -153,7 +161,7 @@
       "value": "9"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 608372,
       "playerName": "Tomoyuki Sugano",
       "teamId": 115,
@@ -161,7 +169,7 @@
       "value": "9"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -169,7 +177,7 @@
       "value": "9"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -177,7 +185,7 @@
       "value": "8"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 690986,
       "playerName": "Kyle Harrison",
       "teamId": 158,
@@ -185,19 +193,11 @@
       "value": "8"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 663567,
       "playerName": "Peter Lambert",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": "8"
-    },
-    {
-      "rank": 25,
-      "playerId": 666200,
-      "playerName": "Jesús Luzardo",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "8"
     },
     {
@@ -590,19 +590,19 @@
     },
     {
       "rank": 14,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
+      "playerId": 669022,
+      "playerName": "MacKenzie Gore",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "122"
     },
     {
       "rank": 15,
-      "playerId": 669022,
-      "playerName": "MacKenzie Gore",
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "121"
+      "value": "122"
     },
     {
       "rank": 16,
@@ -772,7 +772,7 @@
       "playerName": "Paul Sewald",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": "22"
+      "value": "23"
     },
     {
       "rank": 7,
@@ -780,7 +780,7 @@
       "playerName": "Aroldis Chapman",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "20"
+      "value": "21"
     },
     {
       "rank": 8,
@@ -800,18 +800,18 @@
     },
     {
       "rank": 10,
-      "playerId": 670280,
-      "playerName": "David Bednar",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "18"
-    },
-    {
-      "rank": 11,
       "playerId": 656641,
       "playerName": "Jacob Latz",
       "teamId": 140,
       "teamAbbr": "TEX",
+      "value": "19"
+    },
+    {
+      "rank": 11,
+      "playerId": 670280,
+      "playerName": "David Bednar",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": "18"
     },
     {
@@ -828,7 +828,7 @@
       "playerName": "Trevor Megill",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "14"
+      "value": "15"
     },
     {
       "rank": 14,
