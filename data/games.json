@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824414,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-18T17:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 46
       },
@@ -17,7 +17,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 47
       },
@@ -55,7 +55,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 54,
         "losses": 43
       },
@@ -63,22 +63,45 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 49
       },
       "koreanPlayerTeams": []
     },
     {
+      "gameId": 823441,
+      "status": "Pre-Game",
+      "statusCode": "P",
+      "startTime": "2026-07-18T19:05:00Z",
+      "home": {
+        "teamId": 143,
+        "abbr": "PHI",
+        "kr": "필라델피아",
+        "score": 0,
+        "wins": 54,
+        "losses": 44
+      },
+      "away": {
+        "teamId": 121,
+        "abbr": "NYM",
+        "kr": "뉴욕 메츠",
+        "score": 0,
+        "wins": 41,
+        "losses": 57
+      },
+      "koreanPlayerTeams": []
+    },
+    {
       "gameId": 822790,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 52
       },
@@ -86,7 +109,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 45
       },
@@ -94,8 +117,8 @@
     },
     {
       "gameId": 824331,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T19:10:00Z",
       "home": {
         "teamId": 115,
@@ -116,32 +139,9 @@
       "koreanPlayerTeams": []
     },
     {
-      "gameId": 823441,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-07-18T20:05:00Z",
-      "home": {
-        "teamId": 143,
-        "abbr": "PHI",
-        "kr": "필라델피아",
-        "score": null,
-        "wins": 54,
-        "losses": 44
-      },
-      "away": {
-        "teamId": 121,
-        "abbr": "NYM",
-        "kr": "뉴욕 메츠",
-        "score": null,
-        "wins": 41,
-        "losses": 57
-      },
-      "koreanPlayerTeams": []
-    },
-    {
       "gameId": 824169,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T20:10:00Z",
       "home": {
         "teamId": 117,
@@ -163,8 +163,8 @@
     },
     {
       "gameId": 824088,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T20:10:00Z",
       "home": {
         "teamId": 118,
@@ -188,8 +188,8 @@
     },
     {
       "gameId": 825059,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T20:10:00Z",
       "home": {
         "teamId": 109,
@@ -211,8 +211,8 @@
     },
     {
       "gameId": 824738,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T20:10:00Z",
       "home": {
         "teamId": 111,
@@ -234,8 +234,8 @@
     },
     {
       "gameId": 824899,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-18T20:10:00Z",
       "home": {
         "teamId": 144,
