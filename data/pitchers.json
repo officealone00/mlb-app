@@ -292,18 +292,18 @@
     },
     {
       "rank": 7,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "2.58"
-    },
-    {
-      "rank": 8,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
+      "value": "2.62"
+    },
+    {
+      "rank": 8,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "2.62"
     },
     {
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 663436,
+      "playerName": "Davis Martin",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "3.35"
+    },
+    {
+      "rank": 22,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
@@ -411,17 +419,9 @@
       "value": "3.38"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 680732,
       "playerName": "Sean Burke",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "3.41"
-    },
-    {
-      "rank": 23,
-      "playerId": 663436,
-      "playerName": "Davis Martin",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "3.41"
@@ -432,7 +432,7 @@
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "3.49"
+      "value": "3.43"
     },
     {
       "rank": 25,
@@ -522,7 +522,7 @@
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "137"
+      "value": "143"
     },
     {
       "rank": 6,
@@ -574,6 +574,14 @@
     },
     {
       "rank": 12,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "124"
+    },
+    {
+      "rank": 13,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -581,20 +589,12 @@
       "value": "123"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "122"
-    },
-    {
-      "rank": 14,
-      "playerId": 671737,
-      "playerName": "Taj Bradley",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "121"
     },
     {
       "rank": 15,
@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "119"
+    },
+    {
+      "rank": 19,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -629,7 +637,15 @@
       "value": "118"
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "playerId": 669022,
+      "playerName": "MacKenzie Gore",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "117"
+    },
+    {
+      "rank": 21,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -637,27 +653,11 @@
       "value": "116"
     },
     {
-      "rank": 20,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "116"
-    },
-    {
-      "rank": 21,
+      "rank": 22,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "115"
-    },
-    {
-      "rank": 22,
-      "playerId": 669022,
-      "playerName": "MacKenzie Gore",
-      "teamId": 140,
-      "teamAbbr": "TEX",
       "value": "115"
     },
     {
@@ -1106,14 +1106,6 @@
     },
     {
       "rank": 18,
-      "playerId": 676974,
-      "playerName": "Max Meyer",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "1.11"
-    },
-    {
-      "rank": 19,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -1121,7 +1113,7 @@
       "value": "1.11"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -1129,11 +1121,19 @@
       "value": "1.12"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
+      "value": "1.12"
+    },
+    {
+      "rank": 21,
+      "playerId": 676974,
+      "playerName": "Max Meyer",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "1.12"
     },
     {
