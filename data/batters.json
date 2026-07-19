@@ -102,7 +102,7 @@
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".295"
+      "value": ".294"
     },
     {
       "rank": 14,
@@ -138,18 +138,18 @@
     },
     {
       "rank": 18,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".289"
-    },
-    {
-      "rank": 19,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
       "teamAbbr": "NYM",
+      "value": ".288"
+    },
+    {
+      "rank": 19,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".288"
     },
     {
@@ -158,7 +158,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".287"
+      "value": ".286"
     },
     {
       "rank": 21,
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 803011,
-      "playerName": "Sam Antonacci",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": ".285"
-    },
-    {
-      "rank": 24,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -193,11 +185,19 @@
       "value": ".284"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 669003,
       "playerName": "Garrett Mitchell",
       "teamId": 158,
       "teamAbbr": "MIL",
+      "value": ".283"
+    },
+    {
+      "rank": 25,
+      "playerId": 803011,
+      "playerName": "Sam Antonacci",
+      "teamId": 145,
+      "teamAbbr": "CWS",
       "value": ".283"
     },
     {
@@ -234,11 +234,11 @@
     },
     {
       "rank": 30,
-      "playerId": 700250,
-      "playerName": "Ben Rice",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": ".282"
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".281"
     }
   ],
   "hr": [
