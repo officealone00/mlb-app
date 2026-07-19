@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 822786,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-19T16:15:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 52
       },
@@ -17,7 +17,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 46
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823523,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-19T16:35:00Z",
       "home": {
         "teamId": 147,
