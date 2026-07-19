@@ -166,7 +166,7 @@
       "playerName": "Riley Greene",
       "teamId": 116,
       "teamAbbr": "DET",
-      "value": ".287"
+      "value": ".286"
     },
     {
       "rank": 22,
@@ -218,14 +218,6 @@
     },
     {
       "rank": 28,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".282"
-    },
-    {
-      "rank": 29,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -233,11 +225,19 @@
       "value": ".282"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".282"
+    },
+    {
+      "rank": 30,
+      "playerId": 700250,
+      "playerName": "Ben Rice",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".282"
     }
   ],

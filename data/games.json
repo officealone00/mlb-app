@@ -294,7 +294,7 @@
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 41,
+        "wins": 42,
         "losses": 56
       },
       "away": {
@@ -303,7 +303,7 @@
         "kr": "워싱턴",
         "score": null,
         "wins": 49,
-        "losses": 49
+        "losses": 50
       },
       "koreanPlayerTeams": []
     },
@@ -318,14 +318,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 38,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": null,
-        "wins": 45,
+        "wins": 46,
         "losses": 52
       },
       "koreanPlayerTeams": []
@@ -687,31 +687,31 @@
     },
     {
       "gameId": 824979,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-19T02:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 6,
-        "wins": 41,
+        "score": 15,
+        "wins": 42,
         "losses": 56
       },
       "away": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 1,
         "wins": 49,
-        "losses": 49
+        "losses": 50
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824008,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-19T02:07:00Z",
       "home": {
         "teamId": 108,
@@ -719,14 +719,14 @@
         "kr": "LA 에인절스",
         "score": 0,
         "wins": 38,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": 7,
-        "wins": 45,
+        "wins": 46,
         "losses": 52
       },
       "koreanPlayerTeams": []

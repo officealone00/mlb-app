@@ -186,6 +186,14 @@
     },
     {
       "rank": 24,
+      "playerId": 669372,
+      "playerName": "J.T. Ginn",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": "8"
+    },
+    {
+      "rank": 25,
       "playerId": 690986,
       "playerName": "Kyle Harrison",
       "teamId": 158,
@@ -193,7 +201,7 @@
       "value": "8"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 663567,
       "playerName": "Peter Lambert",
       "teamId": 117,
@@ -201,7 +209,7 @@
       "value": "8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -209,7 +217,7 @@
       "value": "8"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
@@ -217,7 +225,7 @@
       "value": "8"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -225,19 +233,11 @@
       "value": "8"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "8"
-    },
-    {
-      "rank": 30,
-      "playerId": 592662,
-      "playerName": "Robbie Ray",
-      "teamId": 137,
-      "teamAbbr": "SF",
       "value": "8"
     }
   ],
@@ -440,7 +440,7 @@
       "playerName": "J.T. Ginn",
       "teamId": 133,
       "teamAbbr": "ATH",
-      "value": "3.47"
+      "value": "3.46"
     },
     {
       "rank": 26,
