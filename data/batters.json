@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".325"
+      "value": ".327"
     },
     {
       "rank": 3,
@@ -46,7 +46,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".303"
+      "value": ".302"
     },
     {
       "rank": 7,
@@ -54,7 +54,7 @@
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".303"
+      "value": ".302"
     },
     {
       "rank": 8,
@@ -70,7 +70,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".300"
+      "value": ".299"
     },
     {
       "rank": 10,
@@ -86,7 +86,7 @@
       "playerName": "Troy Johnston",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".298"
+      "value": ".296"
     },
     {
       "rank": 12,
@@ -102,7 +102,7 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".294"
+      "value": ".293"
     },
     {
       "rank": 14,
@@ -154,19 +154,19 @@
     },
     {
       "rank": 20,
-      "playerId": 682985,
-      "playerName": "Riley Greene",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".286"
-    },
-    {
-      "rank": 21,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": ".286"
+    },
+    {
+      "rank": 21,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".284"
     },
     {
       "rank": 22,
@@ -202,18 +202,18 @@
     },
     {
       "rank": 26,
-      "playerId": 682829,
-      "playerName": "Elly De La Cruz",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": ".283"
-    },
-    {
-      "rank": 27,
       "playerId": 668804,
       "playerName": "Bryan Reynolds",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".282"
+    },
+    {
+      "rank": 27,
+      "playerId": 682829,
+      "playerName": "Elly De La Cruz",
+      "teamId": 113,
+      "teamAbbr": "CIN",
       "value": ".282"
     },
     {
@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": ".281"
     },
     {
       "rank": 30,
-      "playerId": 700250,
-      "playerName": "Ben Rice",
-      "teamId": 147,
-      "teamAbbr": "NYY",
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".281"
     }
   ],
@@ -260,18 +260,18 @@
     },
     {
       "rank": 3,
-      "playerId": 691406,
-      "playerName": "Junior Caminero",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "29"
-    },
-    {
-      "rank": 4,
       "playerId": 696100,
       "playerName": "Hunter Goodman",
       "teamId": 115,
       "teamAbbr": "COL",
+      "value": "30"
+    },
+    {
+      "rank": 4,
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": "29"
     },
     {
@@ -356,6 +356,14 @@
     },
     {
       "rank": 15,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "21"
+    },
+    {
+      "rank": 16,
       "playerId": 624413,
       "playerName": "Pete Alonso",
       "teamId": 110,
@@ -363,7 +371,7 @@
       "value": "21"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -371,7 +379,7 @@
       "value": "21"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -379,7 +387,7 @@
       "value": "21"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -387,20 +395,12 @@
       "value": "21"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 678246,
       "playerName": "Miguel Vargas",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "21"
-    },
-    {
-      "rank": 20,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "20"
     },
     {
       "rank": 21,
@@ -502,6 +502,14 @@
     },
     {
       "rank": 3,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "70"
+    },
+    {
+      "rank": 4,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
@@ -509,20 +517,12 @@
       "value": "70"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "69"
-    },
-    {
-      "rank": 5,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "68"
     },
     {
       "rank": 6,
@@ -840,6 +840,14 @@
     },
     {
       "rank": 15,
+      "playerId": 647304,
+      "playerName": "Josh Naylor",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "19"
+    },
+    {
+      "rank": 16,
       "playerId": 666152,
       "playerName": "David Hamilton",
       "teamId": 158,
@@ -847,7 +855,7 @@
       "value": "18"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
@@ -855,19 +863,11 @@
       "value": "18"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 663968,
       "playerName": "Jake Mangum",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "18"
-    },
-    {
-      "rank": 18,
-      "playerId": 647304,
-      "playerName": "Josh Naylor",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "18"
     },
     {
