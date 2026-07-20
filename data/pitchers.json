@@ -26,6 +26,14 @@
     },
     {
       "rank": 4,
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "11"
+    },
+    {
+      "rank": 5,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
@@ -33,19 +41,11 @@
       "value": "11"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "10"
-    },
-    {
-      "rank": 6,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 120,
-      "teamAbbr": "WSH",
       "value": "10"
     },
     {
@@ -194,6 +194,14 @@
     },
     {
       "rank": 25,
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "8"
+    },
+    {
+      "rank": 26,
       "playerId": 669372,
       "playerName": "J.T. Ginn",
       "teamId": 133,
@@ -201,7 +209,7 @@
       "value": "8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 690986,
       "playerName": "Kyle Harrison",
       "teamId": 158,
@@ -209,7 +217,7 @@
       "value": "8"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 663567,
       "playerName": "Peter Lambert",
       "teamId": 117,
@@ -217,7 +225,7 @@
       "value": "8"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -225,19 +233,11 @@
       "value": "8"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "8"
-    },
-    {
-      "rank": 30,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "8"
     }
   ],
@@ -316,19 +316,19 @@
     },
     {
       "rank": 10,
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "2.68"
+    },
+    {
+      "rank": 11,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "2.69"
-    },
-    {
-      "rank": 11,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "2.71"
     },
     {
       "rank": 12,
@@ -820,7 +820,7 @@
       "playerName": "Andrés Muñoz",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "16"
+      "value": "17"
     },
     {
       "rank": 13,
@@ -904,6 +904,14 @@
     },
     {
       "rank": 23,
+      "playerId": 690925,
+      "playerName": "Clayton Beeter",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "8"
+    },
+    {
+      "rank": 24,
       "playerId": 664854,
       "playerName": "Ryan Helsley",
       "teamId": 110,
@@ -911,7 +919,7 @@
       "value": "8"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 668873,
       "playerName": "Caleb Kilian",
       "teamId": 137,
@@ -919,20 +927,12 @@
       "value": "8"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 656638,
       "playerName": "Alex Lange",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": "8"
-    },
-    {
-      "rank": 26,
-      "playerId": 690925,
-      "playerName": "Clayton Beeter",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "7"
     },
     {
       "rank": 27,
@@ -1038,7 +1038,7 @@
       "playerName": "Foster Griffin",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "1.02"
+      "value": "1.03"
     },
     {
       "rank": 10,
