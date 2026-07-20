@@ -33,7 +33,7 @@
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
         "score": null,
-        "wins": 54,
+        "wins": 55,
         "losses": 44
       },
       "away": {
@@ -111,7 +111,7 @@
         "kr": "LA 다저스",
         "score": null,
         "wins": 63,
-        "losses": 36
+        "losses": 37
       },
       "koreanPlayerTeams": [
         119
@@ -404,24 +404,24 @@
     },
     {
       "gameId": 823521,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-19T23:20:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 1,
-        "wins": 54,
+        "score": 2,
+        "wins": 55,
         "losses": 44
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 0,
+        "score": 1,
         "wins": 63,
-        "losses": 36
+        "losses": 37
       },
       "koreanPlayerTeams": [
         119
