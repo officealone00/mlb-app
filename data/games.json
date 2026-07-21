@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824409,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-21T22:40:00Z",
       "home": {
         "teamId": 114,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 823437,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-21T22:40:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 45
       },
@@ -40,7 +40,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 38
       },
@@ -49,32 +49,9 @@
       ]
     },
     {
-      "gameId": 823519,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-07-21T23:05:00Z",
-      "home": {
-        "teamId": 147,
-        "abbr": "NYY",
-        "kr": "뉴욕 양키스",
-        "score": null,
-        "wins": 56,
-        "losses": 44
-      },
-      "away": {
-        "teamId": 134,
-        "abbr": "PIT",
-        "kr": "피츠버그",
-        "score": null,
-        "wins": 52,
-        "losses": 49
-      },
-      "koreanPlayerTeams": []
-    },
-    {
       "gameId": 822787,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-21T23:07:00Z",
       "home": {
         "teamId": 141,
@@ -96,8 +73,8 @@
     },
     {
       "gameId": 824735,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-21T23:10:00Z",
       "home": {
         "teamId": 111,
@@ -145,8 +122,8 @@
     },
     {
       "gameId": 824085,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-21T23:40:00Z",
       "home": {
         "teamId": 118,
@@ -349,6 +326,29 @@
         "score": null,
         "wins": 45,
         "losses": 54
+      },
+      "koreanPlayerTeams": []
+    },
+    {
+      "gameId": 823519,
+      "status": "Postponed",
+      "statusCode": "DR",
+      "startTime": "2026-07-21T23:05:00Z",
+      "home": {
+        "teamId": 147,
+        "abbr": "NYY",
+        "kr": "뉴욕 양키스",
+        "score": null,
+        "wins": 56,
+        "losses": 44
+      },
+      "away": {
+        "teamId": 134,
+        "abbr": "PIT",
+        "kr": "피츠버그",
+        "score": null,
+        "wins": 52,
+        "losses": 49
       },
       "koreanPlayerTeams": []
     }
