@@ -293,7 +293,7 @@
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": null,
-        "wins": 39,
+        "wins": 40,
         "losses": 61
       },
       "away": {
@@ -302,7 +302,7 @@
         "kr": "세인트루이스",
         "score": null,
         "wins": 51,
-        "losses": 47
+        "losses": 48
       },
       "koreanPlayerTeams": []
     },
@@ -317,14 +317,14 @@
         "kr": "애리조나",
         "score": null,
         "wins": 51,
-        "losses": 48
+        "losses": 49
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 42,
+        "wins": 43,
         "losses": 57
       },
       "koreanPlayerTeams": []
@@ -639,8 +639,8 @@
     },
     {
       "gameId": 825058,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-21T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -648,22 +648,22 @@
         "kr": "애리조나",
         "score": 2,
         "wins": 51,
-        "losses": 48
+        "losses": 49
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": 5,
-        "wins": 42,
+        "wins": 43,
         "losses": 57
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823112,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-21T01:40:00Z",
       "home": {
         "teamId": 136,
@@ -685,15 +685,15 @@
     },
     {
       "gameId": 824006,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-21T02:10:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 1,
-        "wins": 39,
+        "score": 3,
+        "wins": 40,
         "losses": 61
       },
       "away": {
@@ -702,7 +702,7 @@
         "kr": "세인트루이스",
         "score": 2,
         "wins": 51,
-        "losses": 47
+        "losses": 48
       },
       "koreanPlayerTeams": []
     }
