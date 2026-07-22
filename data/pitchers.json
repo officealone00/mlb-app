@@ -10,6 +10,14 @@
     },
     {
       "rank": 2,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "12"
+    },
+    {
+      "rank": 3,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -17,20 +25,12 @@
       "value": "12"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "12"
-    },
-    {
-      "rank": 4,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "11"
     },
     {
       "rank": 5,
@@ -936,6 +936,14 @@
     },
     {
       "rank": 27,
+      "playerId": 641941,
+      "playerName": "Emilio Pagán",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "8"
+    },
+    {
+      "rank": 28,
       "playerId": 663687,
       "playerName": "Hogan Harris",
       "teamId": 133,
@@ -943,27 +951,19 @@
       "value": "7"
     },
     {
-      "rank": 28,
-      "playerId": 641941,
-      "playerName": "Emilio Pagán",
-      "teamId": 113,
-      "teamAbbr": "CIN",
+      "rank": 29,
+      "playerId": 605447,
+      "playerName": "Jordan Romano",
+      "teamId": 115,
+      "teamAbbr": "COL",
       "value": "7"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 687911,
       "playerName": "Bryan King",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": "6"
-    },
-    {
-      "rank": 30,
-      "playerId": 669270,
-      "playerName": "Joel Kuhnel",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "6"
     }
   ],
