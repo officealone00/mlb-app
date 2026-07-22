@@ -22,7 +22,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".323"
+      "value": ".322"
     },
     {
       "rank": 4,
@@ -38,7 +38,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".309"
+      "value": ".310"
     },
     {
       "rank": 6,
@@ -114,6 +114,14 @@
     },
     {
       "rank": 15,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".291"
+    },
+    {
+      "rank": 16,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
@@ -121,7 +129,7 @@
       "value": ".290"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
@@ -129,19 +137,11 @@
       "value": ".289"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".289"
-    },
-    {
-      "rank": 18,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
       "value": ".289"
     },
     {
@@ -226,10 +226,10 @@
     },
     {
       "rank": 29,
-      "playerId": 668804,
-      "playerName": "Bryan Reynolds",
-      "teamId": 134,
-      "teamAbbr": "PIT",
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".282"
     },
     {
