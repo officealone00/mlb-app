@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "131"
+    },
+    {
+      "rank": 10,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -557,19 +565,11 @@
       "value": "131"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "130"
-    },
-    {
-      "rank": 11,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "130"
     },
     {
@@ -614,6 +614,14 @@
     },
     {
       "rank": 17,
+      "playerId": 676917,
+      "playerName": "Cade Cavalli",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "122"
+    },
+    {
+      "rank": 18,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -621,7 +629,7 @@
       "value": "122"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -629,7 +637,7 @@
       "value": "122"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -637,7 +645,7 @@
       "value": "122"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -645,20 +653,12 @@
       "value": "121"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "120"
-    },
-    {
-      "rank": 22,
-      "playerId": 676917,
-      "playerName": "Cade Cavalli",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "119"
     },
     {
       "rank": 23,
@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 694738,
+      "playerName": "Landen Roupp",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "113"
+    },
+    {
+      "rank": 28,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -701,7 +709,7 @@
       "value": "113"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -709,20 +717,12 @@
       "value": "112"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 120,
       "teamAbbr": "WSH",
       "value": "111"
-    },
-    {
-      "rank": 30,
-      "playerId": 642547,
-      "playerName": "Freddy Peralta",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": "110"
     }
   ],
   "sv": [
@@ -768,19 +768,19 @@
     },
     {
       "rank": 6,
+      "playerId": 547973,
+      "playerName": "Aroldis Chapman",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "23"
+    },
+    {
+      "rank": 7,
       "playerId": 623149,
       "playerName": "Paul Sewald",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "23"
-    },
-    {
-      "rank": 7,
-      "playerId": 547973,
-      "playerName": "Aroldis Chapman",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "22"
     },
     {
       "rank": 8,
@@ -1098,6 +1098,14 @@
     },
     {
       "rank": 17,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "1.11"
+    },
+    {
+      "rank": 18,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1105,20 +1113,12 @@
       "value": "1.11"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
       "value": "1.11"
-    },
-    {
-      "rank": 19,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "1.12"
     },
     {
       "rank": 20,
