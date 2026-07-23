@@ -2,24 +2,24 @@
   "today": [
     {
       "gameId": 824893,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-23T16:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 5,
-        "wins": 59,
+        "score": 6,
+        "wins": 60,
         "losses": 42
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 3,
+        "score": 5,
         "wins": 50,
-        "losses": 52
+        "losses": 53
       },
       "koreanPlayerTeams": [
         144,
@@ -35,7 +35,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 1,
         "wins": 54,
         "losses": 49
       },
@@ -43,7 +43,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 0,
+        "score": 1,
         "wins": 50,
         "losses": 53
       },
@@ -51,14 +51,14 @@
     },
     {
       "gameId": 822785,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-23T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 1,
         "wins": 46,
         "losses": 56
       },
@@ -74,14 +74,14 @@
     },
     {
       "gameId": 823042,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-23T21:15:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 49
       },
@@ -89,7 +89,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 53,
         "losses": 49
       },
@@ -97,14 +97,14 @@
     },
     {
       "gameId": 824247,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-23T22:40:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 54
       },
@@ -112,7 +112,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 43,
         "losses": 60
       },

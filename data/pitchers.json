@@ -42,6 +42,14 @@
     },
     {
       "rank": 6,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "11"
+    },
+    {
+      "rank": 7,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -49,7 +57,7 @@
       "value": "11"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
@@ -57,7 +65,7 @@
       "value": "10"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
@@ -65,19 +73,11 @@
       "value": "10"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "10"
-    },
-    {
-      "rank": 10,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
       "value": "10"
     },
     {
@@ -252,19 +252,19 @@
     },
     {
       "rank": 2,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "2.19"
+    },
+    {
+      "rank": 3,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "2.20"
-    },
-    {
-      "rank": 3,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "2.23"
     },
     {
       "rank": 4,
@@ -494,6 +494,14 @@
     },
     {
       "rank": 2,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "156"
+    },
+    {
+      "rank": 3,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
@@ -501,20 +509,12 @@
       "value": "155"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "151"
-    },
-    {
-      "rank": 4,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "149"
     },
     {
       "rank": 5,
@@ -558,18 +558,18 @@
     },
     {
       "rank": 10,
-      "playerId": 657746,
-      "playerName": "Joe Ryan",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "131"
-    },
-    {
-      "rank": 11,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
+      "value": "134"
+    },
+    {
+      "rank": 11,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
       "value": "131"
     },
     {
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "129"
+    },
+    {
+      "rank": 14,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -589,7 +597,7 @@
       "value": "129"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -597,20 +605,12 @@
       "value": "128"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
       "teamAbbr": "WSH",
       "value": "127"
-    },
-    {
-      "rank": 16,
-      "playerId": 671737,
-      "playerName": "Taj Bradley",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "125"
     },
     {
       "rank": 17,
@@ -788,7 +788,7 @@
       "playerName": "Raisel Iglesias",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "20"
+      "value": "21"
     },
     {
       "rank": 9,
@@ -1070,7 +1070,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "1.07"
+      "value": "1.05"
     },
     {
       "rank": 14,
@@ -1098,6 +1098,14 @@
     },
     {
       "rank": 17,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "1.10"
+    },
+    {
+      "rank": 18,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -1105,7 +1113,7 @@
       "value": "1.10"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -1113,7 +1121,7 @@
       "value": "1.10"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1121,7 +1129,7 @@
       "value": "1.11"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1129,7 +1137,7 @@
       "value": "1.11"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1137,7 +1145,7 @@
       "value": "1.11"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -1145,7 +1153,7 @@
       "value": "1.12"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -1153,7 +1161,7 @@
       "value": "1.12"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -1161,19 +1169,11 @@
       "value": "1.13"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "1.14"
-    },
-    {
-      "rank": 26,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "1.14"
     },
     {
