@@ -360,7 +360,7 @@
       "playerName": "Michael McGreevy",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "2.92"
+      "value": "3.07"
     },
     {
       "rank": 16,
@@ -796,7 +796,7 @@
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "20"
+      "value": "21"
     },
     {
       "rank": 10,
@@ -1106,14 +1106,6 @@
     },
     {
       "rank": 18,
-      "playerId": 700241,
-      "playerName": "Michael McGreevy",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": "1.10"
-    },
-    {
-      "rank": 19,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -1121,7 +1113,7 @@
       "value": "1.10"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1129,7 +1121,7 @@
       "value": "1.11"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1137,7 +1129,7 @@
       "value": "1.11"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1145,7 +1137,7 @@
       "value": "1.11"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -1153,12 +1145,20 @@
       "value": "1.12"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "1.12"
+    },
+    {
+      "rank": 24,
+      "playerId": 700241,
+      "playerName": "Michael McGreevy",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "1.13"
     },
     {
       "rank": 25,

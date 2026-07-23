@@ -51,15 +51,15 @@
     },
     {
       "gameId": 822785,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-23T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
         "score": 3,
-        "wins": 46,
+        "wins": 47,
         "losses": 56
       },
       "away": {
@@ -68,20 +68,20 @@
         "kr": "탬파베이",
         "score": 1,
         "wins": 59,
-        "losses": 42
+        "losses": 43
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823042,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-23T21:15:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 2,
         "wins": 52,
         "losses": 49
       },
@@ -89,7 +89,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 0,
+        "score": 4,
         "wins": 53,
         "losses": 49
       },
@@ -97,8 +97,8 @@
     },
     {
       "gameId": 824247,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-07-23T22:40:00Z",
       "home": {
         "teamId": 116,
