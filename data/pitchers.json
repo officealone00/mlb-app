@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
-      "playerId": 669923,
-      "playerName": "George Kirby",
-      "teamId": 136,
-      "teamAbbr": "SEA",
+      "playerId": 518876,
+      "playerName": "Merrill Kelly",
+      "teamId": 109,
+      "teamAbbr": "ARI",
       "value": "8"
     },
     {
       "rank": 30,
-      "playerId": 663567,
-      "playerName": "Peter Lambert",
-      "teamId": 117,
-      "teamAbbr": "HOU",
+      "playerId": 669923,
+      "playerName": "George Kirby",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": "8"
     }
   ],
@@ -404,19 +404,19 @@
     },
     {
       "rank": 21,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "3.34"
-    },
-    {
-      "rank": 22,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "3.34"
+    },
+    {
+      "rank": 22,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "3.36"
     },
     {
       "rank": 23,
@@ -468,19 +468,19 @@
     },
     {
       "rank": 29,
+      "playerId": 680694,
+      "playerName": "Kyle Bradish",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": "3.54"
+    },
+    {
+      "rank": 30,
       "playerId": 669923,
       "playerName": "George Kirby",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "3.57"
-    },
-    {
-      "rank": 30,
-      "playerId": 676917,
-      "playerName": "Cade Cavalli",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "3.58"
     }
   ],
   "k": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 2,
+      "playerId": 676617,
+      "playerName": "Riley O'Brien",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "26"
+    },
+    {
+      "rank": 3,
       "playerId": 641329,
       "playerName": "Bryan Baker",
       "teamId": 139,
@@ -743,19 +751,11 @@
       "value": "25"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 695243,
       "playerName": "Mason Miller",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "25"
-    },
-    {
-      "rank": 4,
-      "playerId": 676617,
-      "playerName": "Riley O'Brien",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": "25"
     },
     {
@@ -912,6 +912,14 @@
     },
     {
       "rank": 24,
+      "playerId": 641941,
+      "playerName": "Emilio Pagán",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "9"
+    },
+    {
+      "rank": 25,
       "playerId": 690925,
       "playerName": "Clayton Beeter",
       "teamId": 120,
@@ -919,7 +927,7 @@
       "value": "8"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 664854,
       "playerName": "Ryan Helsley",
       "teamId": 110,
@@ -927,19 +935,11 @@
       "value": "8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 668873,
       "playerName": "Caleb Kilian",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "8"
-    },
-    {
-      "rank": 27,
-      "playerId": 641941,
-      "playerName": "Emilio Pagán",
-      "teamId": 113,
-      "teamAbbr": "CIN",
       "value": "8"
     },
     {
@@ -1186,14 +1186,6 @@
     },
     {
       "rank": 28,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "1.16"
-    },
-    {
-      "rank": 29,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -1201,12 +1193,20 @@
       "value": "1.17"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": "1.17"
+    },
+    {
+      "rank": 30,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "1.18"
     }
   ]
 }
