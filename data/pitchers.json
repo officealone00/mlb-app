@@ -252,19 +252,19 @@
     },
     {
       "rank": 2,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "2.06"
-    },
-    {
-      "rank": 3,
       "playerId": 693645,
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "2.20"
+    },
+    {
+      "rank": 3,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "2.23"
     },
     {
       "rank": 4,
@@ -510,18 +510,18 @@
     },
     {
       "rank": 4,
-      "playerId": 693645,
-      "playerName": "Cam Schlittler",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "145"
-    },
-    {
-      "rank": 5,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "149"
+    },
+    {
+      "rank": 5,
+      "playerId": 693645,
+      "playerName": "Cam Schlittler",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": "145"
     },
     {
@@ -566,6 +566,14 @@
     },
     {
       "rank": 11,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "131"
+    },
+    {
+      "rank": 12,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -573,7 +581,7 @@
       "value": "130"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -581,7 +589,7 @@
       "value": "129"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -589,7 +597,7 @@
       "value": "128"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -597,28 +605,20 @@
       "value": "127"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "124"
+      "value": "125"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
       "value": "124"
-    },
-    {
-      "rank": 17,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "123"
     },
     {
       "rank": 18,
@@ -1070,7 +1070,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "1.06"
+      "value": "1.07"
     },
     {
       "rank": 14,
@@ -1170,19 +1170,19 @@
     },
     {
       "rank": 26,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "1.14"
+    },
+    {
+      "rank": 27,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "1.14"
-    },
-    {
-      "rank": 27,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.15"
     },
     {
       "rank": 28,
