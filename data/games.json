@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824244,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-25T17:10:00Z",
       "home": {
         "teamId": 116,
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 822704,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-25T20:05:00Z",
       "home": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 52
       },
@@ -40,7 +40,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 49
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823197,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-25T20:05:00Z",
       "home": {
         "teamId": 137,
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 824734,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-25T20:10:00Z",
       "home": {
         "teamId": 111,
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823841,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-25T20:10:00Z",
       "home": {
         "teamId": 146,
