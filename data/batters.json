@@ -22,7 +22,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".321"
+      "value": ".324"
     },
     {
       "rank": 4,
@@ -58,19 +58,19 @@
     },
     {
       "rank": 8,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".301"
-    },
-    {
-      "rank": 9,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": ".300"
+    },
+    {
+      "rank": 9,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".299"
     },
     {
       "rank": 10,
@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".282"
-    },
-    {
-      "rank": 30,
       "playerId": 694384,
       "playerName": "Nolan Schanuel",
       "teamId": 108,
       "teamAbbr": "LAA",
+      "value": ".282"
+    },
+    {
+      "rank": 30,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".282"
     }
   ],

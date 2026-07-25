@@ -1090,14 +1090,6 @@
     },
     {
       "rank": 16,
-      "playerId": 657277,
-      "playerName": "Logan Webb",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": "1.10"
-    },
-    {
-      "rank": 17,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -1105,7 +1097,7 @@
       "value": "1.10"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -1113,7 +1105,7 @@
       "value": "1.10"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -1121,7 +1113,7 @@
       "value": "1.10"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1129,7 +1121,7 @@
       "value": "1.11"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1137,11 +1129,19 @@
       "value": "1.11"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": "1.12"
+    },
+    {
+      "rank": 22,
+      "playerId": 657277,
+      "playerName": "Logan Webb",
+      "teamId": 137,
+      "teamAbbr": "SF",
       "value": "1.12"
     },
     {
