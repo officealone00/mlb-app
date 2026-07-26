@@ -292,6 +292,14 @@
     },
     {
       "rank": 7,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "2.59"
+    },
+    {
+      "rank": 8,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -299,7 +307,7 @@
       "value": "2.62"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
@@ -307,7 +315,7 @@
       "value": "2.64"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
@@ -315,19 +323,11 @@
       "value": "2.65"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "2.68"
-    },
-    {
-      "rank": 11,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "2.68"
     },
     {
@@ -364,6 +364,14 @@
     },
     {
       "rank": 16,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "3.07"
+    },
+    {
+      "rank": 17,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
@@ -371,7 +379,7 @@
       "value": "3.14"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -379,7 +387,7 @@
       "value": "3.16"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 137,
@@ -387,7 +395,7 @@
       "value": "3.16"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -395,20 +403,12 @@
       "value": "3.19"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "3.24"
-    },
-    {
-      "rank": 21,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "3.28"
     },
     {
       "rank": 22,
@@ -566,19 +566,19 @@
     },
     {
       "rank": 11,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "133"
+    },
+    {
+      "rank": 12,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "131"
-    },
-    {
-      "rank": 12,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "130"
     },
     {
       "rank": 13,
@@ -646,6 +646,14 @@
     },
     {
       "rank": 21,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "122"
+    },
+    {
+      "rank": 22,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -653,7 +661,7 @@
       "value": "122"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
@@ -661,7 +669,7 @@
       "value": "122"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
@@ -669,7 +677,15 @@
       "value": "121"
     },
     {
-      "rank": 24,
+      "rank": 25,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "119"
+    },
+    {
+      "rank": 26,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -677,15 +693,7 @@
       "value": "118"
     },
     {
-      "rank": 25,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "117"
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -693,17 +701,9 @@
       "value": "117"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "116"
-    },
-    {
-      "rank": 28,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "116"
@@ -994,19 +994,19 @@
     },
     {
       "rank": 4,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "0.93"
+    },
+    {
+      "rank": 5,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": "0.96"
-    },
-    {
-      "rank": 5,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "0.98"
     },
     {
       "rank": 6,
@@ -1042,18 +1042,18 @@
     },
     {
       "rank": 10,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "1.05"
-    },
-    {
-      "rank": 11,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "1.04"
+    },
+    {
+      "rank": 11,
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
+      "teamId": 140,
+      "teamAbbr": "TEX",
       "value": "1.05"
     },
     {
@@ -1202,10 +1202,10 @@
     },
     {
       "rank": 30,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": "1.17"
     }
   ]
