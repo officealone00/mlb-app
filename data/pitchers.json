@@ -42,6 +42,14 @@
     },
     {
       "rank": 6,
+      "playerId": 694819,
+      "playerName": "Jacob Misiorowski",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "11"
+    },
+    {
+      "rank": 7,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
@@ -49,7 +57,7 @@
       "value": "11"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -57,7 +65,7 @@
       "value": "11"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -65,7 +73,7 @@
       "value": "11"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -73,7 +81,7 @@
       "value": "11"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
@@ -81,7 +89,7 @@
       "value": "10"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -89,7 +97,7 @@
       "value": "10"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -97,19 +105,11 @@
       "value": "10"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "10"
-    },
-    {
-      "rank": 14,
-      "playerId": 694819,
-      "playerName": "Jacob Misiorowski",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "10"
     },
     {
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "3.29"
+    },
+    {
+      "rank": 22,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -411,7 +419,7 @@
       "value": "3.31"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -419,7 +427,7 @@
       "value": "3.32"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -427,20 +435,12 @@
       "value": "3.38"
     },
     {
-      "rank": 24,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "3.43"
-    },
-    {
       "rank": 25,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "3.46"
+      "value": "3.44"
     },
     {
       "rank": 26,
@@ -578,7 +578,7 @@
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "132"
+      "value": "133"
     },
     {
       "rank": 13,
@@ -638,6 +638,14 @@
     },
     {
       "rank": 20,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "127"
+    },
+    {
+      "rank": 21,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -645,7 +653,7 @@
       "value": "124"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -653,19 +661,11 @@
       "value": "123"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "122"
-    },
-    {
-      "rank": 23,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "122"
     },
     {
@@ -748,7 +748,7 @@
       "playerName": "Mason Miller",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "26"
+      "value": "27"
     },
     {
       "rank": 4,
@@ -816,18 +816,18 @@
     },
     {
       "rank": 12,
-      "playerId": 656730,
-      "playerName": "Trevor Megill",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "17"
-    },
-    {
-      "rank": 13,
       "playerId": 662253,
       "playerName": "Andrés Muñoz",
       "teamId": 136,
       "teamAbbr": "SEA",
+      "value": "18"
+    },
+    {
+      "rank": 13,
+      "playerId": 656730,
+      "playerName": "Trevor Megill",
+      "teamId": 158,
+      "teamAbbr": "MIL",
       "value": "17"
     },
     {
@@ -904,6 +904,14 @@
     },
     {
       "rank": 23,
+      "playerId": 690925,
+      "playerName": "Clayton Beeter",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "10"
+    },
+    {
+      "rank": 24,
       "playerId": 656638,
       "playerName": "Alex Lange",
       "teamId": 118,
@@ -911,20 +919,12 @@
       "value": "10"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 641941,
       "playerName": "Emilio Pagán",
       "teamId": 113,
       "teamAbbr": "CIN",
       "value": "10"
-    },
-    {
-      "rank": 25,
-      "playerId": 690925,
-      "playerName": "Clayton Beeter",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "9"
     },
     {
       "rank": 26,
@@ -1042,14 +1042,6 @@
     },
     {
       "rank": 10,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "1.05"
-    },
-    {
-      "rank": 11,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -1057,12 +1049,20 @@
       "value": "1.05"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "1.06"
+    },
+    {
+      "rank": 12,
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "1.07"
     },
     {
       "rank": 13,
