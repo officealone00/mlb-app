@@ -2,24 +2,24 @@
   "today": [
     {
       "gameId": 822868,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-27T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
         "score": 7,
-        "wins": 53,
+        "wins": 54,
         "losses": 52
       },
       "away": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 2,
+        "score": 3,
         "wins": 52,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": []
     },
@@ -172,7 +172,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 49
       },
@@ -180,7 +180,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 46
       },
@@ -188,14 +188,14 @@
     },
     {
       "gameId": 823025,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-27T23:45:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 53,
         "losses": 52
       },
@@ -203,7 +203,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 46
       },
@@ -211,8 +211,8 @@
     },
     {
       "gameId": 824001,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-28T01:38:00Z",
       "home": {
         "teamId": 108,
