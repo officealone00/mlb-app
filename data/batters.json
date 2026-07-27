@@ -154,18 +154,18 @@
     },
     {
       "rank": 20,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".286"
-    },
-    {
-      "rank": 21,
       "playerId": 669016,
       "playerName": "Brandon Marsh",
       "teamId": 143,
       "teamAbbr": "PHI",
+      "value": ".287"
+    },
+    {
+      "rank": 21,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".286"
     },
     {
@@ -272,7 +272,7 @@
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "30"
+      "value": "31"
     },
     {
       "rank": 5,
@@ -518,6 +518,14 @@
     },
     {
       "rank": 5,
+      "playerId": 700250,
+      "playerName": "Ben Rice",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "72"
+    },
+    {
+      "rank": 6,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
@@ -525,19 +533,11 @@
       "value": "72"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "71"
-    },
-    {
-      "rank": 7,
-      "playerId": 700250,
-      "playerName": "Ben Rice",
-      "teamId": 147,
-      "teamAbbr": "NYY",
       "value": "71"
     },
     {

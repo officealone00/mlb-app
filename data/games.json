@@ -87,7 +87,7 @@
         "abbr": "PHI",
         "kr": "필라델피아",
         "score": null,
-        "wins": 56,
+        "wins": 57,
         "losses": 49
       },
       "koreanPlayerTeams": []
@@ -182,7 +182,7 @@
         "kr": "뉴욕 양키스",
         "score": null,
         "wins": 59,
-        "losses": 45
+        "losses": 46
       },
       "koreanPlayerTeams": []
     },
@@ -614,24 +614,24 @@
     },
     {
       "gameId": 823433,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-26T23:20:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 2,
-        "wins": 56,
+        "score": 11,
+        "wins": 57,
         "losses": 49
       },
       "away": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 4,
         "wins": 59,
-        "losses": 45
+        "losses": 46
       },
       "koreanPlayerTeams": []
     }
