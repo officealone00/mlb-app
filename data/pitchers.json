@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "9"
+    },
+    {
+      "rank": 30,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "8"
-    },
-    {
-      "rank": 30,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "8"
     }
   ],
@@ -300,6 +300,14 @@
     },
     {
       "rank": 8,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "2.59"
+    },
+    {
+      "rank": 9,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -307,20 +315,12 @@
       "value": "2.62"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "2.64"
-    },
-    {
-      "rank": 10,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "2.65"
     },
     {
       "rank": 11,
@@ -518,19 +518,19 @@
     },
     {
       "rank": 5,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "155"
+    },
+    {
+      "rank": 6,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "152"
-    },
-    {
-      "rank": 6,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "151"
     },
     {
       "rank": 7,

@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".325"
+      "value": ".327"
     },
     {
       "rank": 3,
@@ -154,18 +154,18 @@
     },
     {
       "rank": 20,
-      "playerId": 669016,
-      "playerName": "Brandon Marsh",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": ".287"
-    },
-    {
-      "rank": 21,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
+      "value": ".286"
+    },
+    {
+      "rank": 21,
+      "playerId": 669016,
+      "playerName": "Brandon Marsh",
+      "teamId": 143,
+      "teamAbbr": "PHI",
       "value": ".286"
     },
     {
@@ -670,6 +670,14 @@
     },
     {
       "rank": 24,
+      "playerId": 656941,
+      "playerName": "Kyle Schwarber",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "62"
+    },
+    {
+      "rank": 25,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -677,7 +685,7 @@
       "value": "62"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -685,7 +693,7 @@
       "value": "61"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -693,7 +701,7 @@
       "value": "61"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -701,7 +709,7 @@
       "value": "61"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 606466,
       "playerName": "Ketel Marte",
       "teamId": 109,
@@ -709,19 +717,11 @@
       "value": "61"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "61"
-    },
-    {
-      "rank": 30,
-      "playerId": 656941,
-      "playerName": "Kyle Schwarber",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "61"
     }
   ],
