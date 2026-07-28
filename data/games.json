@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824490,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-07-28T17:40:00Z",
       "home": {
         "teamId": 113,
@@ -160,31 +160,6 @@
         "losses": 58
       },
       "koreanPlayerTeams": []
-    },
-    {
-      "gameId": 823598,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-07-28T23:10:00Z",
-      "home": {
-        "teamId": 121,
-        "abbr": "NYM",
-        "kr": "뉴욕 메츠",
-        "score": null,
-        "wins": 45,
-        "losses": 62
-      },
-      "away": {
-        "teamId": 144,
-        "abbr": "ATL",
-        "kr": "애틀랜타",
-        "score": null,
-        "wins": 62,
-        "losses": 44
-      },
-      "koreanPlayerTeams": [
-        144
-      ]
     },
     {
       "gameId": 823676,
@@ -374,6 +349,31 @@
       },
       "koreanPlayerTeams": [
         119
+      ]
+    },
+    {
+      "gameId": 823598,
+      "status": "Postponed",
+      "statusCode": "DI",
+      "startTime": "2026-07-28T23:10:00Z",
+      "home": {
+        "teamId": 121,
+        "abbr": "NYM",
+        "kr": "뉴욕 메츠",
+        "score": null,
+        "wins": 45,
+        "losses": 62
+      },
+      "away": {
+        "teamId": 144,
+        "abbr": "ATL",
+        "kr": "애틀랜타",
+        "score": null,
+        "wins": 62,
+        "losses": 44
+      },
+      "koreanPlayerTeams": [
+        144
       ]
     }
   ],
