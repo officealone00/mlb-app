@@ -272,7 +272,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.42"
+      "value": "2.40"
     },
     {
       "rank": 5,
@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "128"
+    },
+    {
+      "rank": 19,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -629,7 +637,7 @@
       "value": "127"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -637,20 +645,12 @@
       "value": "127"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "127"
-    },
-    {
-      "rank": 21,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "124"
     },
     {
       "rank": 22,
@@ -1114,14 +1114,6 @@
     },
     {
       "rank": 19,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "1.11"
-    },
-    {
-      "rank": 20,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -1129,11 +1121,19 @@
       "value": "1.11"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
+      "value": "1.12"
+    },
+    {
+      "rank": 21,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
       "value": "1.12"
     },
     {
