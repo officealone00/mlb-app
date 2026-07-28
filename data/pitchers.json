@@ -764,7 +764,7 @@
       "playerName": "Aroldis Chapman",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "24"
+      "value": "25"
     },
     {
       "rank": 6,
@@ -864,6 +864,14 @@
     },
     {
       "rank": 18,
+      "playerId": 623352,
+      "playerName": "Josh Hader",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "13"
+    },
+    {
+      "rank": 19,
       "playerId": 642397,
       "playerName": "Gregory Soto",
       "teamId": 134,
@@ -871,7 +879,7 @@
       "value": "13"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 622554,
       "playerName": "Seranthony Domínguez",
       "teamId": 145,
@@ -879,19 +887,11 @@
       "value": "12"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 668674,
       "playerName": "Lucas Erceg",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "12"
-    },
-    {
-      "rank": 21,
-      "playerId": 623352,
-      "playerName": "Josh Hader",
-      "teamId": 117,
-      "teamAbbr": "HOU",
       "value": "12"
     },
     {
