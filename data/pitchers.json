@@ -292,19 +292,19 @@
     },
     {
       "rank": 7,
+      "playerId": 593958,
+      "playerName": "Eduardo Rodriguez",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": "2.58"
+    },
+    {
+      "rank": 8,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "2.59"
-    },
-    {
-      "rank": 8,
-      "playerId": 593958,
-      "playerName": "Eduardo Rodriguez",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": "2.64"
     },
     {
       "rank": 9,
@@ -380,19 +380,19 @@
     },
     {
       "rank": 18,
+      "playerId": 666200,
+      "playerName": "Jesús Luzardo",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "3.21"
+    },
+    {
+      "rank": 19,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "3.29"
-    },
-    {
-      "rank": 19,
-      "playerId": 666200,
-      "playerName": "Jesús Luzardo",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "3.31"
     },
     {
       "rank": 20,
@@ -530,7 +530,7 @@
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "152"
+      "value": "156"
     },
     {
       "rank": 7,
@@ -1162,6 +1162,14 @@
     },
     {
       "rank": 25,
+      "playerId": 666200,
+      "playerName": "Jesús Luzardo",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "1.16"
+    },
+    {
+      "rank": 26,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -1169,19 +1177,11 @@
       "value": "1.16"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "1.17"
-    },
-    {
-      "rank": 27,
-      "playerId": 666200,
-      "playerName": "Jesús Luzardo",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "1.17"
     },
     {
