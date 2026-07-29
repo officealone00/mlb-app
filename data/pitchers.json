@@ -352,7 +352,7 @@
       "playerName": "Justin Wrobleski",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "2.85"
+      "value": "2.88"
     },
     {
       "rank": 15,
@@ -412,19 +412,19 @@
     },
     {
       "rank": 22,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "3.38"
+    },
+    {
+      "rank": 23,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.38"
-    },
-    {
-      "rank": 23,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "3.40"
     },
     {
       "rank": 24,
@@ -820,7 +820,7 @@
       "playerName": "Andrés Muñoz",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "18"
+      "value": "19"
     },
     {
       "rank": 13,
@@ -848,6 +848,14 @@
     },
     {
       "rank": 16,
+      "playerId": 623352,
+      "playerName": "Josh Hader",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "14"
+    },
+    {
+      "rank": 17,
       "playerId": 642207,
       "playerName": "Devin Williams",
       "teamId": 121,
@@ -855,19 +863,11 @@
       "value": "14"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 672782,
       "playerName": "Yoendrys Gómez",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "13"
-    },
-    {
-      "rank": 18,
-      "playerId": 623352,
-      "playerName": "Josh Hader",
-      "teamId": 117,
-      "teamAbbr": "HOU",
       "value": "13"
     },
     {
@@ -932,7 +932,7 @@
       "playerName": "Hogan Harris",
       "teamId": 133,
       "teamAbbr": "ATH",
-      "value": "8"
+      "value": "9"
     },
     {
       "rank": 27,
@@ -1186,18 +1186,18 @@
     },
     {
       "rank": 28,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "1.17"
-    },
-    {
-      "rank": 29,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
+      "value": "1.17"
+    },
+    {
+      "rank": 29,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
       "value": "1.17"
     },
     {
