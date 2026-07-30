@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 822946,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-07-30T16:10:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 2,
-        "wins": 63,
+        "score": 3,
+        "wins": 64,
         "losses": 44
       },
       "away": {
@@ -19,30 +19,30 @@
         "kr": "텍사스",
         "score": 2,
         "wins": 55,
-        "losses": 53
+        "losses": 54
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823674,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-07-30T17:40:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 0,
-        "wins": 54,
+        "score": 4,
+        "wins": 55,
         "losses": 55
       },
       "away": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 2,
+        "score": 3,
         "wins": 46,
-        "losses": 63
+        "losses": 64
       },
       "koreanPlayerTeams": []
     },
@@ -78,7 +78,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 1,
         "wins": 54,
         "losses": 54
       },
@@ -86,7 +86,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 0,
+        "score": 2,
         "wins": 61,
         "losses": 47
       },
@@ -94,8 +94,8 @@
     },
     {
       "gameId": 824488,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-30T23:10:00Z",
       "home": {
         "teamId": 113,
@@ -117,8 +117,8 @@
     },
     {
       "gameId": 823595,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-30T23:10:00Z",
       "home": {
         "teamId": 121,
@@ -140,14 +140,14 @@
     },
     {
       "gameId": 824894,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-30T23:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 45
       },
@@ -155,7 +155,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 54
       },
