@@ -618,7 +618,7 @@
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "130"
+      "value": "131"
     },
     {
       "rank": 18,
@@ -1130,14 +1130,6 @@
     },
     {
       "rank": 21,
-      "playerId": 680732,
-      "playerName": "Sean Burke",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "1.12"
-    },
-    {
-      "rank": 22,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1145,11 +1137,19 @@
       "value": "1.12"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
+      "value": "1.12"
+    },
+    {
+      "rank": 23,
+      "playerId": 680732,
+      "playerName": "Sean Burke",
+      "teamId": 145,
+      "teamAbbr": "CWS",
       "value": "1.12"
     },
     {
