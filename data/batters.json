@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".283"
-    },
-    {
-      "rank": 24,
       "playerId": 665742,
       "playerName": "Juan Soto",
       "teamId": 121,
@@ -193,7 +185,7 @@
       "value": ".283"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 803011,
       "playerName": "Sam Antonacci",
       "teamId": 145,
@@ -201,7 +193,7 @@
       "value": ".283"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 146,
@@ -209,11 +201,19 @@
       "value": ".283"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
+      "value": ".283"
+    },
+    {
+      "rank": 27,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".283"
     },
     {
