@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824651,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-07-31T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 47
       },
@@ -17,7 +17,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 48
       },
