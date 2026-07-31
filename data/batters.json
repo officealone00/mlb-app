@@ -162,14 +162,6 @@
     },
     {
       "rank": 21,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".285"
-    },
-    {
-      "rank": 22,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
@@ -177,12 +169,20 @@
       "value": ".285"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".284"
+    },
+    {
+      "rank": 23,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": ".283"
     },
     {
       "rank": 24,
