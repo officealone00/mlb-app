@@ -38,7 +38,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".304"
+      "value": ".305"
     },
     {
       "rank": 6,
@@ -74,14 +74,6 @@
     },
     {
       "rank": 10,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".292"
-    },
-    {
-      "rank": 11,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -89,7 +81,7 @@
       "value": ".292"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -97,11 +89,19 @@
       "value": ".292"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".291"
+    },
+    {
+      "rank": 13,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".291"
     },
     {
@@ -218,14 +218,6 @@
     },
     {
       "rank": 28,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": ".281"
-    },
-    {
-      "rank": 29,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -233,12 +225,20 @@
       "value": ".281"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": ".281"
+    },
+    {
+      "rank": 30,
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": ".280"
     }
   ],
   "hr": [
