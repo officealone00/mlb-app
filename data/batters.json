@@ -22,7 +22,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".322"
+      "value": ".321"
     },
     {
       "rank": 4,
@@ -90,14 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".291"
-    },
-    {
-      "rank": 13,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -105,7 +97,7 @@
       "value": ".291"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -113,20 +105,28 @@
       "value": ".290"
     },
     {
-      "rank": 15,
-      "playerId": 802415,
-      "playerName": "Chandler Simpson",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".290"
+      "rank": 14,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".289"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 664983,
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".289"
+    },
+    {
+      "rank": 16,
+      "playerId": 802415,
+      "playerName": "Chandler Simpson",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".288"
     },
     {
       "rank": 17,
@@ -138,14 +138,6 @@
     },
     {
       "rank": 18,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".286"
-    },
-    {
-      "rank": 19,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -153,7 +145,7 @@
       "value": ".286"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
@@ -161,12 +153,20 @@
       "value": ".286"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": ".285"
+    },
+    {
+      "rank": 21,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".284"
     },
     {
       "rank": 22,
@@ -210,22 +210,14 @@
     },
     {
       "rank": 27,
-      "playerId": 803011,
-      "playerName": "Sam Antonacci",
-      "teamId": 145,
-      "teamAbbr": "CWS",
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": ".282"
     },
     {
       "rank": 28,
-      "playerId": 691406,
-      "playerName": "Junior Caminero",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".282"
-    },
-    {
-      "rank": 29,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -233,11 +225,19 @@
       "value": ".281"
     },
     {
+      "rank": 29,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".281"
+    },
+    {
       "rank": 30,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".280"
     }
   ],
@@ -776,6 +776,14 @@
     },
     {
       "rank": 7,
+      "playerId": 665923,
+      "playerName": "Esteury Ruiz",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "26"
+    },
+    {
+      "rank": 8,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
@@ -783,19 +791,11 @@
       "value": "26"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 676609,
       "playerName": "José Caballero",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "25"
-    },
-    {
-      "rank": 9,
-      "playerId": 665923,
-      "playerName": "Esteury Ruiz",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": "25"
     },
     {
