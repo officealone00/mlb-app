@@ -654,6 +654,14 @@
     },
     {
       "rank": 22,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "126"
+    },
+    {
+      "rank": 23,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
@@ -661,20 +669,12 @@
       "value": "126"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "124"
-    },
-    {
-      "rank": 24,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "123"
     },
     {
       "rank": 25,
@@ -998,7 +998,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "0.93"
+      "value": "0.94"
     },
     {
       "rank": 5,
