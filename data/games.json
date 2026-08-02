@@ -266,14 +266,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 45,
-        "losses": 65
+        "losses": 66
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": null,
-        "wins": 52,
+        "wins": 53,
         "losses": 58
       },
       "koreanPlayerTeams": []
@@ -685,23 +685,23 @@
     },
     {
       "gameId": 824972,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-02T01:40:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 5,
+        "score": 6,
         "wins": 45,
-        "losses": 65
+        "losses": 66
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": 8,
-        "wins": 52,
+        "wins": 53,
         "losses": 58
       },
       "koreanPlayerTeams": []
