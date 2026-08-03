@@ -32,7 +32,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 49
       },
@@ -40,7 +40,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 57
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 823757,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-03T23:40:00Z",
       "home": {
         "teamId": 158,
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 824647,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-04T00:05:00Z",
       "home": {
         "teamId": 112,
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 822867,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-04T00:05:00Z",
       "home": {
         "teamId": 140,
