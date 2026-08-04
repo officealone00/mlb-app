@@ -315,7 +315,7 @@
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 59,
+        "wins": 60,
         "losses": 53
       },
       "away": {
@@ -324,7 +324,7 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 58,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": [
         135
@@ -499,8 +499,8 @@
     },
     {
       "gameId": 824324,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-04T00:40:00Z",
       "home": {
         "teamId": 115,
@@ -522,24 +522,24 @@
     },
     {
       "gameId": 825095,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-04T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 3,
-        "wins": 59,
+        "score": 5,
+        "wins": 60,
         "losses": 53
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 58,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": [
         135
