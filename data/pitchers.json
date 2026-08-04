@@ -436,19 +436,19 @@
     },
     {
       "rank": 25,
+      "playerId": 666200,
+      "playerName": "Jesús Luzardo",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "3.52"
+    },
+    {
+      "rank": 26,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "3.56"
-    },
-    {
-      "rank": 26,
-      "playerId": 666200,
-      "playerName": "Jesús Luzardo",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "3.57"
     },
     {
       "rank": 27,
@@ -530,7 +530,7 @@
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "157"
+      "value": "159"
     },
     {
       "rank": 7,
@@ -654,6 +654,14 @@
     },
     {
       "rank": 22,
+      "playerId": 676282,
+      "playerName": "Joey Cantillo",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "127"
+    },
+    {
+      "rank": 23,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 141,
@@ -661,7 +669,7 @@
       "value": "127"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 108,
@@ -669,7 +677,7 @@
       "value": "127"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
@@ -677,20 +685,12 @@
       "value": "126"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "126"
-    },
-    {
-      "rank": 26,
-      "playerId": 676282,
-      "playerName": "Joey Cantillo",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "124"
     },
     {
       "rank": 27,
@@ -1190,7 +1190,7 @@
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "1.19"
+      "value": "1.18"
     },
     {
       "rank": 29,
