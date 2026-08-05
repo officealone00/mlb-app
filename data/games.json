@@ -2,23 +2,23 @@
   "today": [
     {
       "gameId": 824158,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-05T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 3,
+        "score": 4,
         "wins": 59,
-        "losses": 56
+        "losses": 57
       },
       "away": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 3,
-        "wins": 53,
+        "score": 5,
+        "wins": 54,
         "losses": 61
       },
       "koreanPlayerTeams": []
@@ -32,7 +32,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 6,
+        "score": 7,
         "wins": 65,
         "losses": 49
       },
@@ -40,7 +40,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 1,
+        "score": 6,
         "wins": 69,
         "losses": 45
       },
@@ -50,15 +50,15 @@
     },
     {
       "gameId": 822866,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-05T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 4,
-        "wins": 56,
+        "score": 6,
+        "wins": 57,
         "losses": 58
       },
       "away": {
@@ -67,7 +67,7 @@
         "kr": "샌프란시스코",
         "score": 0,
         "wins": 48,
-        "losses": 66
+        "losses": 67
       },
       "koreanPlayerTeams": [
         137
@@ -90,7 +90,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 2,
+        "score": 4,
         "wins": 67,
         "losses": 46
       },
@@ -105,7 +105,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 58
       },
@@ -113,7 +113,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 43,
         "losses": 70
       },
@@ -121,14 +121,14 @@
     },
     {
       "gameId": 824402,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-05T22:40:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 57,
         "losses": 57
       },
@@ -136,7 +136,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 66
       },
@@ -174,7 +174,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 53
       },
@@ -182,7 +182,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 60
       },
@@ -197,7 +197,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 50
       },
@@ -205,7 +205,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 58
       },
@@ -243,7 +243,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 45
       },
@@ -251,7 +251,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": null,
+        "score": 0,
         "wins": 58,
         "losses": 56
       },
@@ -268,7 +268,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 67
       },
@@ -276,7 +276,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 58
       },
@@ -284,8 +284,8 @@
     },
     {
       "gameId": 823753,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-05T23:40:00Z",
       "home": {
         "teamId": 158,

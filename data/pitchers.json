@@ -300,19 +300,19 @@
     },
     {
       "rank": 8,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "2.65"
+    },
+    {
+      "rank": 9,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "2.71"
-    },
-    {
-      "rank": 9,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "2.75"
     },
     {
       "rank": 10,
@@ -472,7 +472,7 @@
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "3.62"
+      "value": "3.60"
     },
     {
       "rank": 30,
@@ -1082,14 +1082,6 @@
     },
     {
       "rank": 15,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "1.09"
-    },
-    {
-      "rank": 16,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1097,11 +1089,19 @@
       "value": "1.10"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
       "teamAbbr": "LAA",
+      "value": "1.10"
+    },
+    {
+      "rank": 17,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": "1.10"
     },
     {
