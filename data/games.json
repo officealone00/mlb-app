@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824158,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-05T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 56
       },
@@ -17,7 +17,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 53,
         "losses": 61
       },
@@ -32,7 +32,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 65,
         "losses": 49
       },
@@ -40,7 +40,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 45
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 822866,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-05T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 58
       },
@@ -65,7 +65,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 66
       },
@@ -75,14 +75,14 @@
     },
     {
       "gameId": 824322,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-05T19:10:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 45,
         "losses": 69
       },
@@ -90,7 +90,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 67,
         "losses": 46
       },
