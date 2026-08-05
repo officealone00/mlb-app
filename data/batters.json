@@ -86,7 +86,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".294"
+      "value": ".293"
     },
     {
       "rank": 12,
@@ -94,7 +94,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".292"
+      "value": ".291"
     },
     {
       "rank": 13,
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 691406,
-      "playerName": "Junior Caminero",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".285"
-    },
-    {
-      "rank": 24,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -193,11 +185,19 @@
       "value": ".285"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
+      "value": ".284"
+    },
+    {
+      "rank": 25,
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".284"
     },
     {
@@ -218,18 +218,18 @@
     },
     {
       "rank": 28,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".283"
-    },
-    {
-      "rank": 29,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
+      "value": ".282"
+    },
+    {
+      "rank": 29,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".282"
     },
     {
@@ -824,19 +824,19 @@
     },
     {
       "rank": 13,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "21"
+    },
+    {
+      "rank": 14,
       "playerId": 665833,
       "playerName": "Oneil Cruz",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "21"
-    },
-    {
-      "rank": 14,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "20"
     },
     {
       "rank": 15,
