@@ -50,6 +50,14 @@
     },
     {
       "rank": 7,
+      "playerId": 669467,
+      "playerName": "Andre Pallante",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "12"
+    },
+    {
+      "rank": 8,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -57,7 +65,7 @@
       "value": "12"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -65,7 +73,7 @@
       "value": "11"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -73,19 +81,11 @@
       "value": "11"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "11"
-    },
-    {
-      "rank": 11,
-      "playerId": 669467,
-      "playerName": "Andre Pallante",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": "11"
     },
     {
@@ -764,7 +764,7 @@
       "playerName": "Riley O'Brien",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "26"
+      "value": "27"
     },
     {
       "rank": 6,
@@ -828,7 +828,7 @@
       "playerName": "Andrés Muñoz",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "19"
+      "value": "20"
     },
     {
       "rank": 14,
@@ -1118,7 +1118,7 @@
       "playerName": "Bryan Woo",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "1.11"
+      "value": "1.12"
     },
     {
       "rank": 20,

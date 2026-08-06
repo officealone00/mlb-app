@@ -125,7 +125,7 @@
         "abbr": "SEA",
         "kr": "시애틀",
         "score": null,
-        "wins": 55,
+        "wins": 56,
         "losses": 59
       },
       "away": {
@@ -134,7 +134,7 @@
         "kr": "디트로이트",
         "score": null,
         "wins": 55,
-        "losses": 58
+        "losses": 59
       },
       "koreanPlayerTeams": []
     },
@@ -242,7 +242,7 @@
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 60,
+        "wins": 61,
         "losses": 54
       },
       "away": {
@@ -251,7 +251,7 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 59,
-        "losses": 55
+        "losses": 56
       },
       "koreanPlayerTeams": [
         135
@@ -449,8 +449,8 @@
     },
     {
       "gameId": 823516,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-05T23:05:00Z",
       "home": {
         "teamId": 147,
@@ -458,14 +458,14 @@
         "kr": "뉴욕 양키스",
         "score": 1,
         "wins": 64,
-        "losses": 50
+        "losses": 51
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
         "score": 3,
-        "wins": 56,
+        "wins": 57,
         "losses": 58
       },
       "koreanPlayerTeams": []
@@ -566,24 +566,24 @@
     },
     {
       "gameId": 825052,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-06T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 8,
-        "wins": 60,
+        "score": 10,
+        "wins": 61,
         "losses": 54
       },
       "away": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 4,
         "wins": 59,
-        "losses": 55
+        "losses": 56
       },
       "koreanPlayerTeams": [
         135
@@ -591,24 +591,24 @@
     },
     {
       "gameId": 823106,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-06T01:40:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 3,
-        "wins": 55,
+        "score": 4,
+        "wins": 56,
         "losses": 59
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 2,
         "wins": 55,
-        "losses": 58
+        "losses": 59
       },
       "koreanPlayerTeams": []
     }
