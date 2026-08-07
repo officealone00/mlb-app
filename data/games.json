@@ -195,7 +195,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 68
       },
@@ -203,7 +203,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 67,
         "losses": 49
       },
@@ -257,8 +257,8 @@
     },
     {
       "gameId": 825051,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-08T01:40:00Z",
       "home": {
         "teamId": 109,
