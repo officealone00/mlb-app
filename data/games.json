@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 823349,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Delayed",
+      "statusCode": "IR",
       "startTime": "2026-08-07T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -17,7 +17,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 1,
         "wins": 50,
         "losses": 66
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822699,
-      "status": "Delayed Start",
-      "statusCode": "PI",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-07T22:45:00Z",
       "home": {
         "teamId": 120,
@@ -96,14 +96,14 @@
     },
     {
       "gameId": 824727,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-07T23:10:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
+        "score": 2,
         "wins": 63,
         "losses": 51
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 823836,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-07T23:10:00Z",
       "home": {
         "teamId": 146,
@@ -134,7 +134,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
+        "score": 1,
         "wins": 44,
         "losses": 71
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824566,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-07T23:40:00Z",
       "home": {
         "teamId": 145,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823750,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-07T23:40:00Z",
       "home": {
         "teamId": 158,
@@ -337,7 +337,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 67
       },
@@ -345,7 +345,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 59
       },
