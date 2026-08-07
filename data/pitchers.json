@@ -2,18 +2,18 @@
   "w": [
     {
       "rank": 1,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "14"
-    },
-    {
-      "rank": 2,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
+      "value": "15"
+    },
+    {
+      "rank": 2,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": "14"
     },
     {
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "3.44"
+    },
+    {
+      "rank": 22,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -411,19 +419,11 @@
       "value": "3.45"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "3.46"
-    },
-    {
-      "rank": 23,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
       "value": "3.46"
     },
     {
@@ -856,19 +856,19 @@
     },
     {
       "rank": 17,
+      "playerId": 672782,
+      "playerName": "Yoendrys Gómez",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "15"
+    },
+    {
+      "rank": 18,
       "playerId": 623352,
       "playerName": "Josh Hader",
       "teamId": 117,
       "teamAbbr": "HOU",
       "value": "15"
-    },
-    {
-      "rank": 18,
-      "playerId": 672782,
-      "playerName": "Yoendrys Gómez",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "14"
     },
     {
       "rank": 19,
