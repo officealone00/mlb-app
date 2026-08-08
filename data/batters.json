@@ -6,7 +6,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".328"
+      "value": ".327"
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".322"
+      "value": ".321"
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".311"
+      "value": ".309"
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".298"
+      "value": ".300"
     },
     {
       "rank": 9,
@@ -126,10 +126,18 @@
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
-      "value": ".289"
+      "value": ".288"
     },
     {
       "rank": 17,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": ".288"
+    },
+    {
+      "rank": 18,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -137,7 +145,7 @@
       "value": ".288"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -145,15 +153,15 @@
       "value": ".287"
     },
     {
-      "rank": 19,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
+      "rank": 20,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".287"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -161,35 +169,27 @@
       "value": ".287"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".286"
+      "value": ".285"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": ".286"
-    },
-    {
-      "rank": 23,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": ".285"
     },
     {
       "rank": 24,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".285"
     },
     {
