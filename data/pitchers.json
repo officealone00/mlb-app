@@ -256,7 +256,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "2.05"
+      "value": "2.23"
     },
     {
       "rank": 3,
@@ -468,19 +468,19 @@
     },
     {
       "rank": 29,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "3.63"
+    },
+    {
+      "rank": 30,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.65"
-    },
-    {
-      "rank": 30,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "3.68"
     }
   ],
   "k": [
@@ -558,6 +558,14 @@
     },
     {
       "rank": 10,
+      "playerId": 519242,
+      "playerName": "Chris Sale",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "150"
+    },
+    {
+      "rank": 11,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -565,7 +573,7 @@
       "value": "145"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -573,20 +581,12 @@
       "value": "145"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "144"
-    },
-    {
-      "rank": 13,
-      "playerId": 519242,
-      "playerName": "Chris Sale",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "143"
     },
     {
       "rank": 14,
@@ -718,10 +718,10 @@
     },
     {
       "rank": 30,
-      "playerId": 801139,
-      "playerName": "Payton Tolle",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "124"
     }
   ],
@@ -1022,7 +1022,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "1.02"
+      "value": "1.04"
     },
     {
       "rank": 8,
@@ -1186,6 +1186,14 @@
     },
     {
       "rank": 28,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "1.18"
+    },
+    {
+      "rank": 29,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -1193,19 +1201,11 @@
       "value": "1.20"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "1.20"
-    },
-    {
-      "rank": 30,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": "1.20"
     }
   ]

@@ -22,7 +22,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".315"
+      "value": ".314"
     },
     {
       "rank": 4,
@@ -110,7 +110,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".291"
+      "value": ".290"
     },
     {
       "rank": 15,
@@ -134,7 +134,7 @@
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".289"
+      "value": ".288"
     },
     {
       "rank": 18,
@@ -142,7 +142,7 @@
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".288"
+      "value": ".287"
     },
     {
       "rank": 19,
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".285"
-    },
-    {
-      "rank": 24,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -193,11 +185,19 @@
       "value": ".284"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": ".284"
+    },
+    {
+      "rank": 25,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": ".284"
     },
     {
