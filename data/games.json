@@ -2,24 +2,24 @@
   "today": [
     {
       "gameId": 823514,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-08T19:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
         "score": 5,
-        "wins": 65,
+        "wins": 66,
         "losses": 51
       },
       "away": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 3,
+        "score": 4,
         "wins": 70,
-        "losses": 46
+        "losses": 47
       },
       "koreanPlayerTeams": [
         144
@@ -34,7 +34,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 2,
+        "score": 3,
         "wins": 64,
         "losses": 51
       },
@@ -42,7 +42,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 3,
+        "score": 6,
         "wins": 45,
         "losses": 71
       },
@@ -57,7 +57,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 5,
+        "score": 7,
         "wins": 58,
         "losses": 59
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823426,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-08T22:05:00Z",
       "home": {
         "teamId": 143,
@@ -88,7 +88,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 1,
         "wins": 55,
         "losses": 62
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823348,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-08T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 822701,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-08T22:45:00Z",
       "home": {
         "teamId": 120,

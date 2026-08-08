@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".323"
+      "value": ".322"
     },
     {
       "rank": 3,
@@ -22,7 +22,7 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".316"
+      "value": ".317"
     },
     {
       "rank": 4,
@@ -122,14 +122,6 @@
     },
     {
       "rank": 16,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".289"
-    },
-    {
-      "rank": 17,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
@@ -137,15 +129,15 @@
       "value": ".289"
     },
     {
-      "rank": 18,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".287"
+      "rank": 17,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".288"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -153,7 +145,7 @@
       "value": ".287"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -161,12 +153,20 @@
       "value": ".287"
     },
     {
-      "rank": 21,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "rank": 20,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": ".287"
+    },
+    {
+      "rank": 21,
+      "playerId": 676391,
+      "playerName": "Ernie Clement",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": ".286"
     },
     {
       "rank": 22,
@@ -186,18 +186,18 @@
     },
     {
       "rank": 24,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".285"
+    },
+    {
+      "rank": 25,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".284"
-    },
-    {
-      "rank": 25,
-      "playerId": 676391,
-      "playerName": "Ernie Clement",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": ".284"
     },
     {
