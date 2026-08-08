@@ -256,7 +256,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "2.23"
+      "value": "2.20"
     },
     {
       "rank": 3,
@@ -436,6 +436,14 @@
     },
     {
       "rank": 25,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "3.56"
+    },
+    {
+      "rank": 26,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -443,7 +451,7 @@
       "value": "3.57"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
@@ -451,7 +459,7 @@
       "value": "3.59"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -459,19 +467,11 @@
       "value": "3.60"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "3.63"
-    },
-    {
-      "rank": 29,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": "3.63"
     },
     {
@@ -550,18 +550,18 @@
     },
     {
       "rank": 9,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "150"
-    },
-    {
-      "rank": 10,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
+      "value": "151"
+    },
+    {
+      "rank": 10,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
       "value": "150"
     },
     {
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "127"
+    },
+    {
+      "rank": 29,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -709,20 +717,12 @@
       "value": "127"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
       "value": "125"
-    },
-    {
-      "rank": 30,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "124"
     }
   ],
   "sv": [
@@ -1022,7 +1022,7 @@
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "1.04"
+      "value": "1.02"
     },
     {
       "rank": 8,
