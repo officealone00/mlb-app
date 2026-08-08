@@ -9,7 +9,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 65,
         "losses": 51
       },
@@ -17,7 +17,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 70,
         "losses": 46
       },
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 824726,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-08T20:10:00Z",
       "home": {
         "teamId": 111,
