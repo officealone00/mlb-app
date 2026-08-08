@@ -90,6 +90,14 @@
     },
     {
       "rank": 12,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "11"
+    },
+    {
+      "rank": 13,
       "playerId": 608372,
       "playerName": "Tomoyuki Sugano",
       "teamId": 115,
@@ -97,7 +105,7 @@
       "value": "11"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -105,7 +113,7 @@
       "value": "11"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -113,7 +121,7 @@
       "value": "11"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -121,7 +129,7 @@
       "value": "11"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
@@ -129,19 +137,11 @@
       "value": "10"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "10"
-    },
-    {
-      "rank": 18,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": "10"
     },
     {
@@ -732,7 +732,7 @@
       "playerName": "Bryan Baker",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "32"
+      "value": "33"
     },
     {
       "rank": 2,
@@ -848,6 +848,14 @@
     },
     {
       "rank": 16,
+      "playerId": 623352,
+      "playerName": "Josh Hader",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "16"
+    },
+    {
+      "rank": 17,
       "playerId": 656945,
       "playerName": "Tanner Scott",
       "teamId": 119,
@@ -855,20 +863,12 @@
       "value": "16"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 642207,
       "playerName": "Devin Williams",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "16"
-    },
-    {
-      "rank": 18,
-      "playerId": 623352,
-      "playerName": "Josh Hader",
-      "teamId": 117,
-      "teamAbbr": "HOU",
-      "value": "15"
     },
     {
       "rank": 19,
