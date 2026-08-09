@@ -165,24 +165,24 @@
     },
     {
       "gameId": 824564,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T18:10:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
         "score": 5,
-        "wins": 60,
+        "wins": 61,
         "losses": 56
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 2,
+        "score": 3,
         "wins": 58,
-        "losses": 60
+        "losses": 61
       },
       "koreanPlayerTeams": []
     },
@@ -257,8 +257,8 @@
     },
     {
       "gameId": 823190,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T20:05:00Z",
       "home": {
         "teamId": 137,
@@ -266,14 +266,14 @@
         "kr": "샌프란시스코",
         "score": 1,
         "wins": 49,
-        "losses": 68
+        "losses": 69
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
         "score": 3,
-        "wins": 57,
+        "wins": 58,
         "losses": 60
       },
       "koreanPlayerTeams": [
@@ -282,8 +282,8 @@
     },
     {
       "gameId": 825050,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T20:10:00Z",
       "home": {
         "teamId": 109,
@@ -307,8 +307,8 @@
     },
     {
       "gameId": 823104,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T20:10:00Z",
       "home": {
         "teamId": 136,
@@ -316,14 +316,14 @@
         "kr": "시애틀",
         "score": 1,
         "wins": 56,
-        "losses": 62
+        "losses": 63
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": 4,
-        "wins": 70,
+        "wins": 71,
         "losses": 46
       },
       "koreanPlayerTeams": []
