@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822700,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-09T16:15:00Z",
       "home": {
         "teamId": 120,
@@ -17,7 +17,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": 0,
+        "score": 1,
         "wins": 56,
         "losses": 60
       },
@@ -55,7 +55,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 58,
         "losses": 61
       },
@@ -63,7 +63,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 67
       },
@@ -234,8 +234,8 @@
     },
     {
       "gameId": 822862,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-09T18:35:00Z",
       "home": {
         "teamId": 140,
@@ -257,8 +257,8 @@
     },
     {
       "gameId": 823190,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-09T20:05:00Z",
       "home": {
         "teamId": 137,
