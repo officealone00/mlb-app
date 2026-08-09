@@ -202,6 +202,14 @@
     },
     {
       "rank": 26,
+      "playerId": 641743,
+      "playerName": "Anthony Kay",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "9"
+    },
+    {
+      "rank": 27,
       "playerId": 663436,
       "playerName": "Davis Martin",
       "teamId": 145,
@@ -209,7 +217,7 @@
       "value": "9"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 663556,
       "playerName": "Shane McClanahan",
       "teamId": 139,
@@ -217,7 +225,7 @@
       "value": "9"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -225,19 +233,11 @@
       "value": "9"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 676974,
       "playerName": "Max Meyer",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "9"
-    },
-    {
-      "rank": 30,
-      "playerId": 622608,
-      "playerName": "Antonio Senzatela",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "9"
     }
   ],
@@ -468,19 +468,19 @@
     },
     {
       "rank": 29,
-      "playerId": 680694,
-      "playerName": "Kyle Bradish",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "3.61"
-    },
-    {
-      "rank": 30,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "3.63"
+    },
+    {
+      "rank": 30,
+      "playerId": 657746,
+      "playerName": "Joe Ryan",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "3.65"
     }
   ],
   "k": [
@@ -940,7 +940,7 @@
       "playerName": "Jordan Romano",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": "9"
+      "value": "10"
     },
     {
       "rank": 28,
