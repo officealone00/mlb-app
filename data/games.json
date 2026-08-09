@@ -316,14 +316,14 @@
         "kr": "시애틀",
         "score": null,
         "wins": 56,
-        "losses": 61
+        "losses": 62
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": null,
-        "wins": 69,
+        "wins": 70,
         "losses": 46
       },
       "koreanPlayerTeams": []
@@ -687,8 +687,8 @@
     },
     {
       "gameId": 823102,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T01:50:00Z",
       "home": {
         "teamId": 136,
@@ -696,14 +696,14 @@
         "kr": "시애틀",
         "score": 2,
         "wins": 56,
-        "losses": 61
+        "losses": 62
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": 3,
-        "wins": 69,
+        "wins": 70,
         "losses": 46
       },
       "koreanPlayerTeams": []
