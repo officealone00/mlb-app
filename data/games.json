@@ -172,7 +172,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 1,
+        "score": 5,
         "wins": 60,
         "losses": 56
       },
@@ -188,8 +188,8 @@
     },
     {
       "gameId": 823751,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T18:10:00Z",
       "home": {
         "teamId": 158,
@@ -234,8 +234,8 @@
     },
     {
       "gameId": 822862,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-09T18:35:00Z",
       "home": {
         "teamId": 140,
@@ -243,14 +243,14 @@
         "kr": "텍사스",
         "score": 5,
         "wins": 59,
-        "losses": 58
+        "losses": 59
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": 10,
-        "wins": 56,
+        "wins": 57,
         "losses": 61
       },
       "koreanPlayerTeams": []
@@ -264,7 +264,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 1,
         "wins": 49,
         "losses": 68
       },
@@ -272,7 +272,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 1,
+        "score": 3,
         "wins": 57,
         "losses": 60
       },
@@ -282,24 +282,24 @@
     },
     {
       "gameId": 825050,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-09T20:10:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": 4,
-        "wins": 62,
+        "wins": 63,
         "losses": 56
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 1,
+        "score": 2,
         "wins": 70,
-        "losses": 47
+        "losses": 48
       },
       "koreanPlayerTeams": [
         119
@@ -322,7 +322,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 1,
+        "score": 4,
         "wins": 70,
         "losses": 46
       },
