@@ -173,7 +173,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 61,
+        "wins": 62,
         "losses": 57
       },
       "away": {
@@ -207,7 +207,7 @@
         "kr": "휴스턴",
         "score": null,
         "wins": 60,
-        "losses": 58
+        "losses": 59
       },
       "koreanPlayerTeams": [
         137
@@ -570,15 +570,15 @@
     },
     {
       "gameId": 823268,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-10T00:20:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 5,
-        "wins": 61,
+        "score": 7,
+        "wins": 62,
         "losses": 57
       },
       "away": {
@@ -587,7 +587,7 @@
         "kr": "휴스턴",
         "score": 2,
         "wins": 60,
-        "losses": 58
+        "losses": 59
       },
       "koreanPlayerTeams": [
         135
