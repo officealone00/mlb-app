@@ -324,19 +324,19 @@
     },
     {
       "rank": 11,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "2.74"
+    },
+    {
+      "rank": 12,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "2.75"
-    },
-    {
-      "rank": 12,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "2.78"
     },
     {
       "rank": 13,
@@ -1154,6 +1154,14 @@
     },
     {
       "rank": 24,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "1.13"
+    },
+    {
+      "rank": 25,
       "playerId": 657746,
       "playerName": "Joe Ryan",
       "teamId": 142,
@@ -1161,7 +1169,7 @@
       "value": "1.14"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -1169,19 +1177,11 @@
       "value": "1.14"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "1.15"
-    },
-    {
-      "rank": 27,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
       "value": "1.15"
     },
     {

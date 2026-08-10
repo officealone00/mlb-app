@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822780,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-10T23:07:00Z",
       "home": {
         "teamId": 141,
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824887,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-10T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -40,7 +40,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 5,
         "wins": 52,
         "losses": 67
       },
@@ -50,8 +50,8 @@
     },
     {
       "gameId": 823675,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-10T23:40:00Z",
       "home": {
         "teamId": 142,
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823018,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-10T23:45:00Z",
       "home": {
         "teamId": 138,
@@ -149,7 +149,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 71
       },
@@ -157,7 +157,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 71,
         "losses": 46
       },
@@ -197,7 +197,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 69
       },
@@ -205,7 +205,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 60,
         "losses": 59
       },
