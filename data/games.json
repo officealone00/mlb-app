@@ -80,7 +80,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 59
       },
@@ -88,7 +88,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 56
       },
@@ -126,7 +126,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 56
       },
@@ -134,7 +134,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 72
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824969,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-11T01:40:00Z",
       "home": {
         "teamId": 133,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823265,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-11T01:40:00Z",
       "home": {
         "teamId": 135,
