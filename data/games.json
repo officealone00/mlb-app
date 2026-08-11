@@ -9,7 +9,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 1,
         "wins": 58,
         "losses": 60
       },
@@ -17,7 +17,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 1,
         "wins": 58,
         "losses": 61
       },
@@ -32,7 +32,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 1,
         "wins": 60,
         "losses": 59
       },
@@ -55,7 +55,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 3,
         "wins": 59,
         "losses": 61
       },
@@ -63,7 +63,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 0,
+        "score": 2,
         "wins": 69,
         "losses": 50
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 823512,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:05:00Z",
       "home": {
         "teamId": 147,
@@ -94,8 +94,8 @@
     },
     {
       "gameId": 822778,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:07:00Z",
       "home": {
         "teamId": 141,
@@ -109,7 +109,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
+        "score": 1,
         "wins": 64,
         "losses": 54
       },
@@ -117,8 +117,8 @@
     },
     {
       "gameId": 824886,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:15:00Z",
       "home": {
         "teamId": 144,
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 823673,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:40:00Z",
       "home": {
         "teamId": 142,
@@ -157,7 +157,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": 0,
+        "score": 2,
         "wins": 57,
         "losses": 62
       },
@@ -165,14 +165,14 @@
     },
     {
       "gameId": 824563,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:40:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 1,
         "wins": 61,
         "losses": 56
       },
@@ -188,8 +188,8 @@
     },
     {
       "gameId": 823019,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-11T23:45:00Z",
       "home": {
         "teamId": 138,
@@ -241,7 +241,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 56
       },
@@ -249,7 +249,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 46,
         "losses": 73
       },
@@ -264,7 +264,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 47,
         "losses": 72
       },
@@ -272,7 +272,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 72,
         "losses": 46
       },
@@ -337,7 +337,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 71,
         "losses": 48
       },
@@ -345,7 +345,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 71
       },
