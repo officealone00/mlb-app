@@ -54,7 +54,7 @@
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".306"
+      "value": ".305"
     },
     {
       "rank": 8,
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 669394,
+      "playerName": "Jake Burger",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "68"
+    },
+    {
+      "rank": 29,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -709,20 +717,12 @@
       "value": "68"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "68"
-    },
-    {
-      "rank": 30,
-      "playerId": 641343,
-      "playerName": "Jake Bauers",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "67"
     }
   ],
   "sb": [

@@ -220,14 +220,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 45,
-        "losses": 73
+        "losses": 74
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
         "score": null,
-        "wins": 59,
+        "wins": 60,
         "losses": 59
       },
       "koreanPlayerTeams": []
@@ -266,14 +266,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 47,
-        "losses": 71
+        "losses": 72
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": null,
-        "wins": 71,
+        "wins": 72,
         "losses": 46
       },
       "koreanPlayerTeams": []
@@ -314,14 +314,14 @@
         "kr": "샌프란시스코",
         "score": null,
         "wins": 49,
-        "losses": 69
+        "losses": 70
       },
       "away": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
         "score": null,
-        "wins": 60,
+        "wins": 61,
         "losses": 59
       },
       "koreanPlayerTeams": [
@@ -338,7 +338,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 70,
+        "wins": 71,
         "losses": 48
       },
       "away": {
@@ -347,7 +347,7 @@
         "kr": "캔자스시티",
         "score": null,
         "wins": 49,
-        "losses": 70
+        "losses": 71
       },
       "koreanPlayerTeams": [
         119
@@ -451,8 +451,8 @@
     },
     {
       "gameId": 823998,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-11T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -460,22 +460,22 @@
         "kr": "LA 에인절스",
         "score": 1,
         "wins": 45,
-        "losses": 73
+        "losses": 74
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 1,
-        "wins": 59,
+        "score": 4,
+        "wins": 60,
         "losses": 59
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 825048,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-11T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -497,8 +497,8 @@
     },
     {
       "gameId": 824969,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-11T01:40:00Z",
       "home": {
         "teamId": 133,
@@ -506,14 +506,14 @@
         "kr": "애슬레틱스",
         "score": 6,
         "wins": 47,
-        "losses": 71
+        "losses": 72
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": 10,
-        "wins": 71,
+        "wins": 72,
         "losses": 46
       },
       "koreanPlayerTeams": []
@@ -545,8 +545,8 @@
     },
     {
       "gameId": 823189,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-11T01:45:00Z",
       "home": {
         "teamId": 137,
@@ -554,14 +554,14 @@
         "kr": "샌프란시스코",
         "score": 3,
         "wins": 49,
-        "losses": 69
+        "losses": 70
       },
       "away": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
         "score": 6,
-        "wins": 60,
+        "wins": 61,
         "losses": 59
       },
       "koreanPlayerTeams": [
@@ -570,15 +570,15 @@
     },
     {
       "gameId": 823918,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-11T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 6,
-        "wins": 70,
+        "wins": 71,
         "losses": 48
       },
       "away": {
@@ -587,7 +587,7 @@
         "kr": "캔자스시티",
         "score": 5,
         "wins": 49,
-        "losses": 70
+        "losses": 71
       },
       "koreanPlayerTeams": [
         119
