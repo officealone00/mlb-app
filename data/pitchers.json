@@ -352,7 +352,7 @@
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "3.24"
+      "value": "3.17"
     },
     {
       "rank": 15,
@@ -368,7 +368,7 @@
       "playerName": "Foster Griffin",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "3.31"
+      "value": "3.29"
     },
     {
       "rank": 17,
@@ -678,6 +678,14 @@
     },
     {
       "rank": 25,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "133"
+    },
+    {
+      "rank": 26,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -685,7 +693,7 @@
       "value": "132"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -693,7 +701,7 @@
       "value": "132"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 112,
@@ -701,19 +709,11 @@
       "value": "131"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "130"
-    },
-    {
-      "rank": 29,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": "130"
     },
     {
