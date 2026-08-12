@@ -48,23 +48,23 @@
     },
     {
       "gameId": 824967,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-12T19:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 2,
+        "score": 4,
         "wins": 47,
-        "losses": 73
+        "losses": 74
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 7,
-        "wins": 73,
+        "score": 8,
+        "wins": 74,
         "losses": 46
       },
       "koreanPlayerTeams": []
@@ -78,7 +78,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
+        "score": 2,
         "wins": 64,
         "losses": 57
       },
@@ -109,7 +109,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 2,
         "wins": 61,
         "losses": 60
       },
@@ -126,7 +126,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 64,
         "losses": 57
       },
