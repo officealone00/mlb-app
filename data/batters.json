@@ -6,7 +6,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".323"
+      "value": ".322"
     },
     {
       "rank": 2,
@@ -38,7 +38,7 @@
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": ".306"
+      "value": ".305"
     },
     {
       "rank": 6,
@@ -70,10 +70,18 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".301"
+      "value": ".300"
     },
     {
       "rank": 10,
+      "playerId": 673962,
+      "playerName": "Josh Jung",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": ".294"
+    },
+    {
+      "rank": 11,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -81,20 +89,12 @@
       "value": ".294"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".294"
-    },
-    {
-      "rank": 12,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".294"
+      "value": ".293"
     },
     {
       "rank": 13,
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".284"
-    },
-    {
-      "rank": 24,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -193,7 +185,23 @@
       "value": ".283"
     },
     {
+      "rank": 24,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".283"
+    },
+    {
       "rank": 25,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".283"
+    },
+    {
+      "rank": 26,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 147,
@@ -201,19 +209,11 @@
       "value": ".282"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": ".281"
-    },
-    {
-      "rank": 27,
-      "playerId": 800050,
-      "playerName": "Chase DeLauter",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": ".281"
     },
     {
@@ -796,7 +796,7 @@
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "26"
+      "value": "27"
     },
     {
       "rank": 10,
