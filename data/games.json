@@ -171,7 +171,7 @@
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": null,
-        "wins": 46,
+        "wins": 47,
         "losses": 74
       },
       "away": {
@@ -180,7 +180,7 @@
         "kr": "텍사스",
         "score": null,
         "wins": 60,
-        "losses": 60
+        "losses": 61
       },
       "koreanPlayerTeams": []
     },
@@ -543,15 +543,15 @@
     },
     {
       "gameId": 823994,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-13T02:10:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": 5,
-        "wins": 46,
+        "wins": 47,
         "losses": 74
       },
       "away": {
@@ -560,7 +560,7 @@
         "kr": "텍사스",
         "score": 2,
         "wins": 60,
-        "losses": 60
+        "losses": 61
       },
       "koreanPlayerTeams": []
     }
