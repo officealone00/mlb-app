@@ -94,8 +94,8 @@
     },
     {
       "gameId": 822776,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-13T19:07:00Z",
       "home": {
         "teamId": 141,
@@ -103,14 +103,14 @@
         "kr": "토론토",
         "score": 0,
         "wins": 59,
-        "losses": 63
+        "losses": 64
       },
       "away": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 1,
-        "wins": 64,
+        "score": 7,
+        "wins": 65,
         "losses": 56
       },
       "koreanPlayerTeams": []
@@ -124,7 +124,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 6,
         "wins": 59,
         "losses": 63
       },
