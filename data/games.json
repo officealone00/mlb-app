@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824238,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-13T17:10:00Z",
       "home": {
         "teamId": 116,
@@ -24,9 +24,32 @@
       "koreanPlayerTeams": []
     },
     {
+      "gameId": 824561,
+      "status": "Warmup",
+      "statusCode": "PW",
+      "startTime": "2026-08-13T17:10:00Z",
+      "home": {
+        "teamId": 145,
+        "abbr": "CWS",
+        "kr": "시카고 화이트삭스",
+        "score": 0,
+        "wins": 62,
+        "losses": 57
+      },
+      "away": {
+        "teamId": 113,
+        "abbr": "CIN",
+        "kr": "신시내티",
+        "score": 0,
+        "wins": 57,
+        "losses": 62
+      },
+      "koreanPlayerTeams": []
+    },
+    {
       "gameId": 823829,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-13T17:10:00Z",
       "home": {
         "teamId": 146,
@@ -55,7 +78,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 52
       },
@@ -63,45 +86,22 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 65
       },
       "koreanPlayerTeams": []
     },
     {
-      "gameId": 824561,
+      "gameId": 822776,
       "status": "Pre-Game",
       "statusCode": "P",
-      "startTime": "2026-08-13T18:10:00Z",
-      "home": {
-        "teamId": 145,
-        "abbr": "CWS",
-        "kr": "시카고 화이트삭스",
-        "score": 0,
-        "wins": 62,
-        "losses": 57
-      },
-      "away": {
-        "teamId": 113,
-        "abbr": "CIN",
-        "kr": "신시내티",
-        "score": 0,
-        "wins": 57,
-        "losses": 62
-      },
-      "koreanPlayerTeams": []
-    },
-    {
-      "gameId": 822776,
-      "status": "Scheduled",
-      "statusCode": "S",
       "startTime": "2026-08-13T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 59,
         "losses": 63
       },
@@ -109,7 +109,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 56
       },
