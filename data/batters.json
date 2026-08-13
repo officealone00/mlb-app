@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".313"
+      "value": ".315"
     },
     {
       "rank": 3,
@@ -244,6 +244,14 @@
   "hr": [
     {
       "rank": 1,
+      "playerId": 656941,
+      "playerName": "Kyle Schwarber",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "36"
+    },
+    {
+      "rank": 2,
       "playerId": 670541,
       "playerName": "Yordan Alvarez",
       "teamId": 117,
@@ -251,7 +259,7 @@
       "value": "35"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -259,19 +267,11 @@
       "value": "35"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "35"
-    },
-    {
-      "rank": 4,
-      "playerId": 656941,
-      "playerName": "Kyle Schwarber",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "35"
     },
     {
@@ -678,6 +678,14 @@
     },
     {
       "rank": 25,
+      "playerId": 656941,
+      "playerName": "Kyle Schwarber",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "70"
+    },
+    {
+      "rank": 26,
       "playerId": 673548,
       "playerName": "Seiya Suzuki",
       "teamId": 112,
@@ -685,7 +693,7 @@
       "value": "70"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -693,7 +701,7 @@
       "value": "69"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 696100,
       "playerName": "Hunter Goodman",
       "teamId": 115,
@@ -701,7 +709,7 @@
       "value": "69"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 701762,
       "playerName": "Nick Kurtz",
       "teamId": 133,
@@ -709,19 +717,11 @@
       "value": "69"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 656811,
       "playerName": "Ryan O'Hearn",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "69"
-    },
-    {
-      "rank": 30,
-      "playerId": 656941,
-      "playerName": "Kyle Schwarber",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "69"
     }
   ],
