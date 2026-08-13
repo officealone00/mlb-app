@@ -117,15 +117,15 @@
     },
     {
       "gameId": 822696,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-13T20:05:00Z",
       "home": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 6,
-        "wins": 59,
+        "score": 7,
+        "wins": 60,
         "losses": 63
       },
       "away": {
@@ -134,7 +134,7 @@
         "kr": "시카고 컵스",
         "score": 0,
         "wins": 71,
-        "losses": 50
+        "losses": 51
       },
       "koreanPlayerTeams": []
     },
@@ -186,8 +186,8 @@
     },
     {
       "gameId": 823915,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-14T02:10:00Z",
       "home": {
         "teamId": 119,

@@ -162,14 +162,6 @@
     },
     {
       "rank": 21,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": ".284"
-    },
-    {
-      "rank": 22,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -177,11 +169,19 @@
       "value": ".284"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
+      "value": ".284"
+    },
+    {
+      "rank": 23,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
       "value": ".284"
     },
     {
@@ -198,7 +198,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": ".282"
+      "value": ".281"
     },
     {
       "rank": 26,
