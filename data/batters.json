@@ -114,6 +114,14 @@
     },
     {
       "rank": 15,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".288"
+    },
+    {
+      "rank": 16,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -121,15 +129,15 @@
       "value": ".287"
     },
     {
-      "rank": 16,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "rank": 17,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".286"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -137,7 +145,7 @@
       "value": ".285"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -145,7 +153,7 @@
       "value": ".285"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -153,7 +161,7 @@
       "value": ".285"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -161,7 +169,7 @@
       "value": ".284"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -169,20 +177,12 @@
       "value": ".284"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": ".284"
-    },
-    {
-      "rank": 23,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".284"
+      "value": ".283"
     },
     {
       "rank": 24,
@@ -190,18 +190,10 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": ".284"
+      "value": ".283"
     },
     {
       "rank": 25,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": ".282"
-    },
-    {
-      "rank": 26,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -209,12 +201,20 @@
       "value": ".282"
     },
     {
+      "rank": 26,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": ".281"
+    },
+    {
       "rank": 27,
-      "playerId": 676391,
-      "playerName": "Ernie Clement",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": ".282"
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".281"
     },
     {
       "rank": 28,
@@ -226,16 +226,16 @@
     },
     {
       "rank": 29,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 676391,
+      "playerName": "Ernie Clement",
+      "teamId": 141,
+      "teamAbbr": "TOR",
       "value": ".280"
     },
     {
       "rank": 30,
-      "playerId": 805367,
-      "playerName": "Chase Meidroth",
+      "playerId": 803011,
+      "playerName": "Sam Antonacci",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": ".280"
@@ -642,7 +642,7 @@
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "71"
+      "value": "72"
     },
     {
       "rank": 21,
@@ -768,19 +768,19 @@
     },
     {
       "rank": 6,
+      "playerId": 676609,
+      "playerName": "José Caballero",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "29"
+    },
+    {
+      "rank": 7,
       "playerId": 608070,
       "playerName": "José Ramírez",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "29"
-    },
-    {
-      "rank": 7,
-      "playerId": 676609,
-      "playerName": "José Caballero",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "28"
     },
     {
       "rank": 8,
