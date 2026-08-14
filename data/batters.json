@@ -130,18 +130,18 @@
     },
     {
       "rank": 17,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".285"
-    },
-    {
-      "rank": 18,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": ".285"
+    },
+    {
+      "rank": 18,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".285"
     },
     {
@@ -182,7 +182,7 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".283"
+      "value": ".282"
     },
     {
       "rank": 24,
@@ -226,19 +226,19 @@
     },
     {
       "rank": 29,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".280"
-    },
-    {
-      "rank": 30,
       "playerId": 803011,
       "playerName": "Sam Antonacci",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": ".280"
+    },
+    {
+      "rank": 30,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": ".279"
     }
   ],
   "hr": [

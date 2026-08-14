@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 824643,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-14T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": 3,
-        "wins": 71,
+        "wins": 72,
         "losses": 51
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "세인트루이스",
         "score": 0,
         "wins": 61,
-        "losses": 60
+        "losses": 61
       },
       "koreanPlayerTeams": []
     },
@@ -220,7 +220,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 60
       },
@@ -228,7 +228,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 57,
         "losses": 65
       },
@@ -236,8 +236,8 @@
     },
     {
       "gameId": 823993,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-15T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -307,8 +307,8 @@
     },
     {
       "gameId": 823185,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-15T02:15:00Z",
       "home": {
         "teamId": 137,
