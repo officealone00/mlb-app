@@ -291,14 +291,14 @@
         "kr": "LA 다저스",
         "score": null,
         "wins": 73,
-        "losses": 48
+        "losses": 49
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
         "score": null,
-        "wins": 74,
+        "wins": 75,
         "losses": 47
       },
       "koreanPlayerTeams": [
@@ -495,8 +495,8 @@
     },
     {
       "gameId": 823995,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-14T02:07:00Z",
       "home": {
         "teamId": 108,
@@ -518,8 +518,8 @@
     },
     {
       "gameId": 823915,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-14T02:10:00Z",
       "home": {
         "teamId": 119,
@@ -527,14 +527,14 @@
         "kr": "LA 다저스",
         "score": 4,
         "wins": 73,
-        "losses": 48
+        "losses": 49
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
         "score": 5,
-        "wins": 74,
+        "wins": 75,
         "losses": 47
       },
       "koreanPlayerTeams": [
