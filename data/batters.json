@@ -14,7 +14,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".315"
+      "value": ".316"
     },
     {
       "rank": 3,
@@ -42,18 +42,18 @@
     },
     {
       "rank": 6,
-      "playerId": 518692,
-      "playerName": "Freddie Freeman",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".306"
-    },
-    {
-      "rank": 7,
       "playerId": 672515,
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
+      "value": ".305"
+    },
+    {
+      "rank": 7,
+      "playerId": 518692,
+      "playerName": "Freddie Freeman",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".305"
     },
     {
@@ -82,6 +82,14 @@
     },
     {
       "rank": 11,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": ".294"
+    },
+    {
+      "rank": 12,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -89,20 +97,12 @@
       "value": ".294"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": ".293"
-    },
-    {
-      "rank": 13,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".292"
     },
     {
       "rank": 14,
@@ -248,7 +248,7 @@
       "playerName": "Kyle Schwarber",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "36"
+      "value": "37"
     },
     {
       "rank": 2,
@@ -650,10 +650,18 @@
       "playerName": "Bryce Harper",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "71"
+      "value": "72"
     },
     {
       "rank": 22,
+      "playerId": 656941,
+      "playerName": "Kyle Schwarber",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "72"
+    },
+    {
+      "rank": 23,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -661,7 +669,7 @@
       "value": "71"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -669,19 +677,11 @@
       "value": "71"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 592518,
       "playerName": "Manny Machado",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "70"
-    },
-    {
-      "rank": 25,
-      "playerId": 656941,
-      "playerName": "Kyle Schwarber",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "70"
     },
     {
