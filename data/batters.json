@@ -54,7 +54,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".305"
+      "value": ".304"
     },
     {
       "rank": 8,
@@ -82,14 +82,6 @@
     },
     {
       "rank": 11,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".294"
-    },
-    {
-      "rank": 12,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -97,12 +89,20 @@
       "value": ".294"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": ".293"
+    },
+    {
+      "rank": 13,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": ".292"
     },
     {
       "rank": 14,
@@ -444,19 +444,19 @@
     },
     {
       "rank": 26,
+      "playerId": 571970,
+      "playerName": "Max Muncy",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "23"
+    },
+    {
+      "rank": 27,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "23"
-    },
-    {
-      "rank": 27,
-      "playerId": 571970,
-      "playerName": "Max Muncy",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": "22"
     },
     {
       "rank": 28,

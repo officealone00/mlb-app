@@ -244,7 +244,7 @@
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": null,
-        "wins": 47,
+        "wins": 48,
         "losses": 74
       },
       "away": {
@@ -276,7 +276,7 @@
         "kr": "텍사스",
         "score": null,
         "wins": 60,
-        "losses": 61
+        "losses": 62
       },
       "koreanPlayerTeams": []
     },
@@ -472,8 +472,8 @@
     },
     {
       "gameId": 823669,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-13T23:30:00Z",
       "home": {
         "teamId": 142,
@@ -495,15 +495,15 @@
     },
     {
       "gameId": 823995,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-14T02:07:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
-        "wins": 47,
+        "score": 7,
+        "wins": 48,
         "losses": 74
       },
       "away": {
@@ -512,7 +512,7 @@
         "kr": "텍사스",
         "score": 0,
         "wins": 60,
-        "losses": 61
+        "losses": 62
       },
       "koreanPlayerTeams": []
     },
@@ -525,7 +525,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 0,
+        "score": 4,
         "wins": 73,
         "losses": 48
       },
@@ -533,7 +533,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
+        "score": 5,
         "wins": 74,
         "losses": 47
       },
