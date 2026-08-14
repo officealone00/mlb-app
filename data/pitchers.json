@@ -284,19 +284,19 @@
     },
     {
       "rank": 6,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "2.59"
+    },
+    {
+      "rank": 7,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "2.59"
-    },
-    {
-      "rank": 7,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "2.61"
     },
     {
       "rank": 8,
@@ -448,7 +448,7 @@
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "3.52"
+      "value": "3.50"
     },
     {
       "rank": 27,
@@ -626,7 +626,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "143"
+      "value": "144"
     },
     {
       "rank": 19,
@@ -1114,19 +1114,19 @@
     },
     {
       "rank": 19,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "1.12"
-    },
-    {
-      "rank": 20,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "1.12"
+    },
+    {
+      "rank": 20,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "1.13"
     },
     {
       "rank": 21,
