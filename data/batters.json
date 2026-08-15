@@ -22,23 +22,23 @@
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".312"
+      "value": ".310"
     },
     {
       "rank": 4,
+      "playerId": 802415,
+      "playerName": "Chandler Simpson",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".310"
+    },
+    {
+      "rank": 5,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": ".307"
-    },
-    {
-      "rank": 5,
-      "playerId": 802415,
-      "playerName": "Chandler Simpson",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".306"
     },
     {
       "rank": 6,
@@ -62,7 +62,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".301"
+      "value": ".300"
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".292"
+      "value": ".291"
     },
     {
       "rank": 13,
@@ -126,10 +126,18 @@
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".285"
+      "value": ".287"
     },
     {
       "rank": 17,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".286"
+    },
+    {
+      "rank": 18,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -137,20 +145,12 @@
       "value": ".285"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": ".285"
-    },
-    {
-      "rank": 19,
-      "playerId": 800050,
-      "playerName": "Chase DeLauter",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": ".284"
     },
     {
       "rank": 20,
@@ -182,7 +182,7 @@
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".282"
+      "value": ".283"
     },
     {
       "rank": 24,
@@ -234,10 +234,10 @@
     },
     {
       "rank": 30,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".278"
     }
   ],
