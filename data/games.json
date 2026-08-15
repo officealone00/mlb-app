@@ -318,14 +318,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 48,
-        "losses": 74
+        "losses": 75
       },
       "away": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
         "score": null,
-        "wins": 49,
+        "wins": 50,
         "losses": 73
       },
       "koreanPlayerTeams": []
@@ -568,8 +568,8 @@
     },
     {
       "gameId": 824159,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T00:10:00Z",
       "home": {
         "teamId": 117,
@@ -591,8 +591,8 @@
     },
     {
       "gameId": 823993,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -600,14 +600,14 @@
         "kr": "LA 에인절스",
         "score": 6,
         "wins": 48,
-        "losses": 74
+        "losses": 75
       },
       "away": {
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
         "score": 7,
-        "wins": 49,
+        "wins": 50,
         "losses": 73
       },
       "koreanPlayerTeams": []
@@ -621,7 +621,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 4,
+        "score": 8,
         "wins": 47,
         "losses": 74
       },
@@ -644,7 +644,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 2,
+        "score": 3,
         "wins": 73,
         "losses": 49
       },
@@ -677,7 +677,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 4,
+        "score": 5,
         "wins": 48,
         "losses": 73
       },
