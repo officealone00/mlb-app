@@ -130,14 +130,6 @@
     },
     {
       "rank": 17,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".285"
-    },
-    {
-      "rank": 18,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -145,15 +137,15 @@
       "value": ".285"
     },
     {
-      "rank": 19,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
+      "rank": 18,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".284"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -161,11 +153,19 @@
       "value": ".284"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".284"
+    },
+    {
+      "rank": 21,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".284"
     },
     {
@@ -190,18 +190,10 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".282"
-    },
-    {
-      "rank": 25,
-      "playerId": 805367,
-      "playerName": "Chase Meidroth",
-      "teamId": 145,
-      "teamAbbr": "CWS",
       "value": ".281"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -209,7 +201,7 @@
       "value": ".281"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
@@ -217,11 +209,19 @@
       "value": ".280"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": ".280"
+    },
+    {
+      "rank": 28,
+      "playerId": 805367,
+      "playerName": "Chase Meidroth",
+      "teamId": 145,
+      "teamAbbr": "CWS",
       "value": ".280"
     },
     {
@@ -234,10 +234,10 @@
     },
     {
       "rank": 30,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": ".278"
     }
   ],
