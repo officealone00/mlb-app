@@ -25,23 +25,23 @@
     },
     {
       "gameId": 824644,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 3,
+        "score": 4,
         "wins": 72,
-        "losses": 51
+        "losses": 52
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 7,
-        "wins": 61,
+        "score": 8,
+        "wins": 62,
         "losses": 61
       },
       "koreanPlayerTeams": []
@@ -55,7 +55,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 1,
+        "score": 2,
         "wins": 60,
         "losses": 64
       },
@@ -78,7 +78,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 7,
         "wins": 50,
         "losses": 72
       },
@@ -86,7 +86,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 0,
+        "score": 1,
         "wins": 49,
         "losses": 73
       },
@@ -103,7 +103,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 2,
         "wins": 54,
         "losses": 69
       },
@@ -111,7 +111,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 1,
         "wins": 60,
         "losses": 64
       },
@@ -291,7 +291,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 49
       },
@@ -299,7 +299,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 75,
         "losses": 48
       },
