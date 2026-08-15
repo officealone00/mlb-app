@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824239,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-15T17:10:00Z",
       "home": {
         "teamId": 116,
@@ -17,7 +17,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 1,
         "wins": 63,
         "losses": 58
       },
@@ -71,14 +71,14 @@
     },
     {
       "gameId": 823184,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-15T20:05:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 72
       },
@@ -86,7 +86,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 73
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823588,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-15T20:10:00Z",
       "home": {
         "teamId": 121,
