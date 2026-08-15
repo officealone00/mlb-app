@@ -304,7 +304,7 @@
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "2.65"
+      "value": "2.59"
     },
     {
       "rank": 9,
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 808967,
+      "playerName": "Yoshinobu Yamamoto",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "133"
+    },
+    {
+      "rank": 29,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -709,20 +717,12 @@
       "value": "132"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "132"
-    },
-    {
-      "rank": 30,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "130"
     }
   ],
   "sv": [
@@ -780,7 +780,7 @@
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "26"
+      "value": "27"
     },
     {
       "rank": 8,
