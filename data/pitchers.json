@@ -456,7 +456,7 @@
       "playerName": "Logan Webb",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "3.55"
+      "value": "3.50"
     },
     {
       "rank": 28,
@@ -472,7 +472,7 @@
       "playerName": "Kyle Bradish",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "3.69"
+      "value": "3.66"
     },
     {
       "rank": 30,
@@ -760,6 +760,14 @@
     },
     {
       "rank": 5,
+      "playerId": 686973,
+      "playerName": "Louis Varland",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "28"
+    },
+    {
+      "rank": 6,
       "playerId": 670280,
       "playerName": "David Bednar",
       "teamId": 147,
@@ -767,19 +775,11 @@
       "value": "27"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "playerId": 547973,
       "playerName": "Aroldis Chapman",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "27"
-    },
-    {
-      "rank": 7,
-      "playerId": 686973,
-      "playerName": "Louis Varland",
-      "teamId": 141,
-      "teamAbbr": "TOR",
       "value": "27"
     },
     {
@@ -1034,19 +1034,19 @@
     },
     {
       "rank": 9,
+      "playerId": 657277,
+      "playerName": "Logan Webb",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": "1.06"
+    },
+    {
+      "rank": 10,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "1.07"
-    },
-    {
-      "rank": 10,
-      "playerId": 657277,
-      "playerName": "Logan Webb",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": "1.08"
     },
     {
       "rank": 11,

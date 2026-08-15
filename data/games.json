@@ -48,15 +48,15 @@
     },
     {
       "gameId": 822775,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 2,
-        "wins": 60,
+        "score": 4,
+        "wins": 61,
         "losses": 64
       },
       "away": {
@@ -65,7 +65,7 @@
         "kr": "뉴욕 양키스",
         "score": 1,
         "wins": 68,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": []
     },
@@ -103,7 +103,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 2,
+        "score": 3,
         "wins": 54,
         "losses": 69
       },
@@ -111,7 +111,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 1,
+        "score": 4,
         "wins": 60,
         "losses": 64
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 822941,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-15T22:10:00Z",
       "home": {
         "teamId": 139,
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824480,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-15T22:40:00Z",
       "home": {
         "teamId": 113,
@@ -309,14 +309,14 @@
     },
     {
       "gameId": 823990,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 75
       },
@@ -324,7 +324,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 73
       },
@@ -332,8 +332,8 @@
     },
     {
       "gameId": 824966,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T01:40:00Z",
       "home": {
         "teamId": 133,
