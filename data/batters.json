@@ -122,14 +122,6 @@
     },
     {
       "rank": 16,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".285"
-    },
-    {
-      "rank": 17,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -137,20 +129,28 @@
       "value": ".285"
     },
     {
-      "rank": 18,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
+      "rank": 17,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".285"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".285"
+    },
+    {
+      "rank": 19,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".284"
     },
     {
       "rank": 20,
@@ -178,14 +178,6 @@
     },
     {
       "rank": 23,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".282"
-    },
-    {
-      "rank": 24,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -193,20 +185,28 @@
       "value": ".282"
     },
     {
+      "rank": 24,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".282"
+    },
+    {
       "rank": 25,
+      "playerId": 805367,
+      "playerName": "Chase Meidroth",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": ".281"
+    },
+    {
+      "rank": 26,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
       "value": ".281"
-    },
-    {
-      "rank": 26,
-      "playerId": 805367,
-      "playerName": "Chase Meidroth",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": ".280"
     },
     {
       "rank": 27,
@@ -230,7 +230,7 @@
       "playerName": "Sam Antonacci",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": ".280"
+      "value": ".278"
     },
     {
       "rank": 30,
@@ -238,7 +238,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": ".279"
+      "value": ".278"
     }
   ],
   "hr": [
@@ -514,7 +514,7 @@
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "84"
+      "value": "85"
     },
     {
       "rank": 5,
@@ -710,19 +710,19 @@
     },
     {
       "rank": 29,
+      "playerId": 695657,
+      "playerName": "Colson Montgomery",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "70"
+    },
+    {
+      "rank": 30,
       "playerId": 572233,
       "playerName": "Christian Walker",
       "teamId": 117,
       "teamAbbr": "HOU",
       "value": "70"
-    },
-    {
-      "rank": 30,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "69"
     }
   ],
   "sb": [
