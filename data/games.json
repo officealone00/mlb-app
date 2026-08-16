@@ -270,14 +270,14 @@
         "kr": "애슬레틱스",
         "score": null,
         "wins": 48,
-        "losses": 74
+        "losses": 75
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
         "score": null,
-        "wins": 60,
+        "wins": 61,
         "losses": 63
       },
       "koreanPlayerTeams": []
@@ -292,7 +292,7 @@
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": null,
-        "wins": 48,
+        "wins": 49,
         "losses": 75
       },
       "away": {
@@ -301,7 +301,7 @@
         "kr": "캔자스시티",
         "score": null,
         "wins": 50,
-        "losses": 73
+        "losses": 74
       },
       "koreanPlayerTeams": []
     },
@@ -664,15 +664,15 @@
     },
     {
       "gameId": 823990,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-16T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
-        "wins": 48,
+        "score": 1,
+        "wins": 49,
         "losses": 75
       },
       "away": {
@@ -681,14 +681,14 @@
         "kr": "캔자스시티",
         "score": 0,
         "wins": 50,
-        "losses": 73
+        "losses": 74
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824966,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-16T01:40:00Z",
       "home": {
         "teamId": 133,
@@ -696,14 +696,14 @@
         "kr": "애슬레틱스",
         "score": 3,
         "wins": 48,
-        "losses": 74
+        "losses": 75
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 1,
-        "wins": 60,
+        "score": 5,
+        "wins": 61,
         "losses": 63
       },
       "koreanPlayerTeams": []
