@@ -9,7 +9,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 1,
         "wins": 74,
         "losses": 48
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823344,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-16T17:35:00Z",
       "home": {
         "teamId": 134,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824880,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-16T17:35:00Z",
       "home": {
         "teamId": 144,
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 822774,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-16T17:37:00Z",
       "home": {
         "teamId": 141,
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 823590,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-16T17:40:00Z",
       "home": {
         "teamId": 121,
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 824397,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Delayed Start",
+      "statusCode": "PR",
       "startTime": "2026-08-16T17:40:00Z",
       "home": {
         "teamId": 114,
@@ -167,8 +167,8 @@
     },
     {
       "gameId": 824477,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-16T17:40:00Z",
       "home": {
         "teamId": 113,
@@ -213,14 +213,14 @@
     },
     {
       "gameId": 824642,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T19:15:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 72,
         "losses": 52
       },
@@ -228,7 +228,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 61
       },
@@ -243,7 +243,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 72
       },
@@ -251,7 +251,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 74
       },
@@ -261,14 +261,14 @@
     },
     {
       "gameId": 824965,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T20:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 48,
         "losses": 75
       },
@@ -276,7 +276,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 63
       },
@@ -284,8 +284,8 @@
     },
     {
       "gameId": 823991,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T20:07:00Z",
       "home": {
         "teamId": 108,
@@ -307,14 +307,14 @@
     },
     {
       "gameId": 823912,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T20:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 50
       },
@@ -322,7 +322,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 48
       },
