@@ -272,7 +272,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "2.39"
+      "value": "2.35"
     },
     {
       "rank": 5,
@@ -340,19 +340,19 @@
     },
     {
       "rank": 13,
+      "playerId": 680732,
+      "playerName": "Sean Burke",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "3.15"
+    },
+    {
+      "rank": 14,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "3.16"
-    },
-    {
-      "rank": 14,
-      "playerId": 680732,
-      "playerName": "Sean Burke",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "3.18"
     },
     {
       "rank": 15,
@@ -498,7 +498,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "197"
+      "value": "201"
     },
     {
       "rank": 3,
@@ -574,19 +574,19 @@
     },
     {
       "rank": 12,
+      "playerId": 680732,
+      "playerName": "Sean Burke",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "154"
+    },
+    {
+      "rank": 13,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "154"
-    },
-    {
-      "rank": 13,
-      "playerId": 680732,
-      "playerName": "Sean Burke",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "153"
     },
     {
       "rank": 14,
@@ -710,19 +710,19 @@
     },
     {
       "rank": 29,
+      "playerId": 691587,
+      "playerName": "Eury Pérez",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "133"
+    },
+    {
+      "rank": 30,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "133"
-    },
-    {
-      "rank": 30,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "132"
     }
   ],
   "sv": [
@@ -1114,18 +1114,18 @@
     },
     {
       "rank": 19,
-      "playerId": 676106,
-      "playerName": "Emerson Hancock",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "1.11"
-    },
-    {
-      "rank": 20,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
+      "value": "1.11"
+    },
+    {
+      "rank": 20,
+      "playerId": 676106,
+      "playerName": "Emerson Hancock",
+      "teamId": 136,
+      "teamAbbr": "SEA",
       "value": "1.11"
     },
     {
@@ -1202,10 +1202,10 @@
     },
     {
       "rank": 30,
-      "playerId": 677960,
-      "playerName": "Ryan Weathers",
-      "teamId": 147,
-      "teamAbbr": "NYY",
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
       "value": "1.19"
     }
   ]

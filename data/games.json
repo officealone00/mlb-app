@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822940,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-16T16:15:00Z",
       "home": {
         "teamId": 139,
@@ -11,14 +11,14 @@
         "kr": "탬파베이",
         "score": 2,
         "wins": 74,
-        "losses": 48
+        "losses": 49
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": 10,
-        "wins": 60,
+        "wins": 61,
         "losses": 63
       },
       "koreanPlayerTeams": []
@@ -32,7 +32,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 6,
+        "score": 7,
         "wins": 60,
         "losses": 65
       },
@@ -40,7 +40,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 0,
+        "score": 3,
         "wins": 66,
         "losses": 57
       },
@@ -55,7 +55,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 1,
+        "score": 2,
         "wins": 73,
         "losses": 50
       },
@@ -63,7 +63,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 1,
+        "score": 2,
         "wins": 66,
         "losses": 58
       },
@@ -80,7 +80,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 1,
         "wins": 61,
         "losses": 64
       },
@@ -103,7 +103,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 4,
         "wins": 55,
         "losses": 69
       },
@@ -111,7 +111,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 2,
+        "score": 3,
         "wins": 60,
         "losses": 65
       },
@@ -159,7 +159,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 1,
+        "score": 4,
         "wins": 64,
         "losses": 58
       },
@@ -197,7 +197,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 4,
+        "score": 5,
         "wins": 60,
         "losses": 64
       },
@@ -213,8 +213,8 @@
     },
     {
       "gameId": 824642,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-16T19:15:00Z",
       "home": {
         "teamId": 112,
@@ -228,7 +228,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 2,
         "wins": 62,
         "losses": 61
       },
