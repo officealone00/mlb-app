@@ -62,7 +62,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".300"
+      "value": ".299"
     },
     {
       "rank": 9,
@@ -82,19 +82,19 @@
     },
     {
       "rank": 11,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".292"
-    },
-    {
-      "rank": 12,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".291"
+    },
+    {
+      "rank": 12,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".290"
     },
     {
       "rank": 13,
@@ -110,7 +110,7 @@
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".289"
+      "value": ".288"
     },
     {
       "rank": 15,
@@ -154,6 +154,14 @@
     },
     {
       "rank": 20,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".284"
+    },
+    {
+      "rank": 21,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -161,19 +169,11 @@
       "value": ".284"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": ".283"
-    },
-    {
-      "rank": 22,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": ".282"
     },
     {
@@ -198,7 +198,7 @@
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": ".280"
+      "value": ".279"
     },
     {
       "rank": 26,
@@ -522,7 +522,7 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "86"
+      "value": "88"
     },
     {
       "rank": 6,
@@ -718,10 +718,10 @@
     },
     {
       "rank": 30,
-      "playerId": 592518,
-      "playerName": "Manny Machado",
-      "teamId": 135,
-      "teamAbbr": "SD",
+      "playerId": 641343,
+      "playerName": "Jake Bauers",
+      "teamId": 158,
+      "teamAbbr": "MIL",
       "value": "70"
     }
   ],
