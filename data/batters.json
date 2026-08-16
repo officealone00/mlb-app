@@ -114,18 +114,18 @@
     },
     {
       "rank": 15,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".288"
-    },
-    {
-      "rank": 16,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".287"
+    },
+    {
+      "rank": 16,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".287"
     },
     {
@@ -146,14 +146,6 @@
     },
     {
       "rank": 19,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".284"
-    },
-    {
-      "rank": 20,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -161,11 +153,19 @@
       "value": ".284"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".284"
+    },
+    {
+      "rank": 21,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": ".284"
     },
     {
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 572233,
+      "playerName": "Christian Walker",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "71"
+    },
+    {
+      "rank": 29,
       "playerId": 592518,
       "playerName": "Manny Machado",
       "teamId": 135,
@@ -709,19 +717,11 @@
       "value": "70"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "70"
-    },
-    {
-      "rank": 30,
-      "playerId": 572233,
-      "playerName": "Christian Walker",
-      "teamId": 117,
-      "teamAbbr": "HOU",
       "value": "70"
     }
   ],

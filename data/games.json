@@ -34,14 +34,14 @@
         "kr": "피츠버그",
         "score": null,
         "wins": 60,
-        "losses": 64
+        "losses": 65
       },
       "away": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
         "score": null,
-        "wins": 65,
+        "wins": 66,
         "losses": 57
       },
       "koreanPlayerTeams": []
@@ -57,14 +57,14 @@
         "kr": "애틀랜타",
         "score": null,
         "wins": 73,
-        "losses": 49
+        "losses": 50
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 65,
+        "wins": 66,
         "losses": 58
       },
       "koreanPlayerTeams": [
@@ -199,14 +199,14 @@
         "kr": "미네소타",
         "score": null,
         "wins": 60,
-        "losses": 63
+        "losses": 64
       },
       "away": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
         "score": null,
-        "wins": 65,
+        "wins": 66,
         "losses": 58
       },
       "koreanPlayerTeams": []
@@ -341,14 +341,14 @@
         "kr": "휴스턴",
         "score": null,
         "wins": 63,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
         "score": null,
-        "wins": 57,
+        "wins": 58,
         "losses": 66
       },
       "koreanPlayerTeams": []
@@ -545,31 +545,31 @@
     },
     {
       "gameId": 824157,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T23:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 4,
+        "score": 5,
         "wins": 63,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
         "score": 10,
-        "wins": 57,
+        "wins": 58,
         "losses": 66
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823671,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T23:10:00Z",
       "home": {
         "teamId": 142,
@@ -577,22 +577,22 @@
         "kr": "미네소타",
         "score": 1,
         "wins": 60,
-        "losses": 63
+        "losses": 64
       },
       "away": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 8,
-        "wins": 65,
+        "score": 9,
+        "wins": 66,
         "losses": 58
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823347,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T23:15:00Z",
       "home": {
         "teamId": 134,
@@ -600,37 +600,37 @@
         "kr": "피츠버그",
         "score": 0,
         "wins": 60,
-        "losses": 64
+        "losses": 65
       },
       "away": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 3,
-        "wins": 65,
+        "score": 4,
+        "wins": 66,
         "losses": 57
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824884,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-15T23:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 2,
+        "score": 3,
         "wins": 73,
-        "losses": 49
+        "losses": 50
       },
       "away": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 7,
-        "wins": 65,
+        "score": 10,
+        "wins": 66,
         "losses": 58
       },
       "koreanPlayerTeams": [
@@ -694,7 +694,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 0,
+        "score": 3,
         "wins": 48,
         "losses": 74
       },
@@ -702,7 +702,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 0,
+        "score": 1,
         "wins": 60,
         "losses": 63
       },
