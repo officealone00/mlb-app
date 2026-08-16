@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 822940,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-16T16:15:00Z",
       "home": {
         "teamId": 139,
@@ -32,7 +32,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 60,
         "losses": 65
       },
@@ -40,7 +40,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 57
       },
@@ -197,7 +197,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 60,
         "losses": 64
       },
@@ -205,7 +205,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 58
       },
@@ -236,8 +236,8 @@
     },
     {
       "gameId": 823182,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-16T20:05:00Z",
       "home": {
         "teamId": 137,
