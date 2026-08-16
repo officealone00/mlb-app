@@ -62,7 +62,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".299"
+      "value": ".298"
     },
     {
       "rank": 9,
@@ -70,7 +70,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".294"
+      "value": ".296"
     },
     {
       "rank": 10,
@@ -82,6 +82,14 @@
     },
     {
       "rank": 11,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".292"
+    },
+    {
+      "rank": 12,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -89,20 +97,12 @@
       "value": ".291"
     },
     {
-      "rank": 12,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".290"
-    },
-    {
       "rank": 13,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".290"
+      "value": ".289"
     },
     {
       "rank": 14,
@@ -122,18 +122,18 @@
     },
     {
       "rank": 16,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".285"
-    },
-    {
-      "rank": 17,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": ".285"
+    },
+    {
+      "rank": 17,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".285"
     },
     {
@@ -198,7 +198,7 @@
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": ".279"
+      "value": ".280"
     },
     {
       "rank": 26,
@@ -566,6 +566,14 @@
     },
     {
       "rank": 11,
+      "playerId": 681624,
+      "playerName": "Andy Pages",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "78"
+    },
+    {
+      "rank": 12,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -573,19 +581,11 @@
       "value": "78"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 621566,
       "playerName": "Matt Olson",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "77"
-    },
-    {
-      "rank": 13,
-      "playerId": 681624,
-      "playerName": "Andy Pages",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "77"
     },
     {
