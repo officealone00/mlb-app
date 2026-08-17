@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "137"
+    },
+    {
+      "rank": 28,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -701,7 +709,7 @@
       "value": "136"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 669373,
       "playerName": "Tarik Skubal",
       "teamId": 119,
@@ -709,20 +717,12 @@
       "value": "135"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "134"
-    },
-    {
-      "rank": 30,
-      "playerId": 691587,
-      "playerName": "Eury Pérez",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "133"
     }
   ],
   "sv": [
@@ -1066,6 +1066,14 @@
     },
     {
       "rank": 13,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "1.08"
+    },
+    {
+      "rank": 14,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
@@ -1073,7 +1081,7 @@
       "value": "1.09"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1081,7 +1089,7 @@
       "value": "1.09"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1089,19 +1097,11 @@
       "value": "1.10"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "1.10"
-    },
-    {
-      "rank": 17,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "1.10"
     },
     {
