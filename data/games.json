@@ -593,8 +593,8 @@
     },
     {
       "gameId": 824156,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-16T23:20:00Z",
       "home": {
         "teamId": 117,
@@ -602,14 +602,14 @@
         "kr": "휴스턴",
         "score": 2,
         "wins": 63,
-        "losses": 61
+        "losses": 62
       },
       "away": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
         "score": 3,
-        "wins": 58,
+        "wins": 59,
         "losses": 66
       },
       "koreanPlayerTeams": []
