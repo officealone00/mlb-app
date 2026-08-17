@@ -90,6 +90,14 @@
     },
     {
       "rank": 12,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".291"
+    },
+    {
+      "rank": 13,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -97,20 +105,12 @@
       "value": ".291"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": ".289"
-    },
-    {
-      "rank": 14,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".288"
     },
     {
       "rank": 15,
@@ -154,19 +154,19 @@
     },
     {
       "rank": 20,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".284"
-    },
-    {
-      "rank": 21,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".284"
+    },
+    {
+      "rank": 21,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".283"
     },
     {
       "rank": 22,
@@ -486,6 +486,14 @@
   "rbi": [
     {
       "rank": 1,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "92"
+    },
+    {
+      "rank": 2,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
@@ -493,20 +501,12 @@
       "value": "91"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "playerId": 701398,
       "playerName": "Sal Stewart",
       "teamId": 113,
       "teamAbbr": "CIN",
       "value": "91"
-    },
-    {
-      "rank": 3,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": "90"
     },
     {
       "rank": 4,

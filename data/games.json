@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824514,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-17T17:40:00Z",
       "home": {
         "teamId": 113,
@@ -17,7 +17,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 2,
         "wins": 63,
         "losses": 61
       },
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 823589,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-17T23:10:00Z",
       "home": {
         "teamId": 121,
