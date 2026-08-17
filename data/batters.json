@@ -90,18 +90,18 @@
     },
     {
       "rank": 12,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".291"
-    },
-    {
-      "rank": 13,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
+      "value": ".291"
+    },
+    {
+      "rank": 13,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".291"
     },
     {
@@ -146,6 +146,14 @@
     },
     {
       "rank": 19,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".284"
+    },
+    {
+      "rank": 20,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -153,20 +161,12 @@
       "value": ".284"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".284"
-    },
-    {
-      "rank": 21,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".283"
     },
     {
       "rank": 22,
