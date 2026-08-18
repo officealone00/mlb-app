@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824803,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:35:00Z",
       "home": {
         "teamId": 110,
@@ -17,7 +17,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 1,
         "wins": 69,
         "losses": 55
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823341,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:40:00Z",
       "home": {
         "teamId": 134,
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 824398,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:40:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 5,
         "wins": 60,
         "losses": 65
       },
@@ -63,7 +63,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 1,
         "wins": 51,
         "losses": 73
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 824475,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:40:00Z",
       "home": {
         "teamId": 113,
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 822938,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:40:00Z",
       "home": {
         "teamId": 139,
@@ -111,7 +111,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 4,
         "wins": 61,
         "losses": 65
       },
@@ -119,14 +119,14 @@
     },
     {
       "gameId": 823423,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T22:40:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 1,
         "wins": 68,
         "losses": 58
       },
@@ -134,7 +134,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 1,
         "wins": 64,
         "losses": 62
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824723,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T23:10:00Z",
       "home": {
         "teamId": 111,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 823586,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-18T23:10:00Z",
       "home": {
         "teamId": 121,
@@ -180,7 +180,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 67,
         "losses": 59
       },
@@ -190,8 +190,8 @@
     },
     {
       "gameId": 824075,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-18T23:40:00Z",
       "home": {
         "teamId": 118,
@@ -213,8 +213,8 @@
     },
     {
       "gameId": 823667,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-18T23:40:00Z",
       "home": {
         "teamId": 142,
@@ -238,8 +238,8 @@
     },
     {
       "gameId": 823749,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-18T23:40:00Z",
       "home": {
         "teamId": 158,
