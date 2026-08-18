@@ -2,18 +2,18 @@
   "w": [
     {
       "rank": 1,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "15"
-    },
-    {
-      "rank": 2,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
+      "value": "16"
+    },
+    {
+      "rank": 2,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": "15"
     },
     {
@@ -638,6 +638,14 @@
     },
     {
       "rank": 20,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "140"
+    },
+    {
+      "rank": 21,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
@@ -645,19 +653,11 @@
       "value": "140"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "139"
-    },
-    {
-      "rank": 22,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "139"
     },
     {
@@ -788,7 +788,7 @@
       "playerName": "Jhoan Duran",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "26"
+      "value": "27"
     },
     {
       "rank": 9,
@@ -856,6 +856,14 @@
     },
     {
       "rank": 17,
+      "playerId": 445276,
+      "playerName": "Kenley Jansen",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": "16"
+    },
+    {
+      "rank": 18,
       "playerId": 656945,
       "playerName": "Tanner Scott",
       "teamId": 119,
@@ -863,20 +871,12 @@
       "value": "16"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 642207,
       "playerName": "Devin Williams",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "16"
-    },
-    {
-      "rank": 19,
-      "playerId": 445276,
-      "playerName": "Kenley Jansen",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": "15"
     },
     {
       "rank": 20,
