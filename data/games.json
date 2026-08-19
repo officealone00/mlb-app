@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 823342,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-19T16:35:00Z",
       "home": {
         "teamId": 134,
@@ -57,7 +57,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 65
       },
@@ -65,7 +65,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 52
       },
@@ -82,7 +82,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 53
       },
@@ -90,7 +90,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 65,
         "losses": 60
       },
@@ -98,8 +98,8 @@
     },
     {
       "gameId": 824722,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T20:10:00Z",
       "home": {
         "teamId": 111,
