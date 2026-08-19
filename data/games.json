@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823342,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T16:35:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 66
       },
@@ -17,7 +17,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 65
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823587,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T17:10:00Z",
       "home": {
         "teamId": 121,
@@ -75,8 +75,8 @@
     },
     {
       "gameId": 824640,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T18:20:00Z",
       "home": {
         "teamId": 112,
