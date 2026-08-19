@@ -32,7 +32,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 57,
         "losses": 70
       },
@@ -40,7 +40,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 59
       },
@@ -50,8 +50,8 @@
     },
     {
       "gameId": 823664,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T17:40:00Z",
       "home": {
         "teamId": 142,
