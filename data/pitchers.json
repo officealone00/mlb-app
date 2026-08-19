@@ -424,7 +424,7 @@
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "3.39"
+      "value": "3.42"
     },
     {
       "rank": 24,
@@ -538,7 +538,7 @@
       "playerName": "Paul Skenes",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "168"
+      "value": "171"
     },
     {
       "rank": 8,
@@ -574,6 +574,14 @@
     },
     {
       "rank": 12,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "156"
+    },
+    {
+      "rank": 13,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -581,7 +589,7 @@
       "value": "154"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -589,20 +597,12 @@
       "value": "154"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "152"
-    },
-    {
-      "rank": 15,
-      "playerId": 671737,
-      "playerName": "Taj Bradley",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "151"
     },
     {
       "rank": 16,
@@ -1122,18 +1122,18 @@
     },
     {
       "rank": 20,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "1.13"
-    },
-    {
-      "rank": 21,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": "1.14"
+    },
+    {
+      "rank": 21,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": "1.14"
     },
     {
@@ -1190,7 +1190,7 @@
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "1.18"
+      "value": "1.17"
     },
     {
       "rank": 29,

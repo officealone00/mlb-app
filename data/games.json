@@ -9,7 +9,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 1,
+        "score": 2,
         "wins": 62,
         "losses": 66
       },
@@ -17,7 +17,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 1,
+        "score": 3,
         "wins": 61,
         "losses": 65
       },
@@ -32,7 +32,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 2,
         "wins": 57,
         "losses": 70
       },
@@ -40,7 +40,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 68,
         "losses": 59
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 823664,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-19T17:40:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 0,
+        "score": 1,
         "wins": 62,
         "losses": 65
       },
@@ -75,8 +75,8 @@
     },
     {
       "gameId": 824640,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-19T18:20:00Z",
       "home": {
         "teamId": 112,
@@ -105,7 +105,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 58
       },
@@ -113,7 +113,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 61
       },
@@ -121,8 +121,8 @@
     },
     {
       "gameId": 823424,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T22:05:00Z",
       "home": {
         "teamId": 143,
@@ -167,8 +167,8 @@
     },
     {
       "gameId": 824394,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 114,
@@ -192,8 +192,8 @@
     },
     {
       "gameId": 824476,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 113,

@@ -18,6 +18,14 @@
     },
     {
       "rank": 3,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".310"
+    },
+    {
+      "rank": 4,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
@@ -25,7 +33,7 @@
       "value": ".310"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
@@ -33,20 +41,12 @@
       "value": ".308"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 672515,
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": ".308"
-    },
-    {
-      "rank": 6,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".307"
     },
     {
       "rank": 7,
@@ -110,7 +110,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".292"
+      "value": ".290"
     },
     {
       "rank": 15,
@@ -186,10 +186,10 @@
     },
     {
       "rank": 24,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
       "value": ".282"
     },
     {
@@ -210,10 +210,10 @@
     },
     {
       "rank": 27,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".281"
     },
     {
@@ -222,7 +222,7 @@
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": ".280"
+      "value": ".281"
     },
     {
       "rank": 29,
