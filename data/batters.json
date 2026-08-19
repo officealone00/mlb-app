@@ -62,10 +62,18 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".305"
+      "value": ".304"
     },
     {
       "rank": 9,
+      "playerId": 664983,
+      "playerName": "Jake McCarthy",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".295"
+    },
+    {
+      "rank": 10,
       "playerId": 673962,
       "playerName": "Josh Jung",
       "teamId": 140,
@@ -73,7 +81,7 @@
       "value": ".294"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -81,15 +89,15 @@
       "value": ".294"
     },
     {
-      "rank": 11,
-      "playerId": 664983,
-      "playerName": "Jake McCarthy",
+      "rank": 12,
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".293"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
@@ -97,19 +105,11 @@
       "value": ".292"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".292"
-    },
-    {
-      "rank": 14,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
-      "teamId": 115,
-      "teamAbbr": "COL",
       "value": ".292"
     },
     {

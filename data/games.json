@@ -83,7 +83,7 @@
         "abbr": "CHC",
         "kr": "시카고 컵스",
         "score": null,
-        "wins": 73,
+        "wins": 74,
         "losses": 53
       },
       "away": {
@@ -92,7 +92,7 @@
         "kr": "시카고 화이트삭스",
         "score": null,
         "wins": 65,
-        "losses": 59
+        "losses": 60
       },
       "koreanPlayerTeams": []
     },
@@ -339,14 +339,14 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 50,
-        "losses": 75
+        "losses": 76
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 75,
+        "wins": 76,
         "losses": 51
       },
       "koreanPlayerTeams": [
@@ -639,15 +639,15 @@
     },
     {
       "gameId": 824639,
-      "status": "Delayed",
-      "statusCode": "II",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-19T00:05:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 3,
-        "wins": 73,
+        "score": 4,
+        "wins": 74,
         "losses": 53
       },
       "away": {
@@ -656,14 +656,14 @@
         "kr": "시카고 화이트삭스",
         "score": 3,
         "wins": 65,
-        "losses": 59
+        "losses": 60
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824154,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-19T00:10:00Z",
       "home": {
         "teamId": 117,
@@ -685,23 +685,23 @@
     },
     {
       "gameId": 824319,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-19T00:40:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 4,
+        "score": 6,
         "wins": 50,
-        "losses": 75
+        "losses": 76
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 7,
-        "wins": 75,
+        "wins": 76,
         "losses": 51
       },
       "koreanPlayerTeams": [
