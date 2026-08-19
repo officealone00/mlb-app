@@ -105,7 +105,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 2,
+        "score": 5,
         "wins": 68,
         "losses": 58
       },
@@ -113,7 +113,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 3,
+        "score": 5,
         "wins": 66,
         "losses": 61
       },
@@ -121,8 +121,8 @@
     },
     {
       "gameId": 823424,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-19T22:05:00Z",
       "home": {
         "teamId": 143,
@@ -144,8 +144,8 @@
     },
     {
       "gameId": 824801,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-19T22:35:00Z",
       "home": {
         "teamId": 110,
@@ -167,8 +167,8 @@
     },
     {
       "gameId": 824394,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 114,
@@ -192,8 +192,8 @@
     },
     {
       "gameId": 824476,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 113,
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 822937,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 139,
@@ -337,7 +337,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 76
       },
@@ -345,7 +345,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 51
       },
