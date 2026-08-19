@@ -50,8 +50,8 @@
     },
     {
       "gameId": 823664,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-19T17:40:00Z",
       "home": {
         "teamId": 142,
@@ -75,8 +75,8 @@
     },
     {
       "gameId": 824640,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-19T18:20:00Z",
       "home": {
         "teamId": 112,
@@ -84,14 +84,14 @@
         "kr": "시카고 컵스",
         "score": 0,
         "wins": 74,
-        "losses": 53
+        "losses": 54
       },
       "away": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
         "score": 3,
-        "wins": 65,
+        "wins": 66,
         "losses": 60
       },
       "koreanPlayerTeams": []
@@ -105,7 +105,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": 1,
+        "score": 2,
         "wins": 68,
         "losses": 58
       },
@@ -113,7 +113,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 0,
+        "score": 3,
         "wins": 66,
         "losses": 61
       },
@@ -245,7 +245,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 53,
         "losses": 74
       },
@@ -253,7 +253,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 77
       },
@@ -330,8 +330,8 @@
     },
     {
       "gameId": 824318,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-20T00:40:00Z",
       "home": {
         "teamId": 115,
