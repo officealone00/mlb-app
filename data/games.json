@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 823342,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-19T16:35:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 2,
-        "wins": 62,
+        "score": 4,
+        "wins": 63,
         "losses": 66
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "디트로이트",
         "score": 3,
         "wins": 61,
-        "losses": 65
+        "losses": 66
       },
       "koreanPlayerTeams": []
     },
@@ -57,7 +57,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 1,
+        "score": 4,
         "wins": 62,
         "losses": 65
       },
@@ -65,7 +65,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 0,
+        "score": 4,
         "wins": 74,
         "losses": 52
       },
@@ -128,7 +128,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 58
       },
@@ -136,7 +136,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 63
       },
@@ -199,7 +199,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 60,
         "losses": 66
       },
@@ -207,7 +207,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 65,
         "losses": 62
       },
@@ -215,8 +215,8 @@
     },
     {
       "gameId": 822937,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T22:40:00Z",
       "home": {
         "teamId": 139,
@@ -238,8 +238,8 @@
     },
     {
       "gameId": 824076,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-19T23:40:00Z",
       "home": {
         "teamId": 118,
