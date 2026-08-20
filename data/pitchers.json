@@ -428,19 +428,19 @@
     },
     {
       "rank": 24,
+      "playerId": 700241,
+      "playerName": "Michael McGreevy",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "3.40"
+    },
+    {
+      "rank": 25,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": "3.46"
-    },
-    {
-      "rank": 25,
-      "playerId": 700241,
-      "playerName": "Michael McGreevy",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": "3.48"
     },
     {
       "rank": 26,
@@ -506,7 +506,7 @@
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "190"
+      "value": "194"
     },
     {
       "rank": 4,
@@ -1058,18 +1058,18 @@
     },
     {
       "rank": 12,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "1.08"
-    },
-    {
-      "rank": 13,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "1.07"
+    },
+    {
+      "rank": 13,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": "1.08"
     },
     {
@@ -1202,11 +1202,11 @@
     },
     {
       "rank": 30,
-      "playerId": 543135,
-      "playerName": "Nathan Eovaldi",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "1.21"
+      "playerId": 700241,
+      "playerName": "Michael McGreevy",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": "1.20"
     }
   ]
 }
