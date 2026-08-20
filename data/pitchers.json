@@ -114,6 +114,14 @@
     },
     {
       "rank": 15,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "12"
+    },
+    {
+      "rank": 16,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -121,7 +129,7 @@
       "value": "12"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -129,7 +137,7 @@
       "value": "11"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -137,19 +145,11 @@
       "value": "11"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "11"
-    },
-    {
-      "rank": 19,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "11"
     },
     {
@@ -740,22 +740,22 @@
       "playerName": "Riley O'Brien",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "32"
+      "value": "33"
     },
     {
       "rank": 3,
-      "playerId": 695243,
-      "playerName": "Mason Miller",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "31"
-    },
-    {
-      "rank": 4,
       "playerId": 671922,
       "playerName": "Cade Smith",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "32"
+    },
+    {
+      "rank": 4,
+      "playerId": 695243,
+      "playerName": "Mason Miller",
+      "teamId": 135,
+      "teamAbbr": "SD",
       "value": "31"
     },
     {
@@ -796,7 +796,7 @@
       "playerName": "Raisel Iglesias",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "25"
+      "value": "26"
     },
     {
       "rank": 10,

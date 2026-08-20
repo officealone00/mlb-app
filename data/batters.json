@@ -34,18 +34,18 @@
     },
     {
       "rank": 5,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".308"
-    },
-    {
-      "rank": 6,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".308"
+    },
+    {
+      "rank": 6,
+      "playerId": 650490,
+      "playerName": "Yandy Díaz",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".308"
     },
     {
@@ -110,7 +110,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".290"
+      "value": ".291"
     },
     {
       "rank": 15,
@@ -186,19 +186,19 @@
     },
     {
       "rank": 24,
+      "playerId": 666018,
+      "playerName": "Jonathan Aranda",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".282"
+    },
+    {
+      "rank": 25,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": ".282"
-    },
-    {
-      "rank": 25,
-      "playerId": 666018,
-      "playerName": "Jonathan Aranda",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".281"
     },
     {
       "rank": 26,
@@ -210,6 +210,14 @@
     },
     {
       "rank": 27,
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".280"
+    },
+    {
+      "rank": 28,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -217,7 +225,7 @@
       "value": ".279"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -225,19 +233,11 @@
       "value": ".279"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": ".279"
-    },
-    {
-      "rank": 30,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": ".279"
     }
   ],
@@ -490,7 +490,7 @@
       "playerName": "Sal Stewart",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "94"
+      "value": "96"
     },
     {
       "rank": 2,
