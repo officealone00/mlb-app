@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824474,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-20T16:40:00Z",
       "home": {
         "teamId": 113,
@@ -121,14 +121,14 @@
     },
     {
       "gameId": 823747,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-20T18:10:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 78,
         "losses": 49
       },
@@ -136,7 +136,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 60,
         "losses": 67
       },
