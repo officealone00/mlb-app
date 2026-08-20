@@ -198,7 +198,7 @@
         "abbr": "HOU",
         "kr": "휴스턴",
         "score": null,
-        "wins": 63,
+        "wins": 64,
         "losses": 63
       },
       "away": {
@@ -207,7 +207,7 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 50,
-        "losses": 76
+        "losses": 77
       },
       "koreanPlayerTeams": []
     }
@@ -520,15 +520,15 @@
     },
     {
       "gameId": 824155,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-20T00:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
         "score": 3,
-        "wins": 63,
+        "wins": 64,
         "losses": 63
       },
       "away": {
@@ -537,29 +537,29 @@
         "kr": "LA 에인절스",
         "score": 2,
         "wins": 50,
-        "losses": 76
+        "losses": 77
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824318,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-20T00:40:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 2,
+        "score": 4,
         "wins": 50,
-        "losses": 76
+        "losses": 77
       },
       "away": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 4,
-        "wins": 76,
+        "score": 6,
+        "wins": 77,
         "losses": 51
       },
       "koreanPlayerTeams": [
