@@ -17,7 +17,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 0,
+        "score": 1,
         "wins": 75,
         "losses": 53
       },
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 823420,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-21T22:40:00Z",
       "home": {
         "teamId": 143,
@@ -307,8 +307,8 @@
     },
     {
       "gameId": 823911,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-22T02:10:00Z",
       "home": {
         "teamId": 119,
@@ -332,8 +332,8 @@
     },
     {
       "gameId": 823101,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-22T02:10:00Z",
       "home": {
         "teamId": 136,
