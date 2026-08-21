@@ -14,7 +14,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".317"
+      "value": ".319"
     },
     {
       "rank": 3,
@@ -74,14 +74,6 @@
     },
     {
       "rank": 10,
-      "playerId": 673962,
-      "playerName": "Josh Jung",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": ".294"
-    },
-    {
-      "rank": 11,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
@@ -89,7 +81,7 @@
       "value": ".293"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -97,7 +89,7 @@
       "value": ".292"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -105,7 +97,7 @@
       "value": ".291"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -113,7 +105,7 @@
       "value": ".291"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -121,7 +113,7 @@
       "value": ".288"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -129,7 +121,7 @@
       "value": ".288"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -137,7 +129,7 @@
       "value": ".288"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -145,7 +137,7 @@
       "value": ".286"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -153,7 +145,7 @@
       "value": ".285"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -161,7 +153,7 @@
       "value": ".285"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
@@ -169,7 +161,7 @@
       "value": ".284"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -177,7 +169,7 @@
       "value": ".284"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
@@ -185,7 +177,7 @@
       "value": ".284"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -193,7 +185,7 @@
       "value": ".282"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
@@ -201,7 +193,7 @@
       "value": ".282"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
@@ -209,7 +201,7 @@
       "value": ".280"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "playerId": 694192,
       "playerName": "Jackson Chourio",
       "teamId": 158,
@@ -217,7 +209,7 @@
       "value": ".280"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -225,11 +217,19 @@
       "value": ".279"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": ".279"
+    },
+    {
+      "rank": 29,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".279"
     },
     {
@@ -420,6 +420,14 @@
     },
     {
       "rank": 23,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "25"
+    },
+    {
+      "rank": 24,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -427,20 +435,12 @@
       "value": "25"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 571970,
       "playerName": "Max Muncy",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "25"
-    },
-    {
-      "rank": 25,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "24"
     },
     {
       "rank": 26,
@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "80"
+    },
+    {
+      "rank": 10,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -557,7 +565,7 @@
       "value": "80"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -565,7 +573,7 @@
       "value": "80"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
@@ -573,27 +581,19 @@
       "value": "80"
     },
     {
-      "rank": 12,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "79"
-    },
-    {
       "rank": 13,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "79"
-    },
-    {
-      "rank": 14,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
+      "value": "80"
+    },
+    {
+      "rank": 14,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": "79"
     },
     {
