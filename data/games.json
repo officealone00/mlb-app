@@ -115,7 +115,7 @@
         "kr": "워싱턴",
         "score": null,
         "wins": 61,
-        "losses": 67
+        "losses": 68
       },
       "koreanPlayerTeams": []
     },
@@ -199,7 +199,7 @@
         "kr": "휴스턴",
         "score": null,
         "wins": 64,
-        "losses": 63
+        "losses": 64
       },
       "away": {
         "teamId": 133,
@@ -221,7 +221,7 @@
         "abbr": "TEX",
         "kr": "텍사스",
         "score": null,
-        "wins": 62,
+        "wins": 63,
         "losses": 65
       },
       "away": {
@@ -229,7 +229,7 @@
         "abbr": "LAA",
         "kr": "LA 에인절스",
         "score": null,
-        "wins": 50,
+        "wins": 51,
         "losses": 77
       },
       "koreanPlayerTeams": []
@@ -499,8 +499,8 @@
     },
     {
       "gameId": 824802,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-20T22:35:00Z",
       "home": {
         "teamId": 110,
@@ -522,15 +522,15 @@
     },
     {
       "gameId": 822861,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-21T00:05:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 1,
-        "wins": 62,
+        "score": 2,
+        "wins": 63,
         "losses": 65
       },
       "away": {
@@ -539,29 +539,29 @@
         "kr": "워싱턴",
         "score": 0,
         "wins": 61,
-        "losses": 67
+        "losses": 68
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824153,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-21T00:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 2,
+        "score": 3,
         "wins": 64,
-        "losses": 63
+        "losses": 64
       },
       "away": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 14,
-        "wins": 50,
+        "score": 18,
+        "wins": 51,
         "losses": 77
       },
       "koreanPlayerTeams": []
