@@ -6,7 +6,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".319"
+      "value": ".320"
     },
     {
       "rank": 2,
@@ -46,7 +46,7 @@
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".308"
+      "value": ".307"
     },
     {
       "rank": 7,
@@ -106,16 +106,16 @@
     },
     {
       "rank": 14,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".288"
+      "value": ".289"
     },
     {
       "rank": 15,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": ".288"
@@ -126,7 +126,7 @@
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".288"
+      "value": ".287"
     },
     {
       "rank": 17,
@@ -138,6 +138,14 @@
     },
     {
       "rank": 18,
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".286"
+    },
+    {
+      "rank": 19,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -145,7 +153,7 @@
       "value": ".285"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 676391,
       "playerName": "Ernie Clement",
       "teamId": 141,
@@ -153,17 +161,9 @@
       "value": ".285"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 575929,
       "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".284"
-    },
-    {
-      "rank": 21,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
       "value": ".284"
@@ -530,7 +530,7 @@
       "playerName": "Pete Alonso",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "82"
+      "value": "83"
     },
     {
       "rank": 7,
