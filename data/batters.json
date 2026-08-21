@@ -102,7 +102,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".291"
+      "value": ".290"
     },
     {
       "rank": 14,
@@ -202,14 +202,6 @@
     },
     {
       "rank": 26,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": ".280"
-    },
-    {
-      "rank": 27,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -217,7 +209,7 @@
       "value": ".279"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
@@ -225,11 +217,19 @@
       "value": ".279"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
+      "value": ".279"
+    },
+    {
+      "rank": 29,
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
       "value": ".279"
     },
     {
