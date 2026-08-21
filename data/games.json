@@ -34,7 +34,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 70,
         "losses": 58
       },
@@ -42,7 +42,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 63
       },
@@ -73,14 +73,14 @@
     },
     {
       "gameId": 824721,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-21T23:10:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 59
       },
@@ -88,7 +88,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 75
       },
@@ -98,8 +98,8 @@
     },
     {
       "gameId": 823830,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-21T23:10:00Z",
       "home": {
         "teamId": 146,
@@ -121,8 +121,8 @@
     },
     {
       "gameId": 824800,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-21T23:15:00Z",
       "home": {
         "teamId": 110,
