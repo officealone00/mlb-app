@@ -9,7 +9,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
+        "score": 2,
         "wins": 79,
         "losses": 49
       },
@@ -105,7 +105,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 64
       },
@@ -113,7 +113,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 68
       },
@@ -151,7 +151,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 61
       },
@@ -159,7 +159,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 58,
         "losses": 70
       },
@@ -174,7 +174,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 55,
         "losses": 74
       },
@@ -182,7 +182,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 66
       },
@@ -190,14 +190,14 @@
     },
     {
       "gameId": 824152,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-22T00:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 64
       },
@@ -205,7 +205,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 49,
         "losses": 79
       },
@@ -220,7 +220,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 65
       },
@@ -228,7 +228,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 77
       },
@@ -243,7 +243,7 @@
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 50,
         "losses": 77
       },
@@ -251,7 +251,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 66
       },
@@ -266,7 +266,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 67,
         "losses": 61
       },
@@ -274,7 +274,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 67
       },
@@ -282,14 +282,14 @@
     },
     {
       "gameId": 823262,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-22T01:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 60
       },
@@ -297,7 +297,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 65
       },
