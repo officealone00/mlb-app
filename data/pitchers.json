@@ -272,7 +272,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "2.37"
+      "value": "2.33"
     },
     {
       "rank": 5,
@@ -444,14 +444,6 @@
     },
     {
       "rank": 26,
-      "playerId": 677960,
-      "playerName": "Ryan Weathers",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "3.55"
-    },
-    {
-      "rank": 27,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
@@ -459,12 +451,20 @@
       "value": "3.57"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": "3.58"
+    },
+    {
+      "rank": 28,
+      "playerId": 677960,
+      "playerName": "Ryan Weathers",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "3.60"
     },
     {
       "rank": 29,
@@ -498,7 +498,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "206"
+      "value": "208"
     },
     {
       "rank": 3,
@@ -682,7 +682,7 @@
       "playerName": "Ryan Weathers",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "142"
+      "value": "143"
     },
     {
       "rank": 26,
