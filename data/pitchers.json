@@ -444,19 +444,19 @@
     },
     {
       "rank": 26,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "3.56"
+    },
+    {
+      "rank": 27,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "3.57"
-    },
-    {
-      "rank": 27,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "3.58"
     },
     {
       "rank": 28,
@@ -1138,14 +1138,6 @@
     },
     {
       "rank": 22,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "1.15"
-    },
-    {
-      "rank": 23,
       "playerId": 676440,
       "playerName": "Tanner Bibee",
       "teamId": 114,
@@ -1153,12 +1145,20 @@
       "value": "1.15"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "1.15"
+    },
+    {
+      "rank": 24,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "1.16"
     },
     {
       "rank": 25,

@@ -50,15 +50,15 @@
     },
     {
       "gameId": 823831,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-22T20:10:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
         "score": 4,
-        "wins": 65,
+        "wins": 66,
         "losses": 64
       },
       "away": {
@@ -67,7 +67,7 @@
         "kr": "워싱턴",
         "score": 2,
         "wins": 61,
-        "losses": 69
+        "losses": 70
       },
       "koreanPlayerTeams": []
     },
@@ -80,7 +80,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 3,
+        "score": 7,
         "wins": 71,
         "losses": 58
       },
@@ -96,8 +96,8 @@
     },
     {
       "gameId": 824798,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:05:00Z",
       "home": {
         "teamId": 110,
@@ -111,7 +111,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 1,
         "wins": 76,
         "losses": 52
       },
@@ -119,8 +119,8 @@
     },
     {
       "gameId": 822858,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:05:00Z",
       "home": {
         "teamId": 140,
@@ -134,7 +134,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 0,
+        "score": 1,
         "wins": 51,
         "losses": 78
       },
@@ -142,8 +142,8 @@
     },
     {
       "gameId": 824151,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:10:00Z",
       "home": {
         "teamId": 117,
@@ -165,8 +165,8 @@
     },
     {
       "gameId": 824560,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Manager challenge",
+      "statusCode": "MA",
       "startTime": "2026-08-22T23:10:00Z",
       "home": {
         "teamId": 145,
@@ -180,7 +180,7 @@
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": 0,
+        "score": 1,
         "wins": 58,
         "losses": 71
       },
@@ -188,8 +188,8 @@
     },
     {
       "gameId": 824073,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:15:00Z",
       "home": {
         "teamId": 118,
@@ -211,8 +211,8 @@
     },
     {
       "gameId": 823910,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:15:00Z",
       "home": {
         "teamId": 119,
@@ -226,7 +226,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 0,
+        "score": 3,
         "wins": 63,
         "losses": 67
       },
@@ -236,14 +236,14 @@
     },
     {
       "gameId": 823100,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:15:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 0,
+        "score": 1,
         "wins": 61,
         "losses": 68
       },
@@ -259,8 +259,8 @@
     },
     {
       "gameId": 824718,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T23:15:00Z",
       "home": {
         "teamId": 111,
@@ -274,7 +274,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 1,
         "wins": 52,
         "losses": 76
       },
