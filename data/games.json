@@ -219,7 +219,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 77,
+        "wins": 78,
         "losses": 51
       },
       "away": {
@@ -228,7 +228,7 @@
         "kr": "피츠버그",
         "score": null,
         "wins": 63,
-        "losses": 66
+        "losses": 67
       },
       "koreanPlayerTeams": [
         119
@@ -244,7 +244,7 @@
         "abbr": "SEA",
         "kr": "시애틀",
         "score": null,
-        "wins": 60,
+        "wins": 61,
         "losses": 68
       },
       "away": {
@@ -253,7 +253,7 @@
         "kr": "시카고 컵스",
         "score": null,
         "wins": 74,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": []
     },
@@ -614,8 +614,8 @@
     },
     {
       "gameId": 825045,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-22T01:40:00Z",
       "home": {
         "teamId": 109,
@@ -662,15 +662,15 @@
     },
     {
       "gameId": 823911,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-22T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 4,
-        "wins": 77,
+        "score": 5,
+        "wins": 78,
         "losses": 51
       },
       "away": {
@@ -679,7 +679,7 @@
         "kr": "피츠버그",
         "score": 4,
         "wins": 63,
-        "losses": 66
+        "losses": 67
       },
       "koreanPlayerTeams": [
         119
@@ -687,15 +687,15 @@
     },
     {
       "gameId": 823101,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-22T02:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 5,
-        "wins": 60,
+        "score": 6,
+        "wins": 61,
         "losses": 68
       },
       "away": {
@@ -704,7 +704,7 @@
         "kr": "시카고 컵스",
         "score": 5,
         "wins": 74,
-        "losses": 54
+        "losses": 55
       },
       "koreanPlayerTeams": []
     }

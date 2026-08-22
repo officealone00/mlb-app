@@ -22,7 +22,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".312"
+      "value": ".311"
     },
     {
       "rank": 4,
@@ -62,7 +62,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".301"
+      "value": ".300"
     },
     {
       "rank": 9,
@@ -74,14 +74,6 @@
     },
     {
       "rank": 10,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".292"
-    },
-    {
-      "rank": 11,
       "playerId": 664983,
       "playerName": "Jake McCarthy",
       "teamId": 115,
@@ -89,11 +81,19 @@
       "value": ".292"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
+      "value": ".291"
+    },
+    {
+      "rank": 12,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".291"
     },
     {
@@ -872,6 +872,14 @@
     },
     {
       "rank": 19,
+      "playerId": 663538,
+      "playerName": "Nico Hoerner",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "21"
+    },
+    {
+      "rank": 20,
       "playerId": 663968,
       "playerName": "Jake Mangum",
       "teamId": 134,
@@ -879,7 +887,7 @@
       "value": "21"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
@@ -887,19 +895,11 @@
       "value": "20"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 804606,
       "playerName": "Konnor Griffin",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "20"
-    },
-    {
-      "rank": 22,
-      "playerId": 663538,
-      "playerName": "Nico Hoerner",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "20"
     },
     {
