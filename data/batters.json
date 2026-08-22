@@ -26,6 +26,14 @@
     },
     {
       "rank": 4,
+      "playerId": 672640,
+      "playerName": "Otto Lopez",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".309"
+    },
+    {
+      "rank": 5,
       "playerId": 672515,
       "playerName": "Gabriel Moreno",
       "teamId": 109,
@@ -33,20 +41,12 @@
       "value": ".308"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".308"
-    },
-    {
-      "rank": 6,
-      "playerId": 672640,
-      "playerName": "Otto Lopez",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".307"
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".294"
+      "value": ".295"
     },
     {
       "rank": 10,
@@ -138,14 +138,6 @@
     },
     {
       "rank": 18,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".286"
-    },
-    {
-      "rank": 19,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -153,11 +145,19 @@
       "value": ".285"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": ".285"
+    },
+    {
+      "rank": 20,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": ".285"
     },
     {
@@ -202,18 +202,18 @@
     },
     {
       "rank": 26,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": ".279"
-    },
-    {
-      "rank": 27,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": ".279"
+    },
+    {
+      "rank": 27,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".279"
     },
     {
@@ -226,11 +226,11 @@
     },
     {
       "rank": 29,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": ".277"
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".278"
     },
     {
       "rank": 30,
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "26"
+    },
+    {
+      "rank": 22,
       "playerId": 571970,
       "playerName": "Max Muncy",
       "teamId": 119,
@@ -411,7 +419,7 @@
       "value": "26"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -419,19 +427,11 @@
       "value": "26"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 621439,
       "playerName": "Byron Buxton",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "25"
-    },
-    {
-      "rank": 24,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
       "value": "25"
     },
     {
@@ -542,6 +542,14 @@
     },
     {
       "rank": 8,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "82"
+    },
+    {
+      "rank": 9,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -549,19 +557,11 @@
       "value": "81"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "80"
-    },
-    {
-      "rank": 10,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
       "value": "80"
     },
     {
