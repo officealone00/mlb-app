@@ -6,7 +6,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".322"
+      "value": ".321"
     },
     {
       "rank": 2,
@@ -154,18 +154,18 @@
     },
     {
       "rank": 20,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".285"
-    },
-    {
-      "rank": 21,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".285"
+    },
+    {
+      "rank": 21,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".285"
     },
     {
@@ -630,6 +630,14 @@
     },
     {
       "rank": 19,
+      "playerId": 664761,
+      "playerName": "Alec Bohm",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "75"
+    },
+    {
+      "rank": 20,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -637,7 +645,7 @@
       "value": "75"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 666176,
       "playerName": "Jo Adell",
       "teamId": 114,
@@ -645,19 +653,11 @@
       "value": "74"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 641343,
       "playerName": "Jake Bauers",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "74"
-    },
-    {
-      "rank": 22,
-      "playerId": 664761,
-      "playerName": "Alec Bohm",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "74"
     },
     {
@@ -904,6 +904,14 @@
     },
     {
       "rank": 23,
+      "playerId": 805300,
+      "playerName": "Jakob Marsee",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "20"
+    },
+    {
+      "rank": 24,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -911,19 +919,11 @@
       "value": "19"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 665926,
       "playerName": "Andrés Giménez",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "19"
-    },
-    {
-      "rank": 25,
-      "playerId": 805300,
-      "playerName": "Jakob Marsee",
-      "teamId": 146,
-      "teamAbbr": "MIA",
       "value": "19"
     },
     {

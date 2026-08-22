@@ -65,7 +65,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 1,
+        "score": 2,
         "wins": 61,
         "losses": 69
       },
@@ -73,14 +73,14 @@
     },
     {
       "gameId": 823422,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-22T22:05:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 3,
         "wins": 71,
         "losses": 58
       },
@@ -291,7 +291,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 61
       },
@@ -299,7 +299,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 68
       },
@@ -330,14 +330,14 @@
     },
     {
       "gameId": 823261,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-23T00:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 60
       },
@@ -345,7 +345,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 66
       },
