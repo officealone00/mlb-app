@@ -22,7 +22,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".313"
+      "value": ".312"
     },
     {
       "rank": 4,
@@ -30,7 +30,7 @@
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": ".311"
+      "value": ".308"
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".303"
+      "value": ".301"
     },
     {
       "rank": 9,
@@ -74,16 +74,16 @@
     },
     {
       "rank": 10,
-      "playerId": 664983,
-      "playerName": "Jake McCarthy",
-      "teamId": 115,
-      "teamAbbr": "COL",
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".292"
     },
     {
       "rank": 11,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
+      "playerId": 664983,
+      "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
       "value": ".292"
@@ -106,10 +106,10 @@
     },
     {
       "rank": 14,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
       "value": ".291"
     },
     {
@@ -170,19 +170,19 @@
     },
     {
       "rank": 22,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".284"
+    },
+    {
+      "rank": 23,
       "playerId": 805808,
       "playerName": "Kevin McGonigle",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": ".284"
-    },
-    {
-      "rank": 23,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": ".283"
     },
     {
       "rank": 24,
@@ -214,7 +214,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": ".280"
+      "value": ".279"
     },
     {
       "rank": 28,
