@@ -58,6 +58,14 @@
     },
     {
       "rank": 8,
+      "playerId": 607259,
+      "playerName": "Nick Martinez",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "13"
+    },
+    {
+      "rank": 9,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
@@ -65,7 +73,7 @@
       "value": "13"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
@@ -73,20 +81,12 @@
       "value": "13"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "13"
-    },
-    {
-      "rank": 11,
-      "playerId": 607259,
-      "playerName": "Nick Martinez",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "12"
     },
     {
       "rank": 12,
@@ -328,7 +328,7 @@
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "2.94"
+      "value": "2.93"
     },
     {
       "rank": 12,
@@ -340,19 +340,19 @@
     },
     {
       "rank": 13,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "3.18"
-    },
-    {
-      "rank": 14,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "3.20"
+    },
+    {
+      "rank": 14,
+      "playerId": 690997,
+      "playerName": "Nolan McLean",
+      "teamId": 121,
+      "teamAbbr": "NYM",
+      "value": "3.21"
     },
     {
       "rank": 15,
@@ -364,22 +364,14 @@
     },
     {
       "rank": 16,
-      "playerId": 690997,
-      "playerName": "Nolan McLean",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": "3.24"
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "3.26"
     },
     {
       "rank": 17,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "3.24"
-    },
-    {
-      "rank": 18,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -387,7 +379,7 @@
       "value": "3.27"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 672456,
       "playerName": "Keider Montero",
       "teamId": 116,
@@ -395,7 +387,7 @@
       "value": "3.30"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -403,7 +395,7 @@
       "value": "3.35"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -411,7 +403,7 @@
       "value": "3.35"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -419,12 +411,20 @@
       "value": "3.37"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "3.38"
+    },
+    {
+      "rank": 23,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "3.43"
     },
     {
       "rank": 24,
@@ -706,7 +706,7 @@
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "140"
+      "value": "141"
     },
     {
       "rank": 29,
@@ -732,7 +732,7 @@
       "playerName": "Bryan Baker",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "36"
+      "value": "37"
     },
     {
       "rank": 2,
@@ -1074,18 +1074,18 @@
     },
     {
       "rank": 14,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "1.09"
-    },
-    {
-      "rank": 15,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": "1.10"
+    },
+    {
+      "rank": 15,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": "1.10"
     },
     {
@@ -1098,14 +1098,6 @@
     },
     {
       "rank": 17,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.11"
-    },
-    {
-      "rank": 18,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -1113,7 +1105,7 @@
       "value": "1.11"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -1121,7 +1113,7 @@
       "value": "1.11"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -1129,7 +1121,7 @@
       "value": "1.12"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 608379,
       "playerName": "Michael Wacha",
       "teamId": 118,
@@ -1137,7 +1129,23 @@
       "value": "1.13"
     },
     {
+      "rank": 21,
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "1.13"
+    },
+    {
       "rank": 22,
+      "playerId": 690997,
+      "playerName": "Nolan McLean",
+      "teamId": 121,
+      "teamAbbr": "NYM",
+      "value": "1.14"
+    },
+    {
+      "rank": 23,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
@@ -1145,20 +1153,12 @@
       "value": "1.14"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 676440,
       "playerName": "Tanner Bibee",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "1.14"
-    },
-    {
-      "rank": 24,
-      "playerId": 690997,
-      "playerName": "Nolan McLean",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": "1.15"
     },
     {
       "rank": 25,
