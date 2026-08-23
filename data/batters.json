@@ -78,7 +78,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".292"
+      "value": ".294"
     },
     {
       "rank": 11,
@@ -90,22 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 660271,
-      "playerName": "Shohei Ohtani",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".290"
-    },
-    {
-      "rank": 13,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".290"
-    },
-    {
-      "rank": 14,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
@@ -113,12 +97,28 @@
       "value": ".289"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "playerId": 660271,
+      "playerName": "Shohei Ohtani",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": ".289"
+    },
+    {
+      "rank": 14,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": ".289"
+    },
+    {
+      "rank": 15,
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".288"
     },
     {
       "rank": 16,
@@ -138,14 +138,6 @@
     },
     {
       "rank": 18,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".286"
-    },
-    {
-      "rank": 19,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -153,7 +145,7 @@
       "value": ".286"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -161,7 +153,23 @@
       "value": ".285"
     },
     {
+      "rank": 20,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": ".285"
+    },
+    {
       "rank": 21,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".284"
+    },
+    {
+      "rank": 22,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -169,19 +177,11 @@
       "value": ".284"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".283"
-    },
-    {
-      "rank": 23,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": ".283"
     },
     {

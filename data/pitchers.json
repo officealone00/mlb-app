@@ -748,7 +748,7 @@
       "playerName": "Cade Smith",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "32"
+      "value": "33"
     },
     {
       "rank": 4,
@@ -840,6 +840,14 @@
     },
     {
       "rank": 15,
+      "playerId": 656945,
+      "playerName": "Tanner Scott",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "19"
+    },
+    {
+      "rank": 16,
       "playerId": 664126,
       "playerName": "Pete Fairbanks",
       "teamId": 146,
@@ -847,19 +855,11 @@
       "value": "18"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 623352,
       "playerName": "Josh Hader",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": "18"
-    },
-    {
-      "rank": 17,
-      "playerId": 656945,
-      "playerName": "Tanner Scott",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "18"
     },
     {
@@ -1150,7 +1150,7 @@
       "playerName": "Tanner Bibee",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "1.15"
+      "value": "1.14"
     },
     {
       "rank": 24,
