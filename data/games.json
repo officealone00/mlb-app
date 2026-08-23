@@ -186,8 +186,8 @@
     },
     {
       "gameId": 824315,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T19:10:00Z",
       "home": {
         "teamId": 115,
@@ -234,15 +234,15 @@
     },
     {
       "gameId": 823909,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T20:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 4,
-        "wins": 79,
+        "wins": 80,
         "losses": 51
       },
       "away": {
@@ -251,7 +251,7 @@
         "kr": "피츠버그",
         "score": 0,
         "wins": 63,
-        "losses": 68
+        "losses": 69
       },
       "koreanPlayerTeams": [
         119
@@ -259,8 +259,8 @@
     },
     {
       "gameId": 823099,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-23T20:10:00Z",
       "home": {
         "teamId": 136,
@@ -268,29 +268,29 @@
         "kr": "시애틀",
         "score": 2,
         "wins": 62,
-        "losses": 68
+        "losses": 69
       },
       "away": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 7,
-        "wins": 74,
+        "score": 19,
+        "wins": 75,
         "losses": 56
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823258,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T20:10:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 7,
-        "wins": 70,
+        "score": 8,
+        "wins": 71,
         "losses": 60
       },
       "away": {
@@ -299,7 +299,7 @@
         "kr": "미네소타",
         "score": 1,
         "wins": 63,
-        "losses": 67
+        "losses": 68
       },
       "koreanPlayerTeams": [
         135
@@ -307,15 +307,15 @@
     },
     {
       "gameId": 825043,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T20:15:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
         "score": 5,
-        "wins": 68,
+        "wins": 69,
         "losses": 62
       },
       "away": {
@@ -324,14 +324,14 @@
         "kr": "신시내티",
         "score": 3,
         "wins": 62,
-        "losses": 68
+        "losses": 69
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823745,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T23:10:00Z",
       "home": {
         "teamId": 158,
