@@ -17,7 +17,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 3,
         "wins": 76,
         "losses": 53
       },
@@ -40,7 +40,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 2,
+        "score": 4,
         "wins": 66,
         "losses": 65
       },
@@ -63,7 +63,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 1,
+        "score": 2,
         "wins": 64,
         "losses": 67
       },
@@ -78,7 +78,7 @@
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 1,
+        "score": 3,
         "wins": 66,
         "losses": 64
       },
@@ -86,7 +86,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": 0,
+        "score": 1,
         "wins": 61,
         "losses": 70
       },
@@ -101,7 +101,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": 0,
+        "score": 5,
         "wins": 57,
         "losses": 74
       },
@@ -109,7 +109,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 1,
+        "score": 2,
         "wins": 61,
         "losses": 68
       },
@@ -124,7 +124,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 3,
+        "score": 4,
         "wins": 65,
         "losses": 65
       },
@@ -170,7 +170,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 0,
+        "score": 3,
         "wins": 64,
         "losses": 66
       },
@@ -186,8 +186,8 @@
     },
     {
       "gameId": 824315,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T19:10:00Z",
       "home": {
         "teamId": 115,
@@ -201,7 +201,7 @@
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 2,
         "wins": 64,
         "losses": 66
       },
@@ -209,8 +209,8 @@
     },
     {
       "gameId": 824720,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T19:15:00Z",
       "home": {
         "teamId": 111,
@@ -224,7 +224,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 0,
+        "score": 2,
         "wins": 52,
         "losses": 77
       },
@@ -330,8 +330,8 @@
     },
     {
       "gameId": 823745,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-23T23:10:00Z",
       "home": {
         "teamId": 158,
