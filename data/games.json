@@ -290,7 +290,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 69,
+        "wins": 70,
         "losses": 60
       },
       "away": {
@@ -299,7 +299,7 @@
         "kr": "미네소타",
         "score": null,
         "wins": 63,
-        "losses": 66
+        "losses": 67
       },
       "koreanPlayerTeams": [
         135
@@ -639,8 +639,8 @@
     },
     {
       "gameId": 825044,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T00:10:00Z",
       "home": {
         "teamId": 109,
@@ -685,15 +685,15 @@
     },
     {
       "gameId": 823261,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T00:40:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 6,
-        "wins": 69,
+        "score": 7,
+        "wins": 70,
         "losses": 60
       },
       "away": {
@@ -702,7 +702,7 @@
         "kr": "미네소타",
         "score": 5,
         "wins": 63,
-        "losses": 66
+        "losses": 67
       },
       "koreanPlayerTeams": [
         135
