@@ -117,8 +117,8 @@
     },
     {
       "gameId": 824150,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T18:10:00Z",
       "home": {
         "teamId": 117,
@@ -126,14 +126,14 @@
         "kr": "휴스턴",
         "score": 6,
         "wins": 65,
-        "losses": 65
+        "losses": 66
       },
       "away": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": 7,
-        "wins": 50,
+        "wins": 51,
         "losses": 80
       },
       "koreanPlayerTeams": []
@@ -186,8 +186,8 @@
     },
     {
       "gameId": 824315,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Game Over",
+      "statusCode": "O",
       "startTime": "2026-08-23T19:10:00Z",
       "home": {
         "teamId": 115,
@@ -195,29 +195,29 @@
         "kr": "콜로라도",
         "score": 2,
         "wins": 50,
-        "losses": 79
+        "losses": 80
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 6,
-        "wins": 64,
+        "score": 7,
+        "wins": 65,
         "losses": 66
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824720,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-23T19:15:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
         "score": 5,
-        "wins": 70,
+        "wins": 71,
         "losses": 59
       },
       "away": {
@@ -226,7 +226,7 @@
         "kr": "샌프란시스코",
         "score": 4,
         "wins": 52,
-        "losses": 77
+        "losses": 78
       },
       "koreanPlayerTeams": [
         137
@@ -241,7 +241,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 3,
+        "score": 4,
         "wins": 79,
         "losses": 51
       },
@@ -274,7 +274,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": 5,
+        "score": 7,
         "wins": 74,
         "losses": 56
       },
@@ -289,7 +289,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 1,
+        "score": 7,
         "wins": 70,
         "losses": 60
       },
@@ -314,7 +314,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 0,
+        "score": 5,
         "wins": 68,
         "losses": 62
       },

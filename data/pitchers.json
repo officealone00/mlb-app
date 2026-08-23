@@ -18,18 +18,18 @@
     },
     {
       "rank": 3,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "14"
-    },
-    {
-      "rank": 4,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "15"
+    },
+    {
+      "rank": 4,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
       "value": "14"
     },
     {
@@ -768,19 +768,19 @@
     },
     {
       "rank": 6,
+      "playerId": 547973,
+      "playerName": "Aroldis Chapman",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "29"
+    },
+    {
+      "rank": 7,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "29"
-    },
-    {
-      "rank": 7,
-      "playerId": 547973,
-      "playerName": "Aroldis Chapman",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "28"
     },
     {
       "rank": 8,
@@ -896,6 +896,14 @@
     },
     {
       "rank": 22,
+      "playerId": 663687,
+      "playerName": "Hogan Harris",
+      "teamId": 133,
+      "teamAbbr": "ATH",
+      "value": "13"
+    },
+    {
+      "rank": 23,
       "playerId": 690925,
       "playerName": "Clayton Beeter",
       "teamId": 120,
@@ -903,7 +911,7 @@
       "value": "12"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 622554,
       "playerName": "Seranthony Domínguez",
       "teamId": 136,
@@ -911,19 +919,11 @@
       "value": "12"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 668674,
       "playerName": "Lucas Erceg",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "12"
-    },
-    {
-      "rank": 25,
-      "playerId": 663687,
-      "playerName": "Hogan Harris",
-      "teamId": 133,
-      "teamAbbr": "ATH",
       "value": "12"
     },
     {
