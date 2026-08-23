@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824799,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T17:35:00Z",
       "home": {
         "teamId": 110,
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823421,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T17:35:00Z",
       "home": {
         "teamId": 143,
@@ -40,7 +40,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 2,
         "wins": 66,
         "losses": 65
       },
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 823507,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T17:35:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 2,
         "wins": 73,
         "losses": 56
       },
@@ -63,7 +63,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
+        "score": 1,
         "wins": 64,
         "losses": 67
       },
@@ -71,14 +71,14 @@
     },
     {
       "gameId": 823827,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T17:40:00Z",
       "home": {
         "teamId": 146,
         "abbr": "MIA",
         "kr": "마이애미",
-        "score": 0,
+        "score": 1,
         "wins": 66,
         "losses": 64
       },
@@ -94,8 +94,8 @@
     },
     {
       "gameId": 824071,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T18:10:00Z",
       "home": {
         "teamId": 118,
@@ -109,7 +109,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 1,
         "wins": 61,
         "losses": 68
       },
@@ -117,14 +117,14 @@
     },
     {
       "gameId": 824150,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 3,
         "wins": 65,
         "losses": 65
       },
@@ -140,8 +140,8 @@
     },
     {
       "gameId": 824558,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T18:10:00Z",
       "home": {
         "teamId": 145,
@@ -163,14 +163,14 @@
     },
     {
       "gameId": 822856,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-08-23T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 66
       },
@@ -178,7 +178,7 @@
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": null,
+        "score": 0,
         "wins": 52,
         "losses": 78
       },
@@ -241,7 +241,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 79,
         "losses": 51
       },
@@ -249,7 +249,7 @@
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 68
       },
@@ -266,7 +266,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 68
       },
@@ -274,7 +274,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 56
       },
@@ -314,7 +314,7 @@
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 62
       },
@@ -322,7 +322,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 68
       },
