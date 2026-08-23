@@ -340,6 +340,14 @@
     },
     {
       "rank": 13,
+      "playerId": 656492,
+      "playerName": "Foster Griffin",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "3.19"
+    },
+    {
+      "rank": 14,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
@@ -347,7 +355,7 @@
       "value": "3.20"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -355,20 +363,12 @@
       "value": "3.21"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
       "teamAbbr": "WSH",
       "value": "3.22"
-    },
-    {
-      "rank": 16,
-      "playerId": 656492,
-      "playerName": "Foster Griffin",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "3.26"
     },
     {
       "rank": 17,
@@ -670,6 +670,14 @@
     },
     {
       "rank": 24,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "144"
+    },
+    {
+      "rank": 25,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -677,7 +685,7 @@
       "value": "144"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 112,
@@ -685,7 +693,7 @@
       "value": "143"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
@@ -693,20 +701,12 @@
       "value": "143"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 677960,
       "playerName": "Ryan Weathers",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "143"
-    },
-    {
-      "rank": 28,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "141"
     },
     {
       "rank": 29,
@@ -804,7 +804,7 @@
       "playerName": "Jacob Latz",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "25"
+      "value": "26"
     },
     {
       "rank": 11,
@@ -1082,14 +1082,6 @@
     },
     {
       "rank": 15,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "1.10"
-    },
-    {
-      "rank": 16,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1097,7 +1089,7 @@
       "value": "1.11"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -1105,12 +1097,20 @@
       "value": "1.11"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
       "value": "1.11"
+    },
+    {
+      "rank": 18,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "1.12"
     },
     {
       "rank": 19,
@@ -1122,18 +1122,18 @@
     },
     {
       "rank": 20,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "1.13"
-    },
-    {
-      "rank": 21,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "1.13"
+    },
+    {
+      "rank": 21,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": "1.13"
     },
     {
