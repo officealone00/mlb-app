@@ -78,7 +78,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".294"
+      "value": ".292"
     },
     {
       "rank": 11,
@@ -218,19 +218,19 @@
     },
     {
       "rank": 28,
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".278"
+    },
+    {
+      "rank": 29,
       "playerId": 701807,
       "playerName": "Carson Benge",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": ".278"
-    },
-    {
-      "rank": 29,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": ".277"
     },
     {
       "rank": 30,
@@ -646,6 +646,14 @@
     },
     {
       "rank": 21,
+      "playerId": 641343,
+      "playerName": "Jake Bauers",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "75"
+    },
+    {
+      "rank": 22,
       "playerId": 664761,
       "playerName": "Alec Bohm",
       "teamId": 143,
@@ -653,7 +661,7 @@
       "value": "75"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -661,20 +669,12 @@
       "value": "75"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
       "teamAbbr": "MIL",
       "value": "75"
-    },
-    {
-      "rank": 24,
-      "playerId": 641343,
-      "playerName": "Jake Bauers",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": "74"
     },
     {
       "rank": 25,
