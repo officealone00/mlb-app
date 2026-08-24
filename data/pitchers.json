@@ -336,10 +336,18 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "3.01"
+      "value": "2.96"
     },
     {
       "rank": 13,
+      "playerId": 676917,
+      "playerName": "Cade Cavalli",
+      "teamId": 120,
+      "teamAbbr": "WSH",
+      "value": "3.17"
+    },
+    {
+      "rank": 14,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
@@ -347,7 +355,7 @@
       "value": "3.19"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
@@ -355,20 +363,12 @@
       "value": "3.20"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "3.21"
-    },
-    {
-      "rank": 16,
-      "playerId": 676917,
-      "playerName": "Cade Cavalli",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "3.22"
     },
     {
       "rank": 17,
@@ -420,19 +420,19 @@
     },
     {
       "rank": 23,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "3.41"
+    },
+    {
+      "rank": 24,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "3.43"
-    },
-    {
-      "rank": 24,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "3.46"
     },
     {
       "rank": 25,
@@ -570,7 +570,7 @@
       "playerName": "Cade Cavalli",
       "teamId": 120,
       "teamAbbr": "WSH",
-      "value": "162"
+      "value": "163"
     },
     {
       "rank": 12,
@@ -714,7 +714,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "138"
+      "value": "139"
     },
     {
       "rank": 30,
@@ -990,7 +990,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "0.95"
+      "value": "0.93"
     },
     {
       "rank": 4,
@@ -1178,19 +1178,19 @@
     },
     {
       "rank": 27,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "1.17"
+    },
+    {
+      "rank": 28,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "1.17"
-    },
-    {
-      "rank": 28,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "1.18"
     },
     {
       "rank": 29,
