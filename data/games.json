@@ -173,7 +173,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 63
       },
@@ -181,7 +181,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 66
       },
@@ -212,8 +212,8 @@
     },
     {
       "gameId": 823989,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-26T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -258,8 +258,8 @@
     },
     {
       "gameId": 823259,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-26T01:40:00Z",
       "home": {
         "teamId": 135,
@@ -306,8 +306,8 @@
     },
     {
       "gameId": 823098,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-26T01:40:00Z",
       "home": {
         "teamId": 136,
