@@ -267,14 +267,14 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 71,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
         "score": null,
-        "wins": 63,
+        "wins": 64,
         "losses": 69
       },
       "koreanPlayerTeams": [
@@ -494,8 +494,8 @@
     },
     {
       "gameId": 823260,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-25T01:40:00Z",
       "home": {
         "teamId": 135,
@@ -503,14 +503,14 @@
         "kr": "샌디에이고",
         "score": 2,
         "wins": 71,
-        "losses": 60
+        "losses": 61
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
         "score": 3,
-        "wins": 63,
+        "wins": 64,
         "losses": 69
       },
       "koreanPlayerTeams": [
