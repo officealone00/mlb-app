@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 824233,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-25T22:40:00Z",
       "home": {
         "teamId": 116,
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 823826,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-25T22:40:00Z",
       "home": {
         "teamId": 146,
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 822693,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Warmup",
+      "statusCode": "PW",
       "startTime": "2026-08-25T22:45:00Z",
       "home": {
         "teamId": 120,
@@ -235,14 +235,14 @@
     },
     {
       "gameId": 825042,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-26T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 63
       },
@@ -250,7 +250,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 56
       },
@@ -290,7 +290,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 51,
         "losses": 81
       },
@@ -298,7 +298,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 68
       },
@@ -313,7 +313,7 @@
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 69
       },
@@ -321,7 +321,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 73,
         "losses": 59
       },
@@ -329,14 +329,14 @@
     },
     {
       "gameId": 823181,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-26T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 53,
         "losses": 78
       },
@@ -344,7 +344,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 62,
         "losses": 70
       },
