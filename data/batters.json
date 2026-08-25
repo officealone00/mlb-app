@@ -6,7 +6,7 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".323"
+      "value": ".321"
     },
     {
       "rank": 2,
@@ -54,7 +54,7 @@
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": ".304"
+      "value": ".303"
     },
     {
       "rank": 8,
@@ -90,22 +90,6 @@
     },
     {
       "rank": 12,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".289"
-    },
-    {
-      "rank": 13,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": ".289"
-    },
-    {
-      "rank": 14,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -113,7 +97,7 @@
       "value": ".289"
     },
     {
-      "rank": 15,
+      "rank": 13,
       "playerId": 691023,
       "playerName": "Jordan Walker",
       "teamId": 138,
@@ -121,11 +105,27 @@
       "value": ".289"
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
+      "value": ".288"
+    },
+    {
+      "rank": 15,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": ".288"
+    },
+    {
+      "rank": 16,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
       "value": ".288"
     },
     {
@@ -210,18 +210,18 @@
     },
     {
       "rank": 27,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".279"
-    },
-    {
-      "rank": 28,
       "playerId": 682928,
       "playerName": "CJ Abrams",
       "teamId": 120,
       "teamAbbr": "WSH",
+      "value": ".278"
+    },
+    {
+      "rank": 28,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".278"
     },
     {
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 605137,
+      "playerName": "Josh Bell",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "80"
+    },
+    {
+      "rank": 14,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -589,7 +597,7 @@
       "value": "80"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -597,20 +605,12 @@
       "value": "80"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 681624,
       "playerName": "Andy Pages",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "80"
-    },
-    {
-      "rank": 16,
-      "playerId": 605137,
-      "playerName": "Josh Bell",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "79"
     },
     {
       "rank": 17,
