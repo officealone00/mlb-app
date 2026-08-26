@@ -42,19 +42,19 @@
     },
     {
       "rank": 6,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".303"
-    },
-    {
-      "rank": 7,
       "playerId": 672515,
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": ".303"
+    },
+    {
+      "rank": 7,
+      "playerId": 650490,
+      "playerName": "Yandy Díaz",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".301"
     },
     {
       "rank": 8,
@@ -138,6 +138,14 @@
     },
     {
       "rank": 18,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".286"
+    },
+    {
+      "rank": 19,
       "playerId": 681198,
       "playerName": "TJ Rumfield",
       "teamId": 115,
@@ -145,19 +153,11 @@
       "value": ".286"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".286"
-    },
-    {
-      "rank": 20,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": ".286"
     },
     {
@@ -202,27 +202,27 @@
     },
     {
       "rank": 26,
-      "playerId": 805808,
-      "playerName": "Kevin McGonigle",
-      "teamId": 116,
-      "teamAbbr": "DET",
-      "value": ".280"
-    },
-    {
-      "rank": 27,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".278"
+      "value": ".280"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".277"
+      "value": ".280"
+    },
+    {
+      "rank": 28,
+      "playerId": 805808,
+      "playerName": "Kevin McGonigle",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".279"
     },
     {
       "rank": 29,
@@ -718,10 +718,10 @@
     },
     {
       "rank": 30,
-      "playerId": 695657,
-      "playerName": "Colson Montgomery",
-      "teamId": 145,
-      "teamAbbr": "CWS",
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": "73"
     }
   ],
