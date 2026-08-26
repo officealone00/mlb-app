@@ -82,14 +82,14 @@
         "kr": "LA 에인절스",
         "score": null,
         "wins": 52,
-        "losses": 80
+        "losses": 81
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
         "score": null,
-        "wins": 66,
+        "wins": 67,
         "losses": 66
       },
       "koreanPlayerTeams": []
@@ -566,8 +566,8 @@
     },
     {
       "gameId": 823989,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-26T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -575,14 +575,14 @@
         "kr": "LA 에인절스",
         "score": 6,
         "wins": 52,
-        "losses": 80
+        "losses": 81
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 6,
-        "wins": 66,
+        "score": 8,
+        "wins": 67,
         "losses": 66
       },
       "koreanPlayerTeams": []
