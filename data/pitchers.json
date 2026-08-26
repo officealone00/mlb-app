@@ -372,19 +372,19 @@
     },
     {
       "rank": 17,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "3.23"
+    },
+    {
+      "rank": 18,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "3.23"
-    },
-    {
-      "rank": 18,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "3.25"
     },
     {
       "rank": 19,
@@ -550,6 +550,14 @@
     },
     {
       "rank": 9,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "169"
+    },
+    {
+      "rank": 10,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -557,20 +565,12 @@
       "value": "169"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "168"
-    },
-    {
-      "rank": 11,
-      "playerId": 671737,
-      "playerName": "Taj Bradley",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "167"
     },
     {
       "rank": 12,
@@ -642,7 +642,7 @@
       "playerName": "Aaron Nola",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "152"
+      "value": "153"
     },
     {
       "rank": 21,
@@ -816,19 +816,19 @@
     },
     {
       "rank": 12,
+      "playerId": 662253,
+      "playerName": "Andrés Muñoz",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "24"
+    },
+    {
+      "rank": 13,
       "playerId": 623149,
       "playerName": "Paul Sewald",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "24"
-    },
-    {
-      "rank": 13,
-      "playerId": 662253,
-      "playerName": "Andrés Muñoz",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "23"
     },
     {
       "rank": 14,
@@ -1090,6 +1090,14 @@
     },
     {
       "rank": 16,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "1.12"
+    },
+    {
+      "rank": 17,
       "playerId": 684007,
       "playerName": "Shota Imanaga",
       "teamId": 112,
@@ -1097,7 +1105,7 @@
       "value": "1.12"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -1105,19 +1113,11 @@
       "value": "1.12"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "1.12"
-    },
-    {
-      "rank": 19,
-      "playerId": 694973,
-      "playerName": "Paul Skenes",
-      "teamId": 134,
-      "teamAbbr": "PIT",
       "value": "1.12"
     },
     {
