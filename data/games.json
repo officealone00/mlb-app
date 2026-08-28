@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824638,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-08-28T18:20:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 58
       },
@@ -17,7 +17,7 @@
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 63,
         "losses": 71
       },
@@ -338,7 +338,7 @@
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": null,
-        "wins": 54,
+        "wins": 55,
         "losses": 79
       },
       "away": {
@@ -347,7 +347,7 @@
         "kr": "애리조나",
         "score": null,
         "wins": 71,
-        "losses": 63
+        "losses": 64
       },
       "koreanPlayerTeams": [
         137
@@ -498,15 +498,15 @@
     },
     {
       "gameId": 823179,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-08-28T01:45:00Z",
       "home": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
         "score": 6,
-        "wins": 54,
+        "wins": 55,
         "losses": 79
       },
       "away": {
@@ -515,7 +515,7 @@
         "kr": "애리조나",
         "score": 1,
         "wins": 71,
-        "losses": 63
+        "losses": 64
       },
       "koreanPlayerTeams": [
         137
