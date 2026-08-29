@@ -54,7 +54,7 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".302"
+      "value": ".301"
     },
     {
       "rank": 8,
@@ -134,7 +134,7 @@
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".287"
+      "value": ".286"
     },
     {
       "rank": 18,
@@ -170,18 +170,18 @@
     },
     {
       "rank": 22,
-      "playerId": 695506,
-      "playerName": "Jac Caglianone",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".283"
-    },
-    {
-      "rank": 23,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
+      "value": ".284"
+    },
+    {
+      "rank": 23,
+      "playerId": 695506,
+      "playerName": "Jac Caglianone",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": ".283"
     },
     {
@@ -226,18 +226,18 @@
     },
     {
       "rank": 29,
-      "playerId": 575929,
-      "playerName": "Willson Contreras",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": ".278"
-    },
-    {
-      "rank": 30,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": ".277"
+    },
+    {
+      "rank": 30,
+      "playerId": 575929,
+      "playerName": "Willson Contreras",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".277"
     }
   ],
@@ -460,6 +460,14 @@
     },
     {
       "rank": 28,
+      "playerId": 677800,
+      "playerName": "Wilyer Abreu",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "23"
+    },
+    {
+      "rank": 29,
       "playerId": 641343,
       "playerName": "Jake Bauers",
       "teamId": 158,
@@ -467,19 +475,11 @@
       "value": "23"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 669394,
       "playerName": "Jake Burger",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "23"
-    },
-    {
-      "rank": 30,
-      "playerId": 695506,
-      "playerName": "Jac Caglianone",
-      "teamId": 118,
-      "teamAbbr": "KC",
       "value": "23"
     }
   ],
