@@ -6,7 +6,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".318"
+      "value": ".317"
     },
     {
       "rank": 2,
@@ -186,19 +186,19 @@
     },
     {
       "rank": 24,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
-      "value": ".282"
-    },
-    {
-      "rank": 25,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
       "value": ".282"
+    },
+    {
+      "rank": 25,
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".281"
     },
     {
       "rank": 26,
@@ -218,14 +218,6 @@
     },
     {
       "rank": 28,
-      "playerId": 701807,
-      "playerName": "Carson Benge",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": ".278"
-    },
-    {
-      "rank": 29,
       "playerId": 673548,
       "playerName": "Seiya Suzuki",
       "teamId": 112,
@@ -233,11 +225,19 @@
       "value": ".277"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
       "teamAbbr": "ATL",
+      "value": ".277"
+    },
+    {
+      "rank": 30,
+      "playerId": 701807,
+      "playerName": "Carson Benge",
+      "teamId": 121,
+      "teamAbbr": "NYM",
       "value": ".277"
     }
   ],
@@ -662,6 +662,14 @@
     },
     {
       "rank": 23,
+      "playerId": 547180,
+      "playerName": "Bryce Harper",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "78"
+    },
+    {
+      "rank": 24,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -669,7 +677,7 @@
       "value": "78"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -677,19 +685,11 @@
       "value": "78"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 669394,
       "playerName": "Jake Burger",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "77"
-    },
-    {
-      "rank": 26,
-      "playerId": 547180,
-      "playerName": "Bryce Harper",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "77"
     },
     {
