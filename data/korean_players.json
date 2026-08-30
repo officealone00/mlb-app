@@ -60,16 +60,16 @@
     "teamKrName": "애틀랜타",
     "stats": {
       "hitting": {
-        "games": 34,
-        "atBats": 83,
+        "games": 35,
+        "atBats": 86,
         "hits": 7,
         "homeRuns": 0,
         "rbi": 5,
         "stolenBases": 2,
-        "avg": ".084",
-        "obp": ".183",
-        "slg": ".084",
-        "ops": ".267"
+        "avg": ".081",
+        "obp": ".177",
+        "slg": ".081",
+        "ops": ".258"
       },
       "pitching": null
     }
@@ -85,16 +85,16 @@
     "teamKrName": "샌디에이고",
     "stats": {
       "hitting": {
-        "games": 62,
-        "atBats": 114,
+        "games": 63,
+        "atBats": 116,
         "hits": 23,
         "homeRuns": 1,
-        "rbi": 15,
-        "stolenBases": 12,
-        "avg": ".202",
-        "obp": ".305",
-        "slg": ".263",
-        "ops": ".568"
+        "rbi": 16,
+        "stolenBases": 13,
+        "avg": ".198",
+        "obp": ".304",
+        "slg": ".259",
+        "ops": ".563"
       },
       "pitching": null
     }
