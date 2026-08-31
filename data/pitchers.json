@@ -18,6 +18,14 @@
     },
     {
       "rank": 3,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "15"
+    },
+    {
+      "rank": 4,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
@@ -25,19 +33,11 @@
       "value": "15"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "14"
-    },
-    {
-      "rank": 5,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
       "value": "14"
     },
     {
@@ -312,7 +312,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.77"
+      "value": "2.79"
     },
     {
       "rank": 10,
@@ -574,6 +574,14 @@
     },
     {
       "rank": 12,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "171"
+    },
+    {
+      "rank": 13,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -581,7 +589,7 @@
       "value": "169"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -589,7 +597,7 @@
       "value": "166"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -597,19 +605,11 @@
       "value": "165"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "164"
-    },
-    {
-      "rank": 16,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
       "value": "164"
     },
     {
@@ -694,19 +694,19 @@
     },
     {
       "rank": 27,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "148"
+    },
+    {
+      "rank": 28,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "145"
-    },
-    {
-      "rank": 28,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "144"
     },
     {
       "rank": 29,
@@ -856,18 +856,18 @@
     },
     {
       "rank": 17,
-      "playerId": 664126,
-      "playerName": "Pete Fairbanks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "18"
-    },
-    {
-      "rank": 18,
       "playerId": 641941,
       "playerName": "Emilio Pagán",
       "teamId": 113,
       "teamAbbr": "CIN",
+      "value": "19"
+    },
+    {
+      "rank": 18,
+      "playerId": 664126,
+      "playerName": "Pete Fairbanks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
       "value": "18"
     },
     {
@@ -1106,14 +1106,6 @@
     },
     {
       "rank": 18,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "1.12"
-    },
-    {
-      "rank": 19,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
@@ -1121,7 +1113,7 @@
       "value": "1.12"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -1129,7 +1121,7 @@
       "value": "1.12"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -1137,7 +1129,7 @@
       "value": "1.12"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 676106,
       "playerName": "Emerson Hancock",
       "teamId": 136,
@@ -1145,20 +1137,28 @@
       "value": "1.14"
     },
     {
-      "rank": 23,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "1.15"
+      "rank": 22,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "1.14"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
       "value": "1.15"
+    },
+    {
+      "rank": 24,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "1.16"
     },
     {
       "rank": 25,
