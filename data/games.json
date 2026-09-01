@@ -270,14 +270,14 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 52,
-        "losses": 85
+        "losses": 86
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": null,
-        "wins": 68,
+        "wins": 69,
         "losses": 69
       },
       "koreanPlayerTeams": []
@@ -569,8 +569,8 @@
     },
     {
       "gameId": 824314,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-01T00:40:00Z",
       "home": {
         "teamId": 115,
@@ -578,14 +578,14 @@
         "kr": "콜로라도",
         "score": 1,
         "wins": 52,
-        "losses": 85
+        "losses": 86
       },
       "away": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
         "score": 2,
-        "wins": 68,
+        "wins": 69,
         "losses": 69
       },
       "koreanPlayerTeams": []
