@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824470,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-02T16:40:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 73
       },
@@ -17,7 +17,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 73,
         "losses": 66
       },
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 822686,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-02T17:05:00Z",
       "home": {
         "teamId": 120,
