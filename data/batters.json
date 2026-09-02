@@ -70,7 +70,7 @@
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".296"
+      "value": ".295"
     },
     {
       "rank": 10,
@@ -146,6 +146,14 @@
     },
     {
       "rank": 19,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".284"
+    },
+    {
+      "rank": 20,
       "playerId": 691406,
       "playerName": "Junior Caminero",
       "teamId": 139,
@@ -153,7 +161,7 @@
       "value": ".283"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -161,19 +169,11 @@
       "value": ".283"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 694192,
       "playerName": "Jackson Chourio",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": ".282"
-    },
-    {
-      "rank": 22,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": ".282"
     },
     {
@@ -210,19 +210,19 @@
     },
     {
       "rank": 27,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".279"
-    },
-    {
-      "rank": 28,
       "playerId": 807712,
       "playerName": "Luke Keaschall",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": ".278"
+    },
+    {
+      "rank": 28,
+      "playerId": 686948,
+      "playerName": "Drake Baldwin",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".277"
     },
     {
       "rank": 29,
