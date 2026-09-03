@@ -197,14 +197,14 @@
         "kr": "LA 다저스",
         "score": null,
         "wins": 82,
-        "losses": 56
+        "losses": 57
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
         "score": null,
-        "wins": 69,
+        "wins": 70,
         "losses": 70
       },
       "koreanPlayerTeams": [
@@ -520,46 +520,46 @@
     },
     {
       "gameId": 823983,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-03T01:38:00Z",
       "home": {
         "teamId": 108,
         "abbr": "LAA",
         "kr": "LA 에인절스",
-        "score": 1,
+        "score": 3,
         "wins": 53,
-        "losses": 86
+        "losses": 87
       },
       "away": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 1,
-        "wins": 79,
+        "score": 6,
+        "wins": 80,
         "losses": 60
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823906,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-03T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 5,
+        "score": 6,
         "wins": 82,
-        "losses": 56
+        "losses": 57
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 4,
-        "wins": 69,
+        "score": 8,
+        "wins": 70,
         "losses": 70
       },
       "koreanPlayerTeams": [
