@@ -408,7 +408,7 @@
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "3.32"
+      "value": "3.36"
     },
     {
       "rank": 22,
@@ -432,7 +432,7 @@
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "3.46"
+      "value": "3.45"
     },
     {
       "rank": 25,
@@ -646,19 +646,19 @@
     },
     {
       "rank": 21,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "159"
+    },
+    {
+      "rank": 22,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "157"
-    },
-    {
-      "rank": 22,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "156"
     },
     {
       "rank": 23,
@@ -1074,19 +1074,19 @@
     },
     {
       "rank": 14,
-      "playerId": 608379,
-      "playerName": "Michael Wacha",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "1.10"
-    },
-    {
-      "rank": 15,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "1.10"
+    },
+    {
+      "rank": 15,
+      "playerId": 608379,
+      "playerName": "Michael Wacha",
+      "teamId": 118,
+      "teamAbbr": "KC",
+      "value": "1.11"
     },
     {
       "rank": 16,
@@ -1170,19 +1170,19 @@
     },
     {
       "rank": 26,
+      "playerId": 645261,
+      "playerName": "Sandy Alcantara",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "1.18"
+    },
+    {
+      "rank": 27,
       "playerId": 676440,
       "playerName": "Tanner Bibee",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "1.18"
-    },
-    {
-      "rank": 27,
-      "playerId": 645261,
-      "playerName": "Sandy Alcantara",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "1.19"
     },
     {
       "rank": 28,
