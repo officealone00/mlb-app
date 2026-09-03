@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823337,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-03T16:35:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 72
       },
@@ -17,7 +17,7 @@
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": null,
+        "score": 0,
         "wins": 58,
         "losses": 82
       },
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 824388,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-03T17:10:00Z",
       "home": {
         "teamId": 114,
