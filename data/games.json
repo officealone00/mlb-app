@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823337,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-03T16:35:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 0,
+        "score": 4,
         "wins": 68,
         "losses": 72
       },
@@ -27,14 +27,14 @@
     },
     {
       "gameId": 824388,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-03T17:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 1,
         "wins": 70,
         "losses": 69
       },
@@ -42,7 +42,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 1,
         "wins": 69,
         "losses": 71
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 824144,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-03T18:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 71,
         "losses": 69
       },
@@ -65,7 +65,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": null,
+        "score": 0,
         "wins": 73,
         "losses": 66
       },

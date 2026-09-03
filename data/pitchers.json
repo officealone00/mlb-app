@@ -420,19 +420,19 @@
     },
     {
       "rank": 23,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "3.44"
+    },
+    {
+      "rank": 24,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
       "teamAbbr": "LAA",
       "value": "3.44"
-    },
-    {
-      "rank": 24,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "3.45"
     },
     {
       "rank": 25,
@@ -468,19 +468,19 @@
     },
     {
       "rank": 29,
+      "playerId": 676440,
+      "playerName": "Tanner Bibee",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "3.84"
+    },
+    {
+      "rank": 30,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.85"
-    },
-    {
-      "rank": 30,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "3.88"
     }
   ],
   "k": [
@@ -686,18 +686,18 @@
     },
     {
       "rank": 26,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "149"
-    },
-    {
-      "rank": 27,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": "150"
+    },
+    {
+      "rank": 27,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": "149"
     },
     {

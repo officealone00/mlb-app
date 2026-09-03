@@ -30,7 +30,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".310"
+      "value": ".308"
     },
     {
       "rank": 5,
@@ -66,19 +66,19 @@
     },
     {
       "rank": 9,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".295"
+    },
+    {
+      "rank": 10,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": ".295"
-    },
-    {
-      "rank": 10,
-      "playerId": 800050,
-      "playerName": "Chase DeLauter",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": ".294"
     },
     {
       "rank": 11,
@@ -816,6 +816,14 @@
     },
     {
       "rank": 12,
+      "playerId": 665833,
+      "playerName": "Oneil Cruz",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "26"
+    },
+    {
+      "rank": 13,
       "playerId": 664983,
       "playerName": "Jake McCarthy",
       "teamId": 115,
@@ -823,20 +831,12 @@
       "value": "26"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 647304,
       "playerName": "Josh Naylor",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "26"
-    },
-    {
-      "rank": 14,
-      "playerId": 665833,
-      "playerName": "Oneil Cruz",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "25"
     },
     {
       "rank": 15,
