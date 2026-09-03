@@ -420,14 +420,6 @@
     },
     {
       "rank": 23,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "3.44"
-    },
-    {
-      "rank": 24,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -435,12 +427,20 @@
       "value": "3.44"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
       "value": "3.46"
+    },
+    {
+      "rank": 25,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "3.52"
     },
     {
       "rank": 26,
@@ -468,19 +468,19 @@
     },
     {
       "rank": 29,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "3.84"
-    },
-    {
-      "rank": 30,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
       "teamAbbr": "MIN",
       "value": "3.85"
+    },
+    {
+      "rank": 30,
+      "playerId": 694973,
+      "playerName": "Paul Skenes",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "3.97"
     }
   ],
   "k": [
@@ -690,7 +690,7 @@
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "150"
+      "value": "151"
     },
     {
       "rank": 27,
@@ -760,18 +760,18 @@
     },
     {
       "rank": 5,
-      "playerId": 670280,
-      "playerName": "David Bednar",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "31"
-    },
-    {
-      "rank": 6,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": "32"
+    },
+    {
+      "rank": 6,
+      "playerId": 670280,
+      "playerName": "David Bednar",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": "31"
     },
     {
@@ -1146,14 +1146,6 @@
     },
     {
       "rank": 23,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.16"
-    },
-    {
-      "rank": 24,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
@@ -1161,7 +1153,7 @@
       "value": "1.16"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -1169,11 +1161,19 @@
       "value": "1.17"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": "1.18"
+    },
+    {
+      "rank": 26,
+      "playerId": 676440,
+      "playerName": "Tanner Bibee",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": "1.18"
     },
     {
