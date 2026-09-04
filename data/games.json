@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824424,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Delayed Start",
+      "statusCode": "PR",
       "startTime": "2026-09-04T18:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 0,
         "wins": 70,
         "losses": 70
       },
@@ -17,7 +17,7 @@
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 64,
         "losses": 75
       },
@@ -48,8 +48,8 @@
     },
     {
       "gameId": 824471,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-04T22:10:00Z",
       "home": {
         "teamId": 113,
