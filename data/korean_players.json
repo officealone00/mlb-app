@@ -11,15 +11,15 @@
     "stats": {
       "hitting": {
         "games": 130,
-        "atBats": 488,
+        "atBats": 492,
         "hits": 138,
         "homeRuns": 9,
         "rbi": 51,
         "stolenBases": 12,
-        "avg": ".283",
-        "obp": ".326",
-        "slg": ".412",
-        "ops": ".738"
+        "avg": ".280",
+        "obp": ".323",
+        "slg": ".409",
+        "ops": ".732"
       },
       "pitching": null
     }
@@ -85,7 +85,7 @@
     "teamKrName": "샌디에이고",
     "stats": {
       "hitting": {
-        "games": 65,
+        "games": 66,
         "atBats": 121,
         "hits": 23,
         "homeRuns": 1,
