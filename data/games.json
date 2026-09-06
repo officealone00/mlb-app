@@ -167,8 +167,8 @@
     },
     {
       "gameId": 824142,
-      "status": "Game Over",
-      "statusCode": "O",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-06T18:10:00Z",
       "home": {
         "teamId": 117,
@@ -213,15 +213,15 @@
     },
     {
       "gameId": 822848,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-06T18:35:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": 7,
-        "wins": 70,
+        "score": 8,
+        "wins": 71,
         "losses": 73
       },
       "away": {
@@ -230,44 +230,44 @@
         "kr": "탬파베이",
         "score": 6,
         "wins": 85,
-        "losses": 57
+        "losses": 58
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824309,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-06T19:10:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 5,
+        "score": 8,
         "wins": 55,
-        "losses": 87
+        "losses": 88
       },
       "away": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 7,
-        "wins": 71,
+        "score": 10,
+        "wins": 72,
         "losses": 72
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823091,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-06T20:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
         "score": 2,
-        "wins": 66,
+        "wins": 67,
         "losses": 77
       },
       "away": {
@@ -276,30 +276,30 @@
         "kr": "애슬레틱스",
         "score": 0,
         "wins": 57,
-        "losses": 86
+        "losses": 87
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823253,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-06T20:10:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 3,
-        "wins": 74,
+        "score": 4,
+        "wins": 75,
         "losses": 68
       },
       "away": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 3,
         "wins": 81,
-        "losses": 61
+        "losses": 62
       },
       "koreanPlayerTeams": [
         135
@@ -307,8 +307,8 @@
     },
     {
       "gameId": 824552,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-06T22:20:00Z",
       "home": {
         "teamId": 145,
@@ -330,8 +330,8 @@
     },
     {
       "gameId": 823903,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-07T02:10:00Z",
       "home": {
         "teamId": 119,

@@ -22,7 +22,7 @@
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".309"
+      "value": ".308"
     },
     {
       "rank": 4,
@@ -70,7 +70,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".297"
+      "value": ".299"
     },
     {
       "rank": 10,
@@ -82,6 +82,14 @@
     },
     {
       "rank": 11,
+      "playerId": 664983,
+      "playerName": "Jake McCarthy",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".293"
+    },
+    {
+      "rank": 12,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
@@ -89,20 +97,12 @@
       "value": ".291"
     },
     {
-      "rank": 12,
-      "playerId": 664983,
-      "playerName": "Jake McCarthy",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".290"
-    },
-    {
       "rank": 13,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".289"
+      "value": ".288"
     },
     {
       "rank": 14,
@@ -118,7 +118,7 @@
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": ".285"
+      "value": ".284"
     },
     {
       "rank": 16,
@@ -126,10 +126,18 @@
       "playerName": "Jordan Walker",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".285"
+      "value": ".284"
     },
     {
       "rank": 17,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".283"
+    },
+    {
+      "rank": 18,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -137,19 +145,11 @@
       "value": ".283"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": ".282"
-    },
-    {
-      "rank": 19,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
       "value": ".282"
     },
     {
@@ -170,14 +170,6 @@
     },
     {
       "rank": 22,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": ".281"
-    },
-    {
-      "rank": 23,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
@@ -185,19 +177,27 @@
       "value": ".280"
     },
     {
-      "rank": 24,
-      "playerId": 691406,
-      "playerName": "Junior Caminero",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".280"
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": ".280"
+    },
+    {
+      "rank": 24,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".280"
+    },
+    {
+      "rank": 25,
+      "playerId": 691406,
+      "playerName": "Junior Caminero",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".280"
     },
     {
@@ -210,6 +210,14 @@
     },
     {
       "rank": 27,
+      "playerId": 666018,
+      "playerName": "Jonathan Aranda",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".279"
+    },
+    {
+      "rank": 28,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -217,19 +225,11 @@
       "value": ".279"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": ".278"
-    },
-    {
-      "rank": 29,
-      "playerId": 666018,
-      "playerName": "Jonathan Aranda",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": ".278"
     },
     {
@@ -238,7 +238,7 @@
       "playerName": "Ezequiel Duran",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": ".278"
+      "value": ".277"
     }
   ],
   "hr": [
@@ -498,7 +498,7 @@
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": "102"
+      "value": "103"
     },
     {
       "rank": 3,

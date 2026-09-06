@@ -210,6 +210,14 @@
     },
     {
       "rank": 27,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "11"
+    },
+    {
+      "rank": 28,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -217,7 +225,7 @@
       "value": "11"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
@@ -225,19 +233,11 @@
       "value": "10"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 543135,
       "playerName": "Nathan Eovaldi",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "10"
-    },
-    {
-      "rank": 30,
-      "playerId": 690986,
-      "playerName": "Kyle Harrison",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "10"
     }
   ],
@@ -332,19 +332,19 @@
     },
     {
       "rank": 12,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "3.00"
+    },
+    {
+      "rank": 13,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "3.02"
-    },
-    {
-      "rank": 13,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "3.04"
     },
     {
       "rank": 14,
@@ -686,19 +686,19 @@
     },
     {
       "rank": 26,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "158"
+    },
+    {
+      "rank": 27,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "156"
-    },
-    {
-      "rank": 27,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "153"
     },
     {
       "rank": 28,
@@ -760,19 +760,19 @@
     },
     {
       "rank": 5,
+      "playerId": 695243,
+      "playerName": "Mason Miller",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "33"
+    },
+    {
+      "rank": 6,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "33"
-    },
-    {
-      "rank": 6,
-      "playerId": 695243,
-      "playerName": "Mason Miller",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "32"
     },
     {
       "rank": 7,
@@ -820,7 +820,7 @@
       "playerName": "Andrés Muñoz",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "24"
+      "value": "25"
     },
     {
       "rank": 13,
@@ -1034,6 +1034,14 @@
     },
     {
       "rank": 9,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "1.06"
+    },
+    {
+      "rank": 10,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -1041,17 +1049,9 @@
       "value": "1.06"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "1.07"
-    },
-    {
-      "rank": 11,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "1.07"
@@ -1146,14 +1146,6 @@
     },
     {
       "rank": 23,
-      "playerId": 650633,
-      "playerName": "Michael King",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "1.16"
-    },
-    {
-      "rank": 24,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
@@ -1161,12 +1153,20 @@
       "value": "1.16"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
       "teamAbbr": "SF",
       "value": "1.16"
+    },
+    {
+      "rank": 25,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "1.17"
     },
     {
       "rank": 26,
