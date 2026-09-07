@@ -182,7 +182,7 @@
         "kr": "워싱턴",
         "score": null,
         "wins": 67,
-        "losses": 77
+        "losses": 78
       },
       "koreanPlayerTeams": [
         135
@@ -223,7 +223,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 85,
+        "wins": 86,
         "losses": 57
       },
       "away": {
@@ -593,15 +593,15 @@
     },
     {
       "gameId": 823903,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-07T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 4,
-        "wins": 85,
+        "score": 7,
+        "wins": 86,
         "losses": 57
       },
       "away": {
@@ -610,7 +610,7 @@
         "kr": "워싱턴",
         "score": 5,
         "wins": 67,
-        "losses": 77
+        "losses": 78
       },
       "koreanPlayerTeams": [
         119
