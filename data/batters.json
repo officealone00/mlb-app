@@ -62,7 +62,7 @@
       "playerName": "Gabriel Moreno",
       "teamId": 109,
       "teamAbbr": "ARI",
-      "value": ".299"
+      "value": ".301"
     },
     {
       "rank": 9,
@@ -130,6 +130,14 @@
     },
     {
       "rank": 17,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": ".283"
+    },
+    {
+      "rank": 18,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -137,7 +145,7 @@
       "value": ".283"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
@@ -145,7 +153,7 @@
       "value": ".283"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -153,7 +161,7 @@
       "value": ".282"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
@@ -161,7 +169,15 @@
       "value": ".282"
     },
     {
-      "rank": 21,
+      "rank": 22,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": ".281"
+    },
+    {
+      "rank": 23,
       "playerId": 694192,
       "playerName": "Jackson Chourio",
       "teamId": 158,
@@ -169,27 +185,11 @@
       "value": ".281"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".280"
-    },
-    {
-      "rank": 23,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".280"
-    },
-    {
-      "rank": 24,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": ".280"
     },
     {
@@ -218,6 +218,14 @@
     },
     {
       "rank": 28,
+      "playerId": 682985,
+      "playerName": "Riley Greene",
+      "teamId": 116,
+      "teamAbbr": "DET",
+      "value": ".279"
+    },
+    {
+      "rank": 29,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -225,20 +233,12 @@
       "value": ".279"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 677649,
       "playerName": "Ezequiel Duran",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": ".277"
-    },
-    {
-      "rank": 30,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".276"
     }
   ],
   "hr": [
@@ -256,7 +256,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "40"
+      "value": "41"
     },
     {
       "rank": 3,
@@ -514,7 +514,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "96"
+      "value": "97"
     },
     {
       "rank": 5,
@@ -768,6 +768,14 @@
     },
     {
       "rank": 6,
+      "playerId": 665487,
+      "playerName": "Fernando Tatis Jr.",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "32"
+    },
+    {
+      "rank": 7,
       "playerId": 676609,
       "playerName": "José Caballero",
       "teamId": 147,
@@ -775,19 +783,11 @@
       "value": "31"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 608070,
       "playerName": "José Ramírez",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "31"
-    },
-    {
-      "rank": 8,
-      "playerId": 665487,
-      "playerName": "Fernando Tatis Jr.",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": "31"
     },
     {
@@ -848,18 +848,18 @@
     },
     {
       "rank": 16,
-      "playerId": 682829,
-      "playerName": "Elly De La Cruz",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "24"
-    },
-    {
-      "rank": 17,
       "playerId": 701538,
       "playerName": "Jackson Merrill",
       "teamId": 135,
       "teamAbbr": "SD",
+      "value": "25"
+    },
+    {
+      "rank": 17,
+      "playerId": 682829,
+      "playerName": "Elly De La Cruz",
+      "teamId": 113,
+      "teamAbbr": "CIN",
       "value": "24"
     },
     {
