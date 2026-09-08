@@ -290,7 +290,7 @@
         "abbr": "ATH",
         "kr": "애슬레틱스",
         "score": null,
-        "wins": 57,
+        "wins": 58,
         "losses": 87
       },
       "away": {
@@ -299,7 +299,7 @@
         "kr": "토론토",
         "score": null,
         "wins": 72,
-        "losses": 72
+        "losses": 73
       },
       "koreanPlayerTeams": []
     },
@@ -595,24 +595,24 @@
     },
     {
       "gameId": 824958,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-08T02:05:00Z",
       "home": {
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": 5,
-        "wins": 57,
+        "score": 6,
+        "wins": 58,
         "losses": 87
       },
       "away": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 4,
+        "score": 5,
         "wins": 72,
-        "losses": 72
+        "losses": 73
       },
       "koreanPlayerTeams": []
     }
