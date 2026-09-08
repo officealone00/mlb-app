@@ -272,7 +272,7 @@
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "2.25"
+      "value": "2.40"
     },
     {
       "rank": 5,
@@ -320,7 +320,7 @@
       "playerName": "Chase Burns",
       "teamId": 113,
       "teamAbbr": "CIN",
-      "value": "2.79"
+      "value": "2.73"
     },
     {
       "rank": 11,
@@ -494,19 +494,19 @@
     },
     {
       "rank": 2,
+      "playerId": 656302,
+      "playerName": "Dylan Cease",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "227"
+    },
+    {
+      "rank": 3,
       "playerId": 694819,
       "playerName": "Jacob Misiorowski",
       "teamId": 158,
       "teamAbbr": "MIL",
       "value": "227"
-    },
-    {
-      "rank": 3,
-      "playerId": 656302,
-      "playerName": "Dylan Cease",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "221"
     },
     {
       "rank": 4,
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "176"
+    },
+    {
+      "rank": 14,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -589,7 +597,7 @@
       "value": "176"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -597,7 +605,7 @@
       "value": "174"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -605,20 +613,12 @@
       "value": "173"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "173"
-    },
-    {
-      "rank": 17,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "171"
     },
     {
       "rank": 18,
@@ -752,18 +752,18 @@
     },
     {
       "rank": 4,
-      "playerId": 547973,
-      "playerName": "Aroldis Chapman",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "33"
-    },
-    {
-      "rank": 5,
       "playerId": 695243,
       "playerName": "Mason Miller",
       "teamId": 135,
       "teamAbbr": "SD",
+      "value": "34"
+    },
+    {
+      "rank": 5,
+      "playerId": 547973,
+      "playerName": "Aroldis Chapman",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": "33"
     },
     {
@@ -1098,6 +1098,14 @@
     },
     {
       "rank": 17,
+      "playerId": 695505,
+      "playerName": "Chase Burns",
+      "teamId": 113,
+      "teamAbbr": "CIN",
+      "value": "1.14"
+    },
+    {
+      "rank": 18,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
@@ -1105,7 +1113,7 @@
       "value": "1.14"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -1113,7 +1121,7 @@
       "value": "1.14"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -1121,7 +1129,7 @@
       "value": "1.14"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
@@ -1129,27 +1137,19 @@
       "value": "1.15"
     },
     {
-      "rank": 21,
-      "playerId": 695505,
-      "playerName": "Chase Burns",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": "1.16"
-    },
-    {
       "rank": 22,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "1.16"
-    },
-    {
-      "rank": 23,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
       "teamAbbr": "SF",
+      "value": "1.15"
+    },
+    {
+      "rank": 23,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": "1.16"
     },
     {
