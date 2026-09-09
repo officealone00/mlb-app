@@ -10,16 +10,16 @@
     "teamKrName": "샌프란시스코",
     "stats": {
       "hitting": {
-        "games": 132,
-        "atBats": 500,
+        "games": 133,
+        "atBats": 501,
         "hits": 140,
         "homeRuns": 9,
         "rbi": 53,
         "stolenBases": 12,
-        "avg": ".280",
+        "avg": ".279",
         "obp": ".323",
-        "slg": ".406",
-        "ops": ".729"
+        "slg": ".405",
+        "ops": ".728"
       },
       "pitching": null
     }
@@ -85,7 +85,7 @@
     "teamKrName": "샌디에이고",
     "stats": {
       "hitting": {
-        "games": 66,
+        "games": 67,
         "atBats": 121,
         "hits": 23,
         "homeRuns": 1,
