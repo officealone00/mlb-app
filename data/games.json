@@ -107,14 +107,14 @@
         "kr": "시애틀",
         "score": null,
         "wins": 67,
-        "losses": 77
+        "losses": 78
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
         "score": null,
-        "wins": 71,
+        "wins": 72,
         "losses": 73
       },
       "koreanPlayerTeams": []
@@ -338,7 +338,7 @@
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": null,
-        "wins": 87,
+        "wins": 88,
         "losses": 57
       },
       "away": {
@@ -347,7 +347,7 @@
         "kr": "신시내티",
         "score": null,
         "wins": 69,
-        "losses": 75
+        "losses": 76
       },
       "koreanPlayerTeams": [
         119
@@ -614,23 +614,23 @@
     },
     {
       "gameId": 823092,
-      "status": "Player challenge",
-      "statusCode": "MJ",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-09T01:40:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": 4,
+        "score": 5,
         "wins": 67,
-        "losses": 77
+        "losses": 78
       },
       "away": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
         "score": 10,
-        "wins": 71,
+        "wins": 72,
         "losses": 73
       },
       "koreanPlayerTeams": []
@@ -685,15 +685,15 @@
     },
     {
       "gameId": 823901,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-09T02:10:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
         "score": 3,
-        "wins": 87,
+        "wins": 88,
         "losses": 57
       },
       "away": {
@@ -702,7 +702,7 @@
         "kr": "신시내티",
         "score": 2,
         "wins": 69,
-        "losses": 75
+        "losses": 76
       },
       "koreanPlayerTeams": [
         119
