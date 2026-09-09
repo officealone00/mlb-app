@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824226,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-09T17:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 79
       },
@@ -17,7 +17,7 @@
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 76
       },
