@@ -14,7 +14,7 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "16"
+      "value": "17"
     },
     {
       "rank": 3,
@@ -122,6 +122,14 @@
     },
     {
       "rank": 16,
+      "playerId": 808967,
+      "playerName": "Yoshinobu Yamamoto",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "13"
+    },
+    {
+      "rank": 17,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -129,7 +137,7 @@
       "value": "12"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
@@ -137,7 +145,7 @@
       "value": "12"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
@@ -145,7 +153,7 @@
       "value": "12"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 608372,
       "playerName": "Tomoyuki Sugano",
       "teamId": 115,
@@ -153,19 +161,11 @@
       "value": "12"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "12"
-    },
-    {
-      "rank": 21,
-      "playerId": 808967,
-      "playerName": "Yoshinobu Yamamoto",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "12"
     },
     {
@@ -296,7 +296,7 @@
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "2.67"
+      "value": "2.62"
     },
     {
       "rank": 8,
@@ -320,7 +320,7 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "2.82"
+      "value": "2.79"
     },
     {
       "rank": 11,
@@ -468,18 +468,18 @@
     },
     {
       "rank": 29,
-      "playerId": 669358,
-      "playerName": "Shane Baz",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "3.90"
-    },
-    {
-      "rank": 30,
       "playerId": 680694,
       "playerName": "Kyle Bradish",
       "teamId": 110,
       "teamAbbr": "BAL",
+      "value": "3.91"
+    },
+    {
+      "rank": 30,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": "3.91"
     }
   ],
@@ -530,7 +530,7 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "209"
+      "value": "210"
     },
     {
       "rank": 7,
@@ -622,6 +622,22 @@
     },
     {
       "rank": 18,
+      "playerId": 592332,
+      "playerName": "Kevin Gausman",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "171"
+    },
+    {
+      "rank": 19,
+      "playerId": 808967,
+      "playerName": "Yoshinobu Yamamoto",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "171"
+    },
+    {
+      "rank": 20,
       "playerId": 669022,
       "playerName": "MacKenzie Gore",
       "teamId": 140,
@@ -629,7 +645,7 @@
       "value": "170"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -637,15 +653,7 @@
       "value": "169"
     },
     {
-      "rank": 20,
-      "playerId": 592332,
-      "playerName": "Kevin Gausman",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "166"
-    },
-    {
-      "rank": 21,
+      "rank": 22,
       "playerId": 669373,
       "playerName": "Tarik Skubal",
       "teamId": 119,
@@ -653,7 +661,7 @@
       "value": "164"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -661,20 +669,12 @@
       "value": "163"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "162"
-    },
-    {
-      "rank": 24,
-      "playerId": 808967,
-      "playerName": "Yoshinobu Yamamoto",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": "161"
     },
     {
       "rank": 25,
@@ -936,18 +936,18 @@
     },
     {
       "rank": 27,
-      "playerId": 656638,
-      "playerName": "Alex Lange",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": "10"
-    },
-    {
-      "rank": 28,
       "playerId": 682254,
       "playerName": "Mason Montgomery",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": "11"
+    },
+    {
+      "rank": 28,
+      "playerId": 656638,
+      "playerName": "Alex Lange",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": "10"
     },
     {
@@ -982,7 +982,7 @@
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "0.90"
+      "value": "0.88"
     },
     {
       "rank": 3,
@@ -1202,10 +1202,10 @@
     },
     {
       "rank": 30,
-      "playerId": 669432,
-      "playerName": "Trevor Rogers",
-      "teamId": 110,
-      "teamAbbr": "BAL",
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
       "value": "1.21"
     }
   ]
