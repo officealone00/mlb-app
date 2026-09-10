@@ -2,24 +2,24 @@
   "today": [
     {
       "gameId": 824872,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-10T16:15:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 0,
-        "wins": 85,
+        "score": 3,
+        "wins": 86,
         "losses": 61
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 1,
         "wins": 87,
-        "losses": 58
+        "losses": 59
       },
       "koreanPlayerTeams": [
         144
@@ -27,14 +27,14 @@
     },
     {
       "gameId": 823413,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-10T17:05:00Z",
       "home": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 1,
         "wins": 82,
         "losses": 64
       },
@@ -42,7 +42,7 @@
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": 0,
+        "score": 2,
         "wins": 74,
         "losses": 72
       },
@@ -50,14 +50,14 @@
     },
     {
       "gameId": 823088,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-10T20:10:00Z",
       "home": {
         "teamId": 136,
         "abbr": "SEA",
         "kr": "시애틀",
-        "score": null,
+        "score": 0,
         "wins": 68,
         "losses": 78
       },
@@ -65,7 +65,7 @@
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 72,
         "losses": 74
       },
@@ -73,8 +73,8 @@
     },
     {
       "gameId": 823499,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-10T23:05:00Z",
       "home": {
         "teamId": 147,
