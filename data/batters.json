@@ -26,19 +26,19 @@
     },
     {
       "rank": 4,
-      "playerId": 693304,
-      "playerName": "Nick Gonzales",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": ".305"
-    },
-    {
-      "rank": 5,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".305"
+    },
+    {
+      "rank": 5,
+      "playerId": 693304,
+      "playerName": "Nick Gonzales",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": ".304"
     },
     {
       "rank": 6,
@@ -70,7 +70,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".297"
+      "value": ".296"
     },
     {
       "rank": 10,
@@ -86,7 +86,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".292"
+      "value": ".290"
     },
     {
       "rank": 12,
@@ -348,6 +348,14 @@
     },
     {
       "rank": 14,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
+      "value": "30"
+    },
+    {
+      "rank": 15,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -355,7 +363,7 @@
       "value": "30"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -363,7 +371,7 @@
       "value": "30"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 678246,
       "playerName": "Miguel Vargas",
       "teamId": 145,
@@ -371,20 +379,12 @@
       "value": "30"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 695578,
       "playerName": "James Wood",
       "teamId": 120,
       "teamAbbr": "WSH",
       "value": "30"
-    },
-    {
-      "rank": 18,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "29"
     },
     {
       "rank": 19,
@@ -570,7 +570,7 @@
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "89"
+      "value": "91"
     },
     {
       "rank": 12,
@@ -880,6 +880,14 @@
     },
     {
       "rank": 20,
+      "playerId": 663968,
+      "playerName": "Jake Mangum",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "23"
+    },
+    {
+      "rank": 21,
       "playerId": 701807,
       "playerName": "Carson Benge",
       "teamId": 121,
@@ -887,7 +895,7 @@
       "value": "22"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 804606,
       "playerName": "Konnor Griffin",
       "teamId": 134,
@@ -895,19 +903,11 @@
       "value": "22"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 663538,
       "playerName": "Nico Hoerner",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "22"
-    },
-    {
-      "rank": 23,
-      "playerId": 663968,
-      "playerName": "Jake Mangum",
-      "teamId": 134,
-      "teamAbbr": "PIT",
       "value": "22"
     },
     {
