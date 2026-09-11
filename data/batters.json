@@ -26,18 +26,18 @@
     },
     {
       "rank": 4,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".305"
-    },
-    {
-      "rank": 5,
       "playerId": 693304,
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
+      "value": ".305"
+    },
+    {
+      "rank": 5,
+      "playerId": 650490,
+      "playerName": "Yandy Díaz",
+      "teamId": 139,
+      "teamAbbr": "TB",
       "value": ".305"
     },
     {
@@ -198,7 +198,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": ".280"
+      "value": ".281"
     },
     {
       "rank": 26,
@@ -476,10 +476,10 @@
     },
     {
       "rank": 30,
-      "playerId": 621439,
-      "playerName": "Byron Buxton",
-      "teamId": 142,
-      "teamAbbr": "MIN",
+      "playerId": 608324,
+      "playerName": "Alex Bregman",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": "25"
     }
   ],
@@ -510,18 +510,18 @@
     },
     {
       "rank": 4,
-      "playerId": 624413,
-      "playerName": "Pete Alonso",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "97"
-    },
-    {
-      "rank": 5,
       "playerId": 691718,
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
+      "value": "98"
+    },
+    {
+      "rank": 5,
+      "playerId": 624413,
+      "playerName": "Pete Alonso",
+      "teamId": 110,
+      "teamAbbr": "BAL",
       "value": "97"
     },
     {
@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 608324,
+      "playerName": "Alex Bregman",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "84"
+    },
+    {
+      "rank": 19,
       "playerId": 669394,
       "playerName": "Jake Burger",
       "teamId": 140,
@@ -629,7 +637,7 @@
       "value": "83"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 664040,
       "playerName": "Brandon Lowe",
       "teamId": 134,
@@ -637,7 +645,7 @@
       "value": "83"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
@@ -645,20 +653,12 @@
       "value": "83"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "83"
-    },
-    {
-      "rank": 22,
-      "playerId": 608324,
-      "playerName": "Alex Bregman",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "82"
     },
     {
       "rank": 23,
@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 673548,
+      "playerName": "Seiya Suzuki",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "81"
+    },
+    {
+      "rank": 28,
       "playerId": 664761,
       "playerName": "Alec Bohm",
       "teamId": 143,
@@ -701,7 +709,7 @@
       "value": "80"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -709,19 +717,11 @@
       "value": "80"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 671739,
       "playerName": "Michael Harris II",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "80"
-    },
-    {
-      "rank": 30,
-      "playerId": 592518,
-      "playerName": "Manny Machado",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": "80"
     }
   ],
