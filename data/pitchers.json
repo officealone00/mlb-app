@@ -476,11 +476,11 @@
     },
     {
       "rank": 30,
-      "playerId": 680694,
-      "playerName": "Kyle Bradish",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "3.91"
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "3.90"
     }
   ],
   "k": [
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "155"
+    },
+    {
+      "rank": 29,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -709,20 +717,12 @@
       "value": "154"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "154"
-    },
-    {
-      "rank": 30,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "152"
     }
   ],
   "sv": [
@@ -1110,7 +1110,7 @@
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "1.12"
+      "value": "1.13"
     },
     {
       "rank": 19,
