@@ -18,7 +18,7 @@
         "abbr": "PIT",
         "kr": "피츠버그",
         "score": null,
-        "wins": 73,
+        "wins": 74,
         "losses": 73
       },
       "koreanPlayerTeams": []
@@ -42,7 +42,7 @@
         "kr": "콜로라도",
         "score": null,
         "wins": 55,
-        "losses": 90
+        "losses": 91
       },
       "koreanPlayerTeams": []
     },
@@ -79,7 +79,7 @@
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
         "score": null,
-        "wins": 83,
+        "wins": 84,
         "losses": 62
       },
       "away": {
@@ -276,7 +276,7 @@
         "kr": "시카고 화이트삭스",
         "score": null,
         "wins": 75,
-        "losses": 70
+        "losses": 71
       },
       "koreanPlayerTeams": []
     },
@@ -427,31 +427,31 @@
     },
     {
       "gameId": 823499,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-10T23:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 4,
-        "wins": 83,
+        "score": 10,
+        "wins": 84,
         "losses": 62
       },
       "away": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": 1,
+        "score": 3,
         "wins": 55,
-        "losses": 90
+        "losses": 91
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824550,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-10T23:40:00Z",
       "home": {
         "teamId": 145,
@@ -459,14 +459,14 @@
         "kr": "시카고 화이트삭스",
         "score": 0,
         "wins": 75,
-        "losses": 70
+        "losses": 71
       },
       "away": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": 1,
-        "wins": 73,
+        "score": 2,
+        "wins": 74,
         "losses": 73
       },
       "koreanPlayerTeams": []

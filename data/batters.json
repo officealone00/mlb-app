@@ -38,7 +38,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".304"
+      "value": ".305"
     },
     {
       "rank": 6,
@@ -66,14 +66,6 @@
     },
     {
       "rank": 9,
-      "playerId": 681198,
-      "playerName": "TJ Rumfield",
-      "teamId": 115,
-      "teamAbbr": "COL",
-      "value": ".296"
-    },
-    {
-      "rank": 10,
       "playerId": 800050,
       "playerName": "Chase DeLauter",
       "teamId": 114,
@@ -81,12 +73,20 @@
       "value": ".296"
     },
     {
+      "rank": 10,
+      "playerId": 681198,
+      "playerName": "TJ Rumfield",
+      "teamId": 115,
+      "teamAbbr": "COL",
+      "value": ".295"
+    },
+    {
       "rank": 11,
       "playerId": 664983,
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".290"
+      "value": ".293"
     },
     {
       "rank": 12,
@@ -98,18 +98,18 @@
     },
     {
       "rank": 13,
-      "playerId": 671277,
-      "playerName": "Luis García Jr.",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": ".288"
-    },
-    {
-      "rank": 14,
       "playerId": 689414,
       "playerName": "Liam Hicks",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".287"
+    },
+    {
+      "rank": 14,
+      "playerId": 671277,
+      "playerName": "Luis García Jr.",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": ".287"
     },
     {
