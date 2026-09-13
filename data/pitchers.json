@@ -186,6 +186,14 @@
     },
     {
       "rank": 24,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "12"
+    },
+    {
+      "rank": 25,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -193,7 +201,7 @@
       "value": "11"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -201,7 +209,7 @@
       "value": "11"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -209,19 +217,11 @@
       "value": "11"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "11"
-    },
-    {
-      "rank": 28,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
       "value": "11"
     },
     {
@@ -678,6 +678,14 @@
     },
     {
       "rank": 25,
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "163"
+    },
+    {
+      "rank": 26,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -685,7 +693,7 @@
       "value": "162"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 656876,
       "playerName": "Drew Rasmussen",
       "teamId": 139,
@@ -693,20 +701,12 @@
       "value": "160"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 801139,
       "playerName": "Payton Tolle",
       "teamId": 111,
       "teamAbbr": "BOS",
       "value": "159"
-    },
-    {
-      "rank": 28,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "158"
     },
     {
       "rank": 29,
@@ -732,7 +732,7 @@
       "playerName": "Bryan Baker",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "39"
+      "value": "40"
     },
     {
       "rank": 2,
@@ -1034,19 +1034,19 @@
     },
     {
       "rank": 9,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
+      "playerId": 693433,
+      "playerName": "Bryan Woo",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "1.05"
     },
     {
       "rank": 10,
-      "playerId": 693433,
-      "playerName": "Bryan Woo",
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "1.06"
+      "value": "1.05"
     },
     {
       "rank": 11,
