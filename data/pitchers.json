@@ -194,6 +194,14 @@
     },
     {
       "rank": 25,
+      "playerId": 650633,
+      "playerName": "Michael King",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "11"
+    },
+    {
+      "rank": 26,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -201,7 +209,7 @@
       "value": "11"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 800048,
       "playerName": "Parker Messick",
       "teamId": 114,
@@ -209,7 +217,7 @@
       "value": "11"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -217,7 +225,7 @@
       "value": "11"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 680736,
       "playerName": "Justin Wrobleski",
       "teamId": 119,
@@ -225,19 +233,11 @@
       "value": "11"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "10"
-    },
-    {
-      "rank": 30,
-      "playerId": 543135,
-      "playerName": "Nathan Eovaldi",
-      "teamId": 140,
-      "teamAbbr": "TEX",
       "value": "10"
     }
   ],
@@ -682,7 +682,7 @@
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "160"
+      "value": "162"
     },
     {
       "rank": 26,
@@ -736,6 +736,14 @@
     },
     {
       "rank": 2,
+      "playerId": 695243,
+      "playerName": "Mason Miller",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "36"
+    },
+    {
+      "rank": 3,
       "playerId": 676617,
       "playerName": "Riley O'Brien",
       "teamId": 138,
@@ -743,20 +751,12 @@
       "value": "36"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": 671922,
       "playerName": "Cade Smith",
       "teamId": 114,
       "teamAbbr": "CLE",
       "value": "36"
-    },
-    {
-      "rank": 4,
-      "playerId": 695243,
-      "playerName": "Mason Miller",
-      "teamId": 135,
-      "teamAbbr": "SD",
-      "value": "35"
     },
     {
       "rank": 5,
@@ -864,19 +864,19 @@
     },
     {
       "rank": 18,
+      "playerId": 664126,
+      "playerName": "Pete Fairbanks",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": "19"
+    },
+    {
+      "rank": 19,
       "playerId": 445276,
       "playerName": "Kenley Jansen",
       "teamId": 116,
       "teamAbbr": "DET",
       "value": "19"
-    },
-    {
-      "rank": 19,
-      "playerId": 664126,
-      "playerName": "Pete Fairbanks",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": "18"
     },
     {
       "rank": 20,
