@@ -110,7 +110,7 @@
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": ".290"
+      "value": ".289"
     },
     {
       "rank": 15,
@@ -218,14 +218,6 @@
     },
     {
       "rank": 28,
-      "playerId": 808982,
-      "playerName": "Jung Hoo Lee",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": ".278"
-    },
-    {
-      "rank": 29,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -233,11 +225,19 @@
       "value": ".277"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 575929,
       "playerName": "Willson Contreras",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": ".277"
+    },
+    {
+      "rank": 30,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".277"
     }
   ],
