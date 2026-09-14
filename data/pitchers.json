@@ -480,7 +480,7 @@
       "playerName": "Noah Cameron",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "3.86"
+      "value": "3.84"
     }
   ],
   "k": [
@@ -662,6 +662,14 @@
     },
     {
       "rank": 23,
+      "playerId": 801139,
+      "playerName": "Payton Tolle",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "166"
+    },
+    {
+      "rank": 24,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
@@ -669,19 +677,11 @@
       "value": "165"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 669373,
       "playerName": "Tarik Skubal",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": "164"
-    },
-    {
-      "rank": 25,
-      "playerId": 801139,
-      "playerName": "Payton Tolle",
-      "teamId": 111,
-      "teamAbbr": "BOS",
       "value": "164"
     },
     {
@@ -772,7 +772,7 @@
       "playerName": "Aroldis Chapman",
       "teamId": 111,
       "teamAbbr": "BOS",
-      "value": "33"
+      "value": "34"
     },
     {
       "rank": 7,
@@ -804,7 +804,7 @@
       "playerName": "Jacob Latz",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "28"
+      "value": "29"
     },
     {
       "rank": 11,
@@ -1122,14 +1122,6 @@
     },
     {
       "rank": 20,
-      "playerId": 657277,
-      "playerName": "Logan Webb",
-      "teamId": 137,
-      "teamAbbr": "SF",
-      "value": "1.15"
-    },
-    {
-      "rank": 21,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -1137,11 +1129,19 @@
       "value": "1.17"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": "1.17"
+    },
+    {
+      "rank": 22,
+      "playerId": 657277,
+      "playerName": "Logan Webb",
+      "teamId": 137,
+      "teamAbbr": "SF",
       "value": "1.17"
     },
     {
