@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824465,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-14T22:40:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 70,
         "losses": 79
       },
@@ -17,7 +17,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 90,
         "losses": 59
       },
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 824386,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-14T22:40:00Z",
       "home": {
         "teamId": 114,
@@ -73,14 +73,14 @@
     },
     {
       "gameId": 823575,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-14T23:10:00Z",
       "home": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 80
       },
@@ -88,7 +88,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 72,
         "losses": 78
       },
@@ -169,8 +169,8 @@
     },
     {
       "gameId": 824308,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-15T00:40:00Z",
       "home": {
         "teamId": 115,
