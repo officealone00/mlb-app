@@ -436,6 +436,14 @@
     },
     {
       "rank": 25,
+      "playerId": 668909,
+      "playerName": "Gavin Williams",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "3.74"
+    },
+    {
+      "rank": 26,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
@@ -443,19 +451,11 @@
       "value": "3.78"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 645261,
       "playerName": "Sandy Alcantara",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": "3.78"
-    },
-    {
-      "rank": 27,
-      "playerId": 668909,
-      "playerName": "Gavin Williams",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "3.78"
     },
     {
@@ -502,18 +502,18 @@
     },
     {
       "rank": 3,
-      "playerId": 693645,
-      "playerName": "Cam Schlittler",
-      "teamId": 147,
-      "teamAbbr": "NYY",
-      "value": "228"
-    },
-    {
-      "rank": 4,
       "playerId": 668909,
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
+      "value": "230"
+    },
+    {
+      "rank": 4,
+      "playerId": 693645,
+      "playerName": "Cam Schlittler",
+      "teamId": 147,
+      "teamAbbr": "NYY",
       "value": "228"
     },
     {
@@ -662,6 +662,14 @@
     },
     {
       "rank": 23,
+      "playerId": 669373,
+      "playerName": "Tarik Skubal",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "166"
+    },
+    {
+      "rank": 24,
       "playerId": 801139,
       "playerName": "Payton Tolle",
       "teamId": 111,
@@ -669,20 +677,12 @@
       "value": "166"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
       "teamAbbr": "PHI",
       "value": "165"
-    },
-    {
-      "rank": 25,
-      "playerId": 669373,
-      "playerName": "Tarik Skubal",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": "164"
     },
     {
       "rank": 26,
@@ -1078,7 +1078,7 @@
       "playerName": "Gavin Williams",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "1.09"
+      "value": "1.10"
     },
     {
       "rank": 15,
