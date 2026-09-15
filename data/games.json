@@ -340,7 +340,7 @@
         "abbr": "ARI",
         "kr": "애리조나",
         "score": null,
-        "wins": 79,
+        "wins": 80,
         "losses": 71
       },
       "away": {
@@ -349,7 +349,7 @@
         "kr": "마이애미",
         "score": null,
         "wins": 74,
-        "losses": 76
+        "losses": 77
       },
       "koreanPlayerTeams": []
     }
@@ -572,15 +572,15 @@
     },
     {
       "gameId": 825034,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-15T01:40:00Z",
       "home": {
         "teamId": 109,
         "abbr": "ARI",
         "kr": "애리조나",
-        "score": 6,
-        "wins": 79,
+        "score": 8,
+        "wins": 80,
         "losses": 71
       },
       "away": {
@@ -589,7 +589,7 @@
         "kr": "마이애미",
         "score": 7,
         "wins": 74,
-        "losses": 76
+        "losses": 77
       },
       "koreanPlayerTeams": []
     }
