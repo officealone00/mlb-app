@@ -34,6 +34,14 @@
     },
     {
       "rank": 5,
+      "playerId": 694819,
+      "playerName": "Jacob Misiorowski",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": "15"
+    },
+    {
+      "rank": 6,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
@@ -41,7 +49,7 @@
       "value": "15"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -49,7 +57,7 @@
       "value": "14"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -57,19 +65,11 @@
       "value": "14"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "14"
-    },
-    {
-      "rank": 9,
-      "playerId": 694819,
-      "playerName": "Jacob Misiorowski",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "14"
     },
     {
@@ -376,7 +376,7 @@
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "3.28"
+      "value": "3.34"
     },
     {
       "rank": 18,
@@ -432,7 +432,7 @@
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "3.72"
+      "value": "3.69"
     },
     {
       "rank": 25,
@@ -452,6 +452,14 @@
     },
     {
       "rank": 27,
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "3.79"
+    },
+    {
+      "rank": 28,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -459,20 +467,12 @@
       "value": "3.81"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 700241,
       "playerName": "Michael McGreevy",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "3.83"
-    },
-    {
-      "rank": 29,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "3.84"
     },
     {
       "rank": 30,
@@ -550,6 +550,22 @@
     },
     {
       "rank": 9,
+      "playerId": 669302,
+      "playerName": "Logan Gilbert",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "194"
+    },
+    {
+      "rank": 10,
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "194"
+    },
+    {
+      "rank": 11,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -557,28 +573,12 @@
       "value": "190"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
       "teamAbbr": "ATL",
       "value": "190"
-    },
-    {
-      "rank": 11,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "190"
-    },
-    {
-      "rank": 12,
-      "playerId": 669302,
-      "playerName": "Logan Gilbert",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "187"
     },
     {
       "rank": 13,
@@ -776,19 +776,19 @@
     },
     {
       "rank": 7,
+      "playerId": 628452,
+      "playerName": "Raisel Iglesias",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "33"
+    },
+    {
+      "rank": 8,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "33"
-    },
-    {
-      "rank": 8,
-      "playerId": 628452,
-      "playerName": "Raisel Iglesias",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "32"
     },
     {
       "rank": 9,
@@ -804,7 +804,7 @@
       "playerName": "Jacob Latz",
       "teamId": 140,
       "teamAbbr": "TEX",
-      "value": "29"
+      "value": "30"
     },
     {
       "rank": 11,
@@ -828,7 +828,7 @@
       "playerName": "Josh Hader",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": "25"
+      "value": "26"
     },
     {
       "rank": 14,
@@ -944,6 +944,14 @@
     },
     {
       "rank": 28,
+      "playerId": 552640,
+      "playerName": "Andrew Kittredge",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": "10"
+    },
+    {
+      "rank": 29,
       "playerId": 656638,
       "playerName": "Alex Lange",
       "teamId": 118,
@@ -951,17 +959,9 @@
       "value": "10"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 670329,
       "playerName": "Rico Garcia",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "9"
-    },
-    {
-      "rank": 30,
-      "playerId": 552640,
-      "playerName": "Andrew Kittredge",
       "teamId": 110,
       "teamAbbr": "BAL",
       "value": "9"
@@ -1038,7 +1038,7 @@
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "1.05"
+      "value": "1.06"
     },
     {
       "rank": 10,
@@ -1050,19 +1050,19 @@
     },
     {
       "rank": 11,
+      "playerId": 594798,
+      "playerName": "Jacob deGrom",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "1.07"
+    },
+    {
+      "rank": 12,
       "playerId": 607259,
       "playerName": "Nick Martinez",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": "1.07"
-    },
-    {
-      "rank": 12,
-      "playerId": 594798,
-      "playerName": "Jacob deGrom",
-      "teamId": 140,
-      "teamAbbr": "TEX",
-      "value": "1.08"
     },
     {
       "rank": 13,
