@@ -2,46 +2,46 @@
   "today": [
     {
       "gameId": 824382,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-16T17:10:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 2,
-        "wins": 77,
+        "score": 6,
+        "wins": 78,
         "losses": 75
       },
       "away": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 3,
         "wins": 77,
-        "losses": 74
+        "losses": 75
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 823004,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-16T17:15:00Z",
       "home": {
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": 0,
+        "score": 5,
         "wins": 75,
-        "losses": 77
+        "losses": 78
       },
       "away": {
         "teamId": 137,
         "abbr": "SF",
         "kr": "샌프란시스코",
-        "score": 1,
-        "wins": 63,
+        "score": 6,
+        "wins": 64,
         "losses": 89
       },
       "koreanPlayerTeams": [
@@ -50,60 +50,60 @@
     },
     {
       "gameId": 823655,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-16T17:40:00Z",
       "home": {
         "teamId": 142,
         "abbr": "MIN",
         "kr": "미네소타",
-        "score": 1,
-        "wins": 70,
+        "score": 5,
+        "wins": 71,
         "losses": 81
       },
       "away": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 0,
+        "score": 4,
         "wins": 88,
-        "losses": 63
+        "losses": 64
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 822763,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-16T19:07:00Z",
       "home": {
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": 0,
-        "wins": 75,
+        "score": 5,
+        "wins": 76,
         "losses": 77
       },
       "away": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": 0,
+        "score": 1,
         "wins": 72,
-        "losses": 79
+        "losses": 80
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 824467,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T22:40:00Z",
       "home": {
         "teamId": 113,
         "abbr": "CIN",
         "kr": "신시내티",
-        "score": null,
+        "score": 0,
         "wins": 70,
         "losses": 81
       },
@@ -111,7 +111,7 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 92,
         "losses": 59
       },
@@ -121,14 +121,14 @@
     },
     {
       "gameId": 822926,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T22:40:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 91,
         "losses": 59
       },
@@ -136,7 +136,7 @@
         "teamId": 133,
         "abbr": "ATH",
         "kr": "애슬레틱스",
-        "score": null,
+        "score": 0,
         "wins": 61,
         "losses": 90
       },
@@ -144,14 +144,14 @@
     },
     {
       "gameId": 823332,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T22:40:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 75,
         "losses": 76
       },
@@ -159,7 +159,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 94,
         "losses": 57
       },
@@ -167,14 +167,14 @@
     },
     {
       "gameId": 822680,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T22:45:00Z",
       "home": {
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 71,
         "losses": 81
       },
@@ -182,7 +182,7 @@
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": null,
+        "score": 0,
         "wins": 83,
         "losses": 68
       },
@@ -190,14 +190,14 @@
     },
     {
       "gameId": 823576,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T23:10:00Z",
       "home": {
         "teamId": 121,
         "abbr": "NYM",
         "kr": "뉴욕 메츠",
-        "score": null,
+        "score": 0,
         "wins": 69,
         "losses": 82
       },
@@ -205,7 +205,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 78
       },
@@ -213,14 +213,14 @@
     },
     {
       "gameId": 824626,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-16T23:40:00Z",
       "home": {
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 0,
         "wins": 84,
         "losses": 68
       },
@@ -228,7 +228,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 89,
         "losses": 63
       },
@@ -238,14 +238,14 @@
     },
     {
       "gameId": 822846,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-17T00:05:00Z",
       "home": {
         "teamId": 140,
         "abbr": "TEX",
         "kr": "텍사스",
-        "score": null,
+        "score": 0,
         "wins": 75,
         "losses": 76
       },
@@ -253,7 +253,7 @@
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 0,
         "wins": 82,
         "losses": 69
       },
@@ -261,14 +261,14 @@
     },
     {
       "gameId": 824140,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-17T00:10:00Z",
       "home": {
         "teamId": 117,
         "abbr": "HOU",
         "kr": "휴스턴",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 75
       },
@@ -276,7 +276,7 @@
         "teamId": 118,
         "abbr": "KC",
         "kr": "캔자스시티",
-        "score": null,
+        "score": 0,
         "wins": 66,
         "losses": 85
       },
@@ -284,14 +284,14 @@
     },
     {
       "gameId": 824306,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-17T00:40:00Z",
       "home": {
         "teamId": 115,
         "abbr": "COL",
         "kr": "콜로라도",
-        "score": null,
+        "score": 0,
         "wins": 56,
         "losses": 95
       },
@@ -299,7 +299,7 @@
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": null,
+        "score": 0,
         "wins": 82,
         "losses": 69
       },
@@ -309,8 +309,8 @@
     },
     {
       "gameId": 823979,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-17T01:38:00Z",
       "home": {
         "teamId": 108,
@@ -332,8 +332,8 @@
     },
     {
       "gameId": 825031,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-17T01:40:00Z",
       "home": {
         "teamId": 109,

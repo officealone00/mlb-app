@@ -146,6 +146,14 @@
     },
     {
       "rank": 19,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "12"
+    },
+    {
+      "rank": 20,
       "playerId": 669467,
       "playerName": "Andre Pallante",
       "teamId": 138,
@@ -153,7 +161,7 @@
       "value": "12"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
@@ -161,7 +169,7 @@
       "value": "12"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
@@ -169,7 +177,7 @@
       "value": "12"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 608372,
       "playerName": "Tomoyuki Sugano",
       "teamId": 115,
@@ -177,7 +185,7 @@
       "value": "12"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -185,7 +193,7 @@
       "value": "12"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -193,7 +201,7 @@
       "value": "12"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
@@ -201,7 +209,7 @@
       "value": "11"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
@@ -209,7 +217,7 @@
       "value": "11"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -217,19 +225,11 @@
       "value": "11"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
-      "value": "11"
-    },
-    {
-      "rank": 29,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "11"
     },
     {
@@ -276,19 +276,19 @@
     },
     {
       "rank": 5,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "2.45"
-    },
-    {
-      "rank": 6,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "2.51"
+    },
+    {
+      "rank": 6,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "2.57"
     },
     {
       "rank": 7,
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "186"
+    },
+    {
+      "rank": 14,
       "playerId": 694973,
       "playerName": "Paul Skenes",
       "teamId": 134,
@@ -589,19 +597,11 @@
       "value": "185"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
       "teamAbbr": "NYM",
-      "value": "184"
-    },
-    {
-      "rank": 15,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": "184"
     },
     {
@@ -756,7 +756,7 @@
       "playerName": "Cade Smith",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "36"
+      "value": "37"
     },
     {
       "rank": 5,
@@ -776,18 +776,18 @@
     },
     {
       "rank": 7,
-      "playerId": 628452,
-      "playerName": "Raisel Iglesias",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "33"
-    },
-    {
-      "rank": 8,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
+      "value": "34"
+    },
+    {
+      "rank": 8,
+      "playerId": 628452,
+      "playerName": "Raisel Iglesias",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": "33"
     },
     {
@@ -1014,7 +1014,7 @@
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "1.03"
+      "value": "1.04"
     },
     {
       "rank": 7,
