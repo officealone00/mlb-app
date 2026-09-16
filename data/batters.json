@@ -126,7 +126,7 @@
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": ".286"
+      "value": ".285"
     },
     {
       "rank": 17,
@@ -134,7 +134,7 @@
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
-      "value": ".285"
+      "value": ".284"
     },
     {
       "rank": 18,
@@ -178,19 +178,19 @@
     },
     {
       "rank": 23,
-      "playerId": 691023,
-      "playerName": "Jordan Walker",
-      "teamId": 138,
-      "teamAbbr": "STL",
-      "value": ".280"
-    },
-    {
-      "rank": 24,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
       "value": ".280"
+    },
+    {
+      "rank": 24,
+      "playerId": 691023,
+      "playerName": "Jordan Walker",
+      "teamId": 138,
+      "teamAbbr": "STL",
+      "value": ".279"
     },
     {
       "rank": 25,
@@ -210,14 +210,6 @@
     },
     {
       "rank": 27,
-      "playerId": 680757,
-      "playerName": "Steven Kwan",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": ".279"
-    },
-    {
-      "rank": 28,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -225,7 +217,7 @@
       "value": ".279"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "playerId": 666018,
       "playerName": "Jonathan Aranda",
       "teamId": 139,
@@ -233,12 +225,20 @@
       "value": ".278"
     },
     {
+      "rank": 29,
+      "playerId": 680757,
+      "playerName": "Steven Kwan",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".278"
+    },
+    {
       "rank": 30,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": ".277"
+      "playerId": 807712,
+      "playerName": "Luke Keaschall",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": ".278"
     }
   ],
   "hr": [
@@ -566,6 +566,14 @@
     },
     {
       "rank": 11,
+      "playerId": 666176,
+      "playerName": "Jo Adell",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "92"
+    },
+    {
+      "rank": 12,
       "playerId": 700250,
       "playerName": "Ben Rice",
       "teamId": 147,
@@ -573,7 +581,7 @@
       "value": "92"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "playerId": 668930,
       "playerName": "Brice Turang",
       "teamId": 158,
@@ -581,20 +589,12 @@
       "value": "92"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
       "value": "91"
-    },
-    {
-      "rank": 14,
-      "playerId": 666176,
-      "playerName": "Jo Adell",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "90"
     },
     {
       "rank": 15,
@@ -606,6 +606,14 @@
     },
     {
       "rank": 16,
+      "playerId": 605137,
+      "playerName": "Josh Bell",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "88"
+    },
+    {
+      "rank": 17,
       "playerId": 693307,
       "playerName": "Dillon Dingler",
       "teamId": 116,
@@ -613,20 +621,12 @@
       "value": "88"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "88"
-    },
-    {
-      "rank": 18,
-      "playerId": 605137,
-      "playerName": "Josh Bell",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "87"
     },
     {
       "rank": 19,
