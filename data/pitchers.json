@@ -50,6 +50,14 @@
     },
     {
       "rank": 7,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "15"
+    },
+    {
+      "rank": 8,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
@@ -57,7 +65,7 @@
       "value": "15"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -65,19 +73,11 @@
       "value": "14"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "14"
-    },
-    {
-      "rank": 10,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": "14"
     },
     {
@@ -304,7 +304,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "2.74"
+      "value": "2.72"
     },
     {
       "rank": 9,
@@ -694,6 +694,14 @@
     },
     {
       "rank": 27,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "163"
+    },
+    {
+      "rank": 28,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
@@ -701,19 +709,11 @@
       "value": "163"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "162"
-    },
-    {
-      "rank": 29,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": "162"
     },
     {
@@ -904,19 +904,19 @@
     },
     {
       "rank": 23,
-      "playerId": 642397,
-      "playerName": "Gregory Soto",
+      "playerId": 682254,
+      "playerName": "Mason Montgomery",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "14"
     },
     {
       "rank": 24,
-      "playerId": 682254,
-      "playerName": "Mason Montgomery",
+      "playerId": 642397,
+      "playerName": "Gregory Soto",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "13"
+      "value": "14"
     },
     {
       "rank": 25,
@@ -998,7 +998,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "0.92"
+      "value": "0.93"
     },
     {
       "rank": 5,
@@ -1118,7 +1118,7 @@
       "playerName": "Michael King",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "1.15"
+      "value": "1.16"
     },
     {
       "rank": 20,
