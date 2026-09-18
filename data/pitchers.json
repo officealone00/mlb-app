@@ -308,18 +308,18 @@
     },
     {
       "rank": 9,
-      "playerId": 666200,
-      "playerName": "Jesús Luzardo",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "2.87"
-    },
-    {
-      "rank": 10,
       "playerId": 543243,
       "playerName": "Sonny Gray",
       "teamId": 111,
       "teamAbbr": "BOS",
+      "value": "2.82"
+    },
+    {
+      "rank": 10,
+      "playerId": 666200,
+      "playerName": "Jesús Luzardo",
+      "teamId": 143,
+      "teamAbbr": "PHI",
       "value": "2.87"
     },
     {
@@ -534,6 +534,14 @@
     },
     {
       "rank": 7,
+      "playerId": 671737,
+      "playerName": "Taj Bradley",
+      "teamId": 142,
+      "teamAbbr": "MIN",
+      "value": "199"
+    },
+    {
+      "rank": 8,
       "playerId": 672282,
       "playerName": "Reid Detmers",
       "teamId": 108,
@@ -541,7 +549,7 @@
       "value": "199"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -549,7 +557,7 @@
       "value": "194"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
@@ -557,20 +565,12 @@
       "value": "194"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
       "teamAbbr": "TEX",
       "value": "194"
-    },
-    {
-      "rank": 11,
-      "playerId": 671737,
-      "playerName": "Taj Bradley",
-      "teamId": 142,
-      "teamAbbr": "MIN",
-      "value": "190"
     },
     {
       "rank": 12,
@@ -796,7 +796,7 @@
       "playerName": "Jhoan Duran",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "31"
+      "value": "32"
     },
     {
       "rank": 10,
@@ -1114,6 +1114,14 @@
     },
     {
       "rank": 19,
+      "playerId": 543243,
+      "playerName": "Sonny Gray",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "1.16"
+    },
+    {
+      "rank": 20,
       "playerId": 650633,
       "playerName": "Michael King",
       "teamId": 135,
@@ -1121,7 +1129,7 @@
       "value": "1.16"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -1129,19 +1137,11 @@
       "value": "1.17"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 657277,
       "playerName": "Logan Webb",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": "1.17"
-    },
-    {
-      "rank": 22,
-      "playerId": 543243,
-      "playerName": "Sonny Gray",
-      "teamId": 111,
-      "teamAbbr": "BOS",
       "value": "1.17"
     },
     {
