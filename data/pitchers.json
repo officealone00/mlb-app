@@ -392,7 +392,7 @@
       "playerName": "Sean Burke",
       "teamId": 145,
       "teamAbbr": "CWS",
-      "value": "3.47"
+      "value": "3.40"
     },
     {
       "rank": 20,
@@ -614,6 +614,14 @@
     },
     {
       "rank": 17,
+      "playerId": 680732,
+      "playerName": "Sean Burke",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "178"
+    },
+    {
+      "rank": 18,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -621,7 +629,7 @@
       "value": "178"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 112,
@@ -629,7 +637,7 @@
       "value": "177"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 554430,
       "playerName": "Zack Wheeler",
       "teamId": 143,
@@ -637,19 +645,11 @@
       "value": "177"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": "173"
-    },
-    {
-      "rank": 21,
-      "playerId": 680732,
-      "playerName": "Sean Burke",
-      "teamId": 145,
-      "teamAbbr": "CWS",
       "value": "173"
     },
     {
@@ -1198,7 +1198,7 @@
       "playerName": "Trevor Rogers",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "1.22"
+      "value": "1.21"
     },
     {
       "rank": 30,
