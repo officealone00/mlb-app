@@ -66,18 +66,18 @@
     },
     {
       "rank": 9,
-      "playerId": 518692,
-      "playerName": "Freddie Freeman",
-      "teamId": 119,
-      "teamAbbr": "LAD",
-      "value": ".293"
-    },
-    {
-      "rank": 10,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
       "teamAbbr": "TB",
+      "value": ".293"
+    },
+    {
+      "rank": 10,
+      "playerId": 518692,
+      "playerName": "Freddie Freeman",
+      "teamId": 119,
+      "teamAbbr": "LAD",
       "value": ".293"
     },
     {
@@ -162,19 +162,19 @@
     },
     {
       "rank": 21,
+      "playerId": 669364,
+      "playerName": "Xavier Edwards",
+      "teamId": 146,
+      "teamAbbr": "MIA",
+      "value": ".282"
+    },
+    {
+      "rank": 22,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": ".281"
-    },
-    {
-      "rank": 22,
-      "playerId": 669364,
-      "playerName": "Xavier Edwards",
-      "teamId": 146,
-      "teamAbbr": "MIA",
-      "value": ".280"
     },
     {
       "rank": 23,
@@ -396,6 +396,14 @@
     },
     {
       "rank": 20,
+      "playerId": 571970,
+      "playerName": "Max Muncy",
+      "teamId": 119,
+      "teamAbbr": "LAD",
+      "value": "29"
+    },
+    {
+      "rank": 21,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -403,7 +411,7 @@
       "value": "28"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
@@ -411,19 +419,11 @@
       "value": "28"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 592518,
       "playerName": "Manny Machado",
       "teamId": 135,
       "teamAbbr": "SD",
-      "value": "28"
-    },
-    {
-      "rank": 23,
-      "playerId": 571970,
-      "playerName": "Max Muncy",
-      "teamId": 119,
-      "teamAbbr": "LAD",
       "value": "28"
     },
     {
