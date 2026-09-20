@@ -308,6 +308,14 @@
     },
     {
       "rank": 9,
+      "playerId": 650911,
+      "playerName": "Cristopher Sánchez",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "2.87"
+    },
+    {
+      "rank": 10,
       "playerId": 666200,
       "playerName": "Jesús Luzardo",
       "teamId": 143,
@@ -315,20 +323,12 @@
       "value": "2.87"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "playerId": 593958,
       "playerName": "Eduardo Rodriguez",
       "teamId": 109,
       "teamAbbr": "ARI",
       "value": "2.89"
-    },
-    {
-      "rank": 11,
-      "playerId": 650911,
-      "playerName": "Cristopher Sánchez",
-      "teamId": 143,
-      "teamAbbr": "PHI",
-      "value": "2.93"
     },
     {
       "rank": 12,
@@ -368,7 +368,7 @@
       "playerName": "Michael Wacha",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": "3.34"
+      "value": "3.32"
     },
     {
       "rank": 17,
@@ -530,7 +530,7 @@
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "215"
+      "value": "220"
     },
     {
       "rank": 7,
@@ -1178,18 +1178,18 @@
     },
     {
       "rank": 27,
-      "playerId": 676440,
-      "playerName": "Tanner Bibee",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "1.22"
-    },
-    {
-      "rank": 28,
       "playerId": 650911,
       "playerName": "Cristopher Sánchez",
       "teamId": 143,
       "teamAbbr": "PHI",
+      "value": "1.22"
+    },
+    {
+      "rank": 28,
+      "playerId": 676440,
+      "playerName": "Tanner Bibee",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": "1.22"
     },
     {
