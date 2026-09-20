@@ -372,14 +372,6 @@
     },
     {
       "rank": 17,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
-      "value": "3.36"
-    },
-    {
-      "rank": 18,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -387,15 +379,15 @@
       "value": "3.40"
     },
     {
-      "rank": 19,
-      "playerId": 667755,
-      "playerName": "José Soriano",
-      "teamId": 141,
-      "teamAbbr": "TOR",
-      "value": "3.56"
+      "rank": 18,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "3.47"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 592662,
       "playerName": "Robbie Ray",
       "teamId": 135,
@@ -403,7 +395,7 @@
       "value": "3.60"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "playerId": 677952,
       "playerName": "Braxton Ashcraft",
       "teamId": 134,
@@ -411,7 +403,7 @@
       "value": "3.65"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "playerId": 656492,
       "playerName": "Foster Griffin",
       "teamId": 114,
@@ -419,12 +411,20 @@
       "value": "3.67"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "playerId": 669302,
       "playerName": "Logan Gilbert",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "3.69"
+    },
+    {
+      "rank": 23,
+      "playerId": 667755,
+      "playerName": "José Soriano",
+      "teamId": 141,
+      "teamAbbr": "TOR",
+      "value": "3.72"
     },
     {
       "rank": 24,
@@ -514,7 +514,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "229"
+      "value": "234"
     },
     {
       "rank": 5,
@@ -534,6 +534,14 @@
     },
     {
       "rank": 7,
+      "playerId": 672282,
+      "playerName": "Reid Detmers",
+      "teamId": 108,
+      "teamAbbr": "LAA",
+      "value": "204"
+    },
+    {
+      "rank": 8,
       "playerId": 676917,
       "playerName": "Cade Cavalli",
       "teamId": 120,
@@ -541,19 +549,11 @@
       "value": "200"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": 671737,
       "playerName": "Taj Bradley",
       "teamId": 142,
       "teamAbbr": "MIN",
-      "value": "199"
-    },
-    {
-      "rank": 9,
-      "playerId": 672282,
-      "playerName": "Reid Detmers",
-      "teamId": 108,
-      "teamAbbr": "LAA",
       "value": "199"
     },
     {
@@ -646,18 +646,18 @@
     },
     {
       "rank": 21,
-      "playerId": 677952,
-      "playerName": "Braxton Ashcraft",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "173"
-    },
-    {
-      "rank": 22,
       "playerId": 669373,
       "playerName": "Tarik Skubal",
       "teamId": 119,
       "teamAbbr": "LAD",
+      "value": "176"
+    },
+    {
+      "rank": 22,
+      "playerId": 677952,
+      "playerName": "Braxton Ashcraft",
+      "teamId": 134,
+      "teamAbbr": "PIT",
       "value": "173"
     },
     {
@@ -776,19 +776,19 @@
     },
     {
       "rank": 7,
+      "playerId": 628452,
+      "playerName": "Raisel Iglesias",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "34"
+    },
+    {
+      "rank": 8,
       "playerId": 686973,
       "playerName": "Louis Varland",
       "teamId": 141,
       "teamAbbr": "TOR",
       "value": "34"
-    },
-    {
-      "rank": 8,
-      "playerId": 628452,
-      "playerName": "Raisel Iglesias",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "33"
     },
     {
       "rank": 9,
@@ -896,6 +896,14 @@
     },
     {
       "rank": 22,
+      "playerId": 682254,
+      "playerName": "Mason Montgomery",
+      "teamId": 134,
+      "teamAbbr": "PIT",
+      "value": "15"
+    },
+    {
+      "rank": 23,
       "playerId": 605447,
       "playerName": "Jordan Romano",
       "teamId": 115,
@@ -903,20 +911,12 @@
       "value": "15"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 642397,
       "playerName": "Gregory Soto",
       "teamId": 134,
       "teamAbbr": "PIT",
       "value": "15"
-    },
-    {
-      "rank": 24,
-      "playerId": 682254,
-      "playerName": "Mason Montgomery",
-      "teamId": 134,
-      "teamAbbr": "PIT",
-      "value": "14"
     },
     {
       "rank": 25,
@@ -990,7 +990,7 @@
       "playerName": "Cam Schlittler",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "0.90"
+      "value": "0.91"
     },
     {
       "rank": 4,
