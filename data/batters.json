@@ -22,7 +22,7 @@
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": ".310"
+      "value": ".309"
     },
     {
       "rank": 4,
@@ -218,6 +218,14 @@
     },
     {
       "rank": 28,
+      "playerId": 666018,
+      "playerName": "Jonathan Aranda",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".277"
+    },
+    {
+      "rank": 29,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
@@ -225,19 +233,11 @@
       "value": ".277"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 808982,
       "playerName": "Jung Hoo Lee",
       "teamId": 137,
       "teamAbbr": "SF",
-      "value": ".276"
-    },
-    {
-      "rank": 30,
-      "playerId": 666018,
-      "playerName": "Jonathan Aranda",
-      "teamId": 139,
-      "teamAbbr": "TB",
       "value": ".276"
     }
   ],
