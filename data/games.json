@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824223,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-23T17:10:00Z",
       "home": {
         "teamId": 116,
         "abbr": "DET",
         "kr": "디트로이트",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 84
       },
@@ -17,7 +17,7 @@
         "teamId": 120,
         "abbr": "WSH",
         "kr": "워싱턴",
-        "score": null,
+        "score": 0,
         "wins": 74,
         "losses": 84
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 824785,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-23T17:35:00Z",
       "home": {
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 76,
         "losses": 81
       },
@@ -40,7 +40,7 @@
         "teamId": 141,
         "abbr": "TOR",
         "kr": "토론토",
-        "score": null,
+        "score": 0,
         "wins": 77,
         "losses": 80
       },
@@ -71,8 +71,8 @@
     },
     {
       "gameId": 823168,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-23T19:45:00Z",
       "home": {
         "teamId": 137,
