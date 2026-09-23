@@ -288,7 +288,7 @@
       "playerName": "Parker Messick",
       "teamId": 114,
       "teamAbbr": "CLE",
-      "value": "2.57"
+      "value": "2.55"
     },
     {
       "rank": 7,
@@ -296,7 +296,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "2.72"
+      "value": "2.66"
     },
     {
       "rank": 8,
@@ -440,7 +440,7 @@
       "playerName": "Shota Imanaga",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "3.80"
+      "value": "3.74"
     },
     {
       "rank": 26,
@@ -582,6 +582,14 @@
     },
     {
       "rank": 13,
+      "playerId": 800048,
+      "playerName": "Parker Messick",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "191"
+    },
+    {
+      "rank": 14,
       "playerId": 519242,
       "playerName": "Chris Sale",
       "teamId": 144,
@@ -589,7 +597,7 @@
       "value": "190"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "playerId": 690997,
       "playerName": "Nolan McLean",
       "teamId": 121,
@@ -597,15 +605,15 @@
       "value": "189"
     },
     {
-      "rank": 15,
-      "playerId": 800048,
-      "playerName": "Parker Messick",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "186"
+      "rank": 16,
+      "playerId": 554430,
+      "playerName": "Zack Wheeler",
+      "teamId": 143,
+      "teamAbbr": "PHI",
+      "value": "188"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "playerId": 695505,
       "playerName": "Chase Burns",
       "teamId": 113,
@@ -613,7 +621,7 @@
       "value": "185"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "playerId": 680732,
       "playerName": "Sean Burke",
       "teamId": 145,
@@ -621,7 +629,7 @@
       "value": "178"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 808967,
       "playerName": "Yoshinobu Yamamoto",
       "teamId": 119,
@@ -629,19 +637,11 @@
       "value": "178"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "playerId": 592332,
       "playerName": "Kevin Gausman",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "177"
-    },
-    {
-      "rank": 20,
-      "playerId": 554430,
-      "playerName": "Zack Wheeler",
-      "teamId": 143,
-      "teamAbbr": "PHI",
       "value": "177"
     },
     {
@@ -670,6 +670,22 @@
     },
     {
       "rank": 24,
+      "playerId": 656876,
+      "playerName": "Drew Rasmussen",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": "170"
+    },
+    {
+      "rank": 25,
+      "playerId": 801139,
+      "playerName": "Payton Tolle",
+      "teamId": 111,
+      "teamAbbr": "BOS",
+      "value": "170"
+    },
+    {
+      "rank": 26,
       "playerId": 605400,
       "playerName": "Aaron Nola",
       "teamId": 143,
@@ -677,7 +693,7 @@
       "value": "169"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "playerId": 676282,
       "playerName": "Joey Cantillo",
       "teamId": 114,
@@ -685,7 +701,15 @@
       "value": "167"
     },
     {
-      "rank": 26,
+      "rank": 28,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "167"
+    },
+    {
+      "rank": 29,
       "playerId": 667755,
       "playerName": "José Soriano",
       "teamId": 141,
@@ -693,36 +717,12 @@
       "value": "167"
     },
     {
-      "rank": 27,
+      "rank": 30,
       "playerId": 693433,
       "playerName": "Bryan Woo",
       "teamId": 136,
       "teamAbbr": "SEA",
       "value": "167"
-    },
-    {
-      "rank": 28,
-      "playerId": 801139,
-      "playerName": "Payton Tolle",
-      "teamId": 111,
-      "teamAbbr": "BOS",
-      "value": "166"
-    },
-    {
-      "rank": 29,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": "164"
-    },
-    {
-      "rank": 30,
-      "playerId": 656876,
-      "playerName": "Drew Rasmussen",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "163"
     }
   ],
   "sv": [
@@ -998,7 +998,7 @@
       "playerName": "Drew Rasmussen",
       "teamId": 139,
       "teamAbbr": "TB",
-      "value": "0.93"
+      "value": "0.92"
     },
     {
       "rank": 5,
@@ -1074,6 +1074,14 @@
     },
     {
       "rank": 14,
+      "playerId": 684007,
+      "playerName": "Shota Imanaga",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "1.09"
+    },
+    {
+      "rank": 15,
       "playerId": 594798,
       "playerName": "Jacob deGrom",
       "teamId": 140,
@@ -1081,19 +1089,11 @@
       "value": "1.10"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "playerId": 656302,
       "playerName": "Dylan Cease",
       "teamId": 141,
       "teamAbbr": "TOR",
-      "value": "1.10"
-    },
-    {
-      "rank": 16,
-      "playerId": 684007,
-      "playerName": "Shota Imanaga",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "1.10"
     },
     {
