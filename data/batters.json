@@ -18,14 +18,6 @@
     },
     {
       "rank": 3,
-      "playerId": 672515,
-      "playerName": "Gabriel Moreno",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": ".310"
-    },
-    {
-      "rank": 4,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
@@ -33,12 +25,20 @@
       "value": ".309"
     },
     {
+      "rank": 4,
+      "playerId": 672515,
+      "playerName": "Gabriel Moreno",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": ".308"
+    },
+    {
       "rank": 5,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
-      "value": ".305"
+      "value": ".304"
     },
     {
       "rank": 6,
@@ -46,7 +46,7 @@
       "playerName": "Nick Gonzales",
       "teamId": 134,
       "teamAbbr": "PIT",
-      "value": ".302"
+      "value": ".301"
     },
     {
       "rank": 7,
@@ -54,7 +54,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".296"
+      "value": ".297"
     },
     {
       "rank": 8,
@@ -122,14 +122,6 @@
     },
     {
       "rank": 16,
-      "playerId": 677951,
-      "playerName": "Bobby Witt Jr.",
-      "teamId": 118,
-      "teamAbbr": "KC",
-      "value": ".284"
-    },
-    {
-      "rank": 17,
       "playerId": 678882,
       "playerName": "Ceddanne Rafaela",
       "teamId": 111,
@@ -137,7 +129,7 @@
       "value": ".284"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "playerId": 694192,
       "playerName": "Jackson Chourio",
       "teamId": 158,
@@ -145,7 +137,7 @@
       "value": ".283"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -153,11 +145,19 @@
       "value": ".283"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "playerId": 686948,
       "playerName": "Drake Baldwin",
       "teamId": 144,
       "teamAbbr": "ATL",
+      "value": ".282"
+    },
+    {
+      "rank": 20,
+      "playerId": 677951,
+      "playerName": "Bobby Witt Jr.",
+      "teamId": 118,
+      "teamAbbr": "KC",
       "value": ".282"
     },
     {
@@ -396,6 +396,14 @@
     },
     {
       "rank": 20,
+      "playerId": 571448,
+      "playerName": "Nolan Arenado",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": "29"
+    },
+    {
+      "rank": 21,
       "playerId": 682829,
       "playerName": "Elly De La Cruz",
       "teamId": 113,
@@ -403,7 +411,7 @@
       "value": "29"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "playerId": 592518,
       "playerName": "Manny Machado",
       "teamId": 135,
@@ -411,20 +419,12 @@
       "value": "29"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 571970,
       "playerName": "Max Muncy",
       "teamId": 119,
       "teamAbbr": "LAD",
       "value": "29"
-    },
-    {
-      "rank": 23,
-      "playerId": 571448,
-      "playerName": "Nolan Arenado",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": "28"
     },
     {
       "rank": 24,
@@ -896,6 +896,14 @@
     },
     {
       "rank": 22,
+      "playerId": 663538,
+      "playerName": "Nico Hoerner",
+      "teamId": 112,
+      "teamAbbr": "CHC",
+      "value": "23"
+    },
+    {
+      "rank": 23,
       "playerId": 663968,
       "playerName": "Jake Mangum",
       "teamId": 134,
@@ -903,7 +911,7 @@
       "value": "23"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 805300,
       "playerName": "Jakob Marsee",
       "teamId": 146,
@@ -911,7 +919,7 @@
       "value": "23"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "playerId": 687263,
       "playerName": "Zach Neto",
       "teamId": 108,
@@ -919,7 +927,7 @@
       "value": "23"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "playerId": 701807,
       "playerName": "Carson Benge",
       "teamId": 121,
@@ -927,7 +935,7 @@
       "value": "22"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "playerId": 593428,
       "playerName": "Xander Bogaerts",
       "teamId": 135,
@@ -935,19 +943,11 @@
       "value": "22"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "playerId": 694192,
       "playerName": "Jackson Chourio",
       "teamId": 158,
       "teamAbbr": "MIL",
-      "value": "22"
-    },
-    {
-      "rank": 28,
-      "playerId": 663538,
-      "playerName": "Nico Hoerner",
-      "teamId": 112,
-      "teamAbbr": "CHC",
       "value": "22"
     },
     {
