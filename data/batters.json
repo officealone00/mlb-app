@@ -6,7 +6,7 @@
       "playerName": "Yordan Alvarez",
       "teamId": 117,
       "teamAbbr": "HOU",
-      "value": ".314"
+      "value": ".316"
     },
     {
       "rank": 2,
@@ -14,23 +14,23 @@
       "playerName": "Luis Arraez",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": ".314"
+      "value": ".312"
     },
     {
       "rank": 3,
+      "playerId": 672515,
+      "playerName": "Gabriel Moreno",
+      "teamId": 109,
+      "teamAbbr": "ARI",
+      "value": ".310"
+    },
+    {
+      "rank": 4,
       "playerId": 802415,
       "playerName": "Chandler Simpson",
       "teamId": 139,
       "teamAbbr": "TB",
       "value": ".309"
-    },
-    {
-      "rank": 4,
-      "playerId": 672515,
-      "playerName": "Gabriel Moreno",
-      "teamId": 109,
-      "teamAbbr": "ARI",
-      "value": ".306"
     },
     {
       "rank": 5,
@@ -54,7 +54,7 @@
       "playerName": "TJ Rumfield",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": ".298"
+      "value": ".296"
     },
     {
       "rank": 8,
@@ -70,26 +70,10 @@
       "playerName": "Freddie Freeman",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".293"
-    },
-    {
-      "rank": 10,
-      "playerId": 800050,
-      "playerName": "Chase DeLauter",
-      "teamId": 114,
-      "teamAbbr": "CLE",
       "value": ".292"
     },
     {
-      "rank": 11,
-      "playerId": 671739,
-      "playerName": "Michael Harris II",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": ".291"
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "playerId": 650490,
       "playerName": "Yandy Díaz",
       "teamId": 139,
@@ -97,39 +81,63 @@
       "value": ".291"
     },
     {
+      "rank": 11,
+      "playerId": 800050,
+      "playerName": "Chase DeLauter",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": ".290"
+    },
+    {
+      "rank": 12,
+      "playerId": 671739,
+      "playerName": "Michael Harris II",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": ".289"
+    },
+    {
       "rank": 13,
-      "playerId": 682829,
-      "playerName": "Elly De La Cruz",
-      "teamId": 113,
-      "teamAbbr": "CIN",
-      "value": ".287"
-    },
-    {
-      "rank": 14,
-      "playerId": 689414,
-      "playerName": "Liam Hicks",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": ".285"
-    },
-    {
-      "rank": 15,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
+      "value": ".287"
+    },
+    {
+      "rank": 14,
+      "playerId": 682829,
+      "playerName": "Elly De La Cruz",
+      "teamId": 113,
+      "teamAbbr": "CIN",
       "value": ".285"
     },
     {
+      "rank": 15,
+      "playerId": 689414,
+      "playerName": "Liam Hicks",
+      "teamId": 139,
+      "teamAbbr": "TB",
+      "value": ".284"
+    },
+    {
       "rank": 16,
-      "playerId": 686948,
-      "playerName": "Drake Baldwin",
-      "teamId": 144,
-      "teamAbbr": "ATL",
+      "playerId": 678882,
+      "playerName": "Ceddanne Rafaela",
+      "teamId": 111,
+      "teamAbbr": "BOS",
       "value": ".284"
     },
     {
       "rank": 17,
+      "playerId": 694192,
+      "playerName": "Jackson Chourio",
+      "teamId": 158,
+      "teamAbbr": "MIL",
+      "value": ".283"
+    },
+    {
+      "rank": 18,
       "playerId": 695506,
       "playerName": "Jac Caglianone",
       "teamId": 118,
@@ -137,27 +145,19 @@
       "value": ".283"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "playerId": 677951,
       "playerName": "Bobby Witt Jr.",
       "teamId": 118,
       "teamAbbr": "KC",
-      "value": ".283"
-    },
-    {
-      "rank": 19,
-      "playerId": 694192,
-      "playerName": "Jackson Chourio",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": ".282"
     },
     {
       "rank": 20,
-      "playerId": 678882,
-      "playerName": "Ceddanne Rafaela",
-      "teamId": 111,
-      "teamAbbr": "BOS",
+      "playerId": 686948,
+      "playerName": "Drake Baldwin",
+      "teamId": 144,
+      "teamAbbr": "ATL",
       "value": ".282"
     },
     {
@@ -170,18 +170,18 @@
     },
     {
       "rank": 22,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
+      "playerId": 680757,
+      "playerName": "Steven Kwan",
+      "teamId": 114,
+      "teamAbbr": "CLE",
       "value": ".282"
     },
     {
       "rank": 23,
-      "playerId": 676475,
-      "playerName": "Alec Burleson",
-      "teamId": 138,
-      "teamAbbr": "STL",
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".280"
     },
     {
@@ -194,18 +194,18 @@
     },
     {
       "rank": 25,
-      "playerId": 680757,
-      "playerName": "Steven Kwan",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": ".279"
-    },
-    {
-      "rank": 26,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
+      "value": ".279"
+    },
+    {
+      "rank": 26,
+      "playerId": 676475,
+      "playerName": "Alec Burleson",
+      "teamId": 138,
+      "teamAbbr": "STL",
       "value": ".279"
     },
     {
@@ -218,26 +218,26 @@
     },
     {
       "rank": 28,
-      "playerId": 701807,
-      "playerName": "Carson Benge",
-      "teamId": 121,
-      "teamAbbr": "NYM",
-      "value": ".277"
-    },
-    {
-      "rank": 29,
       "playerId": 660271,
       "playerName": "Shohei Ohtani",
       "teamId": 119,
       "teamAbbr": "LAD",
-      "value": ".277"
+      "value": ".278"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
+      "value": ".277"
+    },
+    {
+      "rank": 30,
+      "playerId": 808982,
+      "playerName": "Jung Hoo Lee",
+      "teamId": 137,
+      "teamAbbr": "SF",
       "value": ".276"
     }
   ],
@@ -288,7 +288,7 @@
       "playerName": "Matt Olson",
       "teamId": 144,
       "teamAbbr": "ATL",
-      "value": "40"
+      "value": "41"
     },
     {
       "rank": 7,
@@ -296,7 +296,7 @@
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "40"
+      "value": "41"
     },
     {
       "rank": 8,
@@ -404,6 +404,14 @@
     },
     {
       "rank": 21,
+      "playerId": 592518,
+      "playerName": "Manny Machado",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "29"
+    },
+    {
+      "rank": 22,
       "playerId": 571970,
       "playerName": "Max Muncy",
       "teamId": 119,
@@ -411,7 +419,7 @@
       "value": "29"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "playerId": 571448,
       "playerName": "Nolan Arenado",
       "teamId": 109,
@@ -419,19 +427,11 @@
       "value": "28"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "playerId": 547180,
       "playerName": "Bryce Harper",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "28"
-    },
-    {
-      "rank": 24,
-      "playerId": 592518,
-      "playerName": "Manny Machado",
-      "teamId": 135,
-      "teamAbbr": "SD",
       "value": "28"
     },
     {
@@ -468,18 +468,18 @@
     },
     {
       "rank": 29,
+      "playerId": 665742,
+      "playerName": "Juan Soto",
+      "teamId": 121,
+      "teamAbbr": "NYM",
+      "value": "27"
+    },
+    {
+      "rank": 30,
       "playerId": 668227,
       "playerName": "Randy Arozarena",
       "teamId": 136,
       "teamAbbr": "SEA",
-      "value": "26"
-    },
-    {
-      "rank": 30,
-      "playerId": 641343,
-      "playerName": "Jake Bauers",
-      "teamId": 158,
-      "teamAbbr": "MIL",
       "value": "26"
     }
   ],
@@ -562,7 +562,7 @@
       "playerName": "Ben Rice",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "96"
+      "value": "97"
     },
     {
       "rank": 11,
@@ -622,6 +622,14 @@
     },
     {
       "rank": 18,
+      "playerId": 670623,
+      "playerName": "Isaac Paredes",
+      "teamId": 117,
+      "teamAbbr": "HOU",
+      "value": "92"
+    },
+    {
+      "rank": 19,
       "playerId": 671277,
       "playerName": "Luis García Jr.",
       "teamId": 147,
@@ -629,15 +637,23 @@
       "value": "91"
     },
     {
-      "rank": 19,
-      "playerId": 670623,
-      "playerName": "Isaac Paredes",
-      "teamId": 117,
-      "teamAbbr": "HOU",
-      "value": "91"
+      "rank": 20,
+      "playerId": 621566,
+      "playerName": "Matt Olson",
+      "teamId": 144,
+      "teamAbbr": "ATL",
+      "value": "90"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "playerId": 678246,
+      "playerName": "Miguel Vargas",
+      "teamId": 145,
+      "teamAbbr": "CWS",
+      "value": "90"
+    },
+    {
+      "rank": 22,
       "playerId": 608324,
       "playerName": "Alex Bregman",
       "teamId": 112,
@@ -645,7 +661,15 @@
       "value": "89"
     },
     {
-      "rank": 21,
+      "rank": 23,
+      "playerId": 669394,
+      "playerName": "Jake Burger",
+      "teamId": 140,
+      "teamAbbr": "TEX",
+      "value": "89"
+    },
+    {
+      "rank": 24,
       "playerId": 693307,
       "playerName": "Dillon Dingler",
       "teamId": 116,
@@ -653,7 +677,7 @@
       "value": "89"
     },
     {
-      "rank": 22,
+      "rank": 25,
       "playerId": 672960,
       "playerName": "Kazuma Okamoto",
       "teamId": 141,
@@ -661,35 +685,11 @@
       "value": "89"
     },
     {
-      "rank": 23,
-      "playerId": 621566,
-      "playerName": "Matt Olson",
-      "teamId": 144,
-      "teamAbbr": "ATL",
-      "value": "89"
-    },
-    {
-      "rank": 24,
-      "playerId": 678246,
-      "playerName": "Miguel Vargas",
-      "teamId": 145,
-      "teamAbbr": "CWS",
-      "value": "89"
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "playerId": 664761,
       "playerName": "Alec Bohm",
       "teamId": 143,
       "teamAbbr": "PHI",
-      "value": "88"
-    },
-    {
-      "rank": 26,
-      "playerId": 669394,
-      "playerName": "Jake Burger",
-      "teamId": 140,
-      "teamAbbr": "TEX",
       "value": "88"
     },
     {
@@ -702,6 +702,14 @@
     },
     {
       "rank": 28,
+      "playerId": 592518,
+      "playerName": "Manny Machado",
+      "teamId": 135,
+      "teamAbbr": "SD",
+      "value": "87"
+    },
+    {
+      "rank": 29,
       "playerId": 695657,
       "playerName": "Colson Montgomery",
       "teamId": 145,
@@ -709,20 +717,12 @@
       "value": "87"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "playerId": 701538,
       "playerName": "Jackson Merrill",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "86"
-    },
-    {
-      "rank": 30,
-      "playerId": 650490,
-      "playerName": "Yandy Díaz",
-      "teamId": 139,
-      "teamAbbr": "TB",
-      "value": "85"
     }
   ],
   "sb": [
@@ -756,7 +756,7 @@
       "playerName": "Jazz Chisholm Jr.",
       "teamId": 147,
       "teamAbbr": "NYY",
-      "value": "40"
+      "value": "41"
     },
     {
       "rank": 5,
@@ -768,19 +768,19 @@
     },
     {
       "rank": 6,
+      "playerId": 608070,
+      "playerName": "José Ramírez",
+      "teamId": 114,
+      "teamAbbr": "CLE",
+      "value": "36"
+    },
+    {
+      "rank": 7,
       "playerId": 665487,
       "playerName": "Fernando Tatis Jr.",
       "teamId": 135,
       "teamAbbr": "SD",
       "value": "36"
-    },
-    {
-      "rank": 7,
-      "playerId": 608070,
-      "playerName": "José Ramírez",
-      "teamId": 114,
-      "teamAbbr": "CLE",
-      "value": "35"
     },
     {
       "rank": 8,
@@ -792,18 +792,18 @@
     },
     {
       "rank": 9,
-      "playerId": 682928,
-      "playerName": "CJ Abrams",
-      "teamId": 120,
-      "teamAbbr": "WSH",
-      "value": "33"
-    },
-    {
-      "rank": 10,
       "playerId": 672640,
       "playerName": "Otto Lopez",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": "34"
+    },
+    {
+      "rank": 10,
+      "playerId": 682928,
+      "playerName": "CJ Abrams",
+      "teamId": 120,
+      "teamAbbr": "WSH",
       "value": "33"
     },
     {
@@ -820,7 +820,7 @@
       "playerName": "Jake McCarthy",
       "teamId": 115,
       "teamAbbr": "COL",
-      "value": "31"
+      "value": "32"
     },
     {
       "rank": 13,
@@ -872,19 +872,19 @@
     },
     {
       "rank": 19,
+      "playerId": 668227,
+      "playerName": "Randy Arozarena",
+      "teamId": 136,
+      "teamAbbr": "SEA",
+      "value": "25"
+    },
+    {
+      "rank": 20,
       "playerId": 805999,
       "playerName": "A.J. Ewing",
       "teamId": 121,
       "teamAbbr": "NYM",
       "value": "25"
-    },
-    {
-      "rank": 20,
-      "playerId": 668227,
-      "playerName": "Randy Arozarena",
-      "teamId": 136,
-      "teamAbbr": "SEA",
-      "value": "24"
     },
     {
       "rank": 21,
