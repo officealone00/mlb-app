@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 823326,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-24T16:35:00Z",
       "home": {
         "teamId": 134,
         "abbr": "PIT",
         "kr": "피츠버그",
-        "score": null,
+        "score": 0,
         "wins": 80,
         "losses": 78
       },
@@ -17,7 +17,7 @@
         "teamId": 138,
         "abbr": "STL",
         "kr": "세인트루이스",
-        "score": null,
+        "score": 0,
         "wins": 77,
         "losses": 81
       },
@@ -25,8 +25,8 @@
     },
     {
       "gameId": 824059,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-24T18:10:00Z",
       "home": {
         "teamId": 118,
