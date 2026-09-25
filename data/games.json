@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 824703,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-09-25T17:05:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
         "kr": "보스턴",
-        "score": null,
+        "score": 1,
         "wins": 85,
         "losses": 74
       },
@@ -17,7 +17,7 @@
         "teamId": 112,
         "abbr": "CHC",
         "kr": "시카고 컵스",
-        "score": null,
+        "score": 3,
         "wins": 88,
         "losses": 71
       },
@@ -27,7 +27,7 @@
       "gameId": 824706,
       "status": "Scheduled",
       "statusCode": "S",
-      "startTime": "2026-09-25T22:05:00Z",
+      "startTime": "2026-09-25T21:35:00Z",
       "home": {
         "teamId": 111,
         "abbr": "BOS",
@@ -48,14 +48,14 @@
     },
     {
       "gameId": 823491,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-09-25T20:05:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 92,
         "losses": 67
       },
@@ -63,7 +63,7 @@
         "teamId": 110,
         "abbr": "BAL",
         "kr": "볼티모어",
-        "score": null,
+        "score": 0,
         "wins": 78,
         "losses": 81
       },
