@@ -170,14 +170,6 @@
     },
     {
       "rank": 22,
-      "playerId": 691718,
-      "playerName": "Pete Crow-Armstrong",
-      "teamId": 112,
-      "teamAbbr": "CHC",
-      "value": ".281"
-    },
-    {
-      "rank": 23,
       "playerId": 680757,
       "playerName": "Steven Kwan",
       "teamId": 114,
@@ -185,11 +177,19 @@
       "value": ".280"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "playerId": 669364,
       "playerName": "Xavier Edwards",
       "teamId": 146,
       "teamAbbr": "MIA",
+      "value": ".280"
+    },
+    {
+      "rank": 24,
+      "playerId": 691718,
+      "playerName": "Pete Crow-Armstrong",
+      "teamId": 112,
+      "teamAbbr": "CHC",
       "value": ".280"
     },
     {
@@ -264,7 +264,7 @@
       "playerName": "Pete Alonso",
       "teamId": 110,
       "teamAbbr": "BAL",
-      "value": "41"
+      "value": "43"
     },
     {
       "rank": 4,
@@ -486,19 +486,19 @@
   "rbi": [
     {
       "rank": 1,
+      "playerId": 624413,
+      "playerName": "Pete Alonso",
+      "teamId": 110,
+      "teamAbbr": "BAL",
+      "value": "113"
+    },
+    {
+      "rank": 2,
       "playerId": 676475,
       "playerName": "Alec Burleson",
       "teamId": 138,
       "teamAbbr": "STL",
       "value": "113"
-    },
-    {
-      "rank": 2,
-      "playerId": 624413,
-      "playerName": "Pete Alonso",
-      "teamId": 110,
-      "teamAbbr": "BAL",
-      "value": "110"
     },
     {
       "rank": 3,
@@ -764,7 +764,7 @@
       "playerName": "Pete Crow-Armstrong",
       "teamId": 112,
       "teamAbbr": "CHC",
-      "value": "40"
+      "value": "41"
     },
     {
       "rank": 6,
