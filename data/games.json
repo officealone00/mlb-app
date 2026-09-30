@@ -58,7 +58,7 @@
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
         "score": null,
-        "wins": 0,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -67,7 +67,7 @@
         "kr": "보스턴",
         "score": null,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": []
     },
@@ -81,7 +81,7 @@
         "abbr": "SD",
         "kr": "샌디에이고",
         "score": null,
-        "wins": 0,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -90,7 +90,7 @@
         "kr": "시카고 컵스",
         "score": null,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": [
         135
@@ -148,15 +148,15 @@
     },
     {
       "gameId": 849851,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-30T00:00:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 2,
-        "wins": 0,
+        "score": 9,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -165,21 +165,21 @@
         "kr": "보스턴",
         "score": 0,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 849843,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-09-30T02:00:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
-        "wins": 0,
+        "score": 8,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -188,7 +188,7 @@
         "kr": "시카고 컵스",
         "score": 0,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": [
         135
