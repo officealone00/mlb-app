@@ -3,24 +3,24 @@
   "yesterday": [
     {
       "gameId": 849844,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-02T00:00:00Z",
       "home": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 3,
-        "wins": 1,
+        "score": 6,
+        "wins": 2,
         "losses": 1
       },
       "away": {
         "teamId": 143,
         "abbr": "PHI",
         "kr": "필라델피아",
-        "score": 0,
+        "score": 2,
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "koreanPlayerTeams": [
         144
