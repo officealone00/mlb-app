@@ -2,8 +2,8 @@
   "today": [
     {
       "gameId": 849829,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-10-03T17:00:00Z",
       "home": {
         "teamId": 114,
@@ -17,7 +17,7 @@
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 0,
+        "score": 2,
         "wins": 0,
         "losses": 0
       },
@@ -25,14 +25,14 @@
     },
     {
       "gameId": 849828,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-10-03T20:00:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 0,
         "losses": 0
       },
@@ -40,7 +40,7 @@
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": null,
+        "score": 0,
         "wins": 0,
         "losses": 0
       },
@@ -51,14 +51,14 @@
     },
     {
       "gameId": 849835,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-10-03T22:30:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 0,
         "wins": 0,
         "losses": 0
       },
@@ -66,7 +66,7 @@
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": null,
+        "score": 0,
         "wins": 0,
         "losses": 0
       },
