@@ -10,7 +10,7 @@
         "abbr": "MIL",
         "kr": "밀워키",
         "score": null,
-        "wins": 0,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "샌디에이고",
         "score": null,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": [
         135
@@ -127,15 +127,15 @@
     },
     {
       "gameId": 849830,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-04T00:30:00Z",
       "home": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 2,
-        "wins": 0,
+        "score": 3,
+        "wins": 1,
         "losses": 0
       },
       "away": {
@@ -144,7 +144,7 @@
         "kr": "샌디에이고",
         "score": 2,
         "wins": 0,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": [
         135
