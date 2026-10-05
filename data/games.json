@@ -75,23 +75,23 @@
     },
     {
       "gameId": 849823,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-05T00:00:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 1,
+        "score": 2,
         "wins": 1,
-        "losses": 0
+        "losses": 1
       },
       "away": {
         "teamId": 144,
         "abbr": "ATL",
         "kr": "애틀랜타",
-        "score": 2,
-        "wins": 0,
+        "score": 3,
+        "wins": 1,
         "losses": 1
       },
       "koreanPlayerTeams": [
