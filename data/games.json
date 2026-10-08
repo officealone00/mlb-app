@@ -4,7 +4,7 @@
       "gameId": 849832,
       "status": "Scheduled",
       "statusCode": "S",
-      "startTime": "2026-10-08T21:00:00Z",
+      "startTime": "2026-10-09T00:00:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
@@ -20,29 +20,6 @@
         "score": null,
         "wins": 1,
         "losses": 2
-      },
-      "koreanPlayerTeams": []
-    },
-    {
-      "gameId": 849837,
-      "status": "Scheduled",
-      "statusCode": "S",
-      "startTime": "2026-10-09T00:00:00Z",
-      "home": {
-        "teamId": 147,
-        "abbr": "NYY",
-        "kr": "뉴욕 양키스",
-        "score": null,
-        "wins": 0,
-        "losses": 2
-      },
-      "away": {
-        "teamId": 139,
-        "abbr": "TB",
-        "kr": "탬파베이",
-        "score": null,
-        "wins": 2,
-        "losses": 0
       },
       "koreanPlayerTeams": []
     }
@@ -99,46 +76,46 @@
     },
     {
       "gameId": 849838,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-08T00:00:00Z",
       "home": {
         "teamId": 147,
         "abbr": "NYY",
         "kr": "뉴욕 양키스",
-        "score": 2,
+        "score": 3,
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 2,
-        "wins": 2,
+        "score": 4,
+        "wins": 3,
         "losses": 0
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 849827,
-      "status": "Warmup",
-      "statusCode": "PW",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-08T02:00:00Z",
       "home": {
         "teamId": 135,
         "abbr": "SD",
         "kr": "샌디에이고",
-        "score": 0,
+        "score": 1,
         "wins": 1,
-        "losses": 2
+        "losses": 3
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
-        "wins": 2,
+        "score": 3,
+        "wins": 3,
         "losses": 1
       },
       "koreanPlayerTeams": [
