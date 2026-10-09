@@ -3,23 +3,23 @@
   "yesterday": [
     {
       "gameId": 849832,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-09T00:00:00Z",
       "home": {
         "teamId": 145,
         "abbr": "CWS",
         "kr": "시카고 화이트삭스",
-        "score": 2,
+        "score": 5,
         "wins": 2,
-        "losses": 1
+        "losses": 2
       },
       "away": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 3,
-        "wins": 1,
+        "score": 9,
+        "wins": 2,
         "losses": 2
       },
       "koreanPlayerTeams": []
