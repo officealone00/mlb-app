@@ -1,28 +1,28 @@
 {
-  "today": [],
-  "yesterday": [
+  "today": [
     {
-      "gameId": 849832,
-      "status": "Final",
-      "statusCode": "F",
-      "startTime": "2026-10-09T00:00:00Z",
+      "gameId": 849831,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-11T00:00:00Z",
       "home": {
-        "teamId": 145,
-        "abbr": "CWS",
-        "kr": "시카고 화이트삭스",
-        "score": 5,
+        "teamId": 114,
+        "abbr": "CLE",
+        "kr": "클리블랜드",
+        "score": null,
         "wins": 2,
         "losses": 2
       },
       "away": {
-        "teamId": 114,
-        "abbr": "CLE",
-        "kr": "클리블랜드",
-        "score": 9,
+        "teamId": 145,
+        "abbr": "CWS",
+        "kr": "시카고 화이트삭스",
+        "score": null,
         "wins": 2,
         "losses": 2
       },
       "koreanPlayerTeams": []
     }
-  ]
+  ],
+  "yesterday": []
 }
