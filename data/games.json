@@ -1,9 +1,59 @@
 {
   "today": [
     {
+      "gameId": 849812,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-12T21:00:00Z",
+      "home": {
+        "teamId": 158,
+        "abbr": "MIL",
+        "kr": "밀워키",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "away": {
+        "teamId": 119,
+        "abbr": "LAD",
+        "kr": "LA 다저스",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "koreanPlayerTeams": [
+        119
+      ]
+    },
+    {
+      "gameId": 849820,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-13T00:00:00Z",
+      "home": {
+        "teamId": 139,
+        "abbr": "TB",
+        "kr": "탬파베이",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "away": {
+        "teamId": 114,
+        "abbr": "CLE",
+        "kr": "클리블랜드",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "koreanPlayerTeams": []
+    }
+  ],
+  "yesterday": [
+    {
       "gameId": 849809,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-10-12T00:00:00Z",
       "home": {
         "teamId": 158,
@@ -17,38 +67,13 @@
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 0,
+        "score": 1,
         "wins": 0,
         "losses": 0
       },
       "koreanPlayerTeams": [
         119
       ]
-    }
-  ],
-  "yesterday": [
-    {
-      "gameId": 849831,
-      "status": "Final",
-      "statusCode": "F",
-      "startTime": "2026-10-11T00:00:00Z",
-      "home": {
-        "teamId": 114,
-        "abbr": "CLE",
-        "kr": "클리블랜드",
-        "score": 2,
-        "wins": 3,
-        "losses": 2
-      },
-      "away": {
-        "teamId": 145,
-        "abbr": "CWS",
-        "kr": "시카고 화이트삭스",
-        "score": 0,
-        "wins": 2,
-        "losses": 3
-      },
-      "koreanPlayerTeams": []
     }
   ]
 }
