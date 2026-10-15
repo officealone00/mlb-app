@@ -2,15 +2,15 @@
   "today": [
     {
       "gameId": 849818,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-15T17:00:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 1,
-        "wins": 1,
+        "score": 3,
+        "wins": 2,
         "losses": 1
       },
       "away": {
@@ -19,20 +19,20 @@
         "kr": "탬파베이",
         "score": 2,
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "koreanPlayerTeams": []
     },
     {
       "gameId": 849810,
-      "status": "Scheduled",
-      "statusCode": "S",
+      "status": "Pre-Game",
+      "statusCode": "P",
       "startTime": "2026-10-16T00:00:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": null,
+        "score": 0,
         "wins": 0,
         "losses": 3
       },
@@ -40,7 +40,7 @@
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": null,
+        "score": 0,
         "wins": 3,
         "losses": 0
       },
