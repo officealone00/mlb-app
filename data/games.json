@@ -34,14 +34,14 @@
         "kr": "LA 다저스",
         "score": null,
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
         "score": null,
-        "wins": 2,
+        "wins": 3,
         "losses": 0
       },
       "koreanPlayerTeams": [
@@ -52,23 +52,23 @@
   "yesterday": [
     {
       "gameId": 849811,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-15T00:00:00Z",
       "home": {
         "teamId": 119,
         "abbr": "LAD",
         "kr": "LA 다저스",
-        "score": 0,
+        "score": 2,
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 1,
-        "wins": 2,
+        "score": 6,
+        "wins": 3,
         "losses": 0
       },
       "koreanPlayerTeams": [
