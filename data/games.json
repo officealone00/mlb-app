@@ -2,14 +2,14 @@
   "today": [
     {
       "gameId": 849817,
-      "status": "Pre-Game",
-      "statusCode": "P",
+      "status": "In Progress",
+      "statusCode": "I",
       "startTime": "2026-10-18T21:08:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": 1,
         "wins": 2,
         "losses": 2
       },
@@ -17,7 +17,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 3,
         "wins": 2,
         "losses": 2
       },
