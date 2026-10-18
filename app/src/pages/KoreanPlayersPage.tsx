@@ -26,7 +26,7 @@ export function KoreanPlayersPage() {
           background: "linear-gradient(135deg, #CD2E3A 0%, #002D72 100%)",
         }}
       >
-        <h1 className="text-xl font-bold">🇰🇷 한국 선수</h1>
+        <h1 className="text-xl font-bold text-gray-900">🇰🇷 한국 선수</h1>
         <p className="text-xs opacity-90 mt-1">
           MLB에서 활약 중인 우리 선수들의 시즌 성적이에요
         </p>

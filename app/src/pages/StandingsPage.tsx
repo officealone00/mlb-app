@@ -7,7 +7,9 @@ import { BannerAd } from "../components/BannerAd";
 import { LoadingSkeleton } from "../components/LoadingSkeleton";
 import { ErrorState } from "../components/ErrorState";
 import { getFavoriteTeam, setFavoriteTeam } from "../utils/storage";
-import { Star } from "lucide-react";
+import { Star, Share2 } from "lucide-react";
+import { PostseasonCard } from "../components/PostseasonCard";
+import { shareWithTossLink, logEvent } from "../utils/tossGrowth";
 
 export function StandingsPage() {
   const navigate = useNavigate();
@@ -36,12 +38,15 @@ export function StandingsPage() {
   return (
     <div className="pb-28">
       {/* 헤더 */}
-      <div className="bg-mlbBlue text-white px-4 py-5">
-        <h1 className="text-xl font-bold">⚾ MLB 순위</h1>
-        <p className="text-xs opacity-80 mt-1">
+      <div className="bg-white px-4 pt-5 pb-3">
+        <h1 className="text-xl font-bold text-gray-900">⚾ {meta?.season || new Date().getFullYear()} 정규시즌 순위</h1>
+        <p className="text-xs text-gray-500 mt-1">
           {meta?.updatedAt && `${new Date(meta.updatedAt).toLocaleString("ko-KR")} 업데이트`}
         </p>
       </div>
+
+      {/* 🏆 포스트시즌 대진 (MLB 공식 API 실시간) */}
+      <PostseasonCard season={meta?.season || new Date().getFullYear()} />
 
       {/* 응원팀 빠른 진입 / 안내 */}
       {favorite && TEAM_BY_ID[favorite] ? (
@@ -59,7 +64,26 @@ export function StandingsPage() {
               상세 리포트
             </button>
           </div>
-          <p className="text-[11px] text-gray-500 mt-1.5 ml-7">팀을 탭하면 응원팀을 변경할 수 있어요</p>
+          <div className="flex items-center justify-between mt-1.5 ml-7">
+            <p className="text-[11px] text-gray-500">팀을 탭하면 응원팀을 변경할 수 있어요</p>
+            {/* 📤 내 팀 순위 공유 (토스 공유 링크) */}
+            <button
+              onClick={() => {
+                const t = standings.find((x) => x.teamId === favorite);
+                const info = TEAM_BY_ID[favorite];
+                logEvent("share_team_rank", { team: info.abbr });
+                void shareWithTossLink({
+                  path: "intoss://mlb-ranking",
+                  message: t
+                    ? `⚾ ${info.krName} ${t.wins}승 ${t.losses}패 (지구 ${t.divisionRank}위)\n토스에서 MLB 순위·포스트시즌 바로 보기 👇`
+                    : `⚾ 토스에서 MLB 순위·포스트시즌 바로 보기 👇`,
+                });
+              }}
+              className="flex items-center gap-1 text-[11px] font-semibold text-mlbBlue"
+            >
+              <Share2 size={12} /> 공유
+            </button>
+          </div>
         </div>
       ) : (
         <div className="bg-blue-50 border-y border-blue-100 px-4 py-3 flex items-center gap-3">
@@ -68,7 +92,7 @@ export function StandingsPage() {
           </div>
           <div className="flex-1">
             <p className="text-xs font-bold text-gray-800">팀을 탭하면 응원팀으로 설정돼요</p>
-            <p className="text-[11px] text-gray-500 mt-0.5">설정 후 세이버메트릭스 기반 상세 리포트를 무료로 받아볼 수 있어요</p>
+            <p className="text-[11px] text-gray-500 mt-0.5">설정하면 세이버메트릭스 기반 상세 리포트를 볼 수 있어요 (광고 1편)</p>
           </div>
         </div>
       )}

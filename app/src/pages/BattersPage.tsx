@@ -64,9 +64,9 @@ export function BattersPage() {
 
   return (
     <div className="pb-28">
-      <div className="bg-mlbBlue text-white px-4 py-5">
-        <h1 className="text-xl font-bold">⚾ 메이저리그 기록</h1>
-        <p className="text-xs opacity-80 mt-1">부문별 Top 30</p>
+      <div className="bg-white px-4 pt-5 pb-3">
+        <h1 className="text-xl font-bold text-gray-900">⚾ 메이저리그 기록</h1>
+        <p className="text-xs text-gray-500 mt-1">부문별 Top 30</p>
       </div>
 
       {/* 타자/투수 토글 */}

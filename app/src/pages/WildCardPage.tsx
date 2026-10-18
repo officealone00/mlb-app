@@ -22,9 +22,9 @@ export function WildCardPage() {
 
   return (
     <div className="pb-28">
-      <div className="bg-mlbBlue text-white px-4 py-5">
-        <h1 className="text-xl font-bold">🌟 와일드카드</h1>
-        <p className="text-xs opacity-80 mt-1">지구 1위가 아닌 팀들 중 상위 3팀이 진출</p>
+      <div className="bg-white px-4 pt-5 pb-3">
+        <h1 className="text-xl font-bold text-gray-900">🌟 와일드카드</h1>
+        <p className="text-xs text-gray-500 mt-1">지구 1위가 아닌 팀들 중 상위 3팀이 진출</p>
       </div>
 
       {/* AL/NL 토글 */}

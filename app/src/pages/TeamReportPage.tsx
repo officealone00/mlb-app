@@ -5,10 +5,11 @@ import { TEAM_BY_ID } from "../data/teams";
 import { TeamBadge } from "../components/TeamBadge";
 import { LoadingSkeleton } from "../components/LoadingSkeleton";
 import { ErrorState } from "../components/ErrorState";
-import RewardedAd from "../components/RewardedAd";
+import RewardedAd, { preloadReportAd } from "../components/RewardedAd";
+import { shareWithTossLink, logEvent, requestReviewOnce } from "../utils/tossGrowth";
 import { generateTeamReport, TeamReport, MatchupItem } from "../utils/teamAnalytics";
 import { getFavoriteTeam } from "../utils/storage";
-import { ChevronLeft, Lock, Sparkles } from "lucide-react";
+import { Lock, Sparkles } from "lucide-react";
 
 export function TeamReportPage() {
   const navigate = useNavigate();
@@ -22,6 +23,8 @@ export function TeamReportPage() {
 
   useEffect(() => {
     fetchStandings().then(setStandings).catch(() => setError(true));
+    // 리포트 화면에 들어오면 리워드 광고를 미리 불러 둔다 (정책: 재생 시점 실시간 로딩 금지)
+    preloadReportAd();
   }, []);
 
   if (!favoriteId) {
@@ -56,6 +59,10 @@ export function TeamReportPage() {
 
   const handleReward = () => {
     setUnlocked(true);
+    // 대표 전환 이벤트: 콘솔 '핵심 지표'에 report_unlocked 로 등록
+    logEvent("report_unlocked", { team: team.abbr });
+    // 핵심 행동을 마친 뒤 리뷰 요청 (기기당 1번)
+    setTimeout(() => void requestReviewOnce("mlb-review-asked"), 4000);
   };
 
   const handleAdClose = () => {
@@ -69,13 +76,7 @@ export function TeamReportPage() {
         className="px-4 py-5 text-white relative"
         style={{ backgroundColor: team.color }}
       >
-        <button
-          onClick={() => navigate(-1)}
-          className="absolute left-3 top-5 p-1 rounded-full bg-white/20"
-        >
-          <ChevronLeft size={20} />
-        </button>
-        <div className="flex items-center gap-3 ml-8">
+        <div className="flex items-center gap-3">
           <TeamBadge teamId={favoriteId} size="lg" />
           <div>
             <h1 className="text-lg font-bold">{team.shortName} 상세 리포트</h1>
@@ -87,7 +88,25 @@ export function TeamReportPage() {
       {!unlocked ? (
         <ReportLockScreen team={team} loading={loading} onUnlock={handleUnlock} />
       ) : (
-        <ReportContent report={report} />
+        <>
+          <ReportContent report={report} />
+          {/* 📤 리포트 공유 */}
+          <div className="px-4 pb-6">
+            <button
+              onClick={() => {
+                logEvent("share_report", { team: team.abbr });
+                void shareWithTossLink({
+                  path: "intoss://mlb-ranking",
+                  message: `📊 ${team.krName} 세이버메트릭스 리포트 나왔어요!\n토스 'MLB 순위'에서 우리 팀 분석 보기 👇`,
+                });
+              }}
+              className="w-full py-3.5 rounded-xl font-bold text-sm text-white"
+              style={{ backgroundColor: team.color }}
+            >
+              📤 친구에게 우리 팀 리포트 공유하기
+            </button>
+          </div>
+        </>
       )}
 
       {showAd && (
@@ -125,7 +144,7 @@ function ReportLockScreen({ team, loading, onUnlock }: any) {
           disabled={loading}
           className="w-full py-3 bg-mlbRed text-white rounded-full font-bold text-sm disabled:opacity-50"
         >
-          {loading ? "광고 로딩중..." : "광고 보고 무료로 보기"}
+          {loading ? "광고 준비 중..." : "광고 보고 리포트 열기"}
         </button>
       </div>
       <p className="text-[11px] text-gray-400">짧은 광고 시청 후 리포트가 잠금 해제돼요</p>
