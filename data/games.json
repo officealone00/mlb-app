@@ -1,15 +1,15 @@
 {
   "today": [
     {
-      "gameId": 849816,
-      "status": "Pre-Game",
-      "statusCode": "P",
-      "startTime": "2026-10-18T00:08:00Z",
+      "gameId": 849817,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-18T21:08:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": 0,
+        "score": null,
         "wins": 2,
         "losses": 1
       },
@@ -17,7 +17,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": null,
         "wins": 1,
         "losses": 2
       },
@@ -26,15 +26,15 @@
   ],
   "yesterday": [
     {
-      "gameId": 849817,
-      "status": "Postponed",
-      "statusCode": "DR",
-      "startTime": "2026-10-17T00:00:00Z",
+      "gameId": 849816,
+      "status": "In Progress",
+      "statusCode": "I",
+      "startTime": "2026-10-18T00:08:00Z",
       "home": {
         "teamId": 114,
         "abbr": "CLE",
         "kr": "클리블랜드",
-        "score": null,
+        "score": 1,
         "wins": 2,
         "losses": 1
       },
@@ -42,7 +42,7 @@
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": null,
+        "score": 1,
         "wins": 1,
         "losses": 2
       },
