@@ -60,3 +60,9 @@ body {
   width: 0;
   background: transparent;
 }
+
+/* ── 바텀시트 (2026-10-18) ── */
+@keyframes sheetUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes sheetFade { from { opacity: 0; } to { opacity: 1; } }
+.sheet-up { animation: sheetUp 0.28s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.sheet-fade { animation: sheetFade 0.2s ease; }

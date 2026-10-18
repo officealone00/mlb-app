@@ -8,6 +8,7 @@ import { BattersPage } from "./pages/BattersPage";
 import { GamesPage } from "./pages/GamesPage";
 import { TeamReportPage } from "./pages/TeamReportPage";
 import { useTossBackEvent } from "./hooks/useTossBackEvent";
+import { closeTopSheet } from "./lib/sheetStack";
 
 // 전면광고는 사용하지 않음. (Rody 2026.05.15 결정)
 // - 배너: 각 페이지 하단 1개만
@@ -39,6 +40,8 @@ function TossBackHandler() {
   const navigate = useNavigate();
 
   useTossBackEvent(() => {
+    // 열린 바텀시트부터 닫기 (2026-10-18)
+    if (closeTopSheet()) return true;
     if (location.key !== "default") {
       navigate(-1);
       return true;

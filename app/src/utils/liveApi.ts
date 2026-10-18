@@ -27,6 +27,20 @@ export interface PostseasonSeries {
   gamesToWin: number;
   done: boolean;
   nextGameTime?: string;
+  /** 시리즈 경기 목록 (2026-10-18) — 연기된 경기는 빼요 */
+  games: SeriesGame[];
+}
+
+export interface SeriesGame {
+  num: number;
+  gameDate: string;
+  state: "F" | "I" | "S";
+  awayId: number | null;
+  homeId: number | null;
+  awayName: string;
+  homeName: string;
+  awayScore: number | null;
+  homeScore: number | null;
 }
 
 const ROUND_KO: Record<string, [string, number]> = {
@@ -195,11 +209,46 @@ export async function fetchPostseason(season: number): Promise<PostseasonSeries[
         gamesToWin,
         done: aw >= gamesToWin || bw >= gamesToWin,
         nextGameTime: next?.gameDate,
+        games: games
+          .filter((g) => g.status?.detailedState !== "Postponed" && !(statusCodeOf(g) === "F" && g.teams?.home?.score == null))
+          .map((g) => ({
+            num: g.seriesGameNumber || 0,
+            gameDate: g.gameDate,
+            state: statusCodeOf(g) as "F" | "I" | "S",
+            awayId: typeof g.teams?.away?.team?.id === "number" ? g.teams.away.team.id : null,
+            homeId: typeof g.teams?.home?.team?.id === "number" ? g.teams.home.team.id : null,
+            awayName: g.teams?.away?.team?.name || "미정",
+            homeName: g.teams?.home?.team?.name || "미정",
+            awayScore: g.teams?.away?.score ?? null,
+            homeScore: g.teams?.home?.score ?? null,
+          })),
       });
     }
     return out.sort((a, b) => a.roundOrder - b.roundOrder);
   } catch (e) {
     console.warn("[liveApi] 포스트시즌 조회 실패", e);
     return [];
+  }
+}
+
+/** 정규시즌 맞대결 전적 (teamA 기준 승·패). 실패하면 null */
+export async function fetchHeadToHead(season: number, teamA: number, teamB: number): Promise<{ w: number; l: number } | null> {
+  try {
+    const data = await getJson(`${STATS_API}/schedule?sportId=1&season=${season}&gameType=R&teamId=${teamA}&opponentId=${teamB}`);
+    let w = 0;
+    let l = 0;
+    for (const d of data?.dates || []) {
+      for (const g of d.games || []) {
+        if (statusCodeOf(g) !== "F") continue;
+        for (const k of ["home", "away"]) {
+          const t = g.teams?.[k];
+          if (t?.team?.id === teamA && t.isWinner === true) w++;
+          if (t?.team?.id === teamA && t.isWinner === false) l++;
+        }
+      }
+    }
+    return w + l > 0 ? { w, l } : null;
+  } catch {
+    return null;
   }
 }

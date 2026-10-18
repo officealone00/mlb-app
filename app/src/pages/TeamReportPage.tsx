@@ -6,6 +6,7 @@ import { TeamBadge } from "../components/TeamBadge";
 import { LoadingSkeleton } from "../components/LoadingSkeleton";
 import { ErrorState } from "../components/ErrorState";
 import RewardedAd, { preloadReportAd } from "../components/RewardedAd";
+import { ConfirmSheet } from "../components/BottomSheet";
 import { shareWithTossLink, logEvent, requestReviewOnce } from "../utils/tossGrowth";
 import { generateTeamReport, TeamReport, MatchupItem } from "../utils/teamAnalytics";
 import { getFavoriteTeam } from "../utils/storage";
@@ -16,6 +17,7 @@ export function TeamReportPage() {
   const [standings, setStandings] = useState<Standing[] | null>(null);
   const [unlocked, setUnlocked] = useState(false);
   const [showAd, setShowAd] = useState(false);
+  const [ask, setAsk] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
@@ -52,10 +54,8 @@ export function TeamReportPage() {
     return <ErrorState message="리포트를 만들 수 없어요" />;
   }
 
-  const handleUnlock = () => {
-    setLoading(true);
-    setShowAd(true);
-  };
+  // 광고 전에 꼭 물어보기 (2026-10-18): 버튼 → "짧은 광고를 볼까요?" → [광고 보기]를 눌러야만 광고
+  const handleUnlock = () => setAsk(true);
 
   const handleReward = () => {
     setUnlocked(true);
@@ -108,6 +108,17 @@ export function TeamReportPage() {
           </div>
         </>
       )}
+
+      <ConfirmSheet
+        open={ask}
+        desc={"짧은 광고를 끝까지 보면\n우리 팀 상세 리포트를 볼 수 있어요."}
+        onClose={() => setAsk(false)}
+        onConfirm={() => {
+          setAsk(false);
+          setLoading(true);
+          setShowAd(true);
+        }}
+      />
 
       {showAd && (
         <RewardedAd onReward={handleReward} onClose={handleAdClose} />

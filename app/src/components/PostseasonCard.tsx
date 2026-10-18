@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { fetchPostseason, PostseasonSeries } from "../utils/liveApi";
+import { SeriesSheet } from "./SeriesSheet";
 import { TEAM_BY_ID } from "../data/teams";
 import { TeamBadge } from "./TeamBadge";
 
@@ -11,6 +12,7 @@ import { TeamBadge } from "./TeamBadge";
 export function PostseasonCard({ season }: { season: number }) {
   const [series, setSeries] = useState<PostseasonSeries[] | null>(null);
   const [showAll, setShowAll] = useState(false);
+  const [openId, setOpenId] = useState<string | null>(null);
 
   useEffect(() => {
     let alive = true;
@@ -31,11 +33,11 @@ export function PostseasonCard({ season }: { season: number }) {
     <section className="mx-4 mt-2 mb-3 bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
       <div className="px-4 pt-4 pb-2 flex items-center justify-between">
         <h2 className="text-sm font-bold text-gray-900">🏆 {season} 포스트시즌</h2>
-        <span className="text-[10px] text-gray-400">MLB 공식 실시간</span>
+        <span className="text-[10px] text-gray-400">눌러서 시리즈 자세히 보기</span>
       </div>
       <div className="divide-y divide-gray-100">
         {visible.map((s) => (
-          <SeriesRow key={s.id} s={s} />
+          <SeriesRow key={s.id} s={s} onOpen={() => setOpenId(s.id)} />
         ))}
       </div>
       {series.length > ongoing.length && (
@@ -46,11 +48,12 @@ export function PostseasonCard({ season }: { season: number }) {
           {showAll ? "접기" : `지난 라운드 결과 보기 (${series.length - ongoing.length})`}
         </button>
       )}
+      <SeriesSheet season={season} series={series.find((s) => s.id === openId) ?? null} onClose={() => setOpenId(null)} />
     </section>
   );
 }
 
-function SeriesRow({ s }: { s: PostseasonSeries }) {
+export function seriesStatus(s: PostseasonSeries): string {
   const status = (() => {
     if (s.done) {
       const w = s.teamA.wins > s.teamB.wins ? s.teamA : s.teamB;
@@ -63,9 +66,16 @@ function SeriesRow({ s }: { s: PostseasonSeries }) {
     const lead = s.teamA.wins > s.teamB.wins ? s.teamA : s.teamB;
     return `${nameOf(lead.teamId, lead.name)} ${Math.max(s.teamA.wins, s.teamB.wins)}-${Math.min(s.teamA.wins, s.teamB.wins)} 리드`;
   })();
+  return status;
+}
+
+function SeriesRow({ s, onOpen }: { s: PostseasonSeries; onOpen: () => void }) {
+  const status = seriesStatus(s);
+  // 두 팀이 모두 정해진 시리즈만 열 수 있어요 ('TB/CLE 승자' 같은 자리는 제외)
+  const known = !!(s.teamA.teamId && TEAM_BY_ID[s.teamA.teamId] && s.teamB.teamId && TEAM_BY_ID[s.teamB.teamId]);
 
   return (
-    <div className="px-4 py-3">
+    <button type="button" disabled={!known} onClick={onOpen} className="w-full text-left px-4 py-3 active:bg-gray-50 disabled:active:bg-white">
       <div className="flex items-center justify-between mb-1.5">
         <span className="text-[11px] font-bold text-mlbRed">{s.round}</span>
         <span className="text-[11px] text-gray-500">
@@ -75,7 +85,8 @@ function SeriesRow({ s }: { s: PostseasonSeries }) {
       </div>
       <TeamLine teamId={s.teamA.teamId} name={s.teamA.name} wins={s.teamA.wins} win={s.done && s.teamA.wins > s.teamB.wins} />
       <TeamLine teamId={s.teamB.teamId} name={s.teamB.name} wins={s.teamB.wins} win={s.done && s.teamB.wins > s.teamA.wins} />
-    </div>
+      {known && <p className="mt-1 text-[11px] font-semibold text-mlbBlue">경기 일정 · 맞대결 · 시리즈 분석 ›</p>}
+    </button>
   );
 }
 
@@ -90,12 +101,12 @@ function TeamLine({ teamId, name, wins, win }: { teamId: number | null; name: st
   );
 }
 
-function nameOf(teamId: number | null, fallback: string): string {
+export function nameOf(teamId: number | null, fallback: string): string {
   if (teamId !== null && TEAM_BY_ID[teamId]) return TEAM_BY_ID[teamId].shortName;
   return fallback.replace(/\//g, " / ") + " 승자";
 }
 
-function kst(iso: string): string {
+export function kst(iso: string): string {
   try {
     return new Date(iso).toLocaleString("ko-KR", {
       timeZone: "Asia/Seoul",
