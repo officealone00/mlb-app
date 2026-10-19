@@ -1,9 +1,34 @@
 {
   "today": [
     {
+      "gameId": 849815,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-20T00:08:00Z",
+      "home": {
+        "teamId": 139,
+        "abbr": "TB",
+        "kr": "탬파베이",
+        "score": null,
+        "wins": 3,
+        "losses": 2
+      },
+      "away": {
+        "teamId": 114,
+        "abbr": "CLE",
+        "kr": "클리블랜드",
+        "score": null,
+        "wins": 2,
+        "losses": 3
+      },
+      "koreanPlayerTeams": []
+    }
+  ],
+  "yesterday": [
+    {
       "gameId": 849817,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-18T21:08:00Z",
       "home": {
         "teamId": 114,
@@ -11,39 +36,14 @@
         "kr": "클리블랜드",
         "score": 1,
         "wins": 2,
-        "losses": 2
+        "losses": 3
       },
       "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
         "score": 3,
-        "wins": 2,
-        "losses": 2
-      },
-      "koreanPlayerTeams": []
-    }
-  ],
-  "yesterday": [
-    {
-      "gameId": 849816,
-      "status": "Final",
-      "statusCode": "F",
-      "startTime": "2026-10-18T00:08:00Z",
-      "home": {
-        "teamId": 114,
-        "abbr": "CLE",
-        "kr": "클리블랜드",
-        "score": 3,
-        "wins": 2,
-        "losses": 2
-      },
-      "away": {
-        "teamId": 139,
-        "abbr": "TB",
-        "kr": "탬파베이",
-        "score": 7,
-        "wins": 2,
+        "wins": 3,
         "losses": 2
       },
       "koreanPlayerTeams": []
