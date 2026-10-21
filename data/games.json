@@ -1,28 +1,4 @@
 {
   "today": [],
-  "yesterday": [
-    {
-      "gameId": 849815,
-      "status": "Final",
-      "statusCode": "F",
-      "startTime": "2026-10-20T00:08:00Z",
-      "home": {
-        "teamId": 139,
-        "abbr": "TB",
-        "kr": "탬파베이",
-        "score": 7,
-        "wins": 4,
-        "losses": 2
-      },
-      "away": {
-        "teamId": 114,
-        "abbr": "CLE",
-        "kr": "클리블랜드",
-        "score": 3,
-        "wins": 2,
-        "losses": 4
-      },
-      "koreanPlayerTeams": []
-    }
-  ]
+  "yesterday": []
 }
