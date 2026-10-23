@@ -1,4 +1,28 @@
 {
-  "today": [],
+  "today": [
+    {
+      "gameId": 849805,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-24T00:00:00Z",
+      "home": {
+        "teamId": 158,
+        "abbr": "MIL",
+        "kr": "밀워키",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "away": {
+        "teamId": 139,
+        "abbr": "TB",
+        "kr": "탬파베이",
+        "score": null,
+        "wins": 0,
+        "losses": 0
+      },
+      "koreanPlayerTeams": []
+    }
+  ],
   "yesterday": []
 }
