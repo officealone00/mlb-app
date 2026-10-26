@@ -1,28 +1,28 @@
 {
-  "today": [],
-  "yesterday": [
+  "today": [
     {
-      "gameId": 849802,
-      "status": "Final",
-      "statusCode": "F",
-      "startTime": "2026-10-25T00:00:00Z",
+      "gameId": 849804,
+      "status": "Scheduled",
+      "statusCode": "S",
+      "startTime": "2026-10-27T00:00:00Z",
       "home": {
-        "teamId": 158,
-        "abbr": "MIL",
-        "kr": "밀워키",
-        "score": 5,
-        "wins": 2,
-        "losses": 0
-      },
-      "away": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 4,
+        "score": null,
         "wins": 0,
         "losses": 2
       },
+      "away": {
+        "teamId": 158,
+        "abbr": "MIL",
+        "kr": "밀워키",
+        "score": null,
+        "wins": 2,
+        "losses": 0
+      },
       "koreanPlayerTeams": []
     }
-  ]
+  ],
+  "yesterday": []
 }
