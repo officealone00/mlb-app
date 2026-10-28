@@ -10,7 +10,7 @@
         "abbr": "TB",
         "kr": "탬파베이",
         "score": null,
-        "wins": 0,
+        "wins": 1,
         "losses": 3
       },
       "away": {
@@ -19,7 +19,7 @@
         "kr": "밀워키",
         "score": null,
         "wins": 3,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": []
     }
@@ -27,24 +27,24 @@
   "yesterday": [
     {
       "gameId": 849803,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-28T00:00:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 1,
-        "wins": 0,
+        "score": 4,
+        "wins": 1,
         "losses": 3
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 0,
+        "score": 3,
         "wins": 3,
-        "losses": 0
+        "losses": 1
       },
       "koreanPlayerTeams": []
     }
