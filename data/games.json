@@ -3,23 +3,23 @@
   "yesterday": [
     {
       "gameId": 849799,
-      "status": "In Progress",
-      "statusCode": "I",
+      "status": "Final",
+      "statusCode": "F",
       "startTime": "2026-10-29T00:00:00Z",
       "home": {
         "teamId": 139,
         "abbr": "TB",
         "kr": "탬파베이",
-        "score": 0,
+        "score": 1,
         "wins": 1,
-        "losses": 3
+        "losses": 4
       },
       "away": {
         "teamId": 158,
         "abbr": "MIL",
         "kr": "밀워키",
-        "score": 1,
-        "wins": 3,
+        "score": 4,
+        "wins": 4,
         "losses": 1
       },
       "koreanPlayerTeams": []
